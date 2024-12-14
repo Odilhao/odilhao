@@ -11,11 +11,9 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 - [SatelliteQE/robottelo](https://github.com/SatelliteQE/robottelo) - Robottelo is a test suite that exercises The Foreman. (2 weeks ago)
 - [Odilhao/bootc-server](https://github.com/Odilhao/bootc-server) -  (3 weeks ago)
 - [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (1 month ago)
-- [Odilhao/pulpcon-2024](https://github.com/Odilhao/pulpcon-2024) -  (1 month ago)
 - [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) - Foreman&#39;s Jenkins Jobs configurations (1 month ago)
+- [Odilhao/pulpcon-2024](https://github.com/Odilhao/pulpcon-2024) -  (1 month ago)
 - [Odilhao/bootc-sway](https://github.com/Odilhao/bootc-sway) -  (1 month ago)
-- [theforeman/foreman-quadlet](https://github.com/theforeman/foreman-quadlet) -  (2 months ago)
-- [Odilhao/aula-cicd](https://github.com/Odilhao/aula-cicd) -  (4 months ago)
 
 #### 🌱 My latest projects
 
@@ -45,5 +43,5 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 #### 📫 How to reach me
 
 - Twitter: https://twitter.com/Odilhao
-- Fediverse: @odilhao@mastodon.social
+- Fediverse: https://mastodon.social/@odilhao
 - Blog: https://odilon.dev/
