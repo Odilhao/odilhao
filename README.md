@@ -24,14 +24,6 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 - [Odilhao/pulpcon-2024](https://github.com/Odilhao/pulpcon-2024) - 
 - [Odilhao/bootc-sway](https://github.com/Odilhao/bootc-sway) - 
 - [Odilhao/dependabot-test](https://github.com/Odilhao/dependabot-test) - 
-- [Odilhao/aula-cicd](https://github.com/Odilhao/aula-cicd) - 
-- [Odilhao/rpm-py311-macro-override](https://github.com/Odilhao/rpm-py311-macro-override) - 
-- [Odilhao/pulpcon-2023](https://github.com/Odilhao/pulpcon-2023) - Slides for Pulpcon 2023
-- [Odilhao/obal-specs](https://github.com/Odilhao/obal-specs) - packaging wrapper using ansible 
-- [Odilhao/diff](https://github.com/Odilhao/diff) - 
-
-#### 🔭 Latest releases I've contributed to
-
 
 #### 🔨 My recent Pull Requests
 
@@ -40,11 +32,14 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 - [Revert &#34;[6.16.z] Bump cryptography from 43.0.3 to 44.0.0 (#17008)&#34;](https://github.com/SatelliteQE/robottelo/pull/17064) on [SatelliteQE/robottelo](https://github.com/SatelliteQE/robottelo) (1 week ago)
 - [Fix About subscription watch link on RH Cloud Inventory page](https://github.com/theforeman/foreman_rh_cloud/pull/927) on [theforeman/foreman_rh_cloud](https://github.com/theforeman/foreman_rh_cloud) (1 week ago)
 - [Release Katello 4.15.0](https://github.com/theforeman/foreman-packaging/pull/11531) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (1 week ago)
-- [Relase Katello 4.15.0 GA](https://github.com/theforeman/theforeman-rel-eng/pull/457) on [theforeman/theforeman-rel-eng](https://github.com/theforeman/theforeman-rel-eng) (1 week ago)
-- [Revert &#34;Bump cryptography from 43.0.3 to 44.0.0 PR#17004&#34;](https://github.com/SatelliteQE/robottelo/pull/17011) on [SatelliteQE/robottelo](https://github.com/SatelliteQE/robottelo) (2 weeks ago)
-- [Release 4.15.0-rc2](https://github.com/theforeman/foreman-packaging/pull/11496) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (3 weeks ago)
-- [Release Katello 4.15 RC2](https://github.com/theforeman/theforeman-rel-eng/pull/452) on [theforeman/theforeman-rel-eng](https://github.com/theforeman/theforeman-rel-eng) (3 weeks ago)
-- [Release 4.15.0-rc1](https://github.com/theforeman/foreman-packaging/pull/11488) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (3 weeks ago)
+
+#### 📜 My recent blog posts
+
+- [Using Container Images to Run your Desktop](https://odilon.dev/2024/10/29/building-a-desktop-with-bootc/) (1 month ago)
+- [Running HomeAssistant with Podman](https://odilon.dev/2022/12/20/homeassistant-with-podman/) (2 years ago)
+- [Usando podman com Systemd](https://odilon.dev/2020/06/30/usando-podman-com-systemd/) (4 years ago)
+- [Montando ConfigMap como Script](https://odilon.dev/2020/03/08/montando-configmap-como-script/) (4 years ago)
+- [NTP no Rhel8 e Centos8](https://odilon.dev/2019/09/17/2019-09-17-ntp-rhel8-centos8/) (5 years ago)
 
 
 #### 📫 How to reach me
