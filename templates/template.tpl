@@ -5,7 +5,7 @@
 I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a really cool project called [theforeman](https://theforeman.org/)
 
 #### 👷 Check out what I'm currently working on
-{{range recentContributions 10}}
+{{range recentContributions 8}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
@@ -28,5 +28,5 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 #### 📫 How to reach me
 
 - Twitter: https://twitter.com/Odilhao
-- Fediverse: @odilhao@mastodon.social
+- Fediverse: https://mastodon.social/@odilhao
 - Blog: https://odilon.dev/
