@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
+- [Add patch to Mark md5 usage as usedforsecurity=False on Pulpcore](https://github.com/theforeman/pulpcore-packaging/pull/1492) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
 - [Add python-propcache](https://github.com/theforeman/pulpcore-packaging/pull/1491) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
 - [Set email and username on git to avoid failure on annex](https://github.com/theforeman/pulpcore-packaging/pull/1487) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
 - [Update django to 4.2.17](https://github.com/theforeman/pulpcore-packaging/pull/1476) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 week ago)
 - [Update django to 4.2.17](https://github.com/theforeman/pulpcore-packaging/pull/1475) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 week ago)
-- [Revert &#34;[6.16.z] Bump cryptography from 43.0.3 to 44.0.0 (#17008)&#34;](https://github.com/SatelliteQE/robottelo/pull/17064) on [SatelliteQE/robottelo](https://github.com/SatelliteQE/robottelo) (1 week ago)
 
 #### 📜 My recent blog posts
 
