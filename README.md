@@ -6,11 +6,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (today)
 - [Odilhao/odilhao](https://github.com/Odilhao/odilhao) -  (2 days ago)
 - [theforeman/theforeman-rel-eng](https://github.com/theforeman/theforeman-rel-eng) - Release engineering scripts (1 week ago)
 - [SatelliteQE/robottelo](https://github.com/SatelliteQE/robottelo) - Robottelo is a test suite that exercises The Foreman. (2 weeks ago)
 - [Odilhao/bootc-server](https://github.com/Odilhao/bootc-server) -  (3 weeks ago)
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (1 month ago)
 - [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) - Foreman&#39;s Jenkins Jobs configurations (1 month ago)
 - [Odilhao/pulpcon-2024](https://github.com/Odilhao/pulpcon-2024) -  (1 month ago)
 - [Odilhao/bootc-sway](https://github.com/Odilhao/bootc-sway) -  (1 month ago)
@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
+- [Set email and username on git to avoid failure on annex](https://github.com/theforeman/pulpcore-packaging/pull/1487) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
 - [Update django to 4.2.17](https://github.com/theforeman/pulpcore-packaging/pull/1476) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 week ago)
 - [Update django to 4.2.17](https://github.com/theforeman/pulpcore-packaging/pull/1475) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 week ago)
 - [Revert &#34;[6.16.z] Bump cryptography from 43.0.3 to 44.0.0 (#17008)&#34;](https://github.com/SatelliteQE/robottelo/pull/17064) on [SatelliteQE/robottelo](https://github.com/SatelliteQE/robottelo) (1 week ago)
 - [Fix About subscription watch link on RH Cloud Inventory page](https://github.com/theforeman/foreman_rh_cloud/pull/927) on [theforeman/foreman_rh_cloud](https://github.com/theforeman/foreman_rh_cloud) (1 week ago)
-- [Release Katello 4.15.0](https://github.com/theforeman/foreman-packaging/pull/11531) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (1 week ago)
 
 #### 📜 My recent blog posts
 
