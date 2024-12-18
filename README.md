@@ -6,8 +6,8 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (1 day ago)
-- [Odilhao/odilhao](https://github.com/Odilhao/odilhao) -  (3 days ago)
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (2 days ago)
+- [Odilhao/odilhao](https://github.com/Odilhao/odilhao) -  (4 days ago)
 - [theforeman/theforeman-rel-eng](https://github.com/theforeman/theforeman-rel-eng) - Release engineering scripts (2 weeks ago)
 - [SatelliteQE/robottelo](https://github.com/SatelliteQE/robottelo) - Robottelo is a test suite that exercises The Foreman. (2 weeks ago)
 - [Odilhao/bootc-server](https://github.com/Odilhao/bootc-server) -  (3 weeks ago)
@@ -25,10 +25,10 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
-- [Fix typo on propcache comps](https://github.com/theforeman/pulpcore-packaging/pull/1493) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
-- [Add patch to Mark md5 usage as usedforsecurity=False on Pulpcore](https://github.com/theforeman/pulpcore-packaging/pull/1492) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
-- [Add python-propcache](https://github.com/theforeman/pulpcore-packaging/pull/1491) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
-- [Set email and username on git to avoid failure on annex](https://github.com/theforeman/pulpcore-packaging/pull/1487) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
+- [Fix typo on propcache comps](https://github.com/theforeman/pulpcore-packaging/pull/1493) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (2 days ago)
+- [Add patch to Mark md5 usage as usedforsecurity=False on Pulpcore](https://github.com/theforeman/pulpcore-packaging/pull/1492) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (2 days ago)
+- [Add python-propcache](https://github.com/theforeman/pulpcore-packaging/pull/1491) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (2 days ago)
+- [Set email and username on git to avoid failure on annex](https://github.com/theforeman/pulpcore-packaging/pull/1487) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (2 days ago)
 - [Update django to 4.2.17](https://github.com/theforeman/pulpcore-packaging/pull/1476) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 week ago)
 
 #### 📜 My recent blog posts
