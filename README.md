@@ -8,7 +8,7 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 - [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (1 week ago)
 - [Odilhao/odilhao](https://github.com/Odilhao/odilhao) -  (1 week ago)
-- [theforeman/theforeman-rel-eng](https://github.com/theforeman/theforeman-rel-eng) - Release engineering scripts (2 weeks ago)
+- [theforeman/theforeman-rel-eng](https://github.com/theforeman/theforeman-rel-eng) - Release engineering scripts (3 weeks ago)
 - [SatelliteQE/robottelo](https://github.com/SatelliteQE/robottelo) - Robottelo is a test suite that exercises The Foreman. (3 weeks ago)
 - [Odilhao/bootc-server](https://github.com/Odilhao/bootc-server) -  (1 month ago)
 - [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) - Foreman&#39;s Jenkins Jobs configurations (1 month ago)
@@ -25,7 +25,7 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
-- [Add support to ShmSize in Pods with Quadlet](https://github.com/containers/podman/pull/24899) on [containers/podman](https://github.com/containers/podman) (today)
+- [Add support to ShmSize in Pods with Quadlet](https://github.com/containers/podman/pull/24899) on [containers/podman](https://github.com/containers/podman) (1 day ago)
 - [Fix typo on propcache comps](https://github.com/theforeman/pulpcore-packaging/pull/1493) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 week ago)
 - [Add patch to Mark md5 usage as usedforsecurity=False on Pulpcore](https://github.com/theforeman/pulpcore-packaging/pull/1492) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 week ago)
 - [Add python-propcache](https://github.com/theforeman/pulpcore-packaging/pull/1491) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 week ago)
