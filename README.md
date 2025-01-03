@@ -25,8 +25,8 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
-- [cp - fix 38099 - Set channel parameter to ansible variable](https://github.com/theforeman/foreman_leapp/pull/152) on [theforeman/foreman_leapp](https://github.com/theforeman/foreman_leapp) (today)
-- [don&#39;t fail when pulp cli didn&#39;t return valid json](https://github.com/theforeman/foreman_maintain/pull/970) on [theforeman/foreman_maintain](https://github.com/theforeman/foreman_maintain) (today)
+- [cp - fix 38099 - Set channel parameter to ansible variable](https://github.com/theforeman/foreman_leapp/pull/152) on [theforeman/foreman_leapp](https://github.com/theforeman/foreman_leapp) (1 day ago)
+- [don&#39;t fail when pulp cli didn&#39;t return valid json](https://github.com/theforeman/foreman_maintain/pull/970) on [theforeman/foreman_maintain](https://github.com/theforeman/foreman_maintain) (1 day ago)
 - [Add support to ShmSize in Pods with Quadlet](https://github.com/containers/podman/pull/24899) on [containers/podman](https://github.com/containers/podman) (1 week ago)
 - [Fix typo on propcache comps](https://github.com/theforeman/pulpcore-packaging/pull/1493) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (2 weeks ago)
 - [Add patch to Mark md5 usage as usedforsecurity=False on Pulpcore](https://github.com/theforeman/pulpcore-packaging/pull/1492) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (2 weeks ago)
