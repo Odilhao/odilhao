@@ -6,8 +6,8 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (today)
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods. (2 weeks ago)
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (4 weeks ago)
 - [Odilhao/odilhao](https://github.com/Odilhao/odilhao) -  (1 month ago)
 - [theforeman/theforeman-rel-eng](https://github.com/theforeman/theforeman-rel-eng) - Release engineering scripts (1 month ago)
 - [SatelliteQE/robottelo](https://github.com/SatelliteQE/robottelo) - Robottelo is a test suite that exercises The Foreman. (1 month ago)
@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
+- [Add python-pyproject-metadata](https://github.com/theforeman/pulpcore-packaging/pull/1527) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
 - [cp - fix 38099 - Set channel parameter to ansible variable](https://github.com/theforeman/foreman_leapp/pull/152) on [theforeman/foreman_leapp](https://github.com/theforeman/foreman_leapp) (1 week ago)
 - [don&#39;t fail when pulp cli didn&#39;t return valid json](https://github.com/theforeman/foreman_maintain/pull/970) on [theforeman/foreman_maintain](https://github.com/theforeman/foreman_maintain) (1 week ago)
 - [Add support to ShmSize in Pods with Quadlet](https://github.com/containers/podman/pull/24899) on [containers/podman](https://github.com/containers/podman) (3 weeks ago)
 - [Fix typo on propcache comps](https://github.com/theforeman/pulpcore-packaging/pull/1493) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (4 weeks ago)
-- [Add patch to Mark md5 usage as usedforsecurity=False on Pulpcore](https://github.com/theforeman/pulpcore-packaging/pull/1492) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (4 weeks ago)
 
 #### 📜 My recent blog posts
 
