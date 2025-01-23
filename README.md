@@ -6,7 +6,7 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
-- [Odilhao/bootc-sway](https://github.com/Odilhao/bootc-sway) -  (2 days ago)
+- [Odilhao/bootc-sway](https://github.com/Odilhao/bootc-sway) -  (3 days ago)
 - [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (1 week ago)
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods. (3 weeks ago)
 - [Odilhao/odilhao](https://github.com/Odilhao/odilhao) -  (1 month ago)
@@ -28,8 +28,8 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 - [Add meson](https://github.com/theforeman/pulpcore-packaging/pull/1529) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 week ago)
 - [Add python-meson-python build backend](https://github.com/theforeman/pulpcore-packaging/pull/1528) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 week ago)
 - [Add python-pyproject-metadata](https://github.com/theforeman/pulpcore-packaging/pull/1527) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 week ago)
-- [cp - fix 38099 - Set channel parameter to ansible variable](https://github.com/theforeman/foreman_leapp/pull/152) on [theforeman/foreman_leapp](https://github.com/theforeman/foreman_leapp) (2 weeks ago)
-- [don&#39;t fail when pulp cli didn&#39;t return valid json](https://github.com/theforeman/foreman_maintain/pull/970) on [theforeman/foreman_maintain](https://github.com/theforeman/foreman_maintain) (2 weeks ago)
+- [cp - fix 38099 - Set channel parameter to ansible variable](https://github.com/theforeman/foreman_leapp/pull/152) on [theforeman/foreman_leapp](https://github.com/theforeman/foreman_leapp) (3 weeks ago)
+- [don&#39;t fail when pulp cli didn&#39;t return valid json](https://github.com/theforeman/foreman_maintain/pull/970) on [theforeman/foreman_maintain](https://github.com/theforeman/foreman_maintain) (3 weeks ago)
 
 #### 📜 My recent blog posts
 
