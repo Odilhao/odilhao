@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
+- [Update python on buildroot from 3.11 to 3.12](https://github.com/theforeman/foreman-packaging/pull/11675) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (today)
 - [Update pulp-deb to 3.5.0](https://github.com/theforeman/pulpcore-packaging/pull/1566) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
 - [Add meson](https://github.com/theforeman/pulpcore-packaging/pull/1529) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (2 weeks ago)
 - [Add python-meson-python build backend](https://github.com/theforeman/pulpcore-packaging/pull/1528) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (2 weeks ago)
 - [Add python-pyproject-metadata](https://github.com/theforeman/pulpcore-packaging/pull/1527) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (2 weeks ago)
-- [cp - fix 38099 - Set channel parameter to ansible variable](https://github.com/theforeman/foreman_leapp/pull/152) on [theforeman/foreman_leapp](https://github.com/theforeman/foreman_leapp) (3 weeks ago)
 
 #### 📜 My recent blog posts
 
