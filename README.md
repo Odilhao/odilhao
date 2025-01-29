@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
-- [Rebuild python-ptyprocess against python 3.12](https://github.com/theforeman/foreman-packaging/pull/11686) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (today)
-- [Rebuild python-pyparsing against python 3.12](https://github.com/theforeman/foreman-packaging/pull/11685) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (today)
-- [Rebuild python-packaging against python 3.12](https://github.com/theforeman/foreman-packaging/pull/11684) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (today)
-- [Rebuild python-docutils against python 3.12](https://github.com/theforeman/foreman-packaging/pull/11683) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (today)
-- [Rebuild python-pbr against python 3.12](https://github.com/theforeman/foreman-packaging/pull/11682) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (today)
+- [Rebuild ansible runner against python 3.12](https://github.com/theforeman/foreman-packaging/pull/11691) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (today)
+- [Add python-six](https://github.com/theforeman/foreman-packaging/pull/11690) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (today)
+- [Rebuild python-daemon against python 3.12](https://github.com/theforeman/foreman-packaging/pull/11689) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (today)
+- [Rebuild python-lockfile against python 3.12](https://github.com/theforeman/foreman-packaging/pull/11688) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (today)
+- [Rebuild python-pexpect against python 3.12](https://github.com/theforeman/foreman-packaging/pull/11687) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (today)
 
 #### 📜 My recent blog posts
 
