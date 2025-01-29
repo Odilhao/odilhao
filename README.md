@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
+- [Fix typo on python version for python-ptyprocess.](https://github.com/theforeman/foreman-packaging/pull/11693) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (today)
 - [Add python-resolvelib](https://github.com/theforeman/foreman-packaging/pull/11692) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (today)
 - [Rebuild ansible runner against python 3.12](https://github.com/theforeman/foreman-packaging/pull/11691) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (today)
 - [Add python-six](https://github.com/theforeman/foreman-packaging/pull/11690) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (today)
 - [Rebuild python-daemon against python 3.12](https://github.com/theforeman/foreman-packaging/pull/11689) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (today)
-- [Rebuild python-lockfile against python 3.12](https://github.com/theforeman/foreman-packaging/pull/11688) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (today)
 
 #### 📜 My recent blog posts
 
