@@ -6,9 +6,9 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (1 day ago)
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (2 days ago)
 - [Odilhao/bootc-sway](https://github.com/Odilhao/bootc-sway) -  (1 week ago)
-- [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods. (4 weeks ago)
+- [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods. (1 month ago)
 - [Odilhao/odilhao](https://github.com/Odilhao/odilhao) -  (1 month ago)
 - [theforeman/theforeman-rel-eng](https://github.com/theforeman/theforeman-rel-eng) - Release engineering scripts (1 month ago)
 - [SatelliteQE/robottelo](https://github.com/SatelliteQE/robottelo) - Robottelo is a test suite that exercises The Foreman. (2 months ago)
@@ -25,8 +25,8 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
-- [Update python on buildroot from 3.11 to 3.12](https://github.com/theforeman/foreman-packaging/pull/11675) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (today)
-- [Update pulp-deb to 3.5.0](https://github.com/theforeman/pulpcore-packaging/pull/1566) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
+- [Update python on buildroot from 3.11 to 3.12](https://github.com/theforeman/foreman-packaging/pull/11675) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (1 day ago)
+- [Update pulp-deb to 3.5.0](https://github.com/theforeman/pulpcore-packaging/pull/1566) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (2 days ago)
 - [Add meson](https://github.com/theforeman/pulpcore-packaging/pull/1529) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (2 weeks ago)
 - [Add python-meson-python build backend](https://github.com/theforeman/pulpcore-packaging/pull/1528) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (2 weeks ago)
 - [Add python-pyproject-metadata](https://github.com/theforeman/pulpcore-packaging/pull/1527) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (2 weeks ago)
