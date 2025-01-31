@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
+- [Add python-semantic-version](https://github.com/theforeman/foreman-packaging/pull/11702) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (today)
 - [Add python-setuptools-scm](https://github.com/theforeman/foreman-packaging/pull/11701) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (today)
 - [Add python-jinja2](https://github.com/theforeman/foreman-packaging/pull/11698) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (1 day ago)
 - [Fix typo on python version for python-ptyprocess.](https://github.com/theforeman/foreman-packaging/pull/11693) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (2 days ago)
 - [Add python-resolvelib](https://github.com/theforeman/foreman-packaging/pull/11692) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (2 days ago)
-- [Rebuild ansible runner against python 3.12](https://github.com/theforeman/foreman-packaging/pull/11691) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (2 days ago)
 
 #### 📜 My recent blog posts
 
