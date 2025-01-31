@@ -6,7 +6,7 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (3 days ago)
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (4 days ago)
 - [Odilhao/bootc-sway](https://github.com/Odilhao/bootc-sway) -  (1 week ago)
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods. (1 month ago)
 - [Odilhao/odilhao](https://github.com/Odilhao/odilhao) -  (1 month ago)
@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
-- [Add python-jinja2](https://github.com/theforeman/foreman-packaging/pull/11698) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (today)
-- [Fix typo on python version for python-ptyprocess.](https://github.com/theforeman/foreman-packaging/pull/11693) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (1 day ago)
-- [Add python-resolvelib](https://github.com/theforeman/foreman-packaging/pull/11692) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (1 day ago)
-- [Rebuild ansible runner against python 3.12](https://github.com/theforeman/foreman-packaging/pull/11691) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (1 day ago)
-- [Add python-six](https://github.com/theforeman/foreman-packaging/pull/11690) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (1 day ago)
+- [Add python-jinja2](https://github.com/theforeman/foreman-packaging/pull/11698) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (1 day ago)
+- [Fix typo on python version for python-ptyprocess.](https://github.com/theforeman/foreman-packaging/pull/11693) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (2 days ago)
+- [Add python-resolvelib](https://github.com/theforeman/foreman-packaging/pull/11692) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (2 days ago)
+- [Rebuild ansible runner against python 3.12](https://github.com/theforeman/foreman-packaging/pull/11691) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (2 days ago)
+- [Add python-six](https://github.com/theforeman/foreman-packaging/pull/11690) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (2 days ago)
 
 #### 📜 My recent blog posts
 
