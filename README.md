@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
+- [Add python-cryptography](https://github.com/theforeman/foreman-packaging/pull/11709) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (today)
 - [Add python-cffi](https://github.com/theforeman/foreman-packaging/pull/11708) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (today)
 - [Add python-pycparser](https://github.com/theforeman/foreman-packaging/pull/11707) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (today)
 - [Add python-maturin](https://github.com/theforeman/foreman-packaging/pull/11706) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (today)
 - [Add python-markupsafe](https://github.com/theforeman/foreman-packaging/pull/11705) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (today)
-- [Add python-setuptools-rust](https://github.com/theforeman/foreman-packaging/pull/11703) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (3 days ago)
 
 #### 📜 My recent blog posts
 
