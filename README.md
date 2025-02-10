@@ -6,8 +6,8 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (1 week ago)
-- [Odilhao/bootc-sway](https://github.com/Odilhao/bootc-sway) -  (2 weeks ago)
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (2 weeks ago)
+- [Odilhao/bootc-sway](https://github.com/Odilhao/bootc-sway) -  (3 weeks ago)
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods. (1 month ago)
 - [Odilhao/odilhao](https://github.com/Odilhao/odilhao) -  (1 month ago)
 - [theforeman/theforeman-rel-eng](https://github.com/theforeman/theforeman-rel-eng) - Release engineering scripts (2 months ago)
@@ -25,18 +25,18 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
-- [Release 1.7.12](https://github.com/theforeman/foreman_maintain/pull/979) on [theforeman/foreman_maintain](https://github.com/theforeman/foreman_maintain) (2 days ago)
-- [Add ansible-test to plugins comps](https://github.com/theforeman/foreman-packaging/pull/11714) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (5 days ago)
-- [Provides python3.12-resolvelib](https://github.com/theforeman/foreman-packaging/pull/11713) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (6 days ago)
-- [Add ansible-core to comps for plugins](https://github.com/theforeman/foreman-packaging/pull/11712) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (6 days ago)
-- [Add ansible-core](https://github.com/theforeman/foreman-packaging/pull/11711) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (6 days ago)
+- [Release 1.7.12](https://github.com/theforeman/foreman_maintain/pull/979) on [theforeman/foreman_maintain](https://github.com/theforeman/foreman_maintain) (3 days ago)
+- [Add ansible-test to plugins comps](https://github.com/theforeman/foreman-packaging/pull/11714) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (6 days ago)
+- [Provides python3.12-resolvelib](https://github.com/theforeman/foreman-packaging/pull/11713) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (1 week ago)
+- [Add ansible-core to comps for plugins](https://github.com/theforeman/foreman-packaging/pull/11712) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (1 week ago)
+- [Add ansible-core](https://github.com/theforeman/foreman-packaging/pull/11711) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (1 week ago)
 
 #### 📜 My recent blog posts
 
 - [Using Container Images to Run your Desktop](https://odilon.dev/2024/10/29/building-a-desktop-with-bootc/) (3 months ago)
 - [Running HomeAssistant with Podman](https://odilon.dev/2022/12/20/homeassistant-with-podman/) (2 years ago)
 - [Usando podman com Systemd](https://odilon.dev/2020/06/30/usando-podman-com-systemd/) (4 years ago)
-- [Montando ConfigMap como Script](https://odilon.dev/2020/03/08/montando-configmap-como-script/) (4 years ago)
+- [Montando ConfigMap como Script](https://odilon.dev/2020/03/08/montando-configmap-como-script/) (5 years ago)
 - [NTP no Rhel8 e Centos8](https://odilon.dev/2019/09/17/2019-09-17-ntp-rhel8-centos8/) (5 years ago)
 
 
