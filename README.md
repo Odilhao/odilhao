@@ -25,10 +25,10 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
-- [V9.0.5](https://github.com/theforeman/foreman_openscap/pull/591) on [theforeman/foreman_openscap](https://github.com/theforeman/foreman_openscap) (today)
-- [Release 13.3.4](https://github.com/RedHatSatellite/foreman_theme_satellite/pull/130) on [RedHatSatellite/foreman_theme_satellite](https://github.com/RedHatSatellite/foreman_theme_satellite) (today)
-- [Release 1.7.12](https://github.com/theforeman/foreman_maintain/pull/979) on [theforeman/foreman_maintain](https://github.com/theforeman/foreman_maintain) (3 days ago)
-- [Add ansible-test to plugins comps](https://github.com/theforeman/foreman-packaging/pull/11714) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (6 days ago)
+- [V9.0.5](https://github.com/theforeman/foreman_openscap/pull/591) on [theforeman/foreman_openscap](https://github.com/theforeman/foreman_openscap) (1 day ago)
+- [Release 13.3.4](https://github.com/RedHatSatellite/foreman_theme_satellite/pull/130) on [RedHatSatellite/foreman_theme_satellite](https://github.com/RedHatSatellite/foreman_theme_satellite) (1 day ago)
+- [Release 1.7.12](https://github.com/theforeman/foreman_maintain/pull/979) on [theforeman/foreman_maintain](https://github.com/theforeman/foreman_maintain) (4 days ago)
+- [Add ansible-test to plugins comps](https://github.com/theforeman/foreman-packaging/pull/11714) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (1 week ago)
 - [Provides python3.12-resolvelib](https://github.com/theforeman/foreman-packaging/pull/11713) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (1 week ago)
 
 #### 📜 My recent blog posts
