@@ -9,7 +9,7 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 - [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (2 weeks ago)
 - [Odilhao/bootc-sway](https://github.com/Odilhao/bootc-sway) -  (3 weeks ago)
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods. (1 month ago)
-- [Odilhao/odilhao](https://github.com/Odilhao/odilhao) -  (1 month ago)
+- [Odilhao/odilhao](https://github.com/Odilhao/odilhao) -  (2 months ago)
 - [theforeman/theforeman-rel-eng](https://github.com/theforeman/theforeman-rel-eng) - Release engineering scripts (2 months ago)
 - [SatelliteQE/robottelo](https://github.com/SatelliteQE/robottelo) - Robottelo is a test suite that exercises The Foreman. (2 months ago)
 - [Odilhao/bootc-server](https://github.com/Odilhao/bootc-server) -  (2 months ago)
@@ -25,10 +25,10 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
-- [Release 13.3.5](https://github.com/RedHatSatellite/foreman_theme_satellite/pull/132) on [RedHatSatellite/foreman_theme_satellite](https://github.com/RedHatSatellite/foreman_theme_satellite) (today)
-- [V9.0.5](https://github.com/theforeman/foreman_openscap/pull/591) on [theforeman/foreman_openscap](https://github.com/theforeman/foreman_openscap) (1 day ago)
-- [Release 13.3.4](https://github.com/RedHatSatellite/foreman_theme_satellite/pull/130) on [RedHatSatellite/foreman_theme_satellite](https://github.com/RedHatSatellite/foreman_theme_satellite) (1 day ago)
-- [Release 1.7.12](https://github.com/theforeman/foreman_maintain/pull/979) on [theforeman/foreman_maintain](https://github.com/theforeman/foreman_maintain) (4 days ago)
+- [Release 13.3.5](https://github.com/RedHatSatellite/foreman_theme_satellite/pull/132) on [RedHatSatellite/foreman_theme_satellite](https://github.com/RedHatSatellite/foreman_theme_satellite) (1 day ago)
+- [V9.0.5](https://github.com/theforeman/foreman_openscap/pull/591) on [theforeman/foreman_openscap](https://github.com/theforeman/foreman_openscap) (2 days ago)
+- [Release 13.3.4](https://github.com/RedHatSatellite/foreman_theme_satellite/pull/130) on [RedHatSatellite/foreman_theme_satellite](https://github.com/RedHatSatellite/foreman_theme_satellite) (2 days ago)
+- [Release 1.7.12](https://github.com/theforeman/foreman_maintain/pull/979) on [theforeman/foreman_maintain](https://github.com/theforeman/foreman_maintain) (5 days ago)
 - [Add ansible-test to plugins comps](https://github.com/theforeman/foreman-packaging/pull/11714) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (1 week ago)
 
 #### 📜 My recent blog posts
