@@ -6,7 +6,7 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (1 day ago)
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (2 days ago)
 - [Odilhao/bootc-sway](https://github.com/Odilhao/bootc-sway) -  (3 weeks ago)
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods. (1 month ago)
 - [Odilhao/odilhao](https://github.com/Odilhao/odilhao) -  (2 months ago)
@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
-- [Add flit and poetry to parse script](https://github.com/theforeman/pulpcore-packaging/pull/1617) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
-- [Add build system packages to manage updates](https://github.com/theforeman/pulpcore-packaging/pull/1591) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
-- [Release 13.3.5](https://github.com/RedHatSatellite/foreman_theme_satellite/pull/132) on [RedHatSatellite/foreman_theme_satellite](https://github.com/RedHatSatellite/foreman_theme_satellite) (2 days ago)
-- [V9.0.5](https://github.com/theforeman/foreman_openscap/pull/591) on [theforeman/foreman_openscap](https://github.com/theforeman/foreman_openscap) (3 days ago)
-- [Release 13.3.4](https://github.com/RedHatSatellite/foreman_theme_satellite/pull/130) on [RedHatSatellite/foreman_theme_satellite](https://github.com/RedHatSatellite/foreman_theme_satellite) (3 days ago)
+- [Add flit and poetry to parse script](https://github.com/theforeman/pulpcore-packaging/pull/1617) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (2 days ago)
+- [Add build system packages to manage updates](https://github.com/theforeman/pulpcore-packaging/pull/1591) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (2 days ago)
+- [Release 13.3.5](https://github.com/RedHatSatellite/foreman_theme_satellite/pull/132) on [RedHatSatellite/foreman_theme_satellite](https://github.com/RedHatSatellite/foreman_theme_satellite) (3 days ago)
+- [V9.0.5](https://github.com/theforeman/foreman_openscap/pull/591) on [theforeman/foreman_openscap](https://github.com/theforeman/foreman_openscap) (4 days ago)
+- [Release 13.3.4](https://github.com/RedHatSatellite/foreman_theme_satellite/pull/130) on [RedHatSatellite/foreman_theme_satellite](https://github.com/RedHatSatellite/foreman_theme_satellite) (4 days ago)
 
 #### 📜 My recent blog posts
 
