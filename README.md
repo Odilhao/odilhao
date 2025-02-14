@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
+- [Change from setup.py to pyproject.toml](https://github.com/RedHatInsights/iop-advisor-engine/pull/7) on [RedHatInsights/iop-advisor-engine](https://github.com/RedHatInsights/iop-advisor-engine) (today)
 - [Add flit and poetry to parse script](https://github.com/theforeman/pulpcore-packaging/pull/1617) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (2 days ago)
 - [Add build system packages to manage updates](https://github.com/theforeman/pulpcore-packaging/pull/1591) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (2 days ago)
 - [Release 13.3.5](https://github.com/RedHatSatellite/foreman_theme_satellite/pull/132) on [RedHatSatellite/foreman_theme_satellite](https://github.com/RedHatSatellite/foreman_theme_satellite) (3 days ago)
 - [V9.0.5](https://github.com/theforeman/foreman_openscap/pull/591) on [theforeman/foreman_openscap](https://github.com/theforeman/foreman_openscap) (4 days ago)
-- [Release 13.3.4](https://github.com/RedHatSatellite/foreman_theme_satellite/pull/130) on [RedHatSatellite/foreman_theme_satellite](https://github.com/RedHatSatellite/foreman_theme_satellite) (4 days ago)
 
 #### 📜 My recent blog posts
 
