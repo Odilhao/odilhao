@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
+- [Remove macro that disable rich dependencies for poetry_core](https://github.com/theforeman/pulpcore-packaging/pull/1624) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
 - [Add python-fastjsonchema](https://github.com/theforeman/pulpcore-packaging/pull/1623) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
 - [Change from setup.py to pyproject.toml](https://github.com/RedHatInsights/iop-advisor-engine/pull/7) on [RedHatInsights/iop-advisor-engine](https://github.com/RedHatInsights/iop-advisor-engine) (4 days ago)
 - [Add flit and poetry to parse script](https://github.com/theforeman/pulpcore-packaging/pull/1617) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (6 days ago)
 - [Add build system packages to manage updates](https://github.com/theforeman/pulpcore-packaging/pull/1591) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (6 days ago)
-- [Release 13.3.5](https://github.com/RedHatSatellite/foreman_theme_satellite/pull/132) on [RedHatSatellite/foreman_theme_satellite](https://github.com/RedHatSatellite/foreman_theme_satellite) (1 week ago)
 
 #### 📜 My recent blog posts
 
