@@ -6,7 +6,7 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (1 day ago)
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (today)
 - [RedHatInsights/iop-advisor-engine](https://github.com/RedHatInsights/iop-advisor-engine) -  (2 days ago)
 - [Odilhao/bootc-sway](https://github.com/Odilhao/bootc-sway) -  (1 month ago)
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods. (1 month ago)
@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
+- [Add python3.11-cachecontrol&#43;filecache to comps file](https://github.com/theforeman/pulpcore-packaging/pull/1632) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
 - [Update python version requirements for ansible-collection-redhat-satellite and ansible-collection-theforeman-foreman](https://github.com/theforeman/foreman-packaging/pull/11746) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (today)
 - [Update python version requirements for ansible-collection-redhat-satellite and ansible-collection-theforeman-foreman](https://github.com/theforeman/foreman-packaging/pull/11745) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (today)
 - [Add filecache as depedency to cachecontrol](https://github.com/theforeman/pulpcore-packaging/pull/1631) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
 - [Lowercase for CacheControl package.](https://github.com/theforeman/pulpcore-packaging/pull/1625) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
-- [Remove macro that disable rich dependencies for poetry_core](https://github.com/theforeman/pulpcore-packaging/pull/1624) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
 
 #### 📜 My recent blog posts
 
