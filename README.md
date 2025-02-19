@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
+- [Update python version requirements for ansible-collection-redhat-satellite and ansible-collection-theforeman-foreman](https://github.com/theforeman/foreman-packaging/pull/11746) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (today)
+- [Update python version requirements for ansible-collection-redhat-satellite and ansible-collection-theforeman-foreman](https://github.com/theforeman/foreman-packaging/pull/11745) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (today)
 - [Add filecache as depedency to cachecontrol](https://github.com/theforeman/pulpcore-packaging/pull/1631) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
 - [Lowercase for CacheControl package.](https://github.com/theforeman/pulpcore-packaging/pull/1625) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
 - [Remove macro that disable rich dependencies for poetry_core](https://github.com/theforeman/pulpcore-packaging/pull/1624) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
-- [Add python-fastjsonchema](https://github.com/theforeman/pulpcore-packaging/pull/1623) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
-- [Change from setup.py to pyproject.toml](https://github.com/RedHatInsights/iop-advisor-engine/pull/7) on [RedHatInsights/iop-advisor-engine](https://github.com/RedHatInsights/iop-advisor-engine) (5 days ago)
 
 #### 📜 My recent blog posts
 
