@@ -6,9 +6,9 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (today)
-- [RedHatInsights/iop-advisor-engine](https://github.com/RedHatInsights/iop-advisor-engine) -  (1 day ago)
-- [Odilhao/bootc-sway](https://github.com/Odilhao/bootc-sway) -  (4 weeks ago)
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (1 day ago)
+- [RedHatInsights/iop-advisor-engine](https://github.com/RedHatInsights/iop-advisor-engine) -  (2 days ago)
+- [Odilhao/bootc-sway](https://github.com/Odilhao/bootc-sway) -  (1 month ago)
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods. (1 month ago)
 - [Odilhao/odilhao](https://github.com/Odilhao/odilhao) -  (2 months ago)
 - [theforeman/theforeman-rel-eng](https://github.com/theforeman/theforeman-rel-eng) - Release engineering scripts (2 months ago)
@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
-- [Remove macro that disable rich dependencies for poetry_core](https://github.com/theforeman/pulpcore-packaging/pull/1624) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
-- [Add python-fastjsonchema](https://github.com/theforeman/pulpcore-packaging/pull/1623) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
-- [Change from setup.py to pyproject.toml](https://github.com/RedHatInsights/iop-advisor-engine/pull/7) on [RedHatInsights/iop-advisor-engine](https://github.com/RedHatInsights/iop-advisor-engine) (4 days ago)
-- [Add flit and poetry to parse script](https://github.com/theforeman/pulpcore-packaging/pull/1617) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (6 days ago)
-- [Add build system packages to manage updates](https://github.com/theforeman/pulpcore-packaging/pull/1591) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (6 days ago)
+- [Lowercase for CacheControl package.](https://github.com/theforeman/pulpcore-packaging/pull/1625) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
+- [Remove macro that disable rich dependencies for poetry_core](https://github.com/theforeman/pulpcore-packaging/pull/1624) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
+- [Add python-fastjsonchema](https://github.com/theforeman/pulpcore-packaging/pull/1623) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
+- [Change from setup.py to pyproject.toml](https://github.com/RedHatInsights/iop-advisor-engine/pull/7) on [RedHatInsights/iop-advisor-engine](https://github.com/RedHatInsights/iop-advisor-engine) (5 days ago)
+- [Add flit and poetry to parse script](https://github.com/theforeman/pulpcore-packaging/pull/1617) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 week ago)
 
 #### 📜 My recent blog posts
 
