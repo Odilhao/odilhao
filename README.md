@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
+- [Switch Pulpcore from Nightly to 3.63 on Katello 4.16](https://github.com/theforeman/foreman-packaging/pull/11781) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (today)
 - [Add python3.11-cachecontrol&#43;filecache to comps file](https://github.com/theforeman/pulpcore-packaging/pull/1632) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (5 days ago)
 - [Update python version requirements for ansible-collection-redhat-satellite and ansible-collection-theforeman-foreman](https://github.com/theforeman/foreman-packaging/pull/11746) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (5 days ago)
 - [Update python version requirements for ansible-collection-redhat-satellite and ansible-collection-theforeman-foreman](https://github.com/theforeman/foreman-packaging/pull/11745) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (5 days ago)
 - [Add filecache as depedency to cachecontrol](https://github.com/theforeman/pulpcore-packaging/pull/1631) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (5 days ago)
-- [Lowercase for CacheControl package.](https://github.com/theforeman/pulpcore-packaging/pull/1625) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (6 days ago)
 
 #### 📜 My recent blog posts
 
