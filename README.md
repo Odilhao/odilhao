@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
+- [add check that /var/lib/pgsql and /var/lib/pgsql/data is on the same dev](https://github.com/theforeman/foreman_maintain/pull/988) on [theforeman/foreman_maintain](https://github.com/theforeman/foreman_maintain) (today)
+- [Fixes #37922 - Handle case where proxy no longer exists](https://github.com/theforeman/foreman_remote_execution/pull/957) on [theforeman/foreman_remote_execution](https://github.com/theforeman/foreman_remote_execution) (today)
 - [Sync rpm/develop requirements.txt updates into rpm/3.63](https://github.com/theforeman/pulpcore-packaging/pull/1672) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
 - [Update botocore requirements on boto3](https://github.com/theforeman/pulpcore-packaging/pull/1656) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (6 days ago)
 - [Update python-pulp-python to 3.11.4](https://github.com/theforeman/pulpcore-packaging/pull/1644) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 week ago)
-- [Switch Pulpcore from Nightly to 3.63 on Katello 4.16](https://github.com/theforeman/foreman-packaging/pull/11781) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (1 week ago)
-- [Add python3.11-cachecontrol&#43;filecache to comps file](https://github.com/theforeman/pulpcore-packaging/pull/1632) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
