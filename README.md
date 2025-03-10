@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
+- [Add pdm backend](https://github.com/theforeman/pulpcore-packaging/pull/1679) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
 - [Add python-zstandard](https://github.com/theforeman/pulpcore-packaging/pull/1678) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
 - [add check that /var/lib/pgsql and /var/lib/pgsql/data is on the same dev](https://github.com/theforeman/foreman_maintain/pull/988) on [theforeman/foreman_maintain](https://github.com/theforeman/foreman_maintain) (4 days ago)
 - [Fixes #37922 - Handle case where proxy no longer exists](https://github.com/theforeman/foreman_remote_execution/pull/957) on [theforeman/foreman_remote_execution](https://github.com/theforeman/foreman_remote_execution) (4 days ago)
 - [Sync rpm/develop requirements.txt updates into rpm/3.63](https://github.com/theforeman/pulpcore-packaging/pull/1672) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (5 days ago)
-- [Update botocore requirements on boto3](https://github.com/theforeman/pulpcore-packaging/pull/1656) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 week ago)
 
 #### 📜 My recent blog posts
 
