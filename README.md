@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
+- [Downgrade virtualenv to 20.25.3 to avoid uv on hatch](https://github.com/theforeman/pulpcore-packaging/pull/1695) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
+- [Downgrade hatchling to 1.21.1 to avoid uv dependency on hatch](https://github.com/theforeman/pulpcore-packaging/pull/1694) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
 - [Pin Hatch to 1.9.7 to avoid uv dependency](https://github.com/theforeman/pulpcore-packaging/pull/1686) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
 - [Add pbs_installer to comps](https://github.com/theforeman/pulpcore-packaging/pull/1685) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
 - [Change pbs_installer requirement to match pypi package](https://github.com/theforeman/pulpcore-packaging/pull/1684) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
-- [Add python-findpython](https://github.com/theforeman/pulpcore-packaging/pull/1683) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
-- [Add jaraco-functools and jaraco-context](https://github.com/theforeman/pulpcore-packaging/pull/1681) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
 
 #### 📜 My recent blog posts
 
