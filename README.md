@@ -6,7 +6,7 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (today)
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (1 day ago)
 - [RedHatInsights/iop-advisor-engine](https://github.com/RedHatInsights/iop-advisor-engine) -  (3 weeks ago)
 - [Odilhao/bootc-sway](https://github.com/Odilhao/bootc-sway) -  (1 month ago)
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods. (2 months ago)
@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
-- [Add jaraco-functools and jaraco-context](https://github.com/theforeman/pulpcore-packaging/pull/1681) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
-- [Add python-pbs-installer](https://github.com/theforeman/pulpcore-packaging/pull/1680) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
-- [Add pdm backend](https://github.com/theforeman/pulpcore-packaging/pull/1679) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
-- [Add python-zstandard](https://github.com/theforeman/pulpcore-packaging/pull/1678) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
-- [add check that /var/lib/pgsql and /var/lib/pgsql/data is on the same dev](https://github.com/theforeman/foreman_maintain/pull/988) on [theforeman/foreman_maintain](https://github.com/theforeman/foreman_maintain) (4 days ago)
+- [Add jaraco-functools and jaraco-context](https://github.com/theforeman/pulpcore-packaging/pull/1681) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
+- [Add python-pbs-installer](https://github.com/theforeman/pulpcore-packaging/pull/1680) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
+- [Add pdm backend](https://github.com/theforeman/pulpcore-packaging/pull/1679) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
+- [Add python-zstandard](https://github.com/theforeman/pulpcore-packaging/pull/1678) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
+- [add check that /var/lib/pgsql and /var/lib/pgsql/data is on the same dev](https://github.com/theforeman/foreman_maintain/pull/988) on [theforeman/foreman_maintain](https://github.com/theforeman/foreman_maintain) (5 days ago)
 
 #### 📜 My recent blog posts
 
