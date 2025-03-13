@@ -6,7 +6,7 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (1 day ago)
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (2 days ago)
 - [RedHatInsights/iop-advisor-engine](https://github.com/RedHatInsights/iop-advisor-engine) -  (3 weeks ago)
 - [Odilhao/bootc-sway](https://github.com/Odilhao/bootc-sway) -  (1 month ago)
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods. (2 months ago)
@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
-- [Downgrade virtualenv to 20.25.3 to avoid uv on hatch](https://github.com/theforeman/pulpcore-packaging/pull/1695) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
-- [Downgrade hatchling to 1.21.1 to avoid uv dependency on hatch](https://github.com/theforeman/pulpcore-packaging/pull/1694) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
-- [Pin Hatch to 1.9.7 to avoid uv dependency](https://github.com/theforeman/pulpcore-packaging/pull/1686) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
-- [Add pbs_installer to comps](https://github.com/theforeman/pulpcore-packaging/pull/1685) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
-- [Change pbs_installer requirement to match pypi package](https://github.com/theforeman/pulpcore-packaging/pull/1684) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
+- [Downgrade virtualenv to 20.25.3 to avoid uv on hatch](https://github.com/theforeman/pulpcore-packaging/pull/1695) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (2 days ago)
+- [Downgrade hatchling to 1.21.1 to avoid uv dependency on hatch](https://github.com/theforeman/pulpcore-packaging/pull/1694) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (2 days ago)
+- [Pin Hatch to 1.9.7 to avoid uv dependency](https://github.com/theforeman/pulpcore-packaging/pull/1686) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (2 days ago)
+- [Add pbs_installer to comps](https://github.com/theforeman/pulpcore-packaging/pull/1685) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (2 days ago)
+- [Change pbs_installer requirement to match pypi package](https://github.com/theforeman/pulpcore-packaging/pull/1684) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (2 days ago)
 
 #### 📜 My recent blog posts
 
