@@ -6,11 +6,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (2 days ago)
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (3 days ago)
 - [RedHatInsights/iop-advisor-engine](https://github.com/RedHatInsights/iop-advisor-engine) -  (3 weeks ago)
 - [Odilhao/bootc-sway](https://github.com/Odilhao/bootc-sway) -  (1 month ago)
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods. (2 months ago)
-- [Odilhao/odilhao](https://github.com/Odilhao/odilhao) -  (2 months ago)
+- [Odilhao/odilhao](https://github.com/Odilhao/odilhao) -  (3 months ago)
 - [theforeman/theforeman-rel-eng](https://github.com/theforeman/theforeman-rel-eng) - Release engineering scripts (3 months ago)
 - [SatelliteQE/robottelo](https://github.com/SatelliteQE/robottelo) - Robottelo is a test suite that exercises The Foreman. (3 months ago)
 - [Odilhao/bootc-server](https://github.com/Odilhao/bootc-server) -  (3 months ago)
@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
-- [Go back in time with poetry deps](https://github.com/theforeman/pulpcore-packaging/pull/1698) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
-- [Downgrade virtualenv to 20.25.3 to avoid uv on hatch](https://github.com/theforeman/pulpcore-packaging/pull/1695) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (2 days ago)
-- [Downgrade hatchling to 1.21.1 to avoid uv dependency on hatch](https://github.com/theforeman/pulpcore-packaging/pull/1694) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (2 days ago)
-- [Pin Hatch to 1.9.7 to avoid uv dependency](https://github.com/theforeman/pulpcore-packaging/pull/1686) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (2 days ago)
-- [Add pbs_installer to comps](https://github.com/theforeman/pulpcore-packaging/pull/1685) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (2 days ago)
+- [Go back in time with poetry deps](https://github.com/theforeman/pulpcore-packaging/pull/1698) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
+- [Downgrade virtualenv to 20.25.3 to avoid uv on hatch](https://github.com/theforeman/pulpcore-packaging/pull/1695) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (3 days ago)
+- [Downgrade hatchling to 1.21.1 to avoid uv dependency on hatch](https://github.com/theforeman/pulpcore-packaging/pull/1694) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (3 days ago)
+- [Pin Hatch to 1.9.7 to avoid uv dependency](https://github.com/theforeman/pulpcore-packaging/pull/1686) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (3 days ago)
+- [Add pbs_installer to comps](https://github.com/theforeman/pulpcore-packaging/pull/1685) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (3 days ago)
 
 #### 📜 My recent blog posts
 
