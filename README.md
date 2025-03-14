@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
+- [Add Cherrypicks from rpm/develop into 3.63](https://github.com/theforeman/pulpcore-packaging/pull/1706) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
 - [Fix poetry requirement for poetry_core](https://github.com/theforeman/pulpcore-packaging/pull/1700) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
 - [Fix virtualenv requirement for hatch and poetry](https://github.com/theforeman/pulpcore-packaging/pull/1699) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
 - [Go back in time with poetry deps](https://github.com/theforeman/pulpcore-packaging/pull/1698) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
 - [Downgrade virtualenv to 20.25.3 to avoid uv on hatch](https://github.com/theforeman/pulpcore-packaging/pull/1695) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (3 days ago)
-- [Downgrade hatchling to 1.21.1 to avoid uv dependency on hatch](https://github.com/theforeman/pulpcore-packaging/pull/1694) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (3 days ago)
 
 #### 📜 My recent blog posts
 
