@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
+- [Yet another python 3.12 tier2 rebuild](https://github.com/theforeman/pulpcore-packaging/pull/1720) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
+- [Rebuild python-setuptools-rust against python 3.12](https://github.com/theforeman/pulpcore-packaging/pull/1719) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
 - [Continue to Rebuild packages against python3.12](https://github.com/theforeman/pulpcore-packaging/pull/1718) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
 - [Rebuild packages against python 3.12](https://github.com/theforeman/pulpcore-packaging/pull/1717) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
 - [Update packages sumary and provides](https://github.com/theforeman/pulpcore-packaging/pull/1716) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
-- [Rebuild base build packages against python 3.12](https://github.com/theforeman/pulpcore-packaging/pull/1715) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
-- [Update configurations to build against python 3.12](https://github.com/theforeman/pulpcore-packaging/pull/1714) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
 
 #### 📜 My recent blog posts
 
