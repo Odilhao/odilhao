@@ -6,7 +6,7 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (today)
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (1 day ago)
 - [RedHatInsights/iop-advisor-engine](https://github.com/RedHatInsights/iop-advisor-engine) -  (4 weeks ago)
 - [Odilhao/bootc-sway](https://github.com/Odilhao/bootc-sway) -  (1 month ago)
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods. (2 months ago)
@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
-- [Rebuild base build packages against python 3.12](https://github.com/theforeman/pulpcore-packaging/pull/1715) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
-- [Update configurations to build against python 3.12](https://github.com/theforeman/pulpcore-packaging/pull/1714) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
-- [Add Cherrypicks from rpm/develop into 3.63](https://github.com/theforeman/pulpcore-packaging/pull/1706) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (3 days ago)
-- [Fix poetry requirement for poetry_core](https://github.com/theforeman/pulpcore-packaging/pull/1700) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (3 days ago)
-- [Fix virtualenv requirement for hatch and poetry](https://github.com/theforeman/pulpcore-packaging/pull/1699) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (3 days ago)
+- [Rebuild base build packages against python 3.12](https://github.com/theforeman/pulpcore-packaging/pull/1715) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
+- [Update configurations to build against python 3.12](https://github.com/theforeman/pulpcore-packaging/pull/1714) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
+- [Add Cherrypicks from rpm/develop into 3.63](https://github.com/theforeman/pulpcore-packaging/pull/1706) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (4 days ago)
+- [Fix poetry requirement for poetry_core](https://github.com/theforeman/pulpcore-packaging/pull/1700) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (4 days ago)
+- [Fix virtualenv requirement for hatch and poetry](https://github.com/theforeman/pulpcore-packaging/pull/1699) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (4 days ago)
 
 #### 📜 My recent blog posts
 
