@@ -6,9 +6,9 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (today)
-- [Odilhao/bootc-sway](https://github.com/Odilhao/bootc-sway) -  (today)
-- [RedHatInsights/iop-advisor-engine](https://github.com/RedHatInsights/iop-advisor-engine) -  (4 weeks ago)
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (1 day ago)
+- [Odilhao/bootc-sway](https://github.com/Odilhao/bootc-sway) -  (1 day ago)
+- [RedHatInsights/iop-advisor-engine](https://github.com/RedHatInsights/iop-advisor-engine) -  (1 month ago)
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods. (2 months ago)
 - [Odilhao/odilhao](https://github.com/Odilhao/odilhao) -  (3 months ago)
 - [theforeman/theforeman-rel-eng](https://github.com/theforeman/theforeman-rel-eng) - Release engineering scripts (3 months ago)
@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
-- [Rebuild more tier-3 packages with python3.12](https://github.com/theforeman/pulpcore-packaging/pull/1722) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
-- [Start the rebuild of tier 3 packages with python 3.12](https://github.com/theforeman/pulpcore-packaging/pull/1721) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
-- [Yet another python 3.12 tier2 rebuild](https://github.com/theforeman/pulpcore-packaging/pull/1720) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
-- [Rebuild python-setuptools-rust against python 3.12](https://github.com/theforeman/pulpcore-packaging/pull/1719) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
-- [Continue to Rebuild packages against python3.12](https://github.com/theforeman/pulpcore-packaging/pull/1718) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
+- [Rebuild more tier-3 packages with python3.12](https://github.com/theforeman/pulpcore-packaging/pull/1722) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
+- [Start the rebuild of tier 3 packages with python 3.12](https://github.com/theforeman/pulpcore-packaging/pull/1721) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
+- [Yet another python 3.12 tier2 rebuild](https://github.com/theforeman/pulpcore-packaging/pull/1720) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
+- [Rebuild python-setuptools-rust against python 3.12](https://github.com/theforeman/pulpcore-packaging/pull/1719) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
+- [Continue to Rebuild packages against python3.12](https://github.com/theforeman/pulpcore-packaging/pull/1718) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
 
 #### 📜 My recent blog posts
 
