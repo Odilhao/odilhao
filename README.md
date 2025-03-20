@@ -6,8 +6,8 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (today)
-- [Odilhao/bootc-sway](https://github.com/Odilhao/bootc-sway) -  (1 day ago)
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (1 day ago)
+- [Odilhao/bootc-sway](https://github.com/Odilhao/bootc-sway) -  (2 days ago)
 - [RedHatInsights/iop-advisor-engine](https://github.com/RedHatInsights/iop-advisor-engine) -  (1 month ago)
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods. (2 months ago)
 - [Odilhao/odilhao](https://github.com/Odilhao/odilhao) -  (3 months ago)
@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
-- [Rebuild poetry against python3.12](https://github.com/theforeman/pulpcore-packaging/pull/1730) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
-- [Rebuild python-pbs-installer against python3.12](https://github.com/theforeman/pulpcore-packaging/pull/1729) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
-- [Keep rebuilding packages against python3.12](https://github.com/theforeman/pulpcore-packaging/pull/1728) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
-- [Rebuild python-expandvars against python3.12](https://github.com/theforeman/pulpcore-packaging/pull/1727) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
-- [Rebuild hatchling against python 3.12](https://github.com/theforeman/pulpcore-packaging/pull/1726) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
+- [Rebuild poetry against python3.12](https://github.com/theforeman/pulpcore-packaging/pull/1730) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
+- [Rebuild python-pbs-installer against python3.12](https://github.com/theforeman/pulpcore-packaging/pull/1729) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
+- [Keep rebuilding packages against python3.12](https://github.com/theforeman/pulpcore-packaging/pull/1728) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
+- [Rebuild python-expandvars against python3.12](https://github.com/theforeman/pulpcore-packaging/pull/1727) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
+- [Rebuild hatchling against python 3.12](https://github.com/theforeman/pulpcore-packaging/pull/1726) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
 
 #### 📜 My recent blog posts
 
