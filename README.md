@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
+- [Keep rebuilding tier3 packages against python3.12](https://github.com/theforeman/pulpcore-packaging/pull/1731) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
 - [Rebuild poetry against python3.12](https://github.com/theforeman/pulpcore-packaging/pull/1730) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
 - [Rebuild python-pbs-installer against python3.12](https://github.com/theforeman/pulpcore-packaging/pull/1729) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
 - [Keep rebuilding packages against python3.12](https://github.com/theforeman/pulpcore-packaging/pull/1728) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
 - [Rebuild python-expandvars against python3.12](https://github.com/theforeman/pulpcore-packaging/pull/1727) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
-- [Rebuild hatchling against python 3.12](https://github.com/theforeman/pulpcore-packaging/pull/1726) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
 
 #### 📜 My recent blog posts
 
