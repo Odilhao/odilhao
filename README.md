@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
+- [Rebuild packages against python3.12](https://github.com/theforeman/pulpcore-packaging/pull/1735) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
 - [Keep rebuilding packages for tier3](https://github.com/theforeman/pulpcore-packaging/pull/1734) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
 - [Still building tier 3 packages](https://github.com/theforeman/pulpcore-packaging/pull/1733) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
 - [Continue the rebuild of tier3 packages against python3.12](https://github.com/theforeman/pulpcore-packaging/pull/1732) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (4 days ago)
 - [Keep rebuilding tier3 packages against python3.12](https://github.com/theforeman/pulpcore-packaging/pull/1731) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (5 days ago)
-- [Rebuild poetry against python3.12](https://github.com/theforeman/pulpcore-packaging/pull/1730) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (6 days ago)
 
 #### 📜 My recent blog posts
 
