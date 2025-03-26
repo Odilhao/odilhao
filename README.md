@@ -6,7 +6,7 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (today)
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (1 day ago)
 - [Odilhao/bootc-sway](https://github.com/Odilhao/bootc-sway) -  (1 week ago)
 - [RedHatInsights/iop-advisor-engine](https://github.com/RedHatInsights/iop-advisor-engine) -  (1 month ago)
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods. (2 months ago)
@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
-- [Build hatch against python 3.12 and createrepo_c and ansible-lint](https://github.com/theforeman/pulpcore-packaging/pull/1736) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
-- [Rebuild packages against python3.12](https://github.com/theforeman/pulpcore-packaging/pull/1735) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
-- [Keep rebuilding packages for tier3](https://github.com/theforeman/pulpcore-packaging/pull/1734) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
-- [Still building tier 3 packages](https://github.com/theforeman/pulpcore-packaging/pull/1733) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
-- [Continue the rebuild of tier3 packages against python3.12](https://github.com/theforeman/pulpcore-packaging/pull/1732) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (4 days ago)
+- [Build hatch against python 3.12 and createrepo_c and ansible-lint](https://github.com/theforeman/pulpcore-packaging/pull/1736) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
+- [Rebuild packages against python3.12](https://github.com/theforeman/pulpcore-packaging/pull/1735) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
+- [Keep rebuilding packages for tier3](https://github.com/theforeman/pulpcore-packaging/pull/1734) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
+- [Still building tier 3 packages](https://github.com/theforeman/pulpcore-packaging/pull/1733) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (2 days ago)
+- [Continue the rebuild of tier3 packages against python3.12](https://github.com/theforeman/pulpcore-packaging/pull/1732) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (5 days ago)
 
 #### 📜 My recent blog posts
 
