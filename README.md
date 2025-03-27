@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
+- [Rebuild django packages against python3.12](https://github.com/theforeman/pulpcore-packaging/pull/1739) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
 - [Keep rebuilding packages against python3.12](https://github.com/theforeman/pulpcore-packaging/pull/1738) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
 - [Keep building packages against python3.12](https://github.com/theforeman/pulpcore-packaging/pull/1737) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
 - [Build hatch against python 3.12 and createrepo_c and ansible-lint](https://github.com/theforeman/pulpcore-packaging/pull/1736) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (2 days ago)
 - [Rebuild packages against python3.12](https://github.com/theforeman/pulpcore-packaging/pull/1735) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (2 days ago)
-- [Keep rebuilding packages for tier3](https://github.com/theforeman/pulpcore-packaging/pull/1734) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (2 days ago)
 
 #### 📜 My recent blog posts
 
