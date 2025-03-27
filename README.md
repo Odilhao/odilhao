@@ -6,7 +6,7 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (1 day ago)
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (today)
 - [Odilhao/bootc-sway](https://github.com/Odilhao/bootc-sway) -  (1 week ago)
 - [RedHatInsights/iop-advisor-engine](https://github.com/RedHatInsights/iop-advisor-engine) -  (1 month ago)
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods. (2 months ago)
@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
+- [Update python-rapidfuzz to 3.9.7](https://github.com/theforeman/pulpcore-packaging/pull/1741) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
+- [Add python-scikit-build](https://github.com/theforeman/pulpcore-packaging/pull/1740) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
 - [Rebuild django packages against python3.12](https://github.com/theforeman/pulpcore-packaging/pull/1739) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
 - [Keep rebuilding packages against python3.12](https://github.com/theforeman/pulpcore-packaging/pull/1738) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
 - [Keep building packages against python3.12](https://github.com/theforeman/pulpcore-packaging/pull/1737) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
-- [Build hatch against python 3.12 and createrepo_c and ansible-lint](https://github.com/theforeman/pulpcore-packaging/pull/1736) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (2 days ago)
-- [Rebuild packages against python3.12](https://github.com/theforeman/pulpcore-packaging/pull/1735) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (2 days ago)
 
 #### 📜 My recent blog posts
 
