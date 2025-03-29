@@ -6,7 +6,7 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (1 day ago)
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (2 days ago)
 - [Odilhao/bootc-sway](https://github.com/Odilhao/bootc-sway) -  (1 week ago)
 - [RedHatInsights/iop-advisor-engine](https://github.com/RedHatInsights/iop-advisor-engine) -  (1 month ago)
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods. (2 months ago)
@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
-- [Rebuild python-distro against python3.12](https://github.com/theforeman/pulpcore-packaging/pull/1742) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
-- [Update python-rapidfuzz to 3.9.7](https://github.com/theforeman/pulpcore-packaging/pull/1741) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
-- [Add python-scikit-build](https://github.com/theforeman/pulpcore-packaging/pull/1740) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
-- [Rebuild django packages against python3.12](https://github.com/theforeman/pulpcore-packaging/pull/1739) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
-- [Keep rebuilding packages against python3.12](https://github.com/theforeman/pulpcore-packaging/pull/1738) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (2 days ago)
+- [Rebuild python-distro against python3.12](https://github.com/theforeman/pulpcore-packaging/pull/1742) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (2 days ago)
+- [Update python-rapidfuzz to 3.9.7](https://github.com/theforeman/pulpcore-packaging/pull/1741) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (2 days ago)
+- [Add python-scikit-build](https://github.com/theforeman/pulpcore-packaging/pull/1740) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (2 days ago)
+- [Rebuild django packages against python3.12](https://github.com/theforeman/pulpcore-packaging/pull/1739) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (2 days ago)
+- [Keep rebuilding packages against python3.12](https://github.com/theforeman/pulpcore-packaging/pull/1738) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (3 days ago)
 
 #### 📜 My recent blog posts
 
