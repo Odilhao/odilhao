@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
+- [Update packages to pulpcore 3.73.2 release](https://github.com/theforeman/pulpcore-packaging/pull/1743) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
 - [Rebuild python-distro against python3.12](https://github.com/theforeman/pulpcore-packaging/pull/1742) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (3 days ago)
 - [Update python-rapidfuzz to 3.9.7](https://github.com/theforeman/pulpcore-packaging/pull/1741) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (3 days ago)
 - [Add python-scikit-build](https://github.com/theforeman/pulpcore-packaging/pull/1740) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (3 days ago)
 - [Rebuild django packages against python3.12](https://github.com/theforeman/pulpcore-packaging/pull/1739) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (3 days ago)
-- [Keep rebuilding packages against python3.12](https://github.com/theforeman/pulpcore-packaging/pull/1738) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (4 days ago)
 
 #### 📜 My recent blog posts
 
