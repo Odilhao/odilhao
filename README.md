@@ -6,8 +6,8 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (today)
-- [Odilhao/bootc-sway](https://github.com/Odilhao/bootc-sway) -  (1 week ago)
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (1 day ago)
+- [Odilhao/bootc-sway](https://github.com/Odilhao/bootc-sway) -  (2 weeks ago)
 - [RedHatInsights/iop-advisor-engine](https://github.com/RedHatInsights/iop-advisor-engine) -  (1 month ago)
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods. (3 months ago)
 - [Odilhao/odilhao](https://github.com/Odilhao/odilhao) -  (3 months ago)
@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
-- [Rebuild packages required by tablib and pypi-simple](https://github.com/theforeman/pulpcore-packaging/pull/1753) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
-- [Keep building packages against python 3.12](https://github.com/theforeman/pulpcore-packaging/pull/1752) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
-- [Keep building packages against python3.12](https://github.com/theforeman/pulpcore-packaging/pull/1751) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
-- [Update packages to pulpcore 3.73.2 release](https://github.com/theforeman/pulpcore-packaging/pull/1743) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
-- [Rebuild python-distro against python3.12](https://github.com/theforeman/pulpcore-packaging/pull/1742) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (4 days ago)
+- [Rebuild packages required by tablib and pypi-simple](https://github.com/theforeman/pulpcore-packaging/pull/1753) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
+- [Keep building packages against python 3.12](https://github.com/theforeman/pulpcore-packaging/pull/1752) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
+- [Keep building packages against python3.12](https://github.com/theforeman/pulpcore-packaging/pull/1751) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
+- [Update packages to pulpcore 3.73.2 release](https://github.com/theforeman/pulpcore-packaging/pull/1743) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (2 days ago)
+- [Rebuild python-distro against python3.12](https://github.com/theforeman/pulpcore-packaging/pull/1742) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (5 days ago)
 
 #### 📜 My recent blog posts
 
