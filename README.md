@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
+- [Keep rebuilding packages against python3.12](https://github.com/theforeman/pulpcore-packaging/pull/1757) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
 - [Rebuild packages required by tablib and pypi-simple](https://github.com/theforeman/pulpcore-packaging/pull/1753) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
 - [Keep building packages against python 3.12](https://github.com/theforeman/pulpcore-packaging/pull/1752) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
 - [Keep building packages against python3.12](https://github.com/theforeman/pulpcore-packaging/pull/1751) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
 - [Update packages to pulpcore 3.73.2 release](https://github.com/theforeman/pulpcore-packaging/pull/1743) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (2 days ago)
-- [Rebuild python-distro against python3.12](https://github.com/theforeman/pulpcore-packaging/pull/1742) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (5 days ago)
 
 #### 📜 My recent blog posts
 
