@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
+- [Drop pulpcore-client and pulp-rpm-client from comps](https://github.com/theforeman/pulpcore-packaging/pull/1818) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
+- [Update from pip3.11 to 3.12 for update lib script](https://github.com/theforeman/pulpcore-packaging/pull/1763) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
 - [Rebuild packages against python3.12](https://github.com/theforeman/pulpcore-packaging/pull/1762) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
 - [Rebuild pulpcore dependencies against python3.12](https://github.com/theforeman/pulpcore-packaging/pull/1761) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
 - [Rebuild google packages against python3.12](https://github.com/theforeman/pulpcore-packaging/pull/1759) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
-- [Rebuild opentelemetry packages against python3.12](https://github.com/theforeman/pulpcore-packaging/pull/1758) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
-- [Keep rebuilding packages against python3.12](https://github.com/theforeman/pulpcore-packaging/pull/1757) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
 
 #### 📜 My recent blog posts
 
