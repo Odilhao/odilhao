@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
+- [Rebuild packages against python3.12](https://github.com/theforeman/pulpcore-packaging/pull/1762) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
 - [Rebuild pulpcore dependencies against python3.12](https://github.com/theforeman/pulpcore-packaging/pull/1761) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
 - [Rebuild google packages against python3.12](https://github.com/theforeman/pulpcore-packaging/pull/1759) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
 - [Rebuild opentelemetry packages against python3.12](https://github.com/theforeman/pulpcore-packaging/pull/1758) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
 - [Keep rebuilding packages against python3.12](https://github.com/theforeman/pulpcore-packaging/pull/1757) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
-- [Rebuild packages required by tablib and pypi-simple](https://github.com/theforeman/pulpcore-packaging/pull/1753) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (2 days ago)
 
 #### 📜 My recent blog posts
 
