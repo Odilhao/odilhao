@@ -6,12 +6,12 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (today)
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (1 day ago)
 - [Odilhao/bootc-sway](https://github.com/Odilhao/bootc-sway) -  (2 weeks ago)
 - [RedHatInsights/iop-advisor-engine](https://github.com/RedHatInsights/iop-advisor-engine) -  (1 month ago)
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods. (3 months ago)
 - [Odilhao/odilhao](https://github.com/Odilhao/odilhao) -  (3 months ago)
-- [theforeman/theforeman-rel-eng](https://github.com/theforeman/theforeman-rel-eng) - Release engineering scripts (3 months ago)
+- [theforeman/theforeman-rel-eng](https://github.com/theforeman/theforeman-rel-eng) - Release engineering scripts (4 months ago)
 - [SatelliteQE/robottelo](https://github.com/SatelliteQE/robottelo) - Robottelo is a test suite that exercises The Foreman. (4 months ago)
 - [Odilhao/bootc-server](https://github.com/Odilhao/bootc-server) -  (4 months ago)
 
@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
-- [Rebuild opentelemetry packages against python3.12](https://github.com/theforeman/pulpcore-packaging/pull/1758) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
-- [Keep rebuilding packages against python3.12](https://github.com/theforeman/pulpcore-packaging/pull/1757) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
-- [Rebuild packages required by tablib and pypi-simple](https://github.com/theforeman/pulpcore-packaging/pull/1753) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
-- [Keep building packages against python 3.12](https://github.com/theforeman/pulpcore-packaging/pull/1752) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
-- [Keep building packages against python3.12](https://github.com/theforeman/pulpcore-packaging/pull/1751) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
+- [Rebuild opentelemetry packages against python3.12](https://github.com/theforeman/pulpcore-packaging/pull/1758) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
+- [Keep rebuilding packages against python3.12](https://github.com/theforeman/pulpcore-packaging/pull/1757) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
+- [Rebuild packages required by tablib and pypi-simple](https://github.com/theforeman/pulpcore-packaging/pull/1753) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (2 days ago)
+- [Keep building packages against python 3.12](https://github.com/theforeman/pulpcore-packaging/pull/1752) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (2 days ago)
+- [Keep building packages against python3.12](https://github.com/theforeman/pulpcore-packaging/pull/1751) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (2 days ago)
 
 #### 📜 My recent blog posts
 
