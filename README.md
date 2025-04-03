@@ -6,7 +6,7 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (today)
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (1 day ago)
 - [Odilhao/bootc-sway](https://github.com/Odilhao/bootc-sway) -  (2 weeks ago)
 - [RedHatInsights/iop-advisor-engine](https://github.com/RedHatInsights/iop-advisor-engine) -  (1 month ago)
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods. (3 months ago)
@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
-- [Drop pulpcore-client and pulp-rpm-client from comps](https://github.com/theforeman/pulpcore-packaging/pull/1818) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
-- [Update from pip3.11 to 3.12 for update lib script](https://github.com/theforeman/pulpcore-packaging/pull/1763) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
-- [Rebuild packages against python3.12](https://github.com/theforeman/pulpcore-packaging/pull/1762) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
-- [Rebuild pulpcore dependencies against python3.12](https://github.com/theforeman/pulpcore-packaging/pull/1761) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
-- [Rebuild google packages against python3.12](https://github.com/theforeman/pulpcore-packaging/pull/1759) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
+- [Drop pulpcore-client and pulp-rpm-client from comps](https://github.com/theforeman/pulpcore-packaging/pull/1818) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
+- [Update from pip3.11 to 3.12 for update lib script](https://github.com/theforeman/pulpcore-packaging/pull/1763) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
+- [Rebuild packages against python3.12](https://github.com/theforeman/pulpcore-packaging/pull/1762) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
+- [Rebuild pulpcore dependencies against python3.12](https://github.com/theforeman/pulpcore-packaging/pull/1761) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
+- [Rebuild google packages against python3.12](https://github.com/theforeman/pulpcore-packaging/pull/1759) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
 
 #### 📜 My recent blog posts
 
