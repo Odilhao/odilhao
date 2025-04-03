@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
+- [Update python-pulp-rpm createrepo_c requirement](https://github.com/theforeman/pulpcore-packaging/pull/1827) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
+- [Drop flit_core requirement from mdurl](https://github.com/theforeman/pulpcore-packaging/pull/1826) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
 - [Add python-chardet back and rebuild python-debian](https://github.com/theforeman/pulpcore-packaging/pull/1825) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
 - [Add provides pulpcore(plugin) to pulp packages](https://github.com/theforeman/pulpcore-packaging/pull/1824) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
 - [Update python-pydantic to 2.11.2](https://github.com/theforeman/pulpcore-packaging/pull/1823) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
-- [Add python-pydantic and it&#39;s dependencies](https://github.com/theforeman/pulpcore-packaging/pull/1822) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
-- [Add python-markdown-it-py and python-mdurl](https://github.com/theforeman/pulpcore-packaging/pull/1819) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
 
 #### 📜 My recent blog posts
 
