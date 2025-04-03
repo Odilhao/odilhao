@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
+- [Add python-chardet back and rebuild python-debian](https://github.com/theforeman/pulpcore-packaging/pull/1825) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
 - [Add provides pulpcore(plugin) to pulp packages](https://github.com/theforeman/pulpcore-packaging/pull/1824) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
 - [Update python-pydantic to 2.11.2](https://github.com/theforeman/pulpcore-packaging/pull/1823) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
 - [Add python-pydantic and it&#39;s dependencies](https://github.com/theforeman/pulpcore-packaging/pull/1822) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
 - [Add python-markdown-it-py and python-mdurl](https://github.com/theforeman/pulpcore-packaging/pull/1819) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
-- [Drop pulpcore-client and pulp-rpm-client from comps](https://github.com/theforeman/pulpcore-packaging/pull/1818) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
 
 #### 📜 My recent blog posts
 
