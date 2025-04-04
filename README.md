@@ -26,7 +26,7 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 #### 🔨 My recent Pull Requests
 
 - [Add python-scikit-build-core](https://github.com/theforeman/pulpcore-packaging/pull/1836) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
-- [Update python-pygobject to 3.50.0](https://github.com/theforeman/pulpcore-packaging/pull/1835) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
+- [Update python-pygobject to 3.48.2](https://github.com/theforeman/pulpcore-packaging/pull/1835) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
 - [Rebuild python-meson-python against python3.12](https://github.com/theforeman/pulpcore-packaging/pull/1834) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
 - [Update python-pulp-rpm createrepo_c requirement](https://github.com/theforeman/pulpcore-packaging/pull/1827) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
 - [Drop flit_core requirement from mdurl](https://github.com/theforeman/pulpcore-packaging/pull/1826) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
