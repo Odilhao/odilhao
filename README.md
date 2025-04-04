@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
+- [Update python-pygobject to 3.50.0](https://github.com/theforeman/pulpcore-packaging/pull/1835) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
 - [Rebuild python-meson-python against python3.12](https://github.com/theforeman/pulpcore-packaging/pull/1834) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
 - [Update python-pulp-rpm createrepo_c requirement](https://github.com/theforeman/pulpcore-packaging/pull/1827) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
 - [Drop flit_core requirement from mdurl](https://github.com/theforeman/pulpcore-packaging/pull/1826) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
 - [Add python-chardet back and rebuild python-debian](https://github.com/theforeman/pulpcore-packaging/pull/1825) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
-- [Add provides pulpcore(plugin) to pulp packages](https://github.com/theforeman/pulpcore-packaging/pull/1824) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
 
 #### 📜 My recent blog posts
 
