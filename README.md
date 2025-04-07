@@ -6,7 +6,7 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (2 days ago)
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (3 days ago)
 - [Odilhao/bootc-sway](https://github.com/Odilhao/bootc-sway) -  (2 weeks ago)
 - [RedHatInsights/iop-advisor-engine](https://github.com/RedHatInsights/iop-advisor-engine) -  (1 month ago)
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods. (3 months ago)
@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
-- [Add python-scikit-build-core](https://github.com/theforeman/pulpcore-packaging/pull/1836) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (2 days ago)
-- [Update python-pygobject to 3.48.2](https://github.com/theforeman/pulpcore-packaging/pull/1835) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (2 days ago)
-- [Rebuild python-meson-python against python3.12](https://github.com/theforeman/pulpcore-packaging/pull/1834) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (2 days ago)
-- [Update python-pulp-rpm createrepo_c requirement](https://github.com/theforeman/pulpcore-packaging/pull/1827) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (3 days ago)
-- [Drop flit_core requirement from mdurl](https://github.com/theforeman/pulpcore-packaging/pull/1826) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (3 days ago)
+- [Add python-scikit-build-core](https://github.com/theforeman/pulpcore-packaging/pull/1836) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (3 days ago)
+- [Update python-pygobject to 3.48.2](https://github.com/theforeman/pulpcore-packaging/pull/1835) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (3 days ago)
+- [Rebuild python-meson-python against python3.12](https://github.com/theforeman/pulpcore-packaging/pull/1834) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (3 days ago)
+- [Update python-pulp-rpm createrepo_c requirement](https://github.com/theforeman/pulpcore-packaging/pull/1827) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (4 days ago)
+- [Drop flit_core requirement from mdurl](https://github.com/theforeman/pulpcore-packaging/pull/1826) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (4 days ago)
 
 #### 📜 My recent blog posts
 
