@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
+- [SAT-30614 - Add rescue handling for crc and network timeouts cherrypick](https://github.com/theforeman/foreman_rh_cloud/pull/974) on [theforeman/foreman_rh_cloud](https://github.com/theforeman/foreman_rh_cloud) (today)
 - [Add python-scikit-build-core](https://github.com/theforeman/pulpcore-packaging/pull/1836) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (3 days ago)
 - [Update python-pygobject to 3.48.2](https://github.com/theforeman/pulpcore-packaging/pull/1835) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (3 days ago)
 - [Rebuild python-meson-python against python3.12](https://github.com/theforeman/pulpcore-packaging/pull/1834) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (3 days ago)
 - [Update python-pulp-rpm createrepo_c requirement](https://github.com/theforeman/pulpcore-packaging/pull/1827) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (4 days ago)
-- [Drop flit_core requirement from mdurl](https://github.com/theforeman/pulpcore-packaging/pull/1826) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (4 days ago)
 
 #### 📜 My recent blog posts
 
