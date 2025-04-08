@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
+- [Add obsoletes for pulp packages with python3.11](https://github.com/theforeman/pulpcore-packaging/pull/1852) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
 - [Add obsoletes to python3.11 packages to ensure upgrade](https://github.com/theforeman/pulpcore-packaging/pull/1851) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
 - [Rebuild cachetools against python3.12](https://github.com/theforeman/pulpcore-packaging/pull/1850) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
 - [Rebuild google cloud packages against python3.12](https://github.com/theforeman/pulpcore-packaging/pull/1849) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
 - [Add new metapackages for python-django-storages](https://github.com/theforeman/pulpcore-packaging/pull/1848) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
-- [Add obsoletes for python3.11 packages](https://github.com/theforeman/pulpcore-packaging/pull/1845) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
 
 #### 📜 My recent blog posts
 
