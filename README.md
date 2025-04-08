@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
+- [Add new metapackages for python-django-storages](https://github.com/theforeman/pulpcore-packaging/pull/1848) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
 - [Add obsoletes for python3.11 packages](https://github.com/theforeman/pulpcore-packaging/pull/1845) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
 - [SAT-30614 - Add rescue handling for crc and network timeouts cherrypick](https://github.com/theforeman/foreman_rh_cloud/pull/974) on [theforeman/foreman_rh_cloud](https://github.com/theforeman/foreman_rh_cloud) (1 day ago)
 - [Add python-scikit-build-core](https://github.com/theforeman/pulpcore-packaging/pull/1836) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (4 days ago)
 - [Update python-pygobject to 3.48.2](https://github.com/theforeman/pulpcore-packaging/pull/1835) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (4 days ago)
-- [Rebuild python-meson-python against python3.12](https://github.com/theforeman/pulpcore-packaging/pull/1834) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (4 days ago)
 
 #### 📜 My recent blog posts
 
