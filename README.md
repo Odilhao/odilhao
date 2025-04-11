@@ -6,7 +6,7 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (1 day ago)
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (2 days ago)
 - [Odilhao/bootc-sway](https://github.com/Odilhao/bootc-sway) -  (3 weeks ago)
 - [RedHatInsights/iop-advisor-engine](https://github.com/RedHatInsights/iop-advisor-engine) -  (1 month ago)
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods. (3 months ago)
@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
-- [Add obsoletes to opentelemetry_distro_oltp meta package](https://github.com/theforeman/pulpcore-packaging/pull/1859) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
-- [Add obsolete for opentelemetry packages](https://github.com/theforeman/pulpcore-packaging/pull/1858) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
-- [Add epoch to pulp-ansible obsoletes](https://github.com/theforeman/pulpcore-packaging/pull/1857) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
-- [Add obsoletes python3.11](https://github.com/theforeman/pulpcore-packaging/pull/1856) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
-- [Add obsoletes for pulp packages with python3.11](https://github.com/theforeman/pulpcore-packaging/pull/1852) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (2 days ago)
+- [Add obsoletes to opentelemetry_distro_oltp meta package](https://github.com/theforeman/pulpcore-packaging/pull/1859) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (2 days ago)
+- [Add obsolete for opentelemetry packages](https://github.com/theforeman/pulpcore-packaging/pull/1858) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (2 days ago)
+- [Add epoch to pulp-ansible obsoletes](https://github.com/theforeman/pulpcore-packaging/pull/1857) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (2 days ago)
+- [Add obsoletes python3.11](https://github.com/theforeman/pulpcore-packaging/pull/1856) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (2 days ago)
+- [Add obsoletes for pulp packages with python3.11](https://github.com/theforeman/pulpcore-packaging/pull/1852) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (3 days ago)
 
 #### 📜 My recent blog posts
 
