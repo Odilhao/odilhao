@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
+- [Add python-uvloop](https://github.com/theforeman/pulpcore-packaging/pull/1876) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
 - [Update bandersnatch requires on pulp-python](https://github.com/theforeman/pulpcore-packaging/pull/1863) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 week ago)
 - [Update bandersnatch to 6.3.0](https://github.com/theforeman/pulpcore-packaging/pull/1862) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 week ago)
 - [Add obsoletes to opentelemetry_distro_oltp meta package](https://github.com/theforeman/pulpcore-packaging/pull/1859) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 week ago)
 - [Add obsolete for opentelemetry packages](https://github.com/theforeman/pulpcore-packaging/pull/1858) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 week ago)
-- [Add epoch to pulp-ansible obsoletes](https://github.com/theforeman/pulpcore-packaging/pull/1857) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 week ago)
 
 #### 📜 My recent blog posts
 
