@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
+- [Drop unneeded opentelemetry packages](https://github.com/theforeman/pulpcore-packaging/pull/1907) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
 - [Add pulpcore repo package](https://github.com/theforeman/pulpcore-packaging/pull/1902) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
 - [Drop obsolete from rubygem-pulp_container_client](https://github.com/theforeman/foreman-packaging/pull/11962) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (2 days ago)
 - [Add python-uvloop](https://github.com/theforeman/pulpcore-packaging/pull/1876) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (3 days ago)
 - [Update bandersnatch requires on pulp-python](https://github.com/theforeman/pulpcore-packaging/pull/1863) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (2 weeks ago)
-- [Update bandersnatch to 6.3.0](https://github.com/theforeman/pulpcore-packaging/pull/1862) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
