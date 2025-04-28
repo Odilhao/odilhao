@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
+- [Update golang version to 1.23](https://github.com/theforeman/foreman_ygg_worker/pull/23) on [theforeman/foreman_ygg_worker](https://github.com/theforeman/foreman_ygg_worker) (today)
+- [Update golang image to 1.23](https://github.com/adamruzicka/go-cross-build/pull/1) on [adamruzicka/go-cross-build](https://github.com/adamruzicka/go-cross-build) (today)
 - [Drop unneeded opentelemetry packages](https://github.com/theforeman/pulpcore-packaging/pull/1907) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (3 days ago)
 - [Add pulpcore repo package](https://github.com/theforeman/pulpcore-packaging/pull/1902) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (4 days ago)
 - [Drop obsolete from rubygem-pulp_container_client](https://github.com/theforeman/foreman-packaging/pull/11962) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (5 days ago)
-- [Add python-uvloop](https://github.com/theforeman/pulpcore-packaging/pull/1876) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (6 days ago)
-- [Update bandersnatch requires on pulp-python](https://github.com/theforeman/pulpcore-packaging/pull/1863) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
