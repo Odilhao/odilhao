@@ -6,7 +6,7 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (1 day ago)
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (today)
 - [theforeman/foreman_ygg_worker](https://github.com/theforeman/foreman_ygg_worker) - Foreman remote execution yggdrasil worker service (2 days ago)
 - [Odilhao/bootc-sway](https://github.com/Odilhao/bootc-sway) -  (1 month ago)
 - [RedHatInsights/iop-advisor-engine](https://github.com/RedHatInsights/iop-advisor-engine) -  (2 months ago)
@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
+- [Update pulp-container requirement for pyjwt](https://github.com/theforeman/pulpcore-packaging/pull/1913) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
+- [Add obsoletes to python-daemon for smooth upgrade](https://github.com/theforeman/foreman-packaging/pull/11976) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (today)
 - [Update requirements for Pulpcore and boto3](https://github.com/theforeman/pulpcore-packaging/pull/1909) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
 - [Update golang version to 1.23](https://github.com/theforeman/foreman_ygg_worker/pull/23) on [theforeman/foreman_ygg_worker](https://github.com/theforeman/foreman_ygg_worker) (2 days ago)
 - [Update golang image to 1.23](https://github.com/adamruzicka/go-cross-build/pull/1) on [adamruzicka/go-cross-build](https://github.com/adamruzicka/go-cross-build) (2 days ago)
-- [Drop unneeded opentelemetry packages](https://github.com/theforeman/pulpcore-packaging/pull/1907) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (5 days ago)
-- [Add pulpcore repo package](https://github.com/theforeman/pulpcore-packaging/pull/1902) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (6 days ago)
 
 #### 📜 My recent blog posts
 
