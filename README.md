@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
+- [Update foreman_ygg_worker to 0.3.1](https://github.com/theforeman/foreman-packaging/pull/11977) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (today)
 - [Update pulp-container requirement for pyjwt](https://github.com/theforeman/pulpcore-packaging/pull/1913) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
 - [Add obsoletes to python-daemon for smooth upgrade](https://github.com/theforeman/foreman-packaging/pull/11976) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (today)
 - [Update requirements for Pulpcore and boto3](https://github.com/theforeman/pulpcore-packaging/pull/1909) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
 - [Update golang version to 1.23](https://github.com/theforeman/foreman_ygg_worker/pull/23) on [theforeman/foreman_ygg_worker](https://github.com/theforeman/foreman_ygg_worker) (2 days ago)
-- [Update golang image to 1.23](https://github.com/adamruzicka/go-cross-build/pull/1) on [adamruzicka/go-cross-build](https://github.com/adamruzicka/go-cross-build) (2 days ago)
 
 #### 📜 My recent blog posts
 
