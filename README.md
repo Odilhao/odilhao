@@ -6,6 +6,7 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
+- [theforeman/pulpcore-oci-images](https://github.com/theforeman/pulpcore-oci-images) -  (today)
 - [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (today)
 - [theforeman/foreman_ygg_worker](https://github.com/theforeman/foreman_ygg_worker) - Foreman remote execution yggdrasil worker service (4 days ago)
 - [Odilhao/bootc-sway](https://github.com/Odilhao/bootc-sway) -  (1 month ago)
@@ -13,7 +14,6 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods. (4 months ago)
 - [Odilhao/odilhao](https://github.com/Odilhao/odilhao) -  (4 months ago)
 - [theforeman/theforeman-rel-eng](https://github.com/theforeman/theforeman-rel-eng) - Release engineering scripts (5 months ago)
-- [SatelliteQE/robottelo](https://github.com/SatelliteQE/robottelo) - Robottelo is a test suite that exercises The Foreman. (5 months ago)
 
 #### 🌱 My latest projects
 
