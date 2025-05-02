@@ -6,13 +6,13 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (1 day ago)
-- [theforeman/foreman_ygg_worker](https://github.com/theforeman/foreman_ygg_worker) - Foreman remote execution yggdrasil worker service (3 days ago)
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (2 days ago)
+- [theforeman/foreman_ygg_worker](https://github.com/theforeman/foreman_ygg_worker) - Foreman remote execution yggdrasil worker service (4 days ago)
 - [Odilhao/bootc-sway](https://github.com/Odilhao/bootc-sway) -  (1 month ago)
 - [RedHatInsights/iop-advisor-engine](https://github.com/RedHatInsights/iop-advisor-engine) -  (2 months ago)
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods. (4 months ago)
 - [Odilhao/odilhao](https://github.com/Odilhao/odilhao) -  (4 months ago)
-- [theforeman/theforeman-rel-eng](https://github.com/theforeman/theforeman-rel-eng) - Release engineering scripts (4 months ago)
+- [theforeman/theforeman-rel-eng](https://github.com/theforeman/theforeman-rel-eng) - Release engineering scripts (5 months ago)
 - [SatelliteQE/robottelo](https://github.com/SatelliteQE/robottelo) - Robottelo is a test suite that exercises The Foreman. (5 months ago)
 
 #### 🌱 My latest projects
@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
-- [Update foreman_ygg_worker to 0.3.1](https://github.com/theforeman/foreman-packaging/pull/11977) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (1 day ago)
-- [Update pulp-container requirement for pyjwt](https://github.com/theforeman/pulpcore-packaging/pull/1913) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
-- [Add obsoletes to python-daemon for smooth upgrade](https://github.com/theforeman/foreman-packaging/pull/11976) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (1 day ago)
-- [Update requirements for Pulpcore and boto3](https://github.com/theforeman/pulpcore-packaging/pull/1909) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
-- [Update golang version to 1.23](https://github.com/theforeman/foreman_ygg_worker/pull/23) on [theforeman/foreman_ygg_worker](https://github.com/theforeman/foreman_ygg_worker) (3 days ago)
+- [Update foreman_ygg_worker to 0.3.1](https://github.com/theforeman/foreman-packaging/pull/11977) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (2 days ago)
+- [Update pulp-container requirement for pyjwt](https://github.com/theforeman/pulpcore-packaging/pull/1913) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (2 days ago)
+- [Add obsoletes to python-daemon for smooth upgrade](https://github.com/theforeman/foreman-packaging/pull/11976) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (2 days ago)
+- [Update requirements for Pulpcore and boto3](https://github.com/theforeman/pulpcore-packaging/pull/1909) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (2 days ago)
+- [Update golang version to 1.23](https://github.com/theforeman/foreman_ygg_worker/pull/23) on [theforeman/foreman_ygg_worker](https://github.com/theforeman/foreman_ygg_worker) (4 days ago)
 
 #### 📜 My recent blog posts
 
