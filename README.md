@@ -6,8 +6,8 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
-- [theforeman/pulpcore-oci-images](https://github.com/theforeman/pulpcore-oci-images) -  (5 days ago)
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (5 days ago)
+- [theforeman/pulpcore-oci-images](https://github.com/theforeman/pulpcore-oci-images) -  (6 days ago)
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (6 days ago)
 - [theforeman/foreman_ygg_worker](https://github.com/theforeman/foreman_ygg_worker) - Foreman remote execution yggdrasil worker service (1 week ago)
 - [Odilhao/bootc-sway](https://github.com/Odilhao/bootc-sway) -  (1 month ago)
 - [RedHatInsights/iop-advisor-engine](https://github.com/RedHatInsights/iop-advisor-engine) -  (2 months ago)
@@ -25,7 +25,7 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
-- [Fix pulpcore-repos name on comps.xml](https://github.com/theforeman/pulpcore-packaging/pull/1915) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (5 days ago)
+- [Fix pulpcore-repos name on comps.xml](https://github.com/theforeman/pulpcore-packaging/pull/1915) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (6 days ago)
 - [Update foreman_ygg_worker to 0.3.1](https://github.com/theforeman/foreman-packaging/pull/11977) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (1 week ago)
 - [Update pulp-container requirement for pyjwt](https://github.com/theforeman/pulpcore-packaging/pull/1913) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 week ago)
 - [Add obsoletes to python-daemon for smooth upgrade](https://github.com/theforeman/foreman-packaging/pull/11976) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (1 week ago)
