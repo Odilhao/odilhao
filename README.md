@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
+- [Add Pulpcore 3.73 Config](https://github.com/theforeman/jenkins-jobs/pull/543) on [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) (today)
+- [Add Pulpcore 3.73 Config](https://github.com/theforeman/theforeman-rel-eng/pull/495) on [theforeman/theforeman-rel-eng](https://github.com/theforeman/theforeman-rel-eng) (today)
 - [Fix pulpcore-repos name on comps.xml](https://github.com/theforeman/pulpcore-packaging/pull/1915) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 week ago)
 - [Update foreman_ygg_worker to 0.3.1](https://github.com/theforeman/foreman-packaging/pull/11977) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (1 week ago)
 - [Update pulp-container requirement for pyjwt](https://github.com/theforeman/pulpcore-packaging/pull/1913) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 week ago)
-- [Add obsoletes to python-daemon for smooth upgrade](https://github.com/theforeman/foreman-packaging/pull/11976) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (1 week ago)
-- [Update requirements for Pulpcore and boto3](https://github.com/theforeman/pulpcore-packaging/pull/1909) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 week ago)
 
 #### 📜 My recent blog posts
 
