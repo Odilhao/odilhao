@@ -8,7 +8,7 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 - [theforeman/pulpcore-oci-images](https://github.com/theforeman/pulpcore-oci-images) -  (1 week ago)
 - [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (1 week ago)
-- [theforeman/foreman_ygg_worker](https://github.com/theforeman/foreman_ygg_worker) - Foreman remote execution yggdrasil worker service (1 week ago)
+- [theforeman/foreman_ygg_worker](https://github.com/theforeman/foreman_ygg_worker) - Foreman remote execution yggdrasil worker service (2 weeks ago)
 - [Odilhao/bootc-sway](https://github.com/Odilhao/bootc-sway) -  (1 month ago)
 - [RedHatInsights/iop-advisor-engine](https://github.com/RedHatInsights/iop-advisor-engine) -  (2 months ago)
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods. (4 months ago)
