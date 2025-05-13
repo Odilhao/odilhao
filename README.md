@@ -12,7 +12,7 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 - [Odilhao/bootc-sway](https://github.com/Odilhao/bootc-sway) -  (1 month ago)
 - [RedHatInsights/iop-advisor-engine](https://github.com/RedHatInsights/iop-advisor-engine) -  (2 months ago)
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods. (4 months ago)
-- [Odilhao/odilhao](https://github.com/Odilhao/odilhao) -  (4 months ago)
+- [Odilhao/odilhao](https://github.com/Odilhao/odilhao) -  (5 months ago)
 - [theforeman/theforeman-rel-eng](https://github.com/theforeman/theforeman-rel-eng) - Release engineering scripts (5 months ago)
 
 #### 🌱 My latest projects
@@ -25,8 +25,8 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
-- [Add Pulpcore 3.73 Config](https://github.com/theforeman/jenkins-jobs/pull/543) on [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) (today)
-- [Add Pulpcore 3.73 Config](https://github.com/theforeman/theforeman-rel-eng/pull/495) on [theforeman/theforeman-rel-eng](https://github.com/theforeman/theforeman-rel-eng) (today)
+- [Add Pulpcore 3.73 Config](https://github.com/theforeman/jenkins-jobs/pull/543) on [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) (1 day ago)
+- [Add Pulpcore 3.73 Config](https://github.com/theforeman/theforeman-rel-eng/pull/495) on [theforeman/theforeman-rel-eng](https://github.com/theforeman/theforeman-rel-eng) (1 day ago)
 - [Fix pulpcore-repos name on comps.xml](https://github.com/theforeman/pulpcore-packaging/pull/1915) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 week ago)
 - [Update foreman_ygg_worker to 0.3.1](https://github.com/theforeman/foreman-packaging/pull/11977) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (1 week ago)
 - [Update pulp-container requirement for pyjwt](https://github.com/theforeman/pulpcore-packaging/pull/1913) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 week ago)
