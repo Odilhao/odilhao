@@ -6,6 +6,7 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
+- [theforeman/puppet-pulpcore](https://github.com/theforeman/puppet-pulpcore) - Puppet module for setting up Pulp 3 as part of Katello installation (1 day ago)
 - [theforeman/theforeman-rel-eng](https://github.com/theforeman/theforeman-rel-eng) - Release engineering scripts (2 days ago)
 - [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) - Foreman&#39;s Jenkins Jobs configurations (2 days ago)
 - [theforeman/pulpcore-oci-images](https://github.com/theforeman/pulpcore-oci-images) -  (1 week ago)
@@ -13,7 +14,6 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 - [theforeman/foreman_ygg_worker](https://github.com/theforeman/foreman_ygg_worker) - Foreman remote execution yggdrasil worker service (2 weeks ago)
 - [Odilhao/bootc-sway](https://github.com/Odilhao/bootc-sway) -  (1 month ago)
 - [RedHatInsights/iop-advisor-engine](https://github.com/RedHatInsights/iop-advisor-engine) -  (2 months ago)
-- [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods. (4 months ago)
 
 #### 🌱 My latest projects
 
