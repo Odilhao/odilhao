@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
+- [Drop unversioned obsoletes from foreman_rh_cloud](https://github.com/theforeman/foreman-packaging/pull/12061) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (today)
 - [Add support for Pulpcore 3.73](https://github.com/theforeman/puppet-pulpcore/pull/382) on [theforeman/puppet-pulpcore](https://github.com/theforeman/puppet-pulpcore) (1 week ago)
 - [Add Pulpcore 3.73 Config](https://github.com/theforeman/jenkins-jobs/pull/543) on [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) (1 week ago)
 - [Add Pulpcore 3.73 Config](https://github.com/theforeman/theforeman-rel-eng/pull/495) on [theforeman/theforeman-rel-eng](https://github.com/theforeman/theforeman-rel-eng) (1 week ago)
 - [Fix pulpcore-repos name on comps.xml](https://github.com/theforeman/pulpcore-packaging/pull/1915) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (2 weeks ago)
-- [Update foreman_ygg_worker to 0.3.1](https://github.com/theforeman/foreman-packaging/pull/11977) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
