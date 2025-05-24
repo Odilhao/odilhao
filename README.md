@@ -6,7 +6,7 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
-- [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) - Foreman&#39;s Jenkins Jobs configurations (2 days ago)
+- [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) - Foreman&#39;s Jenkins Jobs configurations (3 days ago)
 - [theforeman/puppet-pulpcore](https://github.com/theforeman/puppet-pulpcore) - Puppet module for setting up Pulp 3 as part of Katello installation (1 week ago)
 - [theforeman/theforeman-rel-eng](https://github.com/theforeman/theforeman-rel-eng) - Release engineering scripts (1 week ago)
 - [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (3 weeks ago)
@@ -25,9 +25,9 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
-- [Add uv](https://github.com/theforeman/pulpcore-packaging/pull/1954) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
-- [Bring back Foreman 3.13 and Katello 4.15](https://github.com/theforeman/jenkins-jobs/pull/544) on [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) (2 days ago)
-- [Drop unversioned obsoletes from foreman_rh_cloud](https://github.com/theforeman/foreman-packaging/pull/12061) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (3 days ago)
+- [Add uv](https://github.com/theforeman/pulpcore-packaging/pull/1954) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (2 days ago)
+- [Bring back Foreman 3.13 and Katello 4.15](https://github.com/theforeman/jenkins-jobs/pull/544) on [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) (3 days ago)
+- [Drop unversioned obsoletes from foreman_rh_cloud](https://github.com/theforeman/foreman-packaging/pull/12061) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (4 days ago)
 - [Add support for Pulpcore 3.73](https://github.com/theforeman/puppet-pulpcore/pull/382) on [theforeman/puppet-pulpcore](https://github.com/theforeman/puppet-pulpcore) (1 week ago)
 - [Add Pulpcore 3.73 Config](https://github.com/theforeman/jenkins-jobs/pull/543) on [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) (1 week ago)
 
