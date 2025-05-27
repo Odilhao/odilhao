@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
+- [Release 11.4.1](https://github.com/theforeman/foreman_rh_cloud/pull/991) on [theforeman/foreman_rh_cloud](https://github.com/theforeman/foreman_rh_cloud) (today)
 - [Update boto3 requirement for s3transfer](https://github.com/theforeman/pulpcore-packaging/pull/1960) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
 - [Add uv](https://github.com/theforeman/pulpcore-packaging/pull/1954) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (5 days ago)
 - [Bring back Foreman 3.13 and Katello 4.15](https://github.com/theforeman/jenkins-jobs/pull/544) on [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) (6 days ago)
 - [Drop unversioned obsoletes from foreman_rh_cloud](https://github.com/theforeman/foreman-packaging/pull/12061) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (1 week ago)
-- [Add support for Pulpcore 3.73](https://github.com/theforeman/puppet-pulpcore/pull/382) on [theforeman/puppet-pulpcore](https://github.com/theforeman/puppet-pulpcore) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
