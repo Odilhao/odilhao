@@ -25,7 +25,7 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
-- [Tag image with project and Foreman tags](https://github.com/theforeman/pulpcore-oci-images/pull/1) on [theforeman/pulpcore-oci-images](https://github.com/theforeman/pulpcore-oci-images) (3 days ago)
+- [Tag image with project and Foreman tags](https://github.com/theforeman/pulpcore-oci-images/pull/1) on [theforeman/pulpcore-oci-images](https://github.com/theforeman/pulpcore-oci-images) (4 days ago)
 - [Add uv metapackage](https://github.com/theforeman/pulpcore-packaging/pull/1963) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 week ago)
 - [Update cjson to 1.7.18](https://github.com/theforeman/foreman-packaging/pull/12087) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (1 week ago)
 - [Release 11.4.1](https://github.com/theforeman/foreman_rh_cloud/pull/991) on [theforeman/foreman_rh_cloud](https://github.com/theforeman/foreman_rh_cloud) (1 week ago)
