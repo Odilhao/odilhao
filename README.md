@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
+- [Update from pulpcore-repo to pulpcore-release](https://github.com/theforeman/pulpcore-packaging/pull/2029) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
 - [Add new packages to parse before update](https://github.com/theforeman/pulpcore-packaging/pull/2020) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (3 days ago)
 - [Update python-cryptography requirement](https://github.com/theforeman/pulpcore-packaging/pull/2016) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (5 days ago)
 - [Update python-setuptools-rust to 1.11.1](https://github.com/theforeman/pulpcore-packaging/pull/2005) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (6 days ago)
 - [Tag image with project and Foreman tags](https://github.com/theforeman/pulpcore-oci-images/pull/1) on [theforeman/pulpcore-oci-images](https://github.com/theforeman/pulpcore-oci-images) (1 week ago)
-- [Add uv metapackage](https://github.com/theforeman/pulpcore-packaging/pull/1963) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
