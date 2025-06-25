@@ -6,6 +6,7 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
+- [theforeman/kafo](https://github.com/theforeman/kafo) - A gem for making installations based on puppet user friendly (today)
 - [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (1 week ago)
 - [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) - Foreman&#39;s Jenkins Jobs configurations (1 month ago)
 - [theforeman/puppet-pulpcore](https://github.com/theforeman/puppet-pulpcore) - Puppet module for setting up Pulp 3 as part of Katello installation (1 month ago)
@@ -13,7 +14,6 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 - [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) -  (1 month ago)
 - [theforeman/foreman_ygg_worker](https://github.com/theforeman/foreman_ygg_worker) - Foreman remote execution yggdrasil worker service (1 month ago)
 - [Odilhao/bootc-sway](https://github.com/Odilhao/bootc-sway) -  (3 months ago)
-- [RedHatInsights/iop-advisor-engine](https://github.com/RedHatInsights/iop-advisor-engine) -  (4 months ago)
 
 #### 🌱 My latest projects
 
@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
+- [Update rubygem-kafo to 7.6.1](https://github.com/theforeman/foreman-packaging/pull/12156) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (today)
+- [Release 7.6.1](https://github.com/theforeman/kafo/pull/386) on [theforeman/kafo](https://github.com/theforeman/kafo) (today)
 - [Important commit about how to pronounce its name](https://github.com/theforeman/foremanctl/pull/200) on [theforeman/foremanctl](https://github.com/theforeman/foremanctl) (today)
 - [Sync Pulp packages from Dev to 3.37 branch](https://github.com/theforeman/pulpcore-packaging/pull/2044) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
 - [Update packages for Pulpcore 3.73](https://github.com/theforeman/pulpcore-packaging/pull/2043) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
-- [Update from pulpcore-repo to pulpcore-release](https://github.com/theforeman/pulpcore-packaging/pull/2029) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 week ago)
-- [Add new packages to parse before update](https://github.com/theforeman/pulpcore-packaging/pull/2020) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 week ago)
 
 #### 📜 My recent blog posts
 
