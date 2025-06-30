@@ -6,8 +6,8 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
-- [theforeman/kafo](https://github.com/theforeman/kafo) - A gem for making installations based on puppet user friendly (4 days ago)
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (1 week ago)
+- [theforeman/kafo](https://github.com/theforeman/kafo) - A gem for making installations based on puppet user friendly (5 days ago)
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (2 weeks ago)
 - [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) - Foreman&#39;s Jenkins Jobs configurations (1 month ago)
 - [theforeman/puppet-pulpcore](https://github.com/theforeman/puppet-pulpcore) - Puppet module for setting up Pulp 3 as part of Katello installation (1 month ago)
 - [theforeman/theforeman-rel-eng](https://github.com/theforeman/theforeman-rel-eng) - Release engineering scripts (1 month ago)
@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
-- [Update rubygem-kafo to 7.6.1](https://github.com/theforeman/foreman-packaging/pull/12156) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (4 days ago)
-- [Release 7.6.1](https://github.com/theforeman/kafo/pull/386) on [theforeman/kafo](https://github.com/theforeman/kafo) (4 days ago)
-- [Important commit about how to pronounce its name](https://github.com/theforeman/foremanctl/pull/200) on [theforeman/foremanctl](https://github.com/theforeman/foremanctl) (4 days ago)
-- [Sync Pulp packages from Dev to 3.37 branch](https://github.com/theforeman/pulpcore-packaging/pull/2044) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (5 days ago)
-- [Update packages for Pulpcore 3.73](https://github.com/theforeman/pulpcore-packaging/pull/2043) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (5 days ago)
+- [Update rubygem-kafo to 7.6.1](https://github.com/theforeman/foreman-packaging/pull/12156) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (5 days ago)
+- [Release 7.6.1](https://github.com/theforeman/kafo/pull/386) on [theforeman/kafo](https://github.com/theforeman/kafo) (5 days ago)
+- [Important commit about how to pronounce its name](https://github.com/theforeman/foremanctl/pull/200) on [theforeman/foremanctl](https://github.com/theforeman/foremanctl) (5 days ago)
+- [Sync Pulp packages from Dev to 3.37 branch](https://github.com/theforeman/pulpcore-packaging/pull/2044) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (6 days ago)
+- [Update packages for Pulpcore 3.73](https://github.com/theforeman/pulpcore-packaging/pull/2043) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (6 days ago)
 
 #### 📜 My recent blog posts
 
