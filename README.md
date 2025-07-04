@@ -6,7 +6,7 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
-- [theforeman/theforeman-rel-eng](https://github.com/theforeman/theforeman-rel-eng) - Release engineering scripts (1 day ago)
+- [theforeman/theforeman-rel-eng](https://github.com/theforeman/theforeman-rel-eng) - Release engineering scripts (2 days ago)
 - [theforeman/kafo](https://github.com/theforeman/kafo) - A gem for making installations based on puppet user friendly (1 week ago)
 - [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (2 weeks ago)
 - [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) - Foreman&#39;s Jenkins Jobs configurations (1 month ago)
@@ -25,8 +25,8 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
-- [Release 4.16.2](https://github.com/theforeman/foreman-packaging/pull/12171) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (1 day ago)
-- [Release Katello 4.16.2](https://github.com/theforeman/theforeman-rel-eng/pull/502) on [theforeman/theforeman-rel-eng](https://github.com/theforeman/theforeman-rel-eng) (1 day ago)
+- [Release 4.16.2](https://github.com/theforeman/foreman-packaging/pull/12171) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (2 days ago)
+- [Release Katello 4.16.2](https://github.com/theforeman/theforeman-rel-eng/pull/502) on [theforeman/theforeman-rel-eng](https://github.com/theforeman/theforeman-rel-eng) (2 days ago)
 - [Update rubygem-kafo to 7.6.1](https://github.com/theforeman/foreman-packaging/pull/12156) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (1 week ago)
 - [Release 7.6.1](https://github.com/theforeman/kafo/pull/386) on [theforeman/kafo](https://github.com/theforeman/kafo) (1 week ago)
 - [Important commit about how to pronounce its name](https://github.com/theforeman/foremanctl/pull/200) on [theforeman/foremanctl](https://github.com/theforeman/foremanctl) (1 week ago)
