@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
+- [Refactor find package.py](https://github.com/theforeman/pulpcore-packaging/pull/2065) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
 - [Release 4.16.2](https://github.com/theforeman/foreman-packaging/pull/12171) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (4 days ago)
 - [Release Katello 4.16.2](https://github.com/theforeman/theforeman-rel-eng/pull/502) on [theforeman/theforeman-rel-eng](https://github.com/theforeman/theforeman-rel-eng) (4 days ago)
 - [Update rubygem-kafo to 7.6.1](https://github.com/theforeman/foreman-packaging/pull/12156) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (1 week ago)
 - [Release 7.6.1](https://github.com/theforeman/kafo/pull/386) on [theforeman/kafo](https://github.com/theforeman/kafo) (1 week ago)
-- [Important commit about how to pronounce its name](https://github.com/theforeman/foremanctl/pull/200) on [theforeman/foremanctl](https://github.com/theforeman/foremanctl) (1 week ago)
 
 #### 📜 My recent blog posts
 
