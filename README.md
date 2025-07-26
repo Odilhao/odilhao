@@ -25,7 +25,7 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
-- [Add artifact quadlet unit type support](https://github.com/containers/podman/pull/26624) on [containers/podman](https://github.com/containers/podman) (1 week ago)
+- [Add artifact quadlet unit type support](https://github.com/containers/podman/pull/26624) on [containers/podman](https://github.com/containers/podman) (2 weeks ago)
 - [Release 11.4.2](https://github.com/theforeman/foreman_rh_cloud/pull/1023) on [theforeman/foreman_rh_cloud](https://github.com/theforeman/foreman_rh_cloud) (2 weeks ago)
 - [Refactor find package.py](https://github.com/theforeman/pulpcore-packaging/pull/2065) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (2 weeks ago)
 - [Release 4.16.2](https://github.com/theforeman/foreman-packaging/pull/12171) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (3 weeks ago)
@@ -33,7 +33,7 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 📜 My recent blog posts
 
-- [Using Container Images to Run your Desktop](https://odilon.dev/2024/10/29/building-a-desktop-with-bootc/) (8 months ago)
+- [Using Container Images to Run your Desktop](https://odilon.dev/2024/10/29/building-a-desktop-with-bootc/) (9 months ago)
 - [Running HomeAssistant with Podman](https://odilon.dev/2022/12/20/homeassistant-with-podman/) (2 years ago)
 - [Usando podman com Systemd](https://odilon.dev/2020/06/30/usando-podman-com-systemd/) (5 years ago)
 - [Montando ConfigMap como Script](https://odilon.dev/2020/03/08/montando-configmap-como-script/) (5 years ago)
