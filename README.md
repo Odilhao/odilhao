@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
+- [Release 4.16.3](https://github.com/theforeman/foreman-packaging/pull/12302) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (today)
+- [Release Katello 4.16.2](https://github.com/theforeman/theforeman-rel-eng/pull/504) on [theforeman/theforeman-rel-eng](https://github.com/theforeman/theforeman-rel-eng) (today)
 - [Add artifact quadlet unit type support](https://github.com/containers/podman/pull/26624) on [containers/podman](https://github.com/containers/podman) (2 weeks ago)
 - [Release 11.4.2](https://github.com/theforeman/foreman_rh_cloud/pull/1023) on [theforeman/foreman_rh_cloud](https://github.com/theforeman/foreman_rh_cloud) (2 weeks ago)
 - [Refactor find package.py](https://github.com/theforeman/pulpcore-packaging/pull/2065) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (3 weeks ago)
-- [Release 4.16.2](https://github.com/theforeman/foreman-packaging/pull/12171) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (4 weeks ago)
-- [Release Katello 4.16.2](https://github.com/theforeman/theforeman-rel-eng/pull/502) on [theforeman/theforeman-rel-eng](https://github.com/theforeman/theforeman-rel-eng) (4 weeks ago)
 
 #### 📜 My recent blog posts
 
