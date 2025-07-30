@@ -7,7 +7,7 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 #### 👷 Check out what I'm currently working on
 
 - [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (3 weeks ago)
-- [theforeman/theforeman-rel-eng](https://github.com/theforeman/theforeman-rel-eng) - Release engineering scripts (3 weeks ago)
+- [theforeman/theforeman-rel-eng](https://github.com/theforeman/theforeman-rel-eng) - Release engineering scripts (4 weeks ago)
 - [theforeman/kafo](https://github.com/theforeman/kafo) - A gem for making installations based on puppet user friendly (1 month ago)
 - [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) - Foreman&#39;s Jenkins Jobs configurations (2 months ago)
 - [theforeman/puppet-pulpcore](https://github.com/theforeman/puppet-pulpcore) - Puppet module for setting up Pulp 3 as part of Katello installation (2 months ago)
@@ -28,8 +28,8 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 - [Add artifact quadlet unit type support](https://github.com/containers/podman/pull/26624) on [containers/podman](https://github.com/containers/podman) (2 weeks ago)
 - [Release 11.4.2](https://github.com/theforeman/foreman_rh_cloud/pull/1023) on [theforeman/foreman_rh_cloud](https://github.com/theforeman/foreman_rh_cloud) (2 weeks ago)
 - [Refactor find package.py](https://github.com/theforeman/pulpcore-packaging/pull/2065) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (3 weeks ago)
-- [Release 4.16.2](https://github.com/theforeman/foreman-packaging/pull/12171) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (3 weeks ago)
-- [Release Katello 4.16.2](https://github.com/theforeman/theforeman-rel-eng/pull/502) on [theforeman/theforeman-rel-eng](https://github.com/theforeman/theforeman-rel-eng) (3 weeks ago)
+- [Release 4.16.2](https://github.com/theforeman/foreman-packaging/pull/12171) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (4 weeks ago)
+- [Release Katello 4.16.2](https://github.com/theforeman/theforeman-rel-eng/pull/502) on [theforeman/theforeman-rel-eng](https://github.com/theforeman/theforeman-rel-eng) (4 weeks ago)
 
 #### 📜 My recent blog posts
 
