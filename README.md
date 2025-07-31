@@ -11,7 +11,7 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 - [theforeman/kafo](https://github.com/theforeman/kafo) - A gem for making installations based on puppet user friendly (1 month ago)
 - [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) - Foreman&#39;s Jenkins Jobs configurations (2 months ago)
 - [theforeman/puppet-pulpcore](https://github.com/theforeman/puppet-pulpcore) - Puppet module for setting up Pulp 3 as part of Katello installation (2 months ago)
-- [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) -  (2 months ago)
+- [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) -  (3 months ago)
 - [theforeman/foreman_ygg_worker](https://github.com/theforeman/foreman_ygg_worker) - Foreman remote execution yggdrasil worker service (3 months ago)
 - [Odilhao/bootc-sway](https://github.com/Odilhao/bootc-sway) -  (4 months ago)
 
@@ -25,8 +25,8 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
-- [Release 4.16.3](https://github.com/theforeman/foreman-packaging/pull/12302) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (today)
-- [Release Katello 4.16.2](https://github.com/theforeman/theforeman-rel-eng/pull/504) on [theforeman/theforeman-rel-eng](https://github.com/theforeman/theforeman-rel-eng) (today)
+- [Release 4.16.3](https://github.com/theforeman/foreman-packaging/pull/12302) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (1 day ago)
+- [Release Katello 4.16.2](https://github.com/theforeman/theforeman-rel-eng/pull/504) on [theforeman/theforeman-rel-eng](https://github.com/theforeman/theforeman-rel-eng) (1 day ago)
 - [Add artifact quadlet unit type support](https://github.com/containers/podman/pull/26624) on [containers/podman](https://github.com/containers/podman) (2 weeks ago)
 - [Release 11.4.2](https://github.com/theforeman/foreman_rh_cloud/pull/1023) on [theforeman/foreman_rh_cloud](https://github.com/theforeman/foreman_rh_cloud) (2 weeks ago)
 - [Refactor find package.py](https://github.com/theforeman/pulpcore-packaging/pull/2065) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (3 weeks ago)
