@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
+- [Exclude uuid bin to avoid upgrade issues with the binary from other p…](https://github.com/theforeman/foreman-packaging/pull/12385) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (today)
+- [Exclude uuid bin to avoid upgrade issues with the binary from other p…](https://github.com/theforeman/foreman-packaging/pull/12384) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (today)
 - [Revert &#34;drop libexec wrappers, nobody uses them anymore&#34;](https://github.com/theforeman/pulpcore-packaging/pull/2104) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (4 days ago)
 - [Katello 4.18 release picks](https://github.com/theforeman/pulpcore-packaging/pull/2103) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (5 days ago)
 - [Update Katello-repos with Candlepin 4.6](https://github.com/theforeman/foreman-packaging/pull/12373) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (5 days ago)
-- [Update Katello repos to Pulpcore 3.73](https://github.com/theforeman/foreman-packaging/pull/12372) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (5 days ago)
-- [Fix Katello 4.18 version for RC1 release](https://github.com/theforeman/theforeman-rel-eng/pull/511) on [theforeman/theforeman-rel-eng](https://github.com/theforeman/theforeman-rel-eng) (5 days ago)
 
 #### 📜 My recent blog posts
 
