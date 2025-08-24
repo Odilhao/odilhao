@@ -9,7 +9,7 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 - [theforeman/theforeman-rel-eng](https://github.com/theforeman/theforeman-rel-eng) - Release engineering scripts (1 week ago)
 - [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) -  (2 weeks ago)
 - [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (1 month ago)
-- [theforeman/kafo](https://github.com/theforeman/kafo) - A gem for making installations based on puppet user friendly (1 month ago)
+- [theforeman/kafo](https://github.com/theforeman/kafo) - A gem for making installations based on puppet user friendly (2 months ago)
 - [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) - Foreman&#39;s Jenkins Jobs configurations (3 months ago)
 - [theforeman/puppet-pulpcore](https://github.com/theforeman/puppet-pulpcore) - Puppet module for setting up Pulp 3 as part of Katello installation (3 months ago)
 - [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) -  (3 months ago)
@@ -25,8 +25,8 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
-- [Exclude uuid bin to avoid upgrade issues with the binary from other p…](https://github.com/theforeman/foreman-packaging/pull/12385) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (4 days ago)
-- [Exclude uuid bin to avoid upgrade issues with the binary from other p…](https://github.com/theforeman/foreman-packaging/pull/12384) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (4 days ago)
+- [Exclude uuid bin to avoid upgrade issues with the binary from other p…](https://github.com/theforeman/foreman-packaging/pull/12385) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (5 days ago)
+- [Exclude uuid bin to avoid upgrade issues with the binary from other p…](https://github.com/theforeman/foreman-packaging/pull/12384) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (5 days ago)
 - [Revert &#34;drop libexec wrappers, nobody uses them anymore&#34;](https://github.com/theforeman/pulpcore-packaging/pull/2104) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 week ago)
 - [Katello 4.18 release picks](https://github.com/theforeman/pulpcore-packaging/pull/2103) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 week ago)
 - [Update Katello-repos with Candlepin 4.6](https://github.com/theforeman/foreman-packaging/pull/12373) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (1 week ago)
