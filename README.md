@@ -11,7 +11,7 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 - [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (2 months ago)
 - [theforeman/kafo](https://github.com/theforeman/kafo) - A gem for making installations based on puppet user friendly (2 months ago)
 - [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) - Foreman&#39;s Jenkins Jobs configurations (3 months ago)
-- [theforeman/puppet-pulpcore](https://github.com/theforeman/puppet-pulpcore) - Puppet module for setting up Pulp 3 as part of Katello installation (3 months ago)
+- [theforeman/puppet-pulpcore](https://github.com/theforeman/puppet-pulpcore) - Puppet module for setting up Pulp 3 as part of Katello installation (4 months ago)
 - [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) -  (4 months ago)
 - [theforeman/foreman_ygg_worker](https://github.com/theforeman/foreman_ygg_worker) - Foreman remote execution yggdrasil worker service (4 months ago)
 
@@ -25,9 +25,9 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
-- [Update cJson to fix CVE-2025-57052 ](https://github.com/theforeman/foreman-packaging/pull/12454) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (today)
-- [Update cJson to fix CVE-2025-57052](https://github.com/theforeman/foreman-packaging/pull/12453) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (today)
-- [Update cJson to fix CVE-2025-57052](https://github.com/theforeman/foreman-packaging/pull/12452) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (today)
+- [Update cJson to fix CVE-2025-57052 ](https://github.com/theforeman/foreman-packaging/pull/12454) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (1 day ago)
+- [Update cJson to fix CVE-2025-57052](https://github.com/theforeman/foreman-packaging/pull/12453) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (1 day ago)
+- [Update cJson to fix CVE-2025-57052](https://github.com/theforeman/foreman-packaging/pull/12452) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (1 day ago)
 - [Exclude uuid bin to avoid upgrade issues with the binary from other p…](https://github.com/theforeman/foreman-packaging/pull/12385) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (3 weeks ago)
 - [Exclude uuid bin to avoid upgrade issues with the binary from other p…](https://github.com/theforeman/foreman-packaging/pull/12384) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (3 weeks ago)
 
