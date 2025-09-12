@@ -25,10 +25,10 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
-- [Update libcomps to 0.1.23](https://github.com/theforeman/pulpcore-packaging/pull/2134) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
-- [Update cJson to fix CVE-2025-57052 ](https://github.com/theforeman/foreman-packaging/pull/12454) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (2 days ago)
-- [Update cJson to fix CVE-2025-57052](https://github.com/theforeman/foreman-packaging/pull/12453) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (2 days ago)
-- [Update cJson to fix CVE-2025-57052](https://github.com/theforeman/foreman-packaging/pull/12452) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (2 days ago)
+- [Update libcomps to 0.1.23](https://github.com/theforeman/pulpcore-packaging/pull/2134) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
+- [Update cJson to fix CVE-2025-57052 ](https://github.com/theforeman/foreman-packaging/pull/12454) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (3 days ago)
+- [Update cJson to fix CVE-2025-57052](https://github.com/theforeman/foreman-packaging/pull/12453) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (3 days ago)
+- [Update cJson to fix CVE-2025-57052](https://github.com/theforeman/foreman-packaging/pull/12452) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (3 days ago)
 - [Exclude uuid bin to avoid upgrade issues with the binary from other p…](https://github.com/theforeman/foreman-packaging/pull/12385) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (3 weeks ago)
 
 #### 📜 My recent blog posts
