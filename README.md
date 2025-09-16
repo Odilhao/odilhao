@@ -6,7 +6,7 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (5 days ago)
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (today)
 - [theforeman/theforeman-rel-eng](https://github.com/theforeman/theforeman-rel-eng) - Release engineering scripts (1 month ago)
 - [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) -  (1 month ago)
 - [theforeman/kafo](https://github.com/theforeman/kafo) - A gem for making installations based on puppet user friendly (2 months ago)
@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
+- [Fix repoclosure for pulp-rpm and boto3](https://github.com/theforeman/pulpcore-packaging/pull/2141) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
 - [Update libcomps to 0.1.23](https://github.com/theforeman/pulpcore-packaging/pull/2138) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
 - [Add condition to CMP0148 cmake_policy](https://github.com/rpm-software-management/libcomps/pull/135) on [rpm-software-management/libcomps](https://github.com/rpm-software-management/libcomps) (4 days ago)
 - [Update libcomps to 0.1.23](https://github.com/theforeman/pulpcore-packaging/pull/2134) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (5 days ago)
 - [Update cJson to fix CVE-2025-57052 ](https://github.com/theforeman/foreman-packaging/pull/12454) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (1 week ago)
-- [Update cJson to fix CVE-2025-57052](https://github.com/theforeman/foreman-packaging/pull/12453) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (1 week ago)
 
 #### 📜 My recent blog posts
 
