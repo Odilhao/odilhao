@@ -6,9 +6,9 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (5 days ago)
 - [theforeman/theforeman-rel-eng](https://github.com/theforeman/theforeman-rel-eng) - Release engineering scripts (1 month ago)
 - [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) -  (1 month ago)
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (2 months ago)
 - [theforeman/kafo](https://github.com/theforeman/kafo) - A gem for making installations based on puppet user friendly (2 months ago)
 - [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) - Foreman&#39;s Jenkins Jobs configurations (3 months ago)
 - [theforeman/puppet-pulpcore](https://github.com/theforeman/puppet-pulpcore) - Puppet module for setting up Pulp 3 as part of Katello installation (4 months ago)
@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
-- [Add condition to CMP0148 cmake_policy](https://github.com/rpm-software-management/libcomps/pull/135) on [rpm-software-management/libcomps](https://github.com/rpm-software-management/libcomps) (3 days ago)
-- [Update libcomps to 0.1.23](https://github.com/theforeman/pulpcore-packaging/pull/2134) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (4 days ago)
-- [Update cJson to fix CVE-2025-57052 ](https://github.com/theforeman/foreman-packaging/pull/12454) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (6 days ago)
-- [Update cJson to fix CVE-2025-57052](https://github.com/theforeman/foreman-packaging/pull/12453) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (6 days ago)
-- [Update cJson to fix CVE-2025-57052](https://github.com/theforeman/foreman-packaging/pull/12452) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (6 days ago)
+- [Add condition to CMP0148 cmake_policy](https://github.com/rpm-software-management/libcomps/pull/135) on [rpm-software-management/libcomps](https://github.com/rpm-software-management/libcomps) (4 days ago)
+- [Update libcomps to 0.1.23](https://github.com/theforeman/pulpcore-packaging/pull/2134) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (5 days ago)
+- [Update cJson to fix CVE-2025-57052 ](https://github.com/theforeman/foreman-packaging/pull/12454) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (1 week ago)
+- [Update cJson to fix CVE-2025-57052](https://github.com/theforeman/foreman-packaging/pull/12453) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (1 week ago)
+- [Update cJson to fix CVE-2025-57052](https://github.com/theforeman/foreman-packaging/pull/12452) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (1 week ago)
 
 #### 📜 My recent blog posts
 
