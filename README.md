@@ -6,7 +6,7 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (3 days ago)
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (4 days ago)
 - [theforeman/theforeman-rel-eng](https://github.com/theforeman/theforeman-rel-eng) - Release engineering scripts (1 month ago)
 - [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) -  (1 month ago)
 - [theforeman/kafo](https://github.com/theforeman/kafo) - A gem for making installations based on puppet user friendly (2 months ago)
@@ -25,9 +25,9 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
-- [Update pulp-rpm to 3.29.7 and pulp-ansible to 0.24.7](https://github.com/theforeman/pulpcore-packaging/pull/2144) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (2 days ago)
-- [Fix repoclosure for pulp-rpm and boto3](https://github.com/theforeman/pulpcore-packaging/pull/2141) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (3 days ago)
-- [Update libcomps to 0.1.23](https://github.com/theforeman/pulpcore-packaging/pull/2138) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (3 days ago)
+- [Update pulp-rpm to 3.29.7 and pulp-ansible to 0.24.7](https://github.com/theforeman/pulpcore-packaging/pull/2144) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (3 days ago)
+- [Fix repoclosure for pulp-rpm and boto3](https://github.com/theforeman/pulpcore-packaging/pull/2141) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (4 days ago)
+- [Update libcomps to 0.1.23](https://github.com/theforeman/pulpcore-packaging/pull/2138) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (4 days ago)
 - [Add condition to CMP0148 cmake_policy](https://github.com/rpm-software-management/libcomps/pull/135) on [rpm-software-management/libcomps](https://github.com/rpm-software-management/libcomps) (1 week ago)
 - [Update libcomps to 0.1.23](https://github.com/theforeman/pulpcore-packaging/pull/2134) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 week ago)
 
