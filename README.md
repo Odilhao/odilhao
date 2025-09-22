@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
+- [Branch Pulpcore to 3.85](https://github.com/theforeman/pulpcore-packaging/pull/2146) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
 - [Update pulp-rpm to 3.29.7 and pulp-ansible to 0.24.7](https://github.com/theforeman/pulpcore-packaging/pull/2144) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (5 days ago)
 - [Fix repoclosure for pulp-rpm and boto3](https://github.com/theforeman/pulpcore-packaging/pull/2141) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (6 days ago)
 - [Update libcomps to 0.1.23](https://github.com/theforeman/pulpcore-packaging/pull/2138) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (6 days ago)
 - [Add condition to CMP0148 cmake_policy](https://github.com/rpm-software-management/libcomps/pull/135) on [rpm-software-management/libcomps](https://github.com/rpm-software-management/libcomps) (1 week ago)
-- [Update libcomps to 0.1.23](https://github.com/theforeman/pulpcore-packaging/pull/2134) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 week ago)
 
 #### 📜 My recent blog posts
 
