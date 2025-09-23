@@ -6,11 +6,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (today)
-- [theforeman/pulp_smart_proxy](https://github.com/theforeman/pulp_smart_proxy) -  (today)
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (1 day ago)
+- [theforeman/pulp_smart_proxy](https://github.com/theforeman/pulp_smart_proxy) -  (1 day ago)
 - [theforeman/theforeman-rel-eng](https://github.com/theforeman/theforeman-rel-eng) - Release engineering scripts (1 month ago)
 - [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) -  (1 month ago)
-- [theforeman/kafo](https://github.com/theforeman/kafo) - A gem for making installations based on puppet user friendly (2 months ago)
+- [theforeman/kafo](https://github.com/theforeman/kafo) - A gem for making installations based on puppet user friendly (3 months ago)
 - [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) - Foreman&#39;s Jenkins Jobs configurations (4 months ago)
 - [theforeman/puppet-pulpcore](https://github.com/theforeman/puppet-pulpcore) - Puppet module for setting up Pulp 3 as part of Katello installation (4 months ago)
 - [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) -  (4 months ago)
@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
-- [Add support for Pulpcore &lt; 3.100](https://github.com/theforeman/pulp_smart_proxy/pull/44) on [theforeman/pulp_smart_proxy](https://github.com/theforeman/pulp_smart_proxy) (today)
-- [Branch Pulpcore to 3.85](https://github.com/theforeman/pulpcore-packaging/pull/2146) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
-- [Update pulp-rpm to 3.29.7 and pulp-ansible to 0.24.7](https://github.com/theforeman/pulpcore-packaging/pull/2144) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (5 days ago)
-- [Fix repoclosure for pulp-rpm and boto3](https://github.com/theforeman/pulpcore-packaging/pull/2141) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (6 days ago)
-- [Update libcomps to 0.1.23](https://github.com/theforeman/pulpcore-packaging/pull/2138) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (6 days ago)
+- [Add support for Pulpcore &lt; 3.100](https://github.com/theforeman/pulp_smart_proxy/pull/44) on [theforeman/pulp_smart_proxy](https://github.com/theforeman/pulp_smart_proxy) (1 day ago)
+- [Branch Pulpcore to 3.85](https://github.com/theforeman/pulpcore-packaging/pull/2146) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
+- [Update pulp-rpm to 3.29.7 and pulp-ansible to 0.24.7](https://github.com/theforeman/pulpcore-packaging/pull/2144) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (6 days ago)
+- [Fix repoclosure for pulp-rpm and boto3](https://github.com/theforeman/pulpcore-packaging/pull/2141) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 week ago)
+- [Update libcomps to 0.1.23](https://github.com/theforeman/pulpcore-packaging/pull/2138) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 week ago)
 
 #### 📜 My recent blog posts
 
