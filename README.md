@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
+- [Add support for Pulpcore 3.85](https://github.com/theforeman/puppet-pulpcore/pull/392) on [theforeman/puppet-pulpcore](https://github.com/theforeman/puppet-pulpcore) (today)
 - [Allow newer pulpcore on python-pulp-deb](https://github.com/theforeman/pulpcore-packaging/pull/2179) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
 - [Add python-nh3](https://github.com/theforeman/pulpcore-packaging/pull/2178) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
 - [Add support for Pulpcore &lt; 3.100](https://github.com/theforeman/pulp_smart_proxy/pull/44) on [theforeman/pulp_smart_proxy](https://github.com/theforeman/pulp_smart_proxy) (1 day ago)
 - [Branch Pulpcore to 3.85](https://github.com/theforeman/pulpcore-packaging/pull/2146) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
-- [Update pulp-rpm to 3.29.7 and pulp-ansible to 0.24.7](https://github.com/theforeman/pulpcore-packaging/pull/2144) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (6 days ago)
 
 #### 📜 My recent blog posts
 
