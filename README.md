@@ -6,8 +6,8 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (today)
-- [theforeman/pulp_smart_proxy](https://github.com/theforeman/pulp_smart_proxy) -  (1 day ago)
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (1 day ago)
+- [theforeman/pulp_smart_proxy](https://github.com/theforeman/pulp_smart_proxy) -  (2 days ago)
 - [theforeman/theforeman-rel-eng](https://github.com/theforeman/theforeman-rel-eng) - Release engineering scripts (1 month ago)
 - [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) -  (1 month ago)
 - [theforeman/kafo](https://github.com/theforeman/kafo) - A gem for making installations based on puppet user friendly (3 months ago)
@@ -25,15 +25,15 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
-- [Add support for Pulpcore 3.85](https://github.com/theforeman/puppet-pulpcore/pull/392) on [theforeman/puppet-pulpcore](https://github.com/theforeman/puppet-pulpcore) (today)
-- [Allow newer pulpcore on python-pulp-deb](https://github.com/theforeman/pulpcore-packaging/pull/2179) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
-- [Add python-nh3](https://github.com/theforeman/pulpcore-packaging/pull/2178) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
-- [Add support for Pulpcore &lt; 3.100](https://github.com/theforeman/pulp_smart_proxy/pull/44) on [theforeman/pulp_smart_proxy](https://github.com/theforeman/pulp_smart_proxy) (1 day ago)
-- [Branch Pulpcore to 3.85](https://github.com/theforeman/pulpcore-packaging/pull/2146) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
+- [Add support for Pulpcore 3.85](https://github.com/theforeman/puppet-pulpcore/pull/392) on [theforeman/puppet-pulpcore](https://github.com/theforeman/puppet-pulpcore) (1 day ago)
+- [Allow newer pulpcore on python-pulp-deb](https://github.com/theforeman/pulpcore-packaging/pull/2179) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
+- [Add python-nh3](https://github.com/theforeman/pulpcore-packaging/pull/2178) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
+- [Add support for Pulpcore &lt; 3.100](https://github.com/theforeman/pulp_smart_proxy/pull/44) on [theforeman/pulp_smart_proxy](https://github.com/theforeman/pulp_smart_proxy) (2 days ago)
+- [Branch Pulpcore to 3.85](https://github.com/theforeman/pulpcore-packaging/pull/2146) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (2 days ago)
 
 #### 📜 My recent blog posts
 
-- [Using Container Images to Run your Desktop](https://odilon.dev/2024/10/29/building-a-desktop-with-bootc/) (10 months ago)
+- [Using Container Images to Run your Desktop](https://odilon.dev/2024/10/29/building-a-desktop-with-bootc/) (11 months ago)
 - [Running HomeAssistant with Podman](https://odilon.dev/2022/12/20/homeassistant-with-podman/) (2 years ago)
 - [Usando podman com Systemd](https://odilon.dev/2020/06/30/usando-podman-com-systemd/) (5 years ago)
 - [Montando ConfigMap como Script](https://odilon.dev/2020/03/08/montando-configmap-como-script/) (5 years ago)
