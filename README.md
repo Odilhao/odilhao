@@ -6,8 +6,8 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (2 days ago)
-- [theforeman/pulp_smart_proxy](https://github.com/theforeman/pulp_smart_proxy) -  (3 days ago)
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (3 days ago)
+- [theforeman/pulp_smart_proxy](https://github.com/theforeman/pulp_smart_proxy) -  (4 days ago)
 - [theforeman/theforeman-rel-eng](https://github.com/theforeman/theforeman-rel-eng) - Release engineering scripts (1 month ago)
 - [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) -  (1 month ago)
 - [theforeman/kafo](https://github.com/theforeman/kafo) - A gem for making installations based on puppet user friendly (3 months ago)
@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
-- [Add support for Pulpcore 3.85](https://github.com/theforeman/puppet-pulpcore/pull/392) on [theforeman/puppet-pulpcore](https://github.com/theforeman/puppet-pulpcore) (2 days ago)
-- [Allow newer pulpcore on python-pulp-deb](https://github.com/theforeman/pulpcore-packaging/pull/2179) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (2 days ago)
-- [Add python-nh3](https://github.com/theforeman/pulpcore-packaging/pull/2178) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (2 days ago)
-- [Add support for Pulpcore &lt; 3.100](https://github.com/theforeman/pulp_smart_proxy/pull/44) on [theforeman/pulp_smart_proxy](https://github.com/theforeman/pulp_smart_proxy) (3 days ago)
-- [Branch Pulpcore to 3.85](https://github.com/theforeman/pulpcore-packaging/pull/2146) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (3 days ago)
+- [Add support for Pulpcore 3.85](https://github.com/theforeman/puppet-pulpcore/pull/392) on [theforeman/puppet-pulpcore](https://github.com/theforeman/puppet-pulpcore) (3 days ago)
+- [Allow newer pulpcore on python-pulp-deb](https://github.com/theforeman/pulpcore-packaging/pull/2179) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (3 days ago)
+- [Add python-nh3](https://github.com/theforeman/pulpcore-packaging/pull/2178) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (3 days ago)
+- [Add support for Pulpcore &lt; 3.100](https://github.com/theforeman/pulp_smart_proxy/pull/44) on [theforeman/pulp_smart_proxy](https://github.com/theforeman/pulp_smart_proxy) (4 days ago)
+- [Branch Pulpcore to 3.85](https://github.com/theforeman/pulpcore-packaging/pull/2146) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (4 days ago)
 
 #### 📜 My recent blog posts
 
