@@ -25,7 +25,7 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
-- [Update %generate_buildrequires macro section to %prep phase for foreman](https://github.com/theforeman/foreman-packaging/pull/12538) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (today)
+- [Update %generate_buildrequires macro section to %prep phase for foreman](https://github.com/theforeman/foreman-packaging/pull/12538) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (1 day ago)
 - [Add support for Pulpcore 3.85](https://github.com/theforeman/puppet-pulpcore/pull/392) on [theforeman/puppet-pulpcore](https://github.com/theforeman/puppet-pulpcore) (1 week ago)
 - [Allow newer pulpcore on python-pulp-deb](https://github.com/theforeman/pulpcore-packaging/pull/2179) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 week ago)
 - [Add python-nh3](https://github.com/theforeman/pulpcore-packaging/pull/2178) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 week ago)
