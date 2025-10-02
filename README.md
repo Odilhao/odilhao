@@ -6,7 +6,7 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (1 week ago)
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (today)
 - [theforeman/pulp_smart_proxy](https://github.com/theforeman/pulp_smart_proxy) -  (1 week ago)
 - [theforeman/theforeman-rel-eng](https://github.com/theforeman/theforeman-rel-eng) - Release engineering scripts (1 month ago)
 - [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) -  (1 month ago)
@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
+- [Update python-poetry-core to 2.2.1](https://github.com/theforeman/pulpcore-packaging/pull/2200) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
+- [Update hatch and hatchling version](https://github.com/theforeman/pulpcore-packaging/pull/2189) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
+- [Relax Poetry requirements to get latest version](https://github.com/theforeman/pulpcore-packaging/pull/2187) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
 - [Update %generate_buildrequires macro section to %prep phase for foreman](https://github.com/theforeman/foreman-packaging/pull/12538) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (2 days ago)
 - [Add support for Pulpcore 3.85](https://github.com/theforeman/puppet-pulpcore/pull/392) on [theforeman/puppet-pulpcore](https://github.com/theforeman/puppet-pulpcore) (1 week ago)
-- [Allow newer pulpcore on python-pulp-deb](https://github.com/theforeman/pulpcore-packaging/pull/2179) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 week ago)
-- [Add python-nh3](https://github.com/theforeman/pulpcore-packaging/pull/2178) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 week ago)
-- [Add support for Pulpcore &lt; 3.100](https://github.com/theforeman/pulp_smart_proxy/pull/44) on [theforeman/pulp_smart_proxy](https://github.com/theforeman/pulp_smart_proxy) (1 week ago)
 
 #### 📜 My recent blog posts
 
