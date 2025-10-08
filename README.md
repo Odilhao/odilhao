@@ -6,7 +6,7 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (5 days ago)
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (6 days ago)
 - [theforeman/pulp_smart_proxy](https://github.com/theforeman/pulp_smart_proxy) -  (2 weeks ago)
 - [theforeman/theforeman-rel-eng](https://github.com/theforeman/theforeman-rel-eng) - Release engineering scripts (1 month ago)
 - [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) -  (2 months ago)
@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
-- [Allow pulpcore-worker to watch /etc directory for configuration changes](https://github.com/pulp/pulpcore-selinux/pull/93) on [pulp/pulpcore-selinux](https://github.com/pulp/pulpcore-selinux) (today)
-- [Fix SELinux AVC denials for pulpcore-worker /etc directory watching](https://github.com/Odilhao/pulpcore-selinux/pull/1) on [Odilhao/pulpcore-selinux](https://github.com/Odilhao/pulpcore-selinux) (today)
-- [Update Quay image repos](https://github.com/Odilhao/foreman-mcp-server/pull/2) on [Odilhao/foreman-mcp-server](https://github.com/Odilhao/foreman-mcp-server) (today)
-- [Update python-poetry-core to 2.2.1](https://github.com/theforeman/pulpcore-packaging/pull/2200) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (5 days ago)
-- [Update hatch and hatchling version](https://github.com/theforeman/pulpcore-packaging/pull/2189) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (5 days ago)
+- [Allow pulpcore-worker to watch /etc directory for configuration changes](https://github.com/pulp/pulpcore-selinux/pull/93) on [pulp/pulpcore-selinux](https://github.com/pulp/pulpcore-selinux) (1 day ago)
+- [Fix SELinux AVC denials for pulpcore-worker /etc directory watching](https://github.com/Odilhao/pulpcore-selinux/pull/1) on [Odilhao/pulpcore-selinux](https://github.com/Odilhao/pulpcore-selinux) (1 day ago)
+- [Update Quay image repos](https://github.com/Odilhao/foreman-mcp-server/pull/2) on [Odilhao/foreman-mcp-server](https://github.com/Odilhao/foreman-mcp-server) (1 day ago)
+- [Update python-poetry-core to 2.2.1](https://github.com/theforeman/pulpcore-packaging/pull/2200) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (6 days ago)
+- [Update hatch and hatchling version](https://github.com/theforeman/pulpcore-packaging/pull/2189) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (6 days ago)
 
 #### 📜 My recent blog posts
 
