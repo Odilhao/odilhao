@@ -25,7 +25,7 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
-- [Allow pulpcore-worker to watch /etc directory for configuration changes](https://github.com/pulp/pulpcore-selinux/pull/93) on [pulp/pulpcore-selinux](https://github.com/pulp/pulpcore-selinux) (1 day ago)
+- [Allow aiodns/pycares to watch /etc directory for resolver configuration changes](https://github.com/pulp/pulpcore-selinux/pull/93) on [pulp/pulpcore-selinux](https://github.com/pulp/pulpcore-selinux) (1 day ago)
 - [Fix SELinux AVC denials for pulpcore-worker /etc directory watching](https://github.com/Odilhao/pulpcore-selinux/pull/1) on [Odilhao/pulpcore-selinux](https://github.com/Odilhao/pulpcore-selinux) (1 day ago)
 - [Update Quay image repos](https://github.com/Odilhao/foreman-mcp-server/pull/2) on [Odilhao/foreman-mcp-server](https://github.com/Odilhao/foreman-mcp-server) (1 day ago)
 - [Update python-poetry-core to 2.2.1](https://github.com/theforeman/pulpcore-packaging/pull/2200) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (6 days ago)
