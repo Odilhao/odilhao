@@ -6,14 +6,14 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (1 day ago)
-- [pulp/pulpcore-selinux](https://github.com/pulp/pulpcore-selinux) - A Pulp 3 SELinux policy (1 day ago)
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (2 days ago)
+- [pulp/pulpcore-selinux](https://github.com/pulp/pulpcore-selinux) - A Pulp 3 SELinux policy (2 days ago)
 - [theforeman/pulp_smart_proxy](https://github.com/theforeman/pulp_smart_proxy) -  (2 weeks ago)
 - [theforeman/theforeman-rel-eng](https://github.com/theforeman/theforeman-rel-eng) - Release engineering scripts (1 month ago)
 - [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) -  (2 months ago)
 - [theforeman/kafo](https://github.com/theforeman/kafo) - A gem for making installations based on puppet user friendly (3 months ago)
 - [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) - Foreman&#39;s Jenkins Jobs configurations (4 months ago)
-- [theforeman/puppet-pulpcore](https://github.com/theforeman/puppet-pulpcore) - Puppet module for setting up Pulp 3 as part of Katello installation (4 months ago)
+- [theforeman/puppet-pulpcore](https://github.com/theforeman/puppet-pulpcore) - Puppet module for setting up Pulp 3 as part of Katello installation (5 months ago)
 
 #### 🌱 My latest projects
 
@@ -25,10 +25,10 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
-- [Bump pulpcore-release version to 3.85](https://github.com/theforeman/pulpcore-packaging/pull/2208) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
-- [Allow aiodns/pycares to watch /etc directory for resolver configuration changes](https://github.com/pulp/pulpcore-selinux/pull/93) on [pulp/pulpcore-selinux](https://github.com/pulp/pulpcore-selinux) (2 days ago)
-- [Fix SELinux AVC denials for pulpcore-worker /etc directory watching](https://github.com/Odilhao/pulpcore-selinux/pull/1) on [Odilhao/pulpcore-selinux](https://github.com/Odilhao/pulpcore-selinux) (2 days ago)
-- [Update Quay image repos](https://github.com/Odilhao/foreman-mcp-server/pull/2) on [Odilhao/foreman-mcp-server](https://github.com/Odilhao/foreman-mcp-server) (2 days ago)
+- [Bump pulpcore-release version to 3.85](https://github.com/theforeman/pulpcore-packaging/pull/2208) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (2 days ago)
+- [Allow aiodns/pycares to watch /etc directory for resolver configuration changes](https://github.com/pulp/pulpcore-selinux/pull/93) on [pulp/pulpcore-selinux](https://github.com/pulp/pulpcore-selinux) (3 days ago)
+- [Fix SELinux AVC denials for pulpcore-worker /etc directory watching](https://github.com/Odilhao/pulpcore-selinux/pull/1) on [Odilhao/pulpcore-selinux](https://github.com/Odilhao/pulpcore-selinux) (3 days ago)
+- [Update Quay image repos](https://github.com/Odilhao/foreman-mcp-server/pull/2) on [Odilhao/foreman-mcp-server](https://github.com/Odilhao/foreman-mcp-server) (3 days ago)
 - [Update python-poetry-core to 2.2.1](https://github.com/theforeman/pulpcore-packaging/pull/2200) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 week ago)
 
 #### 📜 My recent blog posts
