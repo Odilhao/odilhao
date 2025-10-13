@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
+- [Cherrypick link to KCS when self-registered Satellite was found](https://github.com/theforeman/foreman_maintain/pull/1059) on [theforeman/foreman_maintain](https://github.com/theforeman/foreman_maintain) (today)
 - [Bump pulpcore-release version to 3.85](https://github.com/theforeman/pulpcore-packaging/pull/2208) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (5 days ago)
 - [Allow aiodns/pycares to watch /etc directory for resolver configuration changes](https://github.com/pulp/pulpcore-selinux/pull/93) on [pulp/pulpcore-selinux](https://github.com/pulp/pulpcore-selinux) (6 days ago)
 - [Fix SELinux AVC denials for pulpcore-worker /etc directory watching](https://github.com/Odilhao/pulpcore-selinux/pull/1) on [Odilhao/pulpcore-selinux](https://github.com/Odilhao/pulpcore-selinux) (6 days ago)
 - [Update Quay image repos](https://github.com/Odilhao/foreman-mcp-server/pull/2) on [Odilhao/foreman-mcp-server](https://github.com/Odilhao/foreman-mcp-server) (6 days ago)
-- [Update python-poetry-core to 2.2.1](https://github.com/theforeman/pulpcore-packaging/pull/2200) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 week ago)
 
 #### 📜 My recent blog posts
 
