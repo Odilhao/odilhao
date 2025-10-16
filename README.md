@@ -25,7 +25,7 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
-- [Cherrypick link to KCS when self-registered Satellite was found](https://github.com/theforeman/foreman_maintain/pull/1059) on [theforeman/foreman_maintain](https://github.com/theforeman/foreman_maintain) (2 days ago)
+- [Cherrypick link to KCS when self-registered Satellite was found](https://github.com/theforeman/foreman_maintain/pull/1059) on [theforeman/foreman_maintain](https://github.com/theforeman/foreman_maintain) (3 days ago)
 - [Bump pulpcore-release version to 3.85](https://github.com/theforeman/pulpcore-packaging/pull/2208) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 week ago)
 - [Allow aiodns/pycares to watch /etc directory for resolver configuration changes](https://github.com/pulp/pulpcore-selinux/pull/93) on [pulp/pulpcore-selinux](https://github.com/pulp/pulpcore-selinux) (1 week ago)
 - [Fix SELinux AVC denials for pulpcore-worker /etc directory watching](https://github.com/Odilhao/pulpcore-selinux/pull/1) on [Odilhao/pulpcore-selinux](https://github.com/Odilhao/pulpcore-selinux) (1 week ago)
