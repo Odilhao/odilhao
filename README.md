@@ -9,7 +9,7 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 - [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (1 week ago)
 - [pulp/pulpcore-selinux](https://github.com/pulp/pulpcore-selinux) - A Pulp 3 SELinux policy (1 week ago)
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods. (3 weeks ago)
-- [theforeman/pulp_smart_proxy](https://github.com/theforeman/pulp_smart_proxy) -  (3 weeks ago)
+- [theforeman/pulp_smart_proxy](https://github.com/theforeman/pulp_smart_proxy) -  (4 weeks ago)
 - [rpm-software-management/libcomps](https://github.com/rpm-software-management/libcomps) - Libcomps is alternative for yum.comps library. It&#39;s written in pure C as library and there&#39;s bindings for python2 and python3. (1 month ago)
 - [theforeman/theforeman-rel-eng](https://github.com/theforeman/theforeman-rel-eng) - Release engineering scripts (2 months ago)
 - [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) -  (2 months ago)
@@ -25,8 +25,8 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
-- [Update libcomps and createrepo_c](https://github.com/theforeman/pulpcore-packaging/pull/2226) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (2 days ago)
-- [Cherrypick link to KCS when self-registered Satellite was found](https://github.com/theforeman/foreman_maintain/pull/1059) on [theforeman/foreman_maintain](https://github.com/theforeman/foreman_maintain) (6 days ago)
+- [Update libcomps and createrepo_c](https://github.com/theforeman/pulpcore-packaging/pull/2226) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (3 days ago)
+- [Cherrypick link to KCS when self-registered Satellite was found](https://github.com/theforeman/foreman_maintain/pull/1059) on [theforeman/foreman_maintain](https://github.com/theforeman/foreman_maintain) (1 week ago)
 - [Bump pulpcore-release version to 3.85](https://github.com/theforeman/pulpcore-packaging/pull/2208) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 week ago)
 - [Allow aiodns/pycares to watch /etc directory for resolver configuration changes](https://github.com/pulp/pulpcore-selinux/pull/93) on [pulp/pulpcore-selinux](https://github.com/pulp/pulpcore-selinux) (1 week ago)
 - [Fix SELinux AVC denials for pulpcore-worker /etc directory watching](https://github.com/Odilhao/pulpcore-selinux/pull/1) on [Odilhao/pulpcore-selinux](https://github.com/Odilhao/pulpcore-selinux) (1 week ago)
