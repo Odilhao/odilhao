@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
+- [Update pulp=rpm to relax libcomps requirements](https://github.com/theforeman/pulpcore-packaging/pull/2233) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
 - [Update Containerfile.ubi9 to latest release of ubi](https://github.com/theforeman/foreman-mcp-server/pull/28) on [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) (1 day ago)
 - [Update rpm signature to rpmv4](https://github.com/theforeman/theforeman-rel-eng/pull/526) on [theforeman/theforeman-rel-eng](https://github.com/theforeman/theforeman-rel-eng) (3 days ago)
 - [Update libcomps and createrepo_c](https://github.com/theforeman/pulpcore-packaging/pull/2226) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (6 days ago)
 - [Cherrypick link to KCS when self-registered Satellite was found](https://github.com/theforeman/foreman_maintain/pull/1059) on [theforeman/foreman_maintain](https://github.com/theforeman/foreman_maintain) (1 week ago)
-- [Bump pulpcore-release version to 3.85](https://github.com/theforeman/pulpcore-packaging/pull/2208) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
