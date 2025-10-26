@@ -6,8 +6,8 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
-- [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) -  (3 days ago)
-- [theforeman/theforeman-rel-eng](https://github.com/theforeman/theforeman-rel-eng) - Release engineering scripts (5 days ago)
+- [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) -  (4 days ago)
+- [theforeman/theforeman-rel-eng](https://github.com/theforeman/theforeman-rel-eng) - Release engineering scripts (6 days ago)
 - [pulp/pulpcore-selinux](https://github.com/pulp/pulpcore-selinux) - A Pulp 3 SELinux policy (2 weeks ago)
 - [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (2 weeks ago)
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods. (1 month ago)
@@ -25,9 +25,9 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
-- [Update pulp=rpm to relax libcomps requirements](https://github.com/theforeman/pulpcore-packaging/pull/2233) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (2 days ago)
-- [Update Containerfile.ubi9 to latest release of ubi](https://github.com/theforeman/foreman-mcp-server/pull/28) on [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) (3 days ago)
-- [Update rpm signature to rpmv4](https://github.com/theforeman/theforeman-rel-eng/pull/526) on [theforeman/theforeman-rel-eng](https://github.com/theforeman/theforeman-rel-eng) (5 days ago)
+- [Update pulp=rpm to relax libcomps requirements](https://github.com/theforeman/pulpcore-packaging/pull/2233) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (3 days ago)
+- [Update Containerfile.ubi9 to latest release of ubi](https://github.com/theforeman/foreman-mcp-server/pull/28) on [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) (4 days ago)
+- [Update rpm signature to rpmv4](https://github.com/theforeman/theforeman-rel-eng/pull/526) on [theforeman/theforeman-rel-eng](https://github.com/theforeman/theforeman-rel-eng) (6 days ago)
 - [Update libcomps and createrepo_c](https://github.com/theforeman/pulpcore-packaging/pull/2226) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 week ago)
 - [Cherrypick link to KCS when self-registered Satellite was found](https://github.com/theforeman/foreman_maintain/pull/1059) on [theforeman/foreman_maintain](https://github.com/theforeman/foreman_maintain) (1 week ago)
 
