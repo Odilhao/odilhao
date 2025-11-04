@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
+- [Properly validate ct_location and fcct_location](https://github.com/theforeman/foreman/pull/10752) on [theforeman/foreman](https://github.com/theforeman/foreman) (today)
+- [Properly validate ct_location and fcct_location](https://github.com/theforeman/foreman/pull/10751) on [theforeman/foreman](https://github.com/theforeman/foreman) (today)
+- [Properly validate ct_location and fcct_location](https://github.com/theforeman/foreman/pull/10750) on [theforeman/foreman](https://github.com/theforeman/foreman) (today)
 - [Allow newer version of PyYAML on pulpcore](https://github.com/theforeman/pulpcore-packaging/pull/2237) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 week ago)
 - [Update python-google-auth to allow new python-cachetools](https://github.com/theforeman/pulpcore-packaging/pull/2236) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 week ago)
-- [Update pulp=rpm to relax libcomps requirements](https://github.com/theforeman/pulpcore-packaging/pull/2233) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 week ago)
-- [Update Containerfile.ubi9 to latest release of ubi](https://github.com/theforeman/foreman-mcp-server/pull/28) on [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) (1 week ago)
-- [Update rpm signature to rpmv4](https://github.com/theforeman/theforeman-rel-eng/pull/526) on [theforeman/theforeman-rel-eng](https://github.com/theforeman/theforeman-rel-eng) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
