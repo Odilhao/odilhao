@@ -6,7 +6,7 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (6 days ago)
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (1 week ago)
 - [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) -  (1 week ago)
 - [theforeman/theforeman-rel-eng](https://github.com/theforeman/theforeman-rel-eng) - Release engineering scripts (2 weeks ago)
 - [pulp/pulpcore-selinux](https://github.com/pulp/pulpcore-selinux) - A Pulp 3 SELinux policy (3 weeks ago)
@@ -25,7 +25,7 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
-- [Allow newer version of PyYAML on pulpcore](https://github.com/theforeman/pulpcore-packaging/pull/2237) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (6 days ago)
+- [Allow newer version of PyYAML on pulpcore](https://github.com/theforeman/pulpcore-packaging/pull/2237) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 week ago)
 - [Update python-google-auth to allow new python-cachetools](https://github.com/theforeman/pulpcore-packaging/pull/2236) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 week ago)
 - [Update pulp=rpm to relax libcomps requirements](https://github.com/theforeman/pulpcore-packaging/pull/2233) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 week ago)
 - [Update Containerfile.ubi9 to latest release of ubi](https://github.com/theforeman/foreman-mcp-server/pull/28) on [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) (1 week ago)
