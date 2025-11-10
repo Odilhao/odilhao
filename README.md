@@ -6,8 +6,8 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
+- [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) -  (today)
 - [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (1 week ago)
-- [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) -  (2 weeks ago)
 - [theforeman/theforeman-rel-eng](https://github.com/theforeman/theforeman-rel-eng) - Release engineering scripts (3 weeks ago)
 - [pulp/pulpcore-selinux](https://github.com/pulp/pulpcore-selinux) - A Pulp 3 SELinux policy (1 month ago)
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods. (1 month ago)
@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
+- [Update ubi9 container image to 9.6-1762316373](https://github.com/theforeman/foreman-mcp-server/pull/33) on [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) (today)
 - [Fixes #38885 - Properly validate ct_location and fcct_location](https://github.com/theforeman/foreman/pull/10752) on [theforeman/foreman](https://github.com/theforeman/foreman) (6 days ago)
 - [Fixes #38885 - Properly validate ct_location and fcct_location](https://github.com/theforeman/foreman/pull/10751) on [theforeman/foreman](https://github.com/theforeman/foreman) (6 days ago)
 - [Fixes #38885 - Properly validate ct_location and fcct_location](https://github.com/theforeman/foreman/pull/10750) on [theforeman/foreman](https://github.com/theforeman/foreman) (6 days ago)
 - [Allow newer version of PyYAML on pulpcore](https://github.com/theforeman/pulpcore-packaging/pull/2237) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 week ago)
-- [Update python-google-auth to allow new python-cachetools](https://github.com/theforeman/pulpcore-packaging/pull/2236) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
