@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
+- [The correct release is 3.85, not 3.83](https://github.com/theforeman/pulpcore-packaging/pull/2264) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
+- [Update repoclosure repo to 3.85](https://github.com/theforeman/pulpcore-packaging/pull/2263) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
+- [Fix Pulpcore version from nightly to 3.85](https://github.com/theforeman/jenkins-jobs/pull/562) on [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) (today)
+- [Update pulpcore release to 3.85](https://github.com/theforeman/pulpcore-packaging/pull/2262) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
 - [Add Pulpcore 3.85 Config](https://github.com/theforeman/jenkins-jobs/pull/561) on [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) (today)
-- [Add Pulpcore 3.85 GPG](https://github.com/theforeman/theforeman-rel-eng/pull/534) on [theforeman/theforeman-rel-eng](https://github.com/theforeman/theforeman-rel-eng) (today)
-- [Update configuration to 3.85](https://github.com/theforeman/pulpcore-packaging/pull/2261) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
-- [Update ubi9 container image to 9.6-1762316373](https://github.com/theforeman/foreman-mcp-server/pull/33) on [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) (2 days ago)
-- [Fixes #38885 - Properly validate ct_location and fcct_location](https://github.com/theforeman/foreman/pull/10752) on [theforeman/foreman](https://github.com/theforeman/foreman) (1 week ago)
 
 #### 📜 My recent blog posts
 
