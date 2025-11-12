@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
+- [Update configuration to 3.85](https://github.com/theforeman/pulpcore-packaging/pull/2261) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
 - [Update ubi9 container image to 9.6-1762316373](https://github.com/theforeman/foreman-mcp-server/pull/33) on [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) (2 days ago)
 - [Fixes #38885 - Properly validate ct_location and fcct_location](https://github.com/theforeman/foreman/pull/10752) on [theforeman/foreman](https://github.com/theforeman/foreman) (1 week ago)
 - [Fixes #38885 - Properly validate ct_location and fcct_location](https://github.com/theforeman/foreman/pull/10751) on [theforeman/foreman](https://github.com/theforeman/foreman) (1 week ago)
 - [Fixes #38885 - Properly validate ct_location and fcct_location](https://github.com/theforeman/foreman/pull/10750) on [theforeman/foreman](https://github.com/theforeman/foreman) (1 week ago)
-- [Allow newer version of PyYAML on pulpcore](https://github.com/theforeman/pulpcore-packaging/pull/2237) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
