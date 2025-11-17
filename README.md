@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
+- [Add foreman-mcp-server Config Definition](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/1) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (today)
 - [Fix Pulpcore version for Katello 4.19](https://github.com/theforeman/forklift/pull/1928) on [theforeman/forklift](https://github.com/theforeman/forklift) (5 days ago)
 - [The correct release is 3.85, not 3.83](https://github.com/theforeman/pulpcore-packaging/pull/2264) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (5 days ago)
 - [Update repoclosure repo to 3.85](https://github.com/theforeman/pulpcore-packaging/pull/2263) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (5 days ago)
 - [Fix Pulpcore version from nightly to 3.85](https://github.com/theforeman/jenkins-jobs/pull/562) on [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) (5 days ago)
-- [Update pulpcore release to 3.85](https://github.com/theforeman/pulpcore-packaging/pull/2262) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (5 days ago)
 
 #### 📜 My recent blog posts
 
