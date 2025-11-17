@@ -6,14 +6,14 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
-- [theforeman/forklift](https://github.com/theforeman/forklift) - Helpful deployment scripts for Foreman and Katello (5 days ago)
+- [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) - Release data used by Konflux for releasing container images. (today)
 - [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) - Foreman&#39;s Jenkins Jobs configurations (5 days ago)
+- [theforeman/forklift](https://github.com/theforeman/forklift) - Helpful deployment scripts for Foreman and Katello (5 days ago)
 - [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) -  (1 week ago)
 - [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (2 weeks ago)
 - [theforeman/theforeman-rel-eng](https://github.com/theforeman/theforeman-rel-eng) - Release engineering scripts (4 weeks ago)
 - [pulp/pulpcore-selinux](https://github.com/pulp/pulpcore-selinux) - A Pulp 3 SELinux policy (1 month ago)
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods. (1 month ago)
-- [theforeman/pulp_smart_proxy](https://github.com/theforeman/pulp_smart_proxy) -  (1 month ago)
 
 #### 🌱 My latest projects
 
