@@ -6,9 +6,9 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
-- [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) - Release data used by Konflux for releasing container images. (1 day ago)
-- [theforeman/forklift](https://github.com/theforeman/forklift) - Helpful deployment scripts for Foreman and Katello (6 days ago)
+- [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) - Release data used by Konflux for releasing container images. (today)
 - [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) - Foreman&#39;s Jenkins Jobs configurations (6 days ago)
+- [theforeman/forklift](https://github.com/theforeman/forklift) - Helpful deployment scripts for Foreman and Katello (6 days ago)
 - [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) -  (1 week ago)
 - [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (3 weeks ago)
 - [theforeman/theforeman-rel-eng](https://github.com/theforeman/theforeman-rel-eng) - Release engineering scripts (4 weeks ago)
