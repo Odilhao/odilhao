@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
+- [12.2.13](https://github.com/theforeman/foreman_rh_cloud/pull/1128) on [theforeman/foreman_rh_cloud](https://github.com/theforeman/foreman_rh_cloud) (today)
 - [Add Pulp Component to Konflux](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/3) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (6 days ago)
 - [Add yamlint workflow](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/2) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (1 week ago)
 - [Add foreman-mcp-server Config Definition](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/1) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (1 week ago)
 - [Fix Pulpcore version for Katello 4.19](https://github.com/theforeman/forklift/pull/1928) on [theforeman/forklift](https://github.com/theforeman/forklift) (1 week ago)
-- [The correct release is 3.85, not 3.83](https://github.com/theforeman/pulpcore-packaging/pull/2264) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 week ago)
 
 #### 📜 My recent blog posts
 
