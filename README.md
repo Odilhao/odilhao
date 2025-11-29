@@ -6,8 +6,8 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
-- [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) - Release data used by Konflux for releasing container images. (2 days ago)
-- [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) -  (4 days ago)
+- [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) - Release data used by Konflux for releasing container images. (3 days ago)
+- [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) -  (5 days ago)
 - [theforeman/forklift](https://github.com/theforeman/forklift) - Helpful deployment scripts for Foreman and Katello (2 weeks ago)
 - [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) - Foreman&#39;s Jenkins Jobs configurations (2 weeks ago)
 - [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (1 month ago)
@@ -25,10 +25,10 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
-- [Update image repo for pipeline and push runs on Konflux](https://github.com/theforeman/foreman-mcp-server/pull/58) on [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) (2 days ago)
-- [Change Foreman MCP PR Repository to stage project](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/4) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (2 days ago)
-- [Add .renovate.json file to group all updates under one single PR](https://github.com/theforeman/foreman-mcp-server/pull/57) on [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) (3 days ago)
-- [12.2.13](https://github.com/theforeman/foreman_rh_cloud/pull/1128) on [theforeman/foreman_rh_cloud](https://github.com/theforeman/foreman_rh_cloud) (4 days ago)
+- [Update image repo for pipeline and push runs on Konflux](https://github.com/theforeman/foreman-mcp-server/pull/58) on [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) (3 days ago)
+- [Change Foreman MCP PR Repository to stage project](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/4) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (3 days ago)
+- [Add .renovate.json file to group all updates under one single PR](https://github.com/theforeman/foreman-mcp-server/pull/57) on [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) (4 days ago)
+- [12.2.13](https://github.com/theforeman/foreman_rh_cloud/pull/1128) on [theforeman/foreman_rh_cloud](https://github.com/theforeman/foreman_rh_cloud) (5 days ago)
 - [Add Pulp Component to Konflux](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/3) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (1 week ago)
 
 #### 📜 My recent blog posts
