@@ -6,6 +6,7 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
+- [Odilhao/pulpcon-2025](https://github.com/Odilhao/pulpcon-2025) -  (1 day ago)
 - [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) - Release data used by Konflux for releasing container images. (6 days ago)
 - [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) -  (1 week ago)
 - [theforeman/forklift](https://github.com/theforeman/forklift) - Helpful deployment scripts for Foreman and Katello (2 weeks ago)
@@ -13,15 +14,14 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 - [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (1 month ago)
 - [theforeman/theforeman-rel-eng](https://github.com/theforeman/theforeman-rel-eng) - Release engineering scripts (1 month ago)
 - [pulp/pulpcore-selinux](https://github.com/pulp/pulpcore-selinux) - A Pulp 3 SELinux policy (1 month ago)
-- [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods. (2 months ago)
 
 #### 🌱 My latest projects
 
+- [Odilhao/pulpcon-2025](https://github.com/Odilhao/pulpcon-2025) - 
 - [Odilhao/odilhao](https://github.com/Odilhao/odilhao) - 
 - [Odilhao/bootc-server](https://github.com/Odilhao/bootc-server) - 
 - [Odilhao/pulpcon-2024](https://github.com/Odilhao/pulpcon-2024) - 
 - [Odilhao/bootc-sway](https://github.com/Odilhao/bootc-sway) - 
-- [Odilhao/dependabot-test](https://github.com/Odilhao/dependabot-test) - 
 
 #### 🔨 My recent Pull Requests
 
