@@ -6,8 +6,8 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
-- [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) -  (1 day ago)
-- [Odilhao/pulpcon-2025](https://github.com/Odilhao/pulpcon-2025) -  (2 days ago)
+- [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) -  (2 days ago)
+- [Odilhao/pulpcon-2025](https://github.com/Odilhao/pulpcon-2025) -  (3 days ago)
 - [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) - Release data used by Konflux for releasing container images. (1 week ago)
 - [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) - Foreman&#39;s Jenkins Jobs configurations (3 weeks ago)
 - [theforeman/forklift](https://github.com/theforeman/forklift) - Helpful deployment scripts for Foreman and Katello (3 weeks ago)
@@ -25,7 +25,7 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
-- [Update fastmcp version to close CVE-2025-66416](https://github.com/theforeman/foreman-mcp-server/pull/62) on [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) (1 day ago)
+- [Update fastmcp version to close CVE-2025-66416](https://github.com/theforeman/foreman-mcp-server/pull/62) on [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) (2 days ago)
 - [Update image repo for pipeline and push runs on Konflux](https://github.com/theforeman/foreman-mcp-server/pull/58) on [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) (1 week ago)
 - [Change Foreman MCP PR Repository to stage project](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/4) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (1 week ago)
 - [Add .renovate.json file to group all updates under one single PR](https://github.com/theforeman/foreman-mcp-server/pull/57) on [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) (1 week ago)
