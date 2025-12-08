@@ -25,7 +25,7 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
-- [Add Candleping configuration files](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/6) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (today)
+- [Add Candlepin configuration files](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/6) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (today)
 - [Add foreman and foreman-proxy config files](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/5) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (today)
 - [Update fastmcp version to close CVE-2025-66416](https://github.com/theforeman/foreman-mcp-server/pull/62) on [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) (5 days ago)
 - [Update image repo for pipeline and push runs on Konflux](https://github.com/theforeman/foreman-mcp-server/pull/58) on [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) (1 week ago)
