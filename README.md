@@ -6,11 +6,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
-- [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) -  (6 days ago)
+- [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) -  (1 week ago)
 - [Odilhao/pulpcon-2025](https://github.com/Odilhao/pulpcon-2025) -  (1 week ago)
-- [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) - Release data used by Konflux for releasing container images. (1 week ago)
-- [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) - Foreman&#39;s Jenkins Jobs configurations (3 weeks ago)
-- [theforeman/forklift](https://github.com/theforeman/forklift) - Helpful deployment scripts for Foreman and Katello (3 weeks ago)
+- [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) - Release data used by Konflux for releasing container images. (2 weeks ago)
+- [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) - Foreman&#39;s Jenkins Jobs configurations (4 weeks ago)
+- [theforeman/forklift](https://github.com/theforeman/forklift) - Helpful deployment scripts for Foreman and Katello (4 weeks ago)
 - [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (1 month ago)
 - [theforeman/theforeman-rel-eng](https://github.com/theforeman/theforeman-rel-eng) - Release engineering scripts (1 month ago)
 - [pulp/pulpcore-selinux](https://github.com/pulp/pulpcore-selinux) - A Pulp 3 SELinux policy (2 months ago)
@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
-- [Add Candlepin configuration files](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/6) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (1 day ago)
-- [Add foreman and foreman-proxy config files](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/5) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (1 day ago)
-- [Update fastmcp version to close CVE-2025-66416](https://github.com/theforeman/foreman-mcp-server/pull/62) on [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) (6 days ago)
-- [Update image repo for pipeline and push runs on Konflux](https://github.com/theforeman/foreman-mcp-server/pull/58) on [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) (1 week ago)
-- [Change Foreman MCP PR Repository to stage project](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/4) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (1 week ago)
+- [Add Candlepin configuration files](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/6) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (2 days ago)
+- [Add foreman and foreman-proxy config files](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/5) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (2 days ago)
+- [Update fastmcp version to close CVE-2025-66416](https://github.com/theforeman/foreman-mcp-server/pull/62) on [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) (1 week ago)
+- [Update image repo for pipeline and push runs on Konflux](https://github.com/theforeman/foreman-mcp-server/pull/58) on [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) (2 weeks ago)
+- [Change Foreman MCP PR Repository to stage project](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/4) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
