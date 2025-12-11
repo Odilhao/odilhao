@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
+- [Add ReleasePlan and ReleasePlanAdmission for nightly content](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/8) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (today)
 - [Update pulp-nightly YAML definitions](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/7) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (today)
 - [Add Candlepin configuration files](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/6) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (3 days ago)
 - [Add foreman and foreman-proxy config files](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/5) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (3 days ago)
 - [Update fastmcp version to close CVE-2025-66416](https://github.com/theforeman/foreman-mcp-server/pull/62) on [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) (1 week ago)
-- [Update image repo for pipeline and push runs on Konflux](https://github.com/theforeman/foreman-mcp-server/pull/58) on [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
