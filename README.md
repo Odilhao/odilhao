@@ -26,8 +26,8 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 #### 🔨 My recent Pull Requests
 
 - [Fix target namespace for ReleasePlan](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/9) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (1 week ago)
-- [Add ReleasePlan and ReleasePlanAdmission for nightly content](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/8) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (1 week ago)
-- [Update pulp-nightly YAML definitions](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/7) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (1 week ago)
+- [Add ReleasePlan and ReleasePlanAdmission for nightly content](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/8) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (2 weeks ago)
+- [Update pulp-nightly YAML definitions](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/7) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (2 weeks ago)
 - [Add Candlepin configuration files](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/6) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (2 weeks ago)
 - [Add foreman and foreman-proxy config files](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/5) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (2 weeks ago)
 
