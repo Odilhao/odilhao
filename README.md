@@ -6,8 +6,8 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
-- [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) - Release data used by Konflux for releasing container images. (2 weeks ago)
-- [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) -  (4 weeks ago)
+- [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) - Release data used by Konflux for releasing container images. (3 weeks ago)
+- [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) -  (1 month ago)
 - [Odilhao/pulpcon-2025](https://github.com/Odilhao/pulpcon-2025) -  (1 month ago)
 - [theforeman/forklift](https://github.com/theforeman/forklift) - Helpful deployment scripts for Foreman and Katello (1 month ago)
 - [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) - Foreman&#39;s Jenkins Jobs configurations (1 month ago)
@@ -25,7 +25,7 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
-- [Fix target namespace for ReleasePlan](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/9) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (2 weeks ago)
+- [Fix target namespace for ReleasePlan](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/9) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (3 weeks ago)
 - [Add ReleasePlan and ReleasePlanAdmission for nightly content](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/8) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (3 weeks ago)
 - [Update pulp-nightly YAML definitions](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/7) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (3 weeks ago)
 - [Add Candlepin configuration files](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/6) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (3 weeks ago)
