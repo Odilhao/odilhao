@@ -13,7 +13,7 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 - [theforeman/forklift](https://github.com/theforeman/forklift) - Helpful deployment scripts for Foreman and Katello (1 month ago)
 - [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (2 months ago)
 - [theforeman/theforeman-rel-eng](https://github.com/theforeman/theforeman-rel-eng) - Release engineering scripts (2 months ago)
-- [pulp/pulpcore-selinux](https://github.com/pulp/pulpcore-selinux) - A Pulp 3 SELinux policy (2 months ago)
+- [pulp/pulpcore-selinux](https://github.com/pulp/pulpcore-selinux) - A Pulp 3 SELinux policy (3 months ago)
 
 #### 🌱 My latest projects
 
@@ -25,9 +25,9 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
-- [fix: Add la5 subdomain support to INTL login flow](https://github.com/JortvanSchijndel/FusionSolarPlus/pull/58) on [JortvanSchijndel/FusionSolarPlus](https://github.com/JortvanSchijndel/FusionSolarPlus) (today)
-- [chore: add CODEOWNERS for packaging team](https://github.com/theforeman/foreman-mcp-server/pull/68) on [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) (today)
-- [refactor(renovate): separate dependency updates into distinct PRs](https://github.com/theforeman/foreman-mcp-server/pull/67) on [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) (today)
+- [fix: Add la5 subdomain support to INTL login flow](https://github.com/JortvanSchijndel/FusionSolarPlus/pull/58) on [JortvanSchijndel/FusionSolarPlus](https://github.com/JortvanSchijndel/FusionSolarPlus) (1 day ago)
+- [chore: add CODEOWNERS for packaging team](https://github.com/theforeman/foreman-mcp-server/pull/68) on [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) (1 day ago)
+- [refactor(renovate): separate dependency updates into distinct PRs](https://github.com/theforeman/foreman-mcp-server/pull/67) on [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) (1 day ago)
 - [Fix target namespace for ReleasePlan](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/9) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (3 weeks ago)
 - [Add ReleasePlan and ReleasePlanAdmission for nightly content](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/8) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (3 weeks ago)
 
