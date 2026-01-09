@@ -6,8 +6,8 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
-- [JortvanSchijndel/FusionSolarPlus](https://github.com/JortvanSchijndel/FusionSolarPlus) - Integration to connect FusionSolar with Home Assistant (3 days ago)
-- [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) - Release data used by Konflux for releasing container images. (3 weeks ago)
+- [JortvanSchijndel/FusionSolarPlus](https://github.com/JortvanSchijndel/FusionSolarPlus) - Integration to connect FusionSolar with Home Assistant (4 days ago)
+- [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) - Release data used by Konflux for releasing container images. (4 weeks ago)
 - [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) -  (1 month ago)
 - [Odilhao/pulpcon-2025](https://github.com/Odilhao/pulpcon-2025) -  (1 month ago)
 - [theforeman/forklift](https://github.com/theforeman/forklift) - Helpful deployment scripts for Foreman and Katello (1 month ago)
@@ -25,10 +25,10 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
-- [fix: Add la5 subdomain support to INTL login flow](https://github.com/JortvanSchijndel/FusionSolarPlus/pull/58) on [JortvanSchijndel/FusionSolarPlus](https://github.com/JortvanSchijndel/FusionSolarPlus) (3 days ago)
-- [chore: add CODEOWNERS for packaging team](https://github.com/theforeman/foreman-mcp-server/pull/68) on [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) (3 days ago)
-- [refactor(renovate): separate dependency updates into distinct PRs](https://github.com/theforeman/foreman-mcp-server/pull/67) on [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) (3 days ago)
-- [Fix target namespace for ReleasePlan](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/9) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (3 weeks ago)
+- [fix: Add la5 subdomain support to INTL login flow](https://github.com/JortvanSchijndel/FusionSolarPlus/pull/58) on [JortvanSchijndel/FusionSolarPlus](https://github.com/JortvanSchijndel/FusionSolarPlus) (4 days ago)
+- [chore: add CODEOWNERS for packaging team](https://github.com/theforeman/foreman-mcp-server/pull/68) on [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) (4 days ago)
+- [refactor(renovate): separate dependency updates into distinct PRs](https://github.com/theforeman/foreman-mcp-server/pull/67) on [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) (4 days ago)
+- [Fix target namespace for ReleasePlan](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/9) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (4 weeks ago)
 - [Add ReleasePlan and ReleasePlanAdmission for nightly content](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/8) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (4 weeks ago)
 
 #### 📜 My recent blog posts
