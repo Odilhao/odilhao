@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
+- [Rh 12.2.14](https://github.com/theforeman/foreman_rh_cloud/pull/1140) on [theforeman/foreman_rh_cloud](https://github.com/theforeman/foreman_rh_cloud) (today)
 - [fix: Add la5 subdomain support to INTL login flow](https://github.com/JortvanSchijndel/FusionSolarPlus/pull/58) on [JortvanSchijndel/FusionSolarPlus](https://github.com/JortvanSchijndel/FusionSolarPlus) (1 week ago)
 - [chore: add CODEOWNERS for packaging team](https://github.com/theforeman/foreman-mcp-server/pull/68) on [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) (1 week ago)
 - [refactor(renovate): separate dependency updates into distinct PRs](https://github.com/theforeman/foreman-mcp-server/pull/67) on [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) (1 week ago)
 - [Fix target namespace for ReleasePlan](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/9) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (1 month ago)
-- [Add ReleasePlan and ReleasePlanAdmission for nightly content](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/8) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (1 month ago)
 
 #### 📜 My recent blog posts
 
