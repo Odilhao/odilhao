@@ -6,7 +6,7 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
-- [theforeman/theforeman-rel-eng](https://github.com/theforeman/theforeman-rel-eng) - Release engineering scripts (6 days ago)
+- [theforeman/theforeman-rel-eng](https://github.com/theforeman/theforeman-rel-eng) - Release engineering scripts (1 week ago)
 - [JortvanSchijndel/FusionSolarPlus](https://github.com/JortvanSchijndel/FusionSolarPlus) - Integration to connect FusionSolar with Home Assistant (2 weeks ago)
 - [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) -  (2 weeks ago)
 - [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) - Release data used by Konflux for releasing container images. (1 month ago)
