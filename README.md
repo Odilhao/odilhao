@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
+- [Update dependencies to close CVE-2025-66471](https://github.com/theforeman/foreman-mcp-server/pull/71) on [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) (today)
 - [add a check that sub-man release is not set or set to a major version](https://github.com/theforeman/foreman_maintain/pull/1069) on [theforeman/foreman_maintain](https://github.com/theforeman/foreman_maintain) (1 week ago)
 - [Fix broken cloud connector docs link](https://github.com/theforeman/foreman_rh_cloud/pull/1140) on [theforeman/foreman_rh_cloud](https://github.com/theforeman/foreman_rh_cloud) (1 week ago)
 - [fix: Add la5 subdomain support to INTL login flow](https://github.com/JortvanSchijndel/FusionSolarPlus/pull/58) on [JortvanSchijndel/FusionSolarPlus](https://github.com/JortvanSchijndel/FusionSolarPlus) (3 weeks ago)
 - [chore: add CODEOWNERS for packaging team](https://github.com/theforeman/foreman-mcp-server/pull/68) on [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) (3 weeks ago)
-- [refactor(renovate): separate dependency updates into distinct PRs](https://github.com/theforeman/foreman-mcp-server/pull/67) on [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) (3 weeks ago)
 
 #### 📜 My recent blog posts
 
