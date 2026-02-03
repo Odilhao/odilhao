@@ -6,7 +6,7 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (3 days ago)
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (4 days ago)
 - [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) -  (1 week ago)
 - [theforeman/theforeman-rel-eng](https://github.com/theforeman/theforeman-rel-eng) - Release engineering scripts (2 weeks ago)
 - [JortvanSchijndel/FusionSolarPlus](https://github.com/JortvanSchijndel/FusionSolarPlus) - Integration to connect FusionSolar with Home Assistant (4 weeks ago)
@@ -25,9 +25,9 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
-- [Update python-brotli to 1.2.0](https://github.com/theforeman/pulpcore-packaging/pull/2340) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (3 days ago)
-- [Update aiodns for pulpcore release](https://github.com/theforeman/pulpcore-packaging/pull/2336) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (5 days ago)
-- [Update Name Label to match foreman-mcp-server-rhel9](https://github.com/theforeman/foreman-mcp-server/pull/73) on [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) (6 days ago)
+- [Update python-brotli to 1.2.0](https://github.com/theforeman/pulpcore-packaging/pull/2340) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (4 days ago)
+- [Update aiodns for pulpcore release](https://github.com/theforeman/pulpcore-packaging/pull/2336) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (6 days ago)
+- [Update Name Label to match foreman-mcp-server-rhel9](https://github.com/theforeman/foreman-mcp-server/pull/73) on [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) (1 week ago)
 - [Add CPE information for ubi9 container image](https://github.com/theforeman/foreman-mcp-server/pull/72) on [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) (1 week ago)
 - [Update dependencies to close CVE-2025-66471](https://github.com/theforeman/foreman-mcp-server/pull/71) on [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) (1 week ago)
 
