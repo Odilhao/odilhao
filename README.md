@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
+- [Update Django and Urllib3 due to CVE](https://github.com/RedHatInsights/advisor-backend/pull/99) on [RedHatInsights/advisor-backend](https://github.com/RedHatInsights/advisor-backend) (today)
 - [Update python-brotli to 1.2.0](https://github.com/theforeman/pulpcore-packaging/pull/2340) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (5 days ago)
 - [Update aiodns for pulpcore release](https://github.com/theforeman/pulpcore-packaging/pull/2336) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 week ago)
 - [Update Name Label to match foreman-mcp-server-rhel9](https://github.com/theforeman/foreman-mcp-server/pull/73) on [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) (1 week ago)
 - [Add CPE information for ubi9 container image](https://github.com/theforeman/foreman-mcp-server/pull/72) on [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) (1 week ago)
-- [Update dependencies to close CVE-2025-66471](https://github.com/theforeman/foreman-mcp-server/pull/71) on [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) (1 week ago)
 
 #### 📜 My recent blog posts
 
