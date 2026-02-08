@@ -25,10 +25,10 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
-- [chore(renovate): fix configuration to re-enable automated updates](https://github.com/theforeman/foreman-mcp-server/pull/75) on [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) (1 day ago)
-- [chore(deps): update build-tools to latest HEAD to close urlib3 CVE](https://github.com/RedHatInsights/insights-advisor-frontend/pull/1739) on [RedHatInsights/insights-advisor-frontend](https://github.com/RedHatInsights/insights-advisor-frontend) (2 days ago)
-- [Update duplicated entries to close Django and Urllib3 CVEs](https://github.com/RedHatInsights/advisor-backend/pull/101) on [RedHatInsights/advisor-backend](https://github.com/RedHatInsights/advisor-backend) (2 days ago)
-- [Update Django and Urllib3 due to CVE](https://github.com/RedHatInsights/advisor-backend/pull/99) on [RedHatInsights/advisor-backend](https://github.com/RedHatInsights/advisor-backend) (3 days ago)
+- [chore(renovate): fix configuration to re-enable automated updates](https://github.com/theforeman/foreman-mcp-server/pull/75) on [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) (2 days ago)
+- [chore(deps): update build-tools to latest HEAD to close urlib3 CVE](https://github.com/RedHatInsights/insights-advisor-frontend/pull/1739) on [RedHatInsights/insights-advisor-frontend](https://github.com/RedHatInsights/insights-advisor-frontend) (3 days ago)
+- [Update duplicated entries to close Django and Urllib3 CVEs](https://github.com/RedHatInsights/advisor-backend/pull/101) on [RedHatInsights/advisor-backend](https://github.com/RedHatInsights/advisor-backend) (3 days ago)
+- [Update Django and Urllib3 due to CVE](https://github.com/RedHatInsights/advisor-backend/pull/99) on [RedHatInsights/advisor-backend](https://github.com/RedHatInsights/advisor-backend) (4 days ago)
 - [Update python-brotli to 1.2.0](https://github.com/theforeman/pulpcore-packaging/pull/2340) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 week ago)
 
 #### 📜 My recent blog posts
