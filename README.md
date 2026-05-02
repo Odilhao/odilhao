@@ -6,34 +6,34 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
+- [Odilhao/odilhao](https://github.com/Odilhao/odilhao) -  (1 day ago)
+- [theforeman/puppet-pulpcore](https://github.com/theforeman/puppet-pulpcore) - Puppet module for setting up Pulp 3 as part of Katello installation (2 days ago)
+- [theforeman/puppet-foreman_proxy_content](https://github.com/theforeman/puppet-foreman_proxy_content) - Entry point for setting up Foreman proxy &#43; pulp (2 days ago)
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (3 days ago)
+- [RedHatInsights/insights-inventory-frontend](https://github.com/RedHatInsights/insights-inventory-frontend) - The Insights Inventory Frontend (5 days ago)
 - [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) -  (1 week ago)
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (1 week ago)
-- [theforeman/theforeman-rel-eng](https://github.com/theforeman/theforeman-rel-eng) - Release engineering scripts (4 weeks ago)
-- [JortvanSchijndel/FusionSolarPlus](https://github.com/JortvanSchijndel/FusionSolarPlus) - Integration to connect FusionSolar with Home Assistant (1 month ago)
-- [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) - Release data used by Konflux for releasing container images. (2 months ago)
-- [Odilhao/pulpcon-2025](https://github.com/Odilhao/pulpcon-2025) -  (2 months ago)
-- [theforeman/forklift](https://github.com/theforeman/forklift) - Helpful deployment scripts for Foreman and Katello (3 months ago)
-- [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) - Foreman&#39;s Jenkins Jobs configurations (3 months ago)
+- [RedHatInsights/insights-advisor-frontend](https://github.com/RedHatInsights/insights-advisor-frontend) - The Advisor Frontend (2 weeks ago)
+- [theforeman/foreman_ygg_worker](https://github.com/theforeman/foreman_ygg_worker) - Foreman remote execution yggdrasil worker service (3 weeks ago)
 
 #### 🌱 My latest projects
 
+- [Odilhao/packaging-skills](https://github.com/Odilhao/packaging-skills) - 
 - [Odilhao/pulpcon-2025](https://github.com/Odilhao/pulpcon-2025) - 
 - [Odilhao/odilhao](https://github.com/Odilhao/odilhao) - 
 - [Odilhao/bootc-server](https://github.com/Odilhao/bootc-server) - 
 - [Odilhao/pulpcon-2024](https://github.com/Odilhao/pulpcon-2024) - 
-- [Odilhao/bootc-sway](https://github.com/Odilhao/bootc-sway) - 
 
 #### 🔨 My recent Pull Requests
 
-- [Add workflow to check renovate config](https://github.com/theforeman/foreman-mcp-server/pull/80) on [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) (1 day ago)
-- [chore(renovate): fix configuration to re-enable automated updates](https://github.com/theforeman/foreman-mcp-server/pull/75) on [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) (6 days ago)
-- [chore(deps): update build-tools to latest HEAD to close urlib3 CVE](https://github.com/RedHatInsights/insights-advisor-frontend/pull/1739) on [RedHatInsights/insights-advisor-frontend](https://github.com/RedHatInsights/insights-advisor-frontend) (1 week ago)
-- [Update duplicated entries to close Django and Urllib3 CVEs](https://github.com/RedHatInsights/advisor-backend/pull/101) on [RedHatInsights/advisor-backend](https://github.com/RedHatInsights/advisor-backend) (1 week ago)
-- [Update Django and Urllib3 due to CVE](https://github.com/RedHatInsights/advisor-backend/pull/99) on [RedHatInsights/advisor-backend](https://github.com/RedHatInsights/advisor-backend) (1 week ago)
+- [Expose gunicorn control socket path parameters](https://github.com/theforeman/puppet-foreman_proxy_content/pull/537) on [theforeman/puppet-foreman_proxy_content](https://github.com/theforeman/puppet-foreman_proxy_content) (2 days ago)
+- [Add migration to set gunicorn control socket paths for pulpcore](https://github.com/theforeman/foreman-installer/pull/1057) on [theforeman/foreman-installer](https://github.com/theforeman/foreman-installer) (2 days ago)
+- [Set explicit gunicorn control socket path for API and content services](https://github.com/theforeman/puppet-pulpcore/pull/403) on [theforeman/puppet-pulpcore](https://github.com/theforeman/puppet-pulpcore) (2 days ago)
+- [Bump pulpcore release to 3.105](https://github.com/theforeman/pulpcore-packaging/pull/2570) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (3 days ago)
+- [Bump pulpcore release to 3.105](https://github.com/theforeman/pulpcore-packaging/pull/2569) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (3 days ago)
 
 #### 📜 My recent blog posts
 
-- [Using Container Images to Run your Desktop](https://odilon.dev/2024/10/29/building-a-desktop-with-bootc/) (1 year ago)
+- [Using Container Images to Run your Desktop](https://odilon.dev/2024/10/29/building-a-desktop-with-bootc/) (2 years ago)
 - [Running HomeAssistant with Podman](https://odilon.dev/2022/12/20/homeassistant-with-podman/) (3 years ago)
 - [Usando podman com Systemd](https://odilon.dev/2020/06/30/usando-podman-com-systemd/) (5 years ago)
 - [Montando ConfigMap como Script](https://odilon.dev/2020/03/08/montando-configmap-como-script/) (6 years ago)
