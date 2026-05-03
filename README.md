@@ -6,12 +6,12 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
-- [Odilhao/odilhao](https://github.com/Odilhao/odilhao) -  (1 day ago)
-- [Odilhao/packaging-skills](https://github.com/Odilhao/packaging-skills) -  (1 day ago)
-- [theforeman/puppet-pulpcore](https://github.com/theforeman/puppet-pulpcore) - Puppet module for setting up Pulp 3 as part of Katello installation (2 days ago)
-- [theforeman/puppet-foreman_proxy_content](https://github.com/theforeman/puppet-foreman_proxy_content) - Entry point for setting up Foreman proxy &#43; pulp (2 days ago)
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (3 days ago)
-- [RedHatInsights/insights-inventory-frontend](https://github.com/RedHatInsights/insights-inventory-frontend) - The Insights Inventory Frontend (5 days ago)
+- [Odilhao/odilhao](https://github.com/Odilhao/odilhao) -  (2 days ago)
+- [Odilhao/packaging-skills](https://github.com/Odilhao/packaging-skills) -  (2 days ago)
+- [theforeman/puppet-pulpcore](https://github.com/theforeman/puppet-pulpcore) - Puppet module for setting up Pulp 3 as part of Katello installation (3 days ago)
+- [theforeman/puppet-foreman_proxy_content](https://github.com/theforeman/puppet-foreman_proxy_content) - Entry point for setting up Foreman proxy &#43; pulp (3 days ago)
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (4 days ago)
+- [RedHatInsights/insights-inventory-frontend](https://github.com/RedHatInsights/insights-inventory-frontend) - The Insights Inventory Frontend (6 days ago)
 - [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) -  (1 week ago)
 - [RedHatInsights/insights-advisor-frontend](https://github.com/RedHatInsights/insights-advisor-frontend) - The Advisor Frontend (2 weeks ago)
 
@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
-- [Expose gunicorn control socket path parameters](https://github.com/theforeman/puppet-foreman_proxy_content/pull/537) on [theforeman/puppet-foreman_proxy_content](https://github.com/theforeman/puppet-foreman_proxy_content) (2 days ago)
-- [Add migration to set gunicorn control socket paths for pulpcore](https://github.com/theforeman/foreman-installer/pull/1057) on [theforeman/foreman-installer](https://github.com/theforeman/foreman-installer) (2 days ago)
-- [Set explicit gunicorn control socket path for API and content services](https://github.com/theforeman/puppet-pulpcore/pull/403) on [theforeman/puppet-pulpcore](https://github.com/theforeman/puppet-pulpcore) (2 days ago)
-- [Bump pulpcore release to 3.105](https://github.com/theforeman/pulpcore-packaging/pull/2570) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (3 days ago)
-- [Bump pulpcore release to 3.105](https://github.com/theforeman/pulpcore-packaging/pull/2569) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (3 days ago)
+- [Expose gunicorn control socket path parameters](https://github.com/theforeman/puppet-foreman_proxy_content/pull/537) on [theforeman/puppet-foreman_proxy_content](https://github.com/theforeman/puppet-foreman_proxy_content) (3 days ago)
+- [Add migration to set gunicorn control socket paths for pulpcore](https://github.com/theforeman/foreman-installer/pull/1057) on [theforeman/foreman-installer](https://github.com/theforeman/foreman-installer) (3 days ago)
+- [Set explicit gunicorn control socket path for API and content services](https://github.com/theforeman/puppet-pulpcore/pull/403) on [theforeman/puppet-pulpcore](https://github.com/theforeman/puppet-pulpcore) (3 days ago)
+- [Bump pulpcore release to 3.105](https://github.com/theforeman/pulpcore-packaging/pull/2570) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (4 days ago)
+- [Bump pulpcore release to 3.105](https://github.com/theforeman/pulpcore-packaging/pull/2569) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (4 days ago)
 
 #### 📜 My recent blog posts
 
