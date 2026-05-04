@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
+- [fix(python-pulpcore): add --control-socket patch for pulpcore-api and pulpcore-content](https://github.com/theforeman/pulpcore-packaging/pull/2576) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
 - [feat: display hooks in lola mod info command](https://github.com/LobsterTrap/lola/pull/116) on [LobsterTrap/lola](https://github.com/LobsterTrap/lola) (1 day ago)
 - [Expose gunicorn control socket path parameters](https://github.com/theforeman/puppet-foreman_proxy_content/pull/537) on [theforeman/puppet-foreman_proxy_content](https://github.com/theforeman/puppet-foreman_proxy_content) (4 days ago)
 - [Add migration to set gunicorn control socket paths for pulpcore](https://github.com/theforeman/foreman-installer/pull/1057) on [theforeman/foreman-installer](https://github.com/theforeman/foreman-installer) (4 days ago)
 - [Set explicit gunicorn control socket path for API and content services](https://github.com/theforeman/puppet-pulpcore/pull/403) on [theforeman/puppet-pulpcore](https://github.com/theforeman/puppet-pulpcore) (4 days ago)
-- [Bump pulpcore release to 3.105](https://github.com/theforeman/pulpcore-packaging/pull/2570) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (5 days ago)
 
 #### 📜 My recent blog posts
 
