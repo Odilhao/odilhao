@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
-- [fix(python-pulpcore): update to 3.105.5 and add --control-socket patch](https://github.com/theforeman/pulpcore-packaging/pull/2576) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
-- [feat: display hooks in lola mod info command](https://github.com/LobsterTrap/lola/pull/116) on [LobsterTrap/lola](https://github.com/LobsterTrap/lola) (2 days ago)
-- [Expose gunicorn control socket path parameters](https://github.com/theforeman/puppet-foreman_proxy_content/pull/537) on [theforeman/puppet-foreman_proxy_content](https://github.com/theforeman/puppet-foreman_proxy_content) (5 days ago)
-- [Add migration to set gunicorn control socket paths for pulpcore](https://github.com/theforeman/foreman-installer/pull/1057) on [theforeman/foreman-installer](https://github.com/theforeman/foreman-installer) (5 days ago)
-- [Set explicit gunicorn control socket path for API and content services](https://github.com/theforeman/puppet-pulpcore/pull/403) on [theforeman/puppet-pulpcore](https://github.com/theforeman/puppet-pulpcore) (5 days ago)
+- [chore(deps): bump konflux-pipelines to v1.67.0 [foreman-3.16]](https://github.com/RedHatInsights/yuptoo/pull/393) on [RedHatInsights/yuptoo](https://github.com/RedHatInsights/yuptoo) (today)
+- [chore(deps): bump konflux-pipelines to v1.67.0 [foreman-3.18]](https://github.com/RedHatInsights/yuptoo/pull/392) on [RedHatInsights/yuptoo](https://github.com/RedHatInsights/yuptoo) (today)
+- [chore(deps): bump konflux-pipelines to v1.67.0](https://github.com/RedHatInsights/yuptoo/pull/391) on [RedHatInsights/yuptoo](https://github.com/RedHatInsights/yuptoo) (today)
+- [chore: bump konflux-pipelines to v1.67.0 [foreman-3.16]](https://github.com/RedHatInsights/insights-ingress-go/pull/726) on [RedHatInsights/insights-ingress-go](https://github.com/RedHatInsights/insights-ingress-go) (today)
+- [chore: bump konflux-pipelines to v1.67.0 [foreman-3.18]](https://github.com/RedHatInsights/insights-ingress-go/pull/725) on [RedHatInsights/insights-ingress-go](https://github.com/RedHatInsights/insights-ingress-go) (today)
 
 #### 📜 My recent blog posts
 
