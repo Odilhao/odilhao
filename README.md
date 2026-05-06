@@ -6,14 +6,14 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
+- [RedHatInsights/vmaas](https://github.com/RedHatInsights/vmaas) - Vulnerability Metadata as a Service (1 day ago)
 - [RedHatInsights/yuptoo](https://github.com/RedHatInsights/yuptoo) - The Yupana Upload Processor II (1 day ago)
 - [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (2 days ago)
-- [Odilhao/packaging-skills](https://github.com/Odilhao/packaging-skills) -  (5 days ago)
 - [Odilhao/odilhao](https://github.com/Odilhao/odilhao) -  (5 days ago)
+- [Odilhao/packaging-skills](https://github.com/Odilhao/packaging-skills) -  (5 days ago)
 - [theforeman/puppet-pulpcore](https://github.com/theforeman/puppet-pulpcore) - Puppet module for setting up Pulp 3 as part of Katello installation (6 days ago)
 - [theforeman/foreman-installer](https://github.com/theforeman/foreman-installer) - Automated Foreman installation and configuration (6 days ago)
 - [theforeman/puppet-foreman_proxy_content](https://github.com/theforeman/puppet-foreman_proxy_content) - Entry point for setting up Foreman proxy &#43; pulp (6 days ago)
-- [RedHatInsights/insights-inventory-frontend](https://github.com/RedHatInsights/insights-inventory-frontend) - The Insights Inventory Frontend (1 week ago)
 
 #### 🌱 My latest projects
 
