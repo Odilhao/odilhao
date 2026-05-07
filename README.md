@@ -6,14 +6,14 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
+- [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) - Release data used by Konflux for releasing container images. (today)
 - [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (1 day ago)
-- [RedHatInsights/vmaas](https://github.com/RedHatInsights/vmaas) - Vulnerability Metadata as a Service (2 days ago)
 - [RedHatInsights/yuptoo](https://github.com/RedHatInsights/yuptoo) - The Yupana Upload Processor II (2 days ago)
-- [Odilhao/odilhao](https://github.com/Odilhao/odilhao) -  (6 days ago)
+- [RedHatInsights/vmaas](https://github.com/RedHatInsights/vmaas) - Vulnerability Metadata as a Service (2 days ago)
 - [Odilhao/packaging-skills](https://github.com/Odilhao/packaging-skills) -  (6 days ago)
-- [theforeman/foreman-installer](https://github.com/theforeman/foreman-installer) - Automated Foreman installation and configuration (1 week ago)
-- [theforeman/puppet-foreman_proxy_content](https://github.com/theforeman/puppet-foreman_proxy_content) - Entry point for setting up Foreman proxy &#43; pulp (1 week ago)
+- [Odilhao/odilhao](https://github.com/Odilhao/odilhao) -  (6 days ago)
 - [theforeman/puppet-pulpcore](https://github.com/theforeman/puppet-pulpcore) - Puppet module for setting up Pulp 3 as part of Katello installation (1 week ago)
+- [theforeman/puppet-foreman_proxy_content](https://github.com/theforeman/puppet-foreman_proxy_content) - Entry point for setting up Foreman proxy &#43; pulp (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
+- [Update Konflux configuration for new cluster](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/10) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (today)
 - [Update python-poetry_core to 2.4.0](https://github.com/theforeman/pulpcore-packaging/pull/2589) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
 - [chore(deps): bump konflux-pipelines to v1.67.0 [foreman-3.16]](https://github.com/RedHatInsights/yuptoo/pull/393) on [RedHatInsights/yuptoo](https://github.com/RedHatInsights/yuptoo) (2 days ago)
 - [chore(deps): bump konflux-pipelines to v1.67.0 [foreman-3.18]](https://github.com/RedHatInsights/yuptoo/pull/392) on [RedHatInsights/yuptoo](https://github.com/RedHatInsights/yuptoo) (2 days ago)
 - [chore(deps): bump konflux-pipelines to v1.67.0](https://github.com/RedHatInsights/yuptoo/pull/391) on [RedHatInsights/yuptoo](https://github.com/RedHatInsights/yuptoo) (2 days ago)
-- [chore: bump konflux-pipelines to v1.67.0 [foreman-3.16]](https://github.com/RedHatInsights/insights-ingress-go/pull/726) on [RedHatInsights/insights-ingress-go](https://github.com/RedHatInsights/insights-ingress-go) (2 days ago)
 
 #### 📜 My recent blog posts
 
