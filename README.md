@@ -7,13 +7,13 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 #### 👷 Check out what I'm currently working on
 
 - [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) - Release data used by Konflux for releasing container images. (today)
+- [strawgate/py-key-value](https://github.com/strawgate/py-key-value) - A pluggable interface for KV Stores (today)
 - [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (2 days ago)
 - [RedHatInsights/yuptoo](https://github.com/RedHatInsights/yuptoo) - The Yupana Upload Processor II (3 days ago)
 - [RedHatInsights/vmaas](https://github.com/RedHatInsights/vmaas) - Vulnerability Metadata as a Service (3 days ago)
 - [Odilhao/packaging-skills](https://github.com/Odilhao/packaging-skills) -  (1 week ago)
 - [Odilhao/odilhao](https://github.com/Odilhao/odilhao) -  (1 week ago)
-- [theforeman/puppet-pulpcore](https://github.com/theforeman/puppet-pulpcore) - Puppet module for setting up Pulp 3 as part of Katello installation (1 week ago)
-- [theforeman/puppet-foreman_proxy_content](https://github.com/theforeman/puppet-foreman_proxy_content) - Entry point for setting up Foreman proxy &#43; pulp (1 week ago)
+- [theforeman/foreman-installer](https://github.com/theforeman/foreman-installer) - Automated Foreman installation and configuration (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
+- [Fix Quay.io auth and add local push script for pipeline bundle](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/13) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (today)
 - [Fix Quay.io auth for tkn bundle push](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/12) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (today)
 - [Add tekton-catalog for Fedora cluster pipeline bundle](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/11) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (today)
 - [Update Konflux configuration for new cluster](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/10) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (1 day ago)
 - [Update python-poetry_core to 2.4.0](https://github.com/theforeman/pulpcore-packaging/pull/2589) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (2 days ago)
-- [chore(deps): bump konflux-pipelines to v1.67.0 [foreman-3.16]](https://github.com/RedHatInsights/yuptoo/pull/393) on [RedHatInsights/yuptoo](https://github.com/RedHatInsights/yuptoo) (3 days ago)
 
 #### 📜 My recent blog posts
 
