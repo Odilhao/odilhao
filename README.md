@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
+- [Fix :latest tagging using skopeo copy](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/15) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (today)
+- [Push pipeline bundle with both :latest and :&lt;short-sha&gt; tags](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/14) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (today)
 - [Fix Quay.io auth and add local push script for pipeline bundle](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/13) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (today)
 - [Fix Quay.io auth for tkn bundle push](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/12) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (today)
 - [Add tekton-catalog for Fedora cluster pipeline bundle](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/11) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (today)
-- [Update Konflux configuration for new cluster](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/10) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (1 day ago)
-- [Update python-poetry_core to 2.4.0](https://github.com/theforeman/pulpcore-packaging/pull/2589) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (2 days ago)
 
 #### 📜 My recent blog posts
 
