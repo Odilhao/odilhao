@@ -6,7 +6,7 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
-- [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) - Release data used by Konflux for releasing container images. (1 day ago)
+- [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) - Release data used by Konflux for releasing container images. (today)
 - [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (2 days ago)
 - [RedHatInsights/yuptoo](https://github.com/RedHatInsights/yuptoo) - The Yupana Upload Processor II (3 days ago)
 - [RedHatInsights/vmaas](https://github.com/RedHatInsights/vmaas) - Vulnerability Metadata as a Service (3 days ago)
@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
+- [Fix Quay.io auth for tkn bundle push](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/12) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (today)
+- [Add tekton-catalog for Fedora cluster pipeline bundle](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/11) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (today)
 - [Update Konflux configuration for new cluster](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/10) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (1 day ago)
 - [Update python-poetry_core to 2.4.0](https://github.com/theforeman/pulpcore-packaging/pull/2589) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (2 days ago)
 - [chore(deps): bump konflux-pipelines to v1.67.0 [foreman-3.16]](https://github.com/RedHatInsights/yuptoo/pull/393) on [RedHatInsights/yuptoo](https://github.com/RedHatInsights/yuptoo) (3 days ago)
-- [chore(deps): bump konflux-pipelines to v1.67.0 [foreman-3.18]](https://github.com/RedHatInsights/yuptoo/pull/392) on [RedHatInsights/yuptoo](https://github.com/RedHatInsights/yuptoo) (3 days ago)
-- [chore(deps): bump konflux-pipelines to v1.67.0](https://github.com/RedHatInsights/yuptoo/pull/391) on [RedHatInsights/yuptoo](https://github.com/RedHatInsights/yuptoo) (3 days ago)
 
 #### 📜 My recent blog posts
 
