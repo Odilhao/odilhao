@@ -6,14 +6,14 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
-- [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) - Release data used by Konflux for releasing container images. (today)
 - [strawgate/py-key-value](https://github.com/strawgate/py-key-value) - A pluggable interface for KV Stores (today)
+- [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) -  (today)
+- [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) - Release data used by Konflux for releasing container images. (today)
 - [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (2 days ago)
-- [RedHatInsights/yuptoo](https://github.com/RedHatInsights/yuptoo) - The Yupana Upload Processor II (3 days ago)
 - [RedHatInsights/vmaas](https://github.com/RedHatInsights/vmaas) - Vulnerability Metadata as a Service (3 days ago)
+- [RedHatInsights/yuptoo](https://github.com/RedHatInsights/yuptoo) - The Yupana Upload Processor II (3 days ago)
 - [Odilhao/packaging-skills](https://github.com/Odilhao/packaging-skills) -  (1 week ago)
 - [Odilhao/odilhao](https://github.com/Odilhao/odilhao) -  (1 week ago)
-- [theforeman/foreman-installer](https://github.com/theforeman/foreman-installer) - Automated Foreman installation and configuration (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
-- [Fix :latest tagging using skopeo copy](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/15) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (today)
-- [Push pipeline bundle with both :latest and :&lt;short-sha&gt; tags](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/14) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (today)
-- [Fix Quay.io auth and add local push script for pipeline bundle](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/13) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (today)
-- [Fix Quay.io auth for tkn bundle push](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/12) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (today)
-- [Add tekton-catalog for Fedora cluster pipeline bundle](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/11) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (today)
+- [Enable the push of source container to registry](https://github.com/theforeman/pulp-oci-images/pull/17) on [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) (today)
+- [Enable source image build in Konflux pipelines](https://github.com/theforeman/foreman-mcp-server/pull/100) on [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) (today)
+- [Add custom collect-data task with optional RPA/RSC params](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/19) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (today)
+- [Remove collect-data runAfter dependency on verify-access-to-resources](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/18) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (today)
+- [Remove verify-access-to-resources task and fix RPA param handling](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/17) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (today)
 
 #### 📜 My recent blog posts
 
