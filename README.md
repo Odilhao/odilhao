@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
+- [Add support for Pulpcore 3.105](https://github.com/theforeman/puppet-pulpcore/pull/406) on [theforeman/puppet-pulpcore](https://github.com/theforeman/puppet-pulpcore) (today)
+- [Update pulpcore-release to 3.105](https://github.com/theforeman/pulpcore-packaging/pull/2609) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
+- [Add Pulpcore 3.105 Configuration](https://github.com/theforeman/theforeman-rel-eng/pull/578) on [theforeman/theforeman-rel-eng](https://github.com/theforeman/theforeman-rel-eng) (today)
+- [Update configuration to 3.105](https://github.com/theforeman/pulpcore-packaging/pull/2608) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
 - [[cherrypick] Improve inventory stats with USER_OMITTED status and enhanced UX ](https://github.com/theforeman/foreman_rh_cloud/pull/1208) on [theforeman/foreman_rh_cloud](https://github.com/theforeman/foreman_rh_cloud) (today)
-- [Update Konflux configuration to build source image containers](https://github.com/theforeman/candlepin-oci-images/pull/20) on [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) (3 days ago)
-- [Update Konflux configuration to build source image containers](https://github.com/theforeman/foreman-oci-images/pull/33) on [theforeman/foreman-oci-images](https://github.com/theforeman/foreman-oci-images) (3 days ago)
-- [Enable the push of source container to registry](https://github.com/theforeman/pulp-oci-images/pull/17) on [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) (3 days ago)
-- [Enable source image build in Konflux pipelines](https://github.com/theforeman/foreman-mcp-server/pull/100) on [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) (3 days ago)
 
 #### 📜 My recent blog posts
 
