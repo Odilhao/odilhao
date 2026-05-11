@@ -6,14 +6,14 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
-- [theforeman/foreman-oci-images](https://github.com/theforeman/foreman-oci-images) -  (3 days ago)
+- [theforeman/theforeman-rel-eng](https://github.com/theforeman/theforeman-rel-eng) - Release engineering scripts (today)
+- [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) -  (3 days ago)
 - [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) -  (3 days ago)
 - [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) - Release data used by Konflux for releasing container images. (3 days ago)
-- [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) - Containerfiles and other assets for building Candlepin OCI images used by Foreman (3 days ago)
-- [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) -  (3 days ago)
 - [strawgate/py-key-value](https://github.com/strawgate/py-key-value) - A pluggable interface for KV Stores (3 days ago)
+- [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) - Containerfiles and other assets for building Candlepin OCI images used by Foreman (3 days ago)
+- [theforeman/foreman-oci-images](https://github.com/theforeman/foreman-oci-images) -  (3 days ago)
 - [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (5 days ago)
-- [RedHatInsights/yuptoo](https://github.com/RedHatInsights/yuptoo) - The Yupana Upload Processor II (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
+- [Add OSES variable to Pulpcore 3.105](https://github.com/theforeman/theforeman-rel-eng/pull/579) on [theforeman/theforeman-rel-eng](https://github.com/theforeman/theforeman-rel-eng) (today)
 - [Add support for Pulpcore 3.105](https://github.com/theforeman/puppet-pulpcore/pull/406) on [theforeman/puppet-pulpcore](https://github.com/theforeman/puppet-pulpcore) (today)
 - [Update pulpcore-release to 3.105](https://github.com/theforeman/pulpcore-packaging/pull/2609) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
 - [Add Pulpcore 3.105 Configuration](https://github.com/theforeman/theforeman-rel-eng/pull/578) on [theforeman/theforeman-rel-eng](https://github.com/theforeman/theforeman-rel-eng) (today)
 - [Update configuration to 3.105](https://github.com/theforeman/pulpcore-packaging/pull/2608) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
-- [[cherrypick] Improve inventory stats with USER_OMITTED status and enhanced UX ](https://github.com/theforeman/foreman_rh_cloud/pull/1208) on [theforeman/foreman_rh_cloud](https://github.com/theforeman/foreman_rh_cloud) (today)
 
 #### 📜 My recent blog posts
 
