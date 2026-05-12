@@ -6,12 +6,12 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
+- [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) - Containerfiles and other assets for building Candlepin OCI images used by Foreman (today)
 - [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) - Release data used by Konflux for releasing container images. (today)
+- [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) -  (today)
+- [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) -  (today)
 - [theforeman/theforeman-rel-eng](https://github.com/theforeman/theforeman-rel-eng) - Release engineering scripts (1 day ago)
-- [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) -  (4 days ago)
-- [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) -  (4 days ago)
 - [strawgate/py-key-value](https://github.com/strawgate/py-key-value) - A pluggable interface for KV Stores (4 days ago)
-- [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) - Containerfiles and other assets for building Candlepin OCI images used by Foreman (4 days ago)
 - [theforeman/foreman-oci-images](https://github.com/theforeman/foreman-oci-images) -  (4 days ago)
 - [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (6 days ago)
 
