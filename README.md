@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
+- [docs: OCI pipeline file inventory and branching reference](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/37) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (today)
 - [Remove project/ and releases/ — now managed in tenants-config](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/21) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (today)
 - [Fix buildah-oci-ta and source-build-oci-ta bundle refs in push pipeline](https://github.com/theforeman/foreman-oci-images/pull/34) on [theforeman/foreman-oci-images](https://github.com/theforeman/foreman-oci-images) (today)
 - [Add buildah-oci-ta task with increased memory limits](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/20) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (today)
 - [Add OSES variable to Pulpcore 3.105](https://github.com/theforeman/theforeman-rel-eng/pull/579) on [theforeman/theforeman-rel-eng](https://github.com/theforeman/theforeman-rel-eng) (1 day ago)
-- [Add support for Pulpcore 3.105](https://github.com/theforeman/puppet-pulpcore/pull/406) on [theforeman/puppet-pulpcore](https://github.com/theforeman/puppet-pulpcore) (1 day ago)
 
 #### 📜 My recent blog posts
 
