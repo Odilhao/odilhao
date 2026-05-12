@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
+- [Add buildah-oci-ta task with increased memory limits](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/20) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (today)
 - [Add OSES variable to Pulpcore 3.105](https://github.com/theforeman/theforeman-rel-eng/pull/579) on [theforeman/theforeman-rel-eng](https://github.com/theforeman/theforeman-rel-eng) (1 day ago)
 - [Add support for Pulpcore 3.105](https://github.com/theforeman/puppet-pulpcore/pull/406) on [theforeman/puppet-pulpcore](https://github.com/theforeman/puppet-pulpcore) (1 day ago)
 - [Update pulpcore-release to 3.105](https://github.com/theforeman/pulpcore-packaging/pull/2609) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
 - [Add Pulpcore 3.105 Configuration](https://github.com/theforeman/theforeman-rel-eng/pull/578) on [theforeman/theforeman-rel-eng](https://github.com/theforeman/theforeman-rel-eng) (1 day ago)
-- [Update configuration to 3.105](https://github.com/theforeman/pulpcore-packaging/pull/2608) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
 
 #### 📜 My recent blog posts
 
