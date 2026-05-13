@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
+- [hack/branch-release: tenants-config overlay generation for #29](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/42) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (today)
 - [hack/branch-release: lib modules, settings, and tests for #26](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/41) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (today)
 - [Use custom task-buildah-oci-ta bundle with increased memory limits](https://github.com/theforeman/foreman-mcp-server/pull/101) on [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) (1 day ago)
 - [Use custom task-buildah-oci-ta bundle with increased memory limits](https://github.com/theforeman/candlepin-oci-images/pull/21) on [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) (1 day ago)
 - [Use custom task-buildah-oci-ta bundle with increased memory limits](https://github.com/theforeman/pulp-oci-images/pull/18) on [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) (1 day ago)
-- [Add CLAUDE.md: agent rules and dev environment bootstrap](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/39) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (1 day ago)
 
 #### 📜 My recent blog posts
 
