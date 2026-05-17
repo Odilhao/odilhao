@@ -6,12 +6,12 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
-- [RedHatInsights/insights-ingress-go](https://github.com/RedHatInsights/insights-ingress-go) -  (2 days ago)
-- [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) - Release data used by Konflux for releasing container images. (3 days ago)
-- [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) -  (4 days ago)
-- [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) - Containerfiles and other assets for building Candlepin OCI images used by Foreman (4 days ago)
-- [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) -  (4 days ago)
-- [theforeman/theforeman-rel-eng](https://github.com/theforeman/theforeman-rel-eng) - Release engineering scripts (5 days ago)
+- [RedHatInsights/insights-ingress-go](https://github.com/RedHatInsights/insights-ingress-go) -  (3 days ago)
+- [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) - Release data used by Konflux for releasing container images. (4 days ago)
+- [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) -  (5 days ago)
+- [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) - Containerfiles and other assets for building Candlepin OCI images used by Foreman (5 days ago)
+- [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) -  (5 days ago)
+- [theforeman/theforeman-rel-eng](https://github.com/theforeman/theforeman-rel-eng) - Release engineering scripts (6 days ago)
 - [theforeman/foreman-oci-images](https://github.com/theforeman/foreman-oci-images) -  (1 week ago)
 - [strawgate/py-key-value](https://github.com/strawgate/py-key-value) - A pluggable interface for KV Stores (1 week ago)
 
@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
-- [hack/branch-release: branch_konflux orchestrator (#32)](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/43) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (2 days ago)
-- [hack/branch-release: tenants-config overlay generation for #29](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/42) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (3 days ago)
-- [hack/branch-release: lib modules, settings, and tests for #26](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/41) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (3 days ago)
-- [Use custom task-buildah-oci-ta bundle with increased memory limits](https://github.com/theforeman/foreman-mcp-server/pull/101) on [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) (4 days ago)
-- [Use custom task-buildah-oci-ta bundle with increased memory limits](https://github.com/theforeman/candlepin-oci-images/pull/21) on [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) (4 days ago)
+- [hack/branch-release: branch_konflux orchestrator (#32)](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/43) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (3 days ago)
+- [hack/branch-release: tenants-config overlay generation for #29](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/42) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (4 days ago)
+- [hack/branch-release: lib modules, settings, and tests for #26](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/41) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (4 days ago)
+- [Use custom task-buildah-oci-ta bundle with increased memory limits](https://github.com/theforeman/foreman-mcp-server/pull/101) on [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) (5 days ago)
+- [Use custom task-buildah-oci-ta bundle with increased memory limits](https://github.com/theforeman/candlepin-oci-images/pull/21) on [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) (5 days ago)
 
 #### 📜 My recent blog posts
 
