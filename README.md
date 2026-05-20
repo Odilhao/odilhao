@@ -6,8 +6,8 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
-- [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) - Release data used by Konflux for releasing container images. (today)
-- [RedHatInsights/insights-ingress-go](https://github.com/RedHatInsights/insights-ingress-go) -  (5 days ago)
+- [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) - Release data used by Konflux for releasing container images. (1 day ago)
+- [RedHatInsights/insights-ingress-go](https://github.com/RedHatInsights/insights-ingress-go) -  (6 days ago)
 - [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) -  (1 week ago)
 - [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) -  (1 week ago)
 - [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) - Containerfiles and other assets for building Candlepin OCI images used by Foreman (1 week ago)
@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
-- [Update Katello repoclosure to 4.21](https://github.com/theforeman/foreman-packaging/pull/13490) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (today)
-- [Update Katello 4.21 RC1 release](https://github.com/theforeman/foreman-packaging/pull/13489) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (today)
-- [docs: add manual OCI branching runbook (issue #33)](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/44) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (1 day ago)
-- [hack/branch-release: branch_konflux orchestrator (#32)](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/43) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (5 days ago)
-- [hack/branch-release: tenants-config overlay generation for #29](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/42) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (6 days ago)
+- [Update Katello repoclosure to 4.21](https://github.com/theforeman/foreman-packaging/pull/13490) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (1 day ago)
+- [Update Katello 4.21 RC1 release](https://github.com/theforeman/foreman-packaging/pull/13489) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (1 day ago)
+- [docs: add manual OCI branching runbook (issue #33)](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/44) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (2 days ago)
+- [hack/branch-release: branch_konflux orchestrator (#32)](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/43) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (6 days ago)
+- [hack/branch-release: tenants-config overlay generation for #29](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/42) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (1 week ago)
 
 #### 📜 My recent blog posts
 
