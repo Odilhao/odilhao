@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
-- [Update Katello repoclosure to 4.21](https://github.com/theforeman/foreman-packaging/pull/13490) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (1 day ago)
-- [Update Katello 4.21 RC1 release](https://github.com/theforeman/foreman-packaging/pull/13489) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (1 day ago)
-- [docs: add manual OCI branching runbook (issue #33)](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/44) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (2 days ago)
-- [hack/branch-release: branch_konflux orchestrator (#32)](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/43) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (6 days ago)
-- [hack/branch-release: tenants-config overlay generation for #29](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/42) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (1 week ago)
+- [hack/branch-release: fix branching script issues found during 3.19 run](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/46) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (today)
+- [releases/foreman/3.19/settings: update for 3.19 release](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/45) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (today)
+- [Branch: foreman-3.19](https://github.com/theforeman/candlepin-oci-images/pull/23) on [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) (today)
+- [Branch: foreman-3.19](https://github.com/theforeman/pulp-oci-images/pull/20) on [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) (today)
+- [Branch: foreman-3.19](https://github.com/theforeman/foreman-oci-images/pull/36) on [theforeman/foreman-oci-images](https://github.com/theforeman/foreman-oci-images) (today)
 
 #### 📜 My recent blog posts
 
