@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
+- [Release for katello 5.0](https://github.com/theforeman/hammer-cli-foreman-rh-cloud/pull/19) on [theforeman/hammer-cli-foreman-rh-cloud](https://github.com/theforeman/hammer-cli-foreman-rh-cloud) (today)
 - [Obsolete python3.11 pulpcore packages to clear old installations](https://github.com/theforeman/pulpcore-packaging/pull/2644) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (4 days ago)
 - [images/pulp: add OCI image labels](https://github.com/theforeman/pulp-oci-images/pull/22) on [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) (5 days ago)
 - [images/candlepin: add OCI image labels](https://github.com/theforeman/candlepin-oci-images/pull/25) on [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) (5 days ago)
 - [hack/branch-release: fix branching script issues found during 3.19 run](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/46) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (5 days ago)
-- [releases/foreman/3.19/settings: update for 3.19 release](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/45) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (5 days ago)
 
 #### 📜 My recent blog posts
 
