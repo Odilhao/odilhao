@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
-- [Update Candlepin to 4.7.5](https://github.com/theforeman/candlepin-oci-images/pull/28) on [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) (today)
-- [Branch: foreman-3.19](https://github.com/theforeman/pulp-oci-images/pull/25) on [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) (today)
-- [Branch: foreman-3.19](https://github.com/theforeman/candlepin-oci-images/pull/27) on [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) (today)
-- [Branch: foreman-3.19](https://github.com/theforeman/pulp-oci-images/pull/24) on [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) (today)
-- [Branch: foreman-3.19](https://github.com/theforeman/foreman-oci-images/pull/40) on [theforeman/foreman-oci-images](https://github.com/theforeman/foreman-oci-images) (today)
+- [hack/branch-release: idempotent re-runs, discourse_post script, foreman- XYZ tag fix](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/49) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (today)
+- [fix: use stage namespace for foreman-mcp-server develop output-image](https://github.com/theforeman/foreman-mcp-server/pull/103) on [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) (today)
+- [fix: use stage namespace for candlepin 3.19 output-image](https://github.com/theforeman/candlepin-oci-images/pull/30) on [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) (today)
+- [fix: use stage namespace for candlepin develop output-image](https://github.com/theforeman/candlepin-oci-images/pull/29) on [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) (today)
+- [fix: use stage namespace for foreman 3.19 output-image](https://github.com/theforeman/foreman-oci-images/pull/42) on [theforeman/foreman-oci-images](https://github.com/theforeman/foreman-oci-images) (today)
 
 #### 📜 My recent blog posts
 
