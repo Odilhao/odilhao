@@ -6,14 +6,14 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
+- [theforeman/hammer-cli-foreman-rh-cloud](https://github.com/theforeman/hammer-cli-foreman-rh-cloud) - This plugin is exposing foreman_rh_cloud functionality for command line use. (1 day ago)
 - [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) - Release data used by Konflux for releasing container images. (1 day ago)
 - [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (5 days ago)
 - [RedHatInsights/insights-ingress-go](https://github.com/RedHatInsights/insights-ingress-go) -  (1 week ago)
+- [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) -  (2 weeks ago)
 - [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) -  (2 weeks ago)
 - [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) - Containerfiles and other assets for building Candlepin OCI images used by Foreman (2 weeks ago)
-- [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) -  (2 weeks ago)
 - [theforeman/theforeman-rel-eng](https://github.com/theforeman/theforeman-rel-eng) - Release engineering scripts (2 weeks ago)
-- [strawgate/py-key-value](https://github.com/strawgate/py-key-value) - A pluggable interface for KV Stores (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
-- [Release for katello 5.0](https://github.com/theforeman/hammer-cli-foreman-rh-cloud/pull/19) on [theforeman/hammer-cli-foreman-rh-cloud](https://github.com/theforeman/hammer-cli-foreman-rh-cloud) (1 day ago)
-- [Obsolete python3.11 pulpcore packages to clear old installations](https://github.com/theforeman/pulpcore-packaging/pull/2644) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (5 days ago)
-- [images/pulp: add OCI image labels](https://github.com/theforeman/pulp-oci-images/pull/22) on [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) (6 days ago)
-- [images/candlepin: add OCI image labels](https://github.com/theforeman/candlepin-oci-images/pull/25) on [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) (6 days ago)
-- [hack/branch-release: fix branching script issues found during 3.19 run](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/46) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (6 days ago)
+- [Branch: foreman-3.19](https://github.com/theforeman/candlepin-oci-images/pull/27) on [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) (today)
+- [Branch: foreman-3.19](https://github.com/theforeman/pulp-oci-images/pull/24) on [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) (today)
+- [Branch: foreman-3.19](https://github.com/theforeman/foreman-oci-images/pull/40) on [theforeman/foreman-oci-images](https://github.com/theforeman/foreman-oci-images) (today)
+- [Update foreman 3.19 to rc2 and Candlepin to 4.7.5](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/48) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (today)
+- [Bump release to 1.13.9](https://github.com/theforeman/foreman_maintain/pull/1089) on [theforeman/foreman_maintain](https://github.com/theforeman/foreman_maintain) (today)
 
 #### 📜 My recent blog posts
 
