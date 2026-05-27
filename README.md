@@ -6,8 +6,8 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
+- [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) - Release data used by Konflux for releasing container images. (today)
 - [theforeman/foreman-oci-images](https://github.com/theforeman/foreman-oci-images) -  (1 day ago)
-- [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) - Release data used by Konflux for releasing container images. (1 day ago)
 - [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) -  (1 day ago)
 - [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) -  (1 day ago)
 - [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) - Containerfiles and other assets for building Candlepin OCI images used by Foreman (1 day ago)
@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
+- [Fix python-pulp-cli 0.39.1: remove stale setuptools runtime dependency](https://github.com/theforeman/pulpcore-packaging/pull/2655) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
+- [Fix python-pydantic-core 2.46.4: update typing-extensions bound to &gt;= 4.14.1](https://github.com/theforeman/pulpcore-packaging/pull/2654) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
+- [tekton-catalog: publish custom docker-build-oci-ta pipeline bundle](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/50) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (today)
 - [hack/branch-release: idempotent re-runs, discourse_post script, foreman- XYZ tag fix](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/49) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (1 day ago)
 - [fix: use stage namespace for foreman-mcp-server develop output-image](https://github.com/theforeman/foreman-mcp-server/pull/103) on [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) (1 day ago)
-- [fix: use stage namespace for candlepin 3.19 output-image](https://github.com/theforeman/candlepin-oci-images/pull/30) on [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) (1 day ago)
-- [fix: use stage namespace for candlepin develop output-image](https://github.com/theforeman/candlepin-oci-images/pull/29) on [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) (1 day ago)
-- [fix: use stage namespace for foreman 3.19 output-image](https://github.com/theforeman/foreman-oci-images/pull/42) on [theforeman/foreman-oci-images](https://github.com/theforeman/foreman-oci-images) (1 day ago)
 
 #### 📜 My recent blog posts
 
