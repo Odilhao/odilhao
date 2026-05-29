@@ -6,14 +6,14 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
-- [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) - Release data used by Konflux for releasing container images. (today)
-- [theforeman/foreman-oci-images](https://github.com/theforeman/foreman-oci-images) -  (1 day ago)
-- [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) -  (1 day ago)
-- [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) -  (1 day ago)
-- [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) - Containerfiles and other assets for building Candlepin OCI images used by Foreman (1 day ago)
-- [theforeman/hammer-cli-foreman-rh-cloud](https://github.com/theforeman/hammer-cli-foreman-rh-cloud) - This plugin is exposing foreman_rh_cloud functionality for command line use. (2 days ago)
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (6 days ago)
-- [RedHatInsights/insights-ingress-go](https://github.com/RedHatInsights/insights-ingress-go) -  (1 week ago)
+- [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) -  (today)
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (today)
+- [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) -  (today)
+- [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) - Release data used by Konflux for releasing container images. (2 days ago)
+- [theforeman/foreman-oci-images](https://github.com/theforeman/foreman-oci-images) -  (3 days ago)
+- [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) - Containerfiles and other assets for building Candlepin OCI images used by Foreman (3 days ago)
+- [theforeman/hammer-cli-foreman-rh-cloud](https://github.com/theforeman/hammer-cli-foreman-rh-cloud) - This plugin is exposing foreman_rh_cloud functionality for command line use. (4 days ago)
+- [RedHatInsights/insights-ingress-go](https://github.com/RedHatInsights/insights-ingress-go) -  (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
-- [Fix python-pulp-cli 0.39.1: remove stale setuptools runtime dependency](https://github.com/theforeman/pulpcore-packaging/pull/2655) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
-- [Fix python-pydantic-core 2.46.4: update typing-extensions bound to &gt;= 4.14.1](https://github.com/theforeman/pulpcore-packaging/pull/2654) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
-- [tekton-catalog: publish custom docker-build-oci-ta pipeline bundle](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/50) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (today)
-- [hack/branch-release: idempotent re-runs, discourse_post script, foreman- XYZ tag fix](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/49) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (1 day ago)
-- [fix: use stage namespace for foreman-mcp-server develop output-image](https://github.com/theforeman/foreman-mcp-server/pull/103) on [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) (1 day ago)
+- [Update python-galaxy-importer to 0.4.39](https://github.com/theforeman/pulpcore-packaging/pull/2660) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
+- [Fix pulp-glue pydantic upper bound: &lt; 2.13 → &lt; 2.14](https://github.com/theforeman/pulpcore-packaging/pull/2659) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
+- [Fix stale dep bounds in pulp-cli-deb and pulp-glue-deb](https://github.com/theforeman/pulpcore-packaging/pull/2658) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
+- [Fix pulpcore pulp-glue upper bound: &lt; 0.39 → &lt; 0.40](https://github.com/theforeman/pulpcore-packaging/pull/2657) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
+- [Update Containerfile to centos stream 9 based on digest](https://github.com/theforeman/pulp-oci-images/pull/30) on [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) (today)
 
 #### 📜 My recent blog posts
 
