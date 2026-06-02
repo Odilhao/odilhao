@@ -6,12 +6,12 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
-- [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) -  (3 days ago)
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (3 days ago)
-- [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) -  (3 days ago)
-- [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) - Release data used by Konflux for releasing container images. (5 days ago)
-- [theforeman/foreman-oci-images](https://github.com/theforeman/foreman-oci-images) -  (6 days ago)
-- [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) - Containerfiles and other assets for building Candlepin OCI images used by Foreman (6 days ago)
+- [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) -  (4 days ago)
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (4 days ago)
+- [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) -  (4 days ago)
+- [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) - Release data used by Konflux for releasing container images. (6 days ago)
+- [theforeman/foreman-oci-images](https://github.com/theforeman/foreman-oci-images) -  (1 week ago)
+- [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) - Containerfiles and other assets for building Candlepin OCI images used by Foreman (1 week ago)
 - [theforeman/hammer-cli-foreman-rh-cloud](https://github.com/theforeman/hammer-cli-foreman-rh-cloud) - This plugin is exposing foreman_rh_cloud functionality for command line use. (1 week ago)
 - [RedHatInsights/insights-ingress-go](https://github.com/RedHatInsights/insights-ingress-go) -  (2 weeks ago)
 
@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
-- [Update python-galaxy-importer to 0.4.39](https://github.com/theforeman/pulpcore-packaging/pull/2660) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (3 days ago)
-- [Fix pulp-glue pydantic upper bound: &lt; 2.13 → &lt; 2.14](https://github.com/theforeman/pulpcore-packaging/pull/2659) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (3 days ago)
-- [Fix stale dep bounds in pulp-cli-deb and pulp-glue-deb](https://github.com/theforeman/pulpcore-packaging/pull/2658) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (3 days ago)
-- [Fix pulpcore pulp-glue upper bound: &lt; 0.39 → &lt; 0.40](https://github.com/theforeman/pulpcore-packaging/pull/2657) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (3 days ago)
-- [Update Containerfile to centos stream 9 based on digest](https://github.com/theforeman/pulp-oci-images/pull/30) on [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) (3 days ago)
+- [Update python-galaxy-importer to 0.4.39](https://github.com/theforeman/pulpcore-packaging/pull/2660) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (4 days ago)
+- [Fix pulp-glue pydantic upper bound: &lt; 2.13 → &lt; 2.14](https://github.com/theforeman/pulpcore-packaging/pull/2659) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (4 days ago)
+- [Fix stale dep bounds in pulp-cli-deb and pulp-glue-deb](https://github.com/theforeman/pulpcore-packaging/pull/2658) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (4 days ago)
+- [Fix pulpcore pulp-glue upper bound: &lt; 0.39 → &lt; 0.40](https://github.com/theforeman/pulpcore-packaging/pull/2657) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (4 days ago)
+- [Update Containerfile to centos stream 9 based on digest](https://github.com/theforeman/pulp-oci-images/pull/30) on [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) (4 days ago)
 
 #### 📜 My recent blog posts
 
