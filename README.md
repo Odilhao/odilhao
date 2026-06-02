@@ -6,12 +6,12 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
+- [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) -  (today)
 - [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) -  (4 days ago)
 - [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (4 days ago)
-- [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) -  (4 days ago)
 - [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) - Release data used by Konflux for releasing container images. (6 days ago)
-- [theforeman/foreman-oci-images](https://github.com/theforeman/foreman-oci-images) -  (1 week ago)
 - [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) - Containerfiles and other assets for building Candlepin OCI images used by Foreman (1 week ago)
+- [theforeman/foreman-oci-images](https://github.com/theforeman/foreman-oci-images) -  (1 week ago)
 - [theforeman/hammer-cli-foreman-rh-cloud](https://github.com/theforeman/hammer-cli-foreman-rh-cloud) - This plugin is exposing foreman_rh_cloud functionality for command line use. (1 week ago)
 - [RedHatInsights/insights-ingress-go](https://github.com/RedHatInsights/insights-ingress-go) -  (2 weeks ago)
 
