@@ -6,13 +6,13 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
-- [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) -  (5 days ago)
+- [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) -  (6 days ago)
 - [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) -  (1 week ago)
 - [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (1 week ago)
 - [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) - Release data used by Konflux for releasing container images. (1 week ago)
 - [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) - Containerfiles and other assets for building Candlepin OCI images used by Foreman (1 week ago)
 - [theforeman/foreman-oci-images](https://github.com/theforeman/foreman-oci-images) -  (1 week ago)
-- [theforeman/hammer-cli-foreman-rh-cloud](https://github.com/theforeman/hammer-cli-foreman-rh-cloud) - This plugin is exposing foreman_rh_cloud functionality for command line use. (1 week ago)
+- [theforeman/hammer-cli-foreman-rh-cloud](https://github.com/theforeman/hammer-cli-foreman-rh-cloud) - This plugin is exposing foreman_rh_cloud functionality for command line use. (2 weeks ago)
 - [RedHatInsights/insights-ingress-go](https://github.com/RedHatInsights/insights-ingress-go) -  (3 weeks ago)
 
 #### 🌱 My latest projects
@@ -25,7 +25,7 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
-- [fix: update fastmcp from 2.13 to 3.4.1](https://github.com/theforeman/foreman-mcp-server/pull/105) on [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) (2 days ago)
+- [fix: update fastmcp from 2.13 to 3.4.1](https://github.com/theforeman/foreman-mcp-server/pull/105) on [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) (3 days ago)
 - [Update python-galaxy-importer to 0.4.39](https://github.com/theforeman/pulpcore-packaging/pull/2660) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 week ago)
 - [Fix pulp-glue pydantic upper bound: &lt; 2.13 → &lt; 2.14](https://github.com/theforeman/pulpcore-packaging/pull/2659) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 week ago)
 - [Fix stale dep bounds in pulp-cli-deb and pulp-glue-deb](https://github.com/theforeman/pulpcore-packaging/pull/2658) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 week ago)
