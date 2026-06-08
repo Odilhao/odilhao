@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
+- [Release 1.14.5](https://github.com/theforeman/foreman_maintain/pull/1090) on [theforeman/foreman_maintain](https://github.com/theforeman/foreman_maintain) (today)
 - [fix: update fastmcp from 2.13 to 3.4.1](https://github.com/theforeman/foreman-mcp-server/pull/105) on [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) (3 days ago)
 - [Update python-galaxy-importer to 0.4.39](https://github.com/theforeman/pulpcore-packaging/pull/2660) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 week ago)
 - [Fix pulp-glue pydantic upper bound: &lt; 2.13 → &lt; 2.14](https://github.com/theforeman/pulpcore-packaging/pull/2659) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 week ago)
 - [Fix stale dep bounds in pulp-cli-deb and pulp-glue-deb](https://github.com/theforeman/pulpcore-packaging/pull/2658) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 week ago)
-- [Fix pulpcore pulp-glue upper bound: &lt; 0.39 → &lt; 0.40](https://github.com/theforeman/pulpcore-packaging/pull/2657) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 week ago)
 
 #### 📜 My recent blog posts
 
