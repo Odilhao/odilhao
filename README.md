@@ -6,10 +6,10 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
+- [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) - Release data used by Konflux for releasing container images. (today)
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (today)
 - [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) -  (1 week ago)
 - [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) -  (1 week ago)
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (1 week ago)
-- [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) - Release data used by Konflux for releasing container images. (1 week ago)
 - [theforeman/foreman-oci-images](https://github.com/theforeman/foreman-oci-images) -  (2 weeks ago)
 - [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) - Containerfiles and other assets for building Candlepin OCI images used by Foreman (2 weeks ago)
 - [theforeman/hammer-cli-foreman-rh-cloud](https://github.com/theforeman/hammer-cli-foreman-rh-cloud) - This plugin is exposing foreman_rh_cloud functionality for command line use. (2 weeks ago)
@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
-- [Release 1.14.5](https://github.com/theforeman/foreman_maintain/pull/1090) on [theforeman/foreman_maintain](https://github.com/theforeman/foreman_maintain) (1 day ago)
-- [fix: update fastmcp from 2.13 to 3.4.1](https://github.com/theforeman/foreman-mcp-server/pull/105) on [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) (4 days ago)
-- [Update python-galaxy-importer to 0.4.39](https://github.com/theforeman/pulpcore-packaging/pull/2660) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 week ago)
-- [Fix pulp-glue pydantic upper bound: &lt; 2.13 → &lt; 2.14](https://github.com/theforeman/pulpcore-packaging/pull/2659) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 week ago)
-- [Fix stale dep bounds in pulp-cli-deb and pulp-glue-deb](https://github.com/theforeman/pulpcore-packaging/pull/2658) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 week ago)
+- [Update release scripts to match the new stage/component logic for images](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/52) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (today)
+- [Update config to 3.19.0 GA](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/51) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (today)
+- [Release for foreman 3.19.0 GA](https://github.com/theforeman/candlepin-oci-images/pull/33) on [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) (today)
+- [Release for foreman 3.19.0 GA](https://github.com/theforeman/pulp-oci-images/pull/34) on [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) (today)
+- [Release for foreman 3.19.0 GA](https://github.com/theforeman/foreman-oci-images/pull/48) on [theforeman/foreman-oci-images](https://github.com/theforeman/foreman-oci-images) (today)
 
 #### 📜 My recent blog posts
 
