@@ -6,8 +6,8 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
-- [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) - Release data used by Konflux for releasing container images. (today)
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (today)
+- [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) - Release data used by Konflux for releasing container images. (1 day ago)
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (1 day ago)
 - [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) -  (1 week ago)
 - [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) -  (1 week ago)
 - [theforeman/foreman-oci-images](https://github.com/theforeman/foreman-oci-images) -  (2 weeks ago)
@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
-- [Update release scripts to match the new stage/component logic for images](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/52) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (today)
-- [Update config to 3.19.0 GA](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/51) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (today)
-- [Release for foreman 3.19.0 GA](https://github.com/theforeman/candlepin-oci-images/pull/33) on [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) (today)
-- [Release for foreman 3.19.0 GA](https://github.com/theforeman/pulp-oci-images/pull/34) on [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) (today)
-- [Release for foreman 3.19.0 GA](https://github.com/theforeman/foreman-oci-images/pull/48) on [theforeman/foreman-oci-images](https://github.com/theforeman/foreman-oci-images) (today)
+- [Update release scripts to match the new stage/component logic for images](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/52) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (1 day ago)
+- [Update config to 3.19.0 GA](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/51) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (1 day ago)
+- [Release for foreman 3.19.0 GA](https://github.com/theforeman/candlepin-oci-images/pull/33) on [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) (1 day ago)
+- [Release for foreman 3.19.0 GA](https://github.com/theforeman/pulp-oci-images/pull/34) on [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) (1 day ago)
+- [Release for foreman 3.19.0 GA](https://github.com/theforeman/foreman-oci-images/pull/48) on [theforeman/foreman-oci-images](https://github.com/theforeman/foreman-oci-images) (1 day ago)
 
 #### 📜 My recent blog posts
 
