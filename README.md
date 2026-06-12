@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
+- [Fix python-ansible-compat: strip ansible-core dep from pyproject.toml](https://github.com/theforeman/pulpcore-packaging/pull/2709) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
+- [repoclosure: add Foreman plugins nightly repo to lookaside repos](https://github.com/theforeman/pulpcore-packaging/pull/2708) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
+- [Update ansible-lint to 6.22.2](https://github.com/theforeman/pulpcore-packaging/pull/2707) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
 - [Add python-black 24.10.0](https://github.com/theforeman/pulpcore-packaging/pull/2706) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
 - [Add python-mypy-extensions 1.1.0](https://github.com/theforeman/pulpcore-packaging/pull/2705) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
-- [Add python-yamllint 1.38.0](https://github.com/theforeman/pulpcore-packaging/pull/2704) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
-- [Add python-subprocess-tee 0.4.2](https://github.com/theforeman/pulpcore-packaging/pull/2703) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
-- [Add python-ansible-compat 26.3.0](https://github.com/theforeman/pulpcore-packaging/pull/2702) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
 
 #### 📜 My recent blog posts
 
