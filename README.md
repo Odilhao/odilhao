@@ -6,9 +6,9 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (today)
 - [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) -  (2 days ago)
 - [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) - Release data used by Konflux for releasing container images. (3 days ago)
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (3 days ago)
 - [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) -  (2 weeks ago)
 - [theforeman/foreman-oci-images](https://github.com/theforeman/foreman-oci-images) -  (2 weeks ago)
 - [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) - Containerfiles and other assets for building Candlepin OCI images used by Foreman (2 weeks ago)
@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
+- [Fix python-beautifulsoup4 4.15.0: update soupsieve bound and add typing-extensions dep](https://github.com/theforeman/pulpcore-packaging/pull/2701) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
 - [chore(config): add schedule at any time for docker datasource](https://github.com/theforeman/pulp-oci-images/pull/35) on [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) (2 days ago)
 - [Update release scripts to match the new stage/component logic for images](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/52) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (3 days ago)
 - [Update config to 3.19.0 GA](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/51) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (3 days ago)
 - [Release for foreman 3.19.0 GA](https://github.com/theforeman/candlepin-oci-images/pull/33) on [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) (3 days ago)
-- [Release for foreman 3.19.0 GA](https://github.com/theforeman/pulp-oci-images/pull/34) on [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) (3 days ago)
 
 #### 📜 My recent blog posts
 
