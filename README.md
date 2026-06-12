@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
-- [Fix python-beautifulsoup4 4.15.0: update soupsieve bound and add typing-extensions dep](https://github.com/theforeman/pulpcore-packaging/pull/2701) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
-- [chore(config): add schedule at any time for docker datasource](https://github.com/theforeman/pulp-oci-images/pull/35) on [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) (2 days ago)
-- [Update release scripts to match the new stage/component logic for images](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/52) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (3 days ago)
-- [Update config to 3.19.0 GA](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/51) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (3 days ago)
-- [Release for foreman 3.19.0 GA](https://github.com/theforeman/candlepin-oci-images/pull/33) on [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) (3 days ago)
+- [Add python-black 24.10.0](https://github.com/theforeman/pulpcore-packaging/pull/2706) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
+- [Add python-mypy-extensions 1.1.0](https://github.com/theforeman/pulpcore-packaging/pull/2705) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
+- [Add python-yamllint 1.38.0](https://github.com/theforeman/pulpcore-packaging/pull/2704) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
+- [Add python-subprocess-tee 0.4.2](https://github.com/theforeman/pulpcore-packaging/pull/2703) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
+- [Add python-ansible-compat 26.3.0](https://github.com/theforeman/pulpcore-packaging/pull/2702) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
 
 #### 📜 My recent blog posts
 
