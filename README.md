@@ -6,14 +6,14 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (today)
-- [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) -  (2 days ago)
-- [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) - Release data used by Konflux for releasing container images. (3 days ago)
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (1 day ago)
+- [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) -  (3 days ago)
+- [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) - Release data used by Konflux for releasing container images. (4 days ago)
 - [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) -  (2 weeks ago)
 - [theforeman/foreman-oci-images](https://github.com/theforeman/foreman-oci-images) -  (2 weeks ago)
 - [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) - Containerfiles and other assets for building Candlepin OCI images used by Foreman (2 weeks ago)
 - [theforeman/hammer-cli-foreman-rh-cloud](https://github.com/theforeman/hammer-cli-foreman-rh-cloud) - This plugin is exposing foreman_rh_cloud functionality for command line use. (2 weeks ago)
-- [RedHatInsights/insights-ingress-go](https://github.com/RedHatInsights/insights-ingress-go) -  (4 weeks ago)
+- [RedHatInsights/insights-ingress-go](https://github.com/RedHatInsights/insights-ingress-go) -  (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
-- [Fix python-ansible-compat: strip ansible-core dep from pyproject.toml](https://github.com/theforeman/pulpcore-packaging/pull/2709) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
-- [repoclosure: add Foreman plugins nightly repo to lookaside repos](https://github.com/theforeman/pulpcore-packaging/pull/2708) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
-- [Update ansible-lint to 6.22.2](https://github.com/theforeman/pulpcore-packaging/pull/2707) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
-- [Add python-black 24.10.0](https://github.com/theforeman/pulpcore-packaging/pull/2706) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
-- [Add python-mypy-extensions 1.1.0](https://github.com/theforeman/pulpcore-packaging/pull/2705) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (today)
+- [Fix python-ansible-compat: strip ansible-core dep from pyproject.toml](https://github.com/theforeman/pulpcore-packaging/pull/2709) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
+- [repoclosure: add Foreman plugins nightly repo to lookaside repos](https://github.com/theforeman/pulpcore-packaging/pull/2708) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
+- [Update ansible-lint to 6.22.2](https://github.com/theforeman/pulpcore-packaging/pull/2707) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
+- [Add python-black 24.10.0](https://github.com/theforeman/pulpcore-packaging/pull/2706) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
+- [Add python-mypy-extensions 1.1.0](https://github.com/theforeman/pulpcore-packaging/pull/2705) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 day ago)
 
 #### 📜 My recent blog posts
 
