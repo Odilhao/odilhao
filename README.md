@@ -6,8 +6,8 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (4 days ago)
-- [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) -  (6 days ago)
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (5 days ago)
+- [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) -  (1 week ago)
 - [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) - Release data used by Konflux for releasing container images. (1 week ago)
 - [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) -  (2 weeks ago)
 - [theforeman/foreman-oci-images](https://github.com/theforeman/foreman-oci-images) -  (3 weeks ago)
@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
-- [Fix python-ansible-compat: strip ansible-core dep from pyproject.toml](https://github.com/theforeman/pulpcore-packaging/pull/2709) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (4 days ago)
-- [repoclosure: add Foreman plugins nightly repo to lookaside repos](https://github.com/theforeman/pulpcore-packaging/pull/2708) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (4 days ago)
-- [Update ansible-lint to 6.22.2](https://github.com/theforeman/pulpcore-packaging/pull/2707) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (4 days ago)
-- [Add python-black 24.10.0](https://github.com/theforeman/pulpcore-packaging/pull/2706) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (4 days ago)
-- [Add python-mypy-extensions 1.1.0](https://github.com/theforeman/pulpcore-packaging/pull/2705) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (4 days ago)
+- [Fix python-ansible-compat: strip ansible-core dep from pyproject.toml](https://github.com/theforeman/pulpcore-packaging/pull/2709) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (5 days ago)
+- [repoclosure: add Foreman plugins nightly repo to lookaside repos](https://github.com/theforeman/pulpcore-packaging/pull/2708) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (5 days ago)
+- [Update ansible-lint to 6.22.2](https://github.com/theforeman/pulpcore-packaging/pull/2707) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (5 days ago)
+- [Add python-black 24.10.0](https://github.com/theforeman/pulpcore-packaging/pull/2706) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (5 days ago)
+- [Add python-mypy-extensions 1.1.0](https://github.com/theforeman/pulpcore-packaging/pull/2705) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (5 days ago)
 
 #### 📜 My recent blog posts
 
