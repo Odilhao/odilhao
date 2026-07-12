@@ -6,14 +6,14 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) -  (1 week ago)
-- [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) -  (1 week ago)
+- [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) - Foreman&#39;s Jenkins Jobs configurations (2 days ago)
+- [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) -  (4 days ago)
+- [theforeman/forklift](https://github.com/theforeman/forklift) - Helpful deployment scripts for Foreman and Katello (4 days ago)
+- [theforeman/foreman-infra](https://github.com/theforeman/foreman-infra) - Puppet modules and scripts to manage Foreman project infrastructure (5 days ago)
+- [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) -  (1 week ago)
+- [theforeman/foreman-oci-images](https://github.com/theforeman/foreman-oci-images) -  (1 week ago)
+- [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) - Containerfiles and other assets for building Candlepin OCI images used by Foreman (1 week ago)
 - [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) - Release data used by Konflux for releasing container images. (1 week ago)
-- [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) -  (3 weeks ago)
-- [theforeman/foreman-oci-images](https://github.com/theforeman/foreman-oci-images) -  (3 weeks ago)
-- [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) - Containerfiles and other assets for building Candlepin OCI images used by Foreman (3 weeks ago)
-- [theforeman/hammer-cli-foreman-rh-cloud](https://github.com/theforeman/hammer-cli-foreman-rh-cloud) - This plugin is exposing foreman_rh_cloud functionality for command line use. (3 weeks ago)
-- [RedHatInsights/insights-ingress-go](https://github.com/RedHatInsights/insights-ingress-go) -  (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
-- [Fix python-ansible-compat: strip ansible-core dep from pyproject.toml](https://github.com/theforeman/pulpcore-packaging/pull/2709) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 week ago)
-- [repoclosure: add Foreman plugins nightly repo to lookaside repos](https://github.com/theforeman/pulpcore-packaging/pull/2708) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 week ago)
-- [Update ansible-lint to 6.22.2](https://github.com/theforeman/pulpcore-packaging/pull/2707) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 week ago)
-- [Add python-black 24.10.0](https://github.com/theforeman/pulpcore-packaging/pull/2706) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 week ago)
-- [Add python-mypy-extensions 1.1.0](https://github.com/theforeman/pulpcore-packaging/pull/2705) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (1 week ago)
+- [Move konflux_* constants inside retrigger_konflux_components](https://github.com/theforeman/jenkins-jobs/pull/586) on [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) (2 days ago)
+- [Fix konflux_components existence check in when expression](https://github.com/theforeman/jenkins-jobs/pull/585) on [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) (3 days ago)
+- [Fix typo at for distribution_release attribute](https://github.com/theforeman/forklift/pull/1966) on [theforeman/forklift](https://github.com/theforeman/forklift) (4 days ago)
+- [Ensure that the workaround for openssl is only executed on Centos Stream 9](https://github.com/theforeman/forklift/pull/1965) on [theforeman/forklift](https://github.com/theforeman/forklift) (4 days ago)
+- [Update comment on PR from candlepin to pulp](https://github.com/theforeman/pulp-oci-images/pull/58) on [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) (4 days ago)
 
 #### 📜 My recent blog posts
 
