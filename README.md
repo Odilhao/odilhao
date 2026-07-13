@@ -6,14 +6,14 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
-- [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) - Foreman&#39;s Jenkins Jobs configurations (2 days ago)
-- [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) -  (4 days ago)
-- [theforeman/forklift](https://github.com/theforeman/forklift) - Helpful deployment scripts for Foreman and Katello (4 days ago)
-- [theforeman/foreman-infra](https://github.com/theforeman/foreman-infra) - Puppet modules and scripts to manage Foreman project infrastructure (5 days ago)
+- [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) - Foreman&#39;s Jenkins Jobs configurations (3 days ago)
+- [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) -  (5 days ago)
+- [theforeman/forklift](https://github.com/theforeman/forklift) - Helpful deployment scripts for Foreman and Katello (5 days ago)
+- [theforeman/foreman-infra](https://github.com/theforeman/foreman-infra) - Puppet modules and scripts to manage Foreman project infrastructure (6 days ago)
 - [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) -  (1 week ago)
 - [theforeman/foreman-oci-images](https://github.com/theforeman/foreman-oci-images) -  (1 week ago)
 - [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) - Containerfiles and other assets for building Candlepin OCI images used by Foreman (1 week ago)
-- [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) - Release data used by Konflux for releasing container images. (1 week ago)
+- [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) - Release data used by Konflux for releasing container images. (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
-- [Move konflux_* constants inside retrigger_konflux_components](https://github.com/theforeman/jenkins-jobs/pull/586) on [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) (2 days ago)
-- [Fix konflux_components existence check in when expression](https://github.com/theforeman/jenkins-jobs/pull/585) on [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) (3 days ago)
-- [Fix typo at for distribution_release attribute](https://github.com/theforeman/forklift/pull/1966) on [theforeman/forklift](https://github.com/theforeman/forklift) (4 days ago)
-- [Ensure that the workaround for openssl is only executed on Centos Stream 9](https://github.com/theforeman/forklift/pull/1965) on [theforeman/forklift](https://github.com/theforeman/forklift) (4 days ago)
-- [Update comment on PR from candlepin to pulp](https://github.com/theforeman/pulp-oci-images/pull/58) on [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) (4 days ago)
+- [Move konflux_* constants inside retrigger_konflux_components](https://github.com/theforeman/jenkins-jobs/pull/586) on [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) (3 days ago)
+- [Fix konflux_components existence check in when expression](https://github.com/theforeman/jenkins-jobs/pull/585) on [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) (4 days ago)
+- [Fix typo at for distribution_release attribute](https://github.com/theforeman/forklift/pull/1966) on [theforeman/forklift](https://github.com/theforeman/forklift) (5 days ago)
+- [Ensure that the workaround for openssl is only executed on Centos Stream 9](https://github.com/theforeman/forklift/pull/1965) on [theforeman/forklift](https://github.com/theforeman/forklift) (5 days ago)
+- [Update comment on PR from candlepin to pulp](https://github.com/theforeman/pulp-oci-images/pull/58) on [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) (5 days ago)
 
 #### 📜 My recent blog posts
 
