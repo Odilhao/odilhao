@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
+- [Release 13.2.10](https://github.com/theforeman/foreman_rh_cloud/pull/1231) on [theforeman/foreman_rh_cloud](https://github.com/theforeman/foreman_rh_cloud) (today)
 - [Use trigger-pac-build annotation value for Konflux rebuild](https://github.com/theforeman/jenkins-jobs/pull/587) on [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) (today)
 - [Move konflux_* constants inside retrigger_konflux_components](https://github.com/theforeman/jenkins-jobs/pull/586) on [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) (3 days ago)
 - [Fix konflux_components existence check in when expression](https://github.com/theforeman/jenkins-jobs/pull/585) on [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) (4 days ago)
 - [Fix typo at for distribution_release attribute](https://github.com/theforeman/forklift/pull/1966) on [theforeman/forklift](https://github.com/theforeman/forklift) (5 days ago)
-- [Ensure that the workaround for openssl is only executed on Centos Stream 9](https://github.com/theforeman/forklift/pull/1965) on [theforeman/forklift](https://github.com/theforeman/forklift) (5 days ago)
 
 #### 📜 My recent blog posts
 
