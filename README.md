@@ -6,12 +6,12 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
-- [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) - Foreman&#39;s Jenkins Jobs configurations (1 day ago)
-- [theforeman/forklift](https://github.com/theforeman/forklift) - Helpful deployment scripts for Foreman and Katello (6 days ago)
-- [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) -  (6 days ago)
+- [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) - Foreman&#39;s Jenkins Jobs configurations (2 days ago)
+- [theforeman/forklift](https://github.com/theforeman/forklift) - Helpful deployment scripts for Foreman and Katello (1 week ago)
+- [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) -  (1 week ago)
 - [theforeman/foreman-infra](https://github.com/theforeman/foreman-infra) - Puppet modules and scripts to manage Foreman project infrastructure (1 week ago)
 - [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) -  (1 week ago)
-- [theforeman/foreman-oci-images](https://github.com/theforeman/foreman-oci-images) -  (1 week ago)
+- [theforeman/foreman-oci-images](https://github.com/theforeman/foreman-oci-images) -  (2 weeks ago)
 - [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) - Containerfiles and other assets for building Candlepin OCI images used by Foreman (2 weeks ago)
 - [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) - Release data used by Konflux for releasing container images. (2 weeks ago)
 
@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
-- [Release 13.2.10](https://github.com/theforeman/foreman_rh_cloud/pull/1231) on [theforeman/foreman_rh_cloud](https://github.com/theforeman/foreman_rh_cloud) (1 day ago)
-- [Use trigger-pac-build annotation value for Konflux rebuild](https://github.com/theforeman/jenkins-jobs/pull/587) on [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) (1 day ago)
-- [Move konflux_* constants inside retrigger_konflux_components](https://github.com/theforeman/jenkins-jobs/pull/586) on [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) (4 days ago)
-- [Fix konflux_components existence check in when expression](https://github.com/theforeman/jenkins-jobs/pull/585) on [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) (5 days ago)
-- [Fix typo at for distribution_release attribute](https://github.com/theforeman/forklift/pull/1966) on [theforeman/forklift](https://github.com/theforeman/forklift) (6 days ago)
+- [Release 13.2.10](https://github.com/theforeman/foreman_rh_cloud/pull/1231) on [theforeman/foreman_rh_cloud](https://github.com/theforeman/foreman_rh_cloud) (2 days ago)
+- [Use trigger-pac-build annotation value for Konflux rebuild](https://github.com/theforeman/jenkins-jobs/pull/587) on [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) (2 days ago)
+- [Move konflux_* constants inside retrigger_konflux_components](https://github.com/theforeman/jenkins-jobs/pull/586) on [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) (5 days ago)
+- [Fix konflux_components existence check in when expression](https://github.com/theforeman/jenkins-jobs/pull/585) on [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) (6 days ago)
+- [Fix typo at for distribution_release attribute](https://github.com/theforeman/forklift/pull/1966) on [theforeman/forklift](https://github.com/theforeman/forklift) (1 week ago)
 
 #### 📜 My recent blog posts
 
