@@ -6,19 +6,19 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
+- [ansible/galaxy-importer](https://github.com/ansible/galaxy-importer) — 3 events ([commits](https://github.com/ansible/galaxy-importer/commits?author=Odilhao) · [activity](https://github.com/ansible/galaxy-importer/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 9 events ([commits](https://github.com/theforeman/foreman-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-packaging/issues?q=updated:>@today-30d+author:Odilhao))
+- [Odilhao/galaxy-importer](https://github.com/Odilhao/galaxy-importer) — 3 events ([commits](https://github.com/Odilhao/galaxy-importer/commits?author=Odilhao) · [activity](https://github.com/Odilhao/galaxy-importer/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/el10_rebuild](https://github.com/theforeman/el10_rebuild) — 2 events ([commits](https://github.com/theforeman/el10_rebuild/commits?author=Odilhao) · [activity](https://github.com/theforeman/el10_rebuild/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/puppet-pulpcore](https://github.com/theforeman/puppet-pulpcore) — 4 events ([commits](https://github.com/theforeman/puppet-pulpcore/commits?author=Odilhao) · [activity](https://github.com/theforeman/puppet-pulpcore/issues?q=updated:>@today-30d+author:Odilhao))
+- [Odilhao/puppet-pulpcore](https://github.com/Odilhao/puppet-pulpcore) — 3 events ([commits](https://github.com/Odilhao/puppet-pulpcore/commits?author=Odilhao) · [activity](https://github.com/Odilhao/puppet-pulpcore/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) — 3 events ([commits](https://github.com/theforeman/pulp-oci-images/commits?author=Odilhao) · [activity](https://github.com/theforeman/pulp-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/theforeman-rel-eng](https://github.com/theforeman/theforeman-rel-eng) — 9 events ([commits](https://github.com/theforeman/theforeman-rel-eng/commits?author=Odilhao) · [activity](https://github.com/theforeman/theforeman-rel-eng/issues?q=updated:>@today-30d+author:Odilhao))
-- [Odilhao/theforeman-rel-eng](https://github.com/Odilhao/theforeman-rel-eng) — 1 events ([commits](https://github.com/Odilhao/theforeman-rel-eng/commits?author=Odilhao) · [activity](https://github.com/Odilhao/theforeman-rel-eng/issues?q=updated:>@today-30d+author:Odilhao))
-- [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 5 events ([commits](https://github.com/theforeman/foreman-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-packaging/issues?q=updated:>@today-30d+author:Odilhao))
-- [theforeman/forklift](https://github.com/theforeman/forklift) — 9 events ([commits](https://github.com/theforeman/forklift/commits?author=Odilhao) · [activity](https://github.com/theforeman/forklift/issues?q=updated:>@today-30d+author:Odilhao))
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 10 events ([commits](https://github.com/theforeman/pulpcore-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/pulpcore-packaging/issues?q=updated:>@today-30d+author:Odilhao))
-- [Odilhao/forklift](https://github.com/Odilhao/forklift) — 3 events ([commits](https://github.com/Odilhao/forklift/commits?author=Odilhao) · [activity](https://github.com/Odilhao/forklift/issues?q=updated:>@today-30d+author:Odilhao))
-- [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) — 1 events ([commits](https://github.com/theforeman/jenkins-jobs/commits?author=Odilhao) · [activity](https://github.com/theforeman/jenkins-jobs/issues?q=updated:>@today-30d+author:Odilhao))
 
 #### 🔥 Most active projects
 
 - [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 88 commits, 51 PRs, 0 reviews
-- [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 0 commits, 5 PRs, 3 reviews
+- [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 0 commits, 5 PRs, 5 reviews
 - [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) — 5 commits, 0 PRs, 1 reviews
 - [theforeman/forklift](https://github.com/theforeman/forklift) — 0 commits, 1 PRs, 4 reviews
 - [theforeman/theforeman-rel-eng](https://github.com/theforeman/theforeman-rel-eng) — 0 commits, 1 PRs, 3 reviews
@@ -39,7 +39,7 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 - [Support EL10 in beaker role](https://github.com/theforeman/forklift/pull/1976) on [theforeman/forklift](https://github.com/theforeman/forklift) (closed)
 - [Assert valkey service on EL10 in redis acceptance test](https://github.com/theforeman/puppet-pulpcore/pull/412) on [theforeman/puppet-pulpcore](https://github.com/theforeman/puppet-pulpcore) (closed)
 - [Relax python-galaxy-importer attrs bound for EL10](https://github.com/theforeman/pulpcore-packaging/pull/2876) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (closed)
-- [Allow attrs < 24](https://github.com/ansible/galaxy-importer/pull/438) on [ansible/galaxy-importer](https://github.com/ansible/galaxy-importer) (open)
+- [Allow attrs < 24](https://github.com/ansible/galaxy-importer/pull/438) on [ansible/galaxy-importer](https://github.com/ansible/galaxy-importer) (closed)
 - [Fix EL10 gap: python-diff-match-patch](https://github.com/theforeman/pulpcore-packaging/pull/2875) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (closed)
 - [Add temporary CI job to test Pulpcore nightly on EL10](https://github.com/theforeman/puppet-pulpcore/pull/411) on [theforeman/puppet-pulpcore](https://github.com/theforeman/puppet-pulpcore) (open)
 - [Re-enable EL10 repoclosure in package_manifest.yaml](https://github.com/theforeman/pulpcore-packaging/pull/2874) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (closed)
