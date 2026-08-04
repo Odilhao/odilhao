@@ -6,18 +6,18 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
-- [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 5 events ([commits](https://github.com/theforeman/foreman-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-packaging/issues?q=updated:30d+author:Odilhao))
-- [theforeman/forklift](https://github.com/theforeman/forklift) — 9 events ([commits](https://github.com/theforeman/forklift/commits?author=Odilhao) · [activity](https://github.com/theforeman/forklift/issues?q=updated:30d+author:Odilhao))
-- [theforeman/theforeman-rel-eng](https://github.com/theforeman/theforeman-rel-eng) — 6 events ([commits](https://github.com/theforeman/theforeman-rel-eng/commits?author=Odilhao) · [activity](https://github.com/theforeman/theforeman-rel-eng/issues?q=updated:30d+author:Odilhao))
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 10 events ([commits](https://github.com/theforeman/pulpcore-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/pulpcore-packaging/issues?q=updated:30d+author:Odilhao))
-- [Odilhao/forklift](https://github.com/Odilhao/forklift) — 3 events ([commits](https://github.com/Odilhao/forklift/commits?author=Odilhao) · [activity](https://github.com/Odilhao/forklift/issues?q=updated:30d+author:Odilhao))
-- [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) — 1 events ([commits](https://github.com/theforeman/jenkins-jobs/commits?author=Odilhao) · [activity](https://github.com/theforeman/jenkins-jobs/issues?q=updated:30d+author:Odilhao))
-- [theforeman/obal](https://github.com/theforeman/obal) — 1 events ([commits](https://github.com/theforeman/obal/commits?author=Odilhao) · [activity](https://github.com/theforeman/obal/issues?q=updated:30d+author:Odilhao))
-- [theforeman/puppet-pulpcore](https://github.com/theforeman/puppet-pulpcore) — 3 events ([commits](https://github.com/theforeman/puppet-pulpcore/commits?author=Odilhao) · [activity](https://github.com/theforeman/puppet-pulpcore/issues?q=updated:30d+author:Odilhao))
+- [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 5 events ([commits](https://github.com/theforeman/foreman-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-packaging/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/forklift](https://github.com/theforeman/forklift) — 9 events ([commits](https://github.com/theforeman/forklift/commits?author=Odilhao) · [activity](https://github.com/theforeman/forklift/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/theforeman-rel-eng](https://github.com/theforeman/theforeman-rel-eng) — 6 events ([commits](https://github.com/theforeman/theforeman-rel-eng/commits?author=Odilhao) · [activity](https://github.com/theforeman/theforeman-rel-eng/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 10 events ([commits](https://github.com/theforeman/pulpcore-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/pulpcore-packaging/issues?q=updated:>@today-30d+author:Odilhao))
+- [Odilhao/forklift](https://github.com/Odilhao/forklift) — 3 events ([commits](https://github.com/Odilhao/forklift/commits?author=Odilhao) · [activity](https://github.com/Odilhao/forklift/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) — 1 events ([commits](https://github.com/theforeman/jenkins-jobs/commits?author=Odilhao) · [activity](https://github.com/theforeman/jenkins-jobs/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/obal](https://github.com/theforeman/obal) — 1 events ([commits](https://github.com/theforeman/obal/commits?author=Odilhao) · [activity](https://github.com/theforeman/obal/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/puppet-pulpcore](https://github.com/theforeman/puppet-pulpcore) — 3 events ([commits](https://github.com/theforeman/puppet-pulpcore/commits?author=Odilhao) · [activity](https://github.com/theforeman/puppet-pulpcore/issues?q=updated:>@today-30d+author:Odilhao))
 
 #### 🔥 Most active projects
 
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 92 commits, 55 PRs, 0 reviews
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 90 commits, 53 PRs, 0 reviews
 - [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 0 commits, 5 PRs, 3 reviews
 - [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) — 5 commits, 0 PRs, 1 reviews
 - [theforeman/forklift](https://github.com/theforeman/forklift) — 0 commits, 1 PRs, 4 reviews
