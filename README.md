@@ -6,20 +6,20 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
+- [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) — 12 events ([commits](https://github.com/theforeman/jenkins-jobs/commits?author=Odilhao) · [activity](https://github.com/theforeman/jenkins-jobs/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/foreman](https://github.com/theforeman/foreman) — 1 events ([commits](https://github.com/theforeman/foreman/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman/issues?q=updated:>@today-30d+author:Odilhao))
+- [Odilhao/foreman](https://github.com/Odilhao/foreman) — 1 events ([commits](https://github.com/Odilhao/foreman/commits?author=Odilhao) · [activity](https://github.com/Odilhao/foreman/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) — 4 events ([commits](https://github.com/theforeman/pulp-oci-images/commits?author=Odilhao) · [activity](https://github.com/theforeman/pulp-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
-- [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) — 2 events ([commits](https://github.com/theforeman/jenkins-jobs/commits?author=Odilhao) · [activity](https://github.com/theforeman/jenkins-jobs/issues?q=updated:>@today-30d+author:Odilhao))
 - [ansible/galaxy-importer](https://github.com/ansible/galaxy-importer) — 3 events ([commits](https://github.com/ansible/galaxy-importer/commits?author=Odilhao) · [activity](https://github.com/ansible/galaxy-importer/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 9 events ([commits](https://github.com/theforeman/foreman-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-packaging/issues?q=updated:>@today-30d+author:Odilhao))
 - [Odilhao/galaxy-importer](https://github.com/Odilhao/galaxy-importer) — 3 events ([commits](https://github.com/Odilhao/galaxy-importer/commits?author=Odilhao) · [activity](https://github.com/Odilhao/galaxy-importer/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/el10_rebuild](https://github.com/theforeman/el10_rebuild) — 2 events ([commits](https://github.com/theforeman/el10_rebuild/commits?author=Odilhao) · [activity](https://github.com/theforeman/el10_rebuild/issues?q=updated:>@today-30d+author:Odilhao))
-- [theforeman/puppet-pulpcore](https://github.com/theforeman/puppet-pulpcore) — 4 events ([commits](https://github.com/theforeman/puppet-pulpcore/commits?author=Odilhao) · [activity](https://github.com/theforeman/puppet-pulpcore/issues?q=updated:>@today-30d+author:Odilhao))
-- [Odilhao/puppet-pulpcore](https://github.com/Odilhao/puppet-pulpcore) — 3 events ([commits](https://github.com/Odilhao/puppet-pulpcore/commits?author=Odilhao) · [activity](https://github.com/Odilhao/puppet-pulpcore/issues?q=updated:>@today-30d+author:Odilhao))
 
 #### 🔥 Most active projects
 
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 87 commits, 51 PRs, 0 reviews
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 87 commits, 50 PRs, 0 reviews
+- [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) — 5 commits, 0 PRs, 5 reviews
 - [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 0 commits, 5 PRs, 5 reviews
-- [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) — 5 commits, 0 PRs, 2 reviews
 - [theforeman/forklift](https://github.com/theforeman/forklift) — 0 commits, 1 PRs, 4 reviews
 - [theforeman/theforeman-rel-eng](https://github.com/theforeman/theforeman-rel-eng) — 0 commits, 1 PRs, 3 reviews
 
@@ -33,6 +33,7 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
+- [Add npm cooldown for minimal age of releases](https://github.com/theforeman/foreman/pull/11126) on [theforeman/foreman](https://github.com/theforeman/foreman) (open)
 - [Switch base image from CS9 to CS10](https://github.com/theforeman/pulp-oci-images/pull/75) on [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) (closed)
 - [Fix module creation on build_stage_repository](https://github.com/theforeman/theforeman-rel-eng/pull/601) on [theforeman/theforeman-rel-eng](https://github.com/theforeman/theforeman-rel-eng) (closed)
 - [Add EL10 repo definitions to repoclosure config](https://github.com/theforeman/pulpcore-packaging/pull/2877) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (closed)
@@ -42,7 +43,6 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 - [Allow attrs < 24](https://github.com/ansible/galaxy-importer/pull/438) on [ansible/galaxy-importer](https://github.com/ansible/galaxy-importer) (closed)
 - [Fix EL10 gap: python-diff-match-patch](https://github.com/theforeman/pulpcore-packaging/pull/2875) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (closed)
 - [Add temporary CI job to test Pulpcore nightly on EL10](https://github.com/theforeman/puppet-pulpcore/pull/411) on [theforeman/puppet-pulpcore](https://github.com/theforeman/puppet-pulpcore) (open)
-- [Re-enable EL10 repoclosure in package_manifest.yaml](https://github.com/theforeman/pulpcore-packaging/pull/2874) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (closed)
 
 #### 📜 My recent blog posts
 
