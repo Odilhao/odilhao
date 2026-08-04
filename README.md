@@ -6,22 +6,22 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
-- [theforeman/puppet-candlepin](https://github.com/theforeman/puppet-candlepin) — 2 events ([commits](https://github.com/theforeman/puppet-candlepin/commits?author=Odilhao) · [activity](https://github.com/theforeman/puppet-candlepin/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 24 events ([commits](https://github.com/theforeman/foreman-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-packaging/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) — 15 events ([commits](https://github.com/theforeman/jenkins-jobs/commits?author=Odilhao) · [activity](https://github.com/theforeman/jenkins-jobs/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) — 1 events ([commits](https://github.com/theforeman/candlepin-oci-images/commits?author=Odilhao) · [activity](https://github.com/theforeman/candlepin-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
+- [Odilhao/candlepin-oci-images](https://github.com/Odilhao/candlepin-oci-images) — 1 events ([commits](https://github.com/Odilhao/candlepin-oci-images/commits?author=Odilhao) · [activity](https://github.com/Odilhao/candlepin-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/puppet-candlepin](https://github.com/theforeman/puppet-candlepin) — 7 events ([commits](https://github.com/theforeman/puppet-candlepin/commits?author=Odilhao) · [activity](https://github.com/theforeman/puppet-candlepin/issues?q=updated:>@today-30d+author:Odilhao))
 - [Odilhao/puppet-candlepin](https://github.com/Odilhao/puppet-candlepin) — 2 events ([commits](https://github.com/Odilhao/puppet-candlepin/commits?author=Odilhao) · [activity](https://github.com/Odilhao/puppet-candlepin/issues?q=updated:>@today-30d+author:Odilhao))
-- [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) — 14 events ([commits](https://github.com/theforeman/jenkins-jobs/commits?author=Odilhao) · [activity](https://github.com/theforeman/jenkins-jobs/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/candlepin-packaging](https://github.com/theforeman/candlepin-packaging) — 4 events ([commits](https://github.com/theforeman/candlepin-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/candlepin-packaging/issues?q=updated:>@today-30d+author:Odilhao))
 - [Odilhao/candlepin-packaging](https://github.com/Odilhao/candlepin-packaging) — 1 events ([commits](https://github.com/Odilhao/candlepin-packaging/commits?author=Odilhao) · [activity](https://github.com/Odilhao/candlepin-packaging/issues?q=updated:>@today-30d+author:Odilhao))
-- [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 13 events ([commits](https://github.com/theforeman/foreman-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-packaging/issues?q=updated:>@today-30d+author:Odilhao))
-- [theforeman/obal](https://github.com/theforeman/obal) — 3 events ([commits](https://github.com/theforeman/obal/commits?author=Odilhao) · [activity](https://github.com/theforeman/obal/issues?q=updated:>@today-30d+author:Odilhao))
-- [theforeman/foreman](https://github.com/theforeman/foreman) — 1 events ([commits](https://github.com/theforeman/foreman/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman/issues?q=updated:>@today-30d+author:Odilhao))
 
 #### 🔥 Most active projects
 
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 87 commits, 48 PRs, 0 reviews
-- [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) — 5 commits, 0 PRs, 7 reviews
-- [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 0 commits, 5 PRs, 7 reviews
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 87 commits, 47 PRs, 0 reviews
+- [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 0 commits, 5 PRs, 9 reviews
+- [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) — 5 commits, 0 PRs, 8 reviews
 - [theforeman/forklift](https://github.com/theforeman/forklift) — 0 commits, 1 PRs, 4 reviews
-- [theforeman/theforeman-rel-eng](https://github.com/theforeman/theforeman-rel-eng) — 0 commits, 1 PRs, 3 reviews
+- [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) — 2 commits, 2 PRs, 0 reviews
 
 #### 🌱 My latest projects
 
@@ -33,7 +33,8 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
-- [Fix Tomcat SSL connector config for Tomcat 10.1+ (EL10)](https://github.com/theforeman/puppet-candlepin/pull/287) on [theforeman/puppet-candlepin](https://github.com/theforeman/puppet-candlepin) (open)
+- [Update candlepin version to 5.0.2](https://github.com/theforeman/candlepin-oci-images/pull/66) on [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) (open)
+- [Fix Tomcat SSL connector config for Tomcat 10.1+ (EL10)](https://github.com/theforeman/puppet-candlepin/pull/287) on [theforeman/puppet-candlepin](https://github.com/theforeman/puppet-candlepin) (closed)
 - [Add compos 5.0](https://github.com/theforeman/candlepin-packaging/pull/13) on [theforeman/candlepin-packaging](https://github.com/theforeman/candlepin-packaging) (closed)
 - [Add npm cooldown for minimal age of releases](https://github.com/theforeman/foreman/pull/11126) on [theforeman/foreman](https://github.com/theforeman/foreman) (open)
 - [Switch base image from CS9 to CS10](https://github.com/theforeman/pulp-oci-images/pull/75) on [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) (closed)
@@ -42,7 +43,6 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 - [Support EL10 in beaker role](https://github.com/theforeman/forklift/pull/1976) on [theforeman/forklift](https://github.com/theforeman/forklift) (closed)
 - [Assert valkey service on EL10 in redis acceptance test](https://github.com/theforeman/puppet-pulpcore/pull/412) on [theforeman/puppet-pulpcore](https://github.com/theforeman/puppet-pulpcore) (closed)
 - [Relax python-galaxy-importer attrs bound for EL10](https://github.com/theforeman/pulpcore-packaging/pull/2876) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (closed)
-- [Allow attrs < 24](https://github.com/ansible/galaxy-importer/pull/438) on [ansible/galaxy-importer](https://github.com/ansible/galaxy-importer) (closed)
 
 #### 📜 My recent blog posts
 
