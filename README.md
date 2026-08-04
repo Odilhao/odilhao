@@ -6,38 +6,51 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
-- [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) - Foreman&#39;s Jenkins Jobs configurations (3 days ago)
-- [theforeman/forklift](https://github.com/theforeman/forklift) - Helpful deployment scripts for Foreman and Katello (1 week ago)
-- [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) -  (1 week ago)
-- [theforeman/foreman-infra](https://github.com/theforeman/foreman-infra) - Puppet modules and scripts to manage Foreman project infrastructure (1 week ago)
-- [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) -  (2 weeks ago)
-- [theforeman/foreman-oci-images](https://github.com/theforeman/foreman-oci-images) -  (2 weeks ago)
-- [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) - Containerfiles and other assets for building Candlepin OCI images used by Foreman (2 weeks ago)
-- [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) - Release data used by Konflux for releasing container images. (2 weeks ago)
+- [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 5 events ([commits](https://github.com/theforeman/foreman-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-packaging/issues?q=updated:30d+author:Odilhao))
+- [theforeman/forklift](https://github.com/theforeman/forklift) — 9 events ([commits](https://github.com/theforeman/forklift/commits?author=Odilhao) · [activity](https://github.com/theforeman/forklift/issues?q=updated:30d+author:Odilhao))
+- [theforeman/theforeman-rel-eng](https://github.com/theforeman/theforeman-rel-eng) — 6 events ([commits](https://github.com/theforeman/theforeman-rel-eng/commits?author=Odilhao) · [activity](https://github.com/theforeman/theforeman-rel-eng/issues?q=updated:30d+author:Odilhao))
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 10 events ([commits](https://github.com/theforeman/pulpcore-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/pulpcore-packaging/issues?q=updated:30d+author:Odilhao))
+- [Odilhao/forklift](https://github.com/Odilhao/forklift) — 3 events ([commits](https://github.com/Odilhao/forklift/commits?author=Odilhao) · [activity](https://github.com/Odilhao/forklift/issues?q=updated:30d+author:Odilhao))
+- [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) — 1 events ([commits](https://github.com/theforeman/jenkins-jobs/commits?author=Odilhao) · [activity](https://github.com/theforeman/jenkins-jobs/issues?q=updated:30d+author:Odilhao))
+- [theforeman/obal](https://github.com/theforeman/obal) — 1 events ([commits](https://github.com/theforeman/obal/commits?author=Odilhao) · [activity](https://github.com/theforeman/obal/issues?q=updated:30d+author:Odilhao))
+- [theforeman/puppet-pulpcore](https://github.com/theforeman/puppet-pulpcore) — 3 events ([commits](https://github.com/theforeman/puppet-pulpcore/commits?author=Odilhao) · [activity](https://github.com/theforeman/puppet-pulpcore/issues?q=updated:30d+author:Odilhao))
+
+#### 🔥 Most active projects
+
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 92 commits, 55 PRs, 0 reviews
+- [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 0 commits, 5 PRs, 3 reviews
+- [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) — 5 commits, 0 PRs, 1 reviews
+- [theforeman/forklift](https://github.com/theforeman/forklift) — 0 commits, 1 PRs, 4 reviews
+- [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) — 2 commits, 1 PRs, 0 reviews
 
 #### 🌱 My latest projects
 
-- [Odilhao/packaging-skills](https://github.com/Odilhao/packaging-skills) - 
-- [Odilhao/pulpcon-2025](https://github.com/Odilhao/pulpcon-2025) - 
-- [Odilhao/odilhao](https://github.com/Odilhao/odilhao) - 
-- [Odilhao/bootc-server](https://github.com/Odilhao/bootc-server) - 
-- [Odilhao/pulpcon-2024](https://github.com/Odilhao/pulpcon-2024) - 
+- [packaging-skills](https://github.com/Odilhao/packaging-skills)
+- [pulpcon-2025](https://github.com/Odilhao/pulpcon-2025)
+- [bootc-server](https://github.com/Odilhao/bootc-server)
+- [pulpcon-2024](https://github.com/Odilhao/pulpcon-2024)
+- [bootc-sway](https://github.com/Odilhao/bootc-sway)
 
 #### 🔨 My recent Pull Requests
 
-- [Release 13.2.10](https://github.com/theforeman/foreman_rh_cloud/pull/1231) on [theforeman/foreman_rh_cloud](https://github.com/theforeman/foreman_rh_cloud) (3 days ago)
-- [Use trigger-pac-build annotation value for Konflux rebuild](https://github.com/theforeman/jenkins-jobs/pull/587) on [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) (3 days ago)
-- [Move konflux_* constants inside retrigger_konflux_components](https://github.com/theforeman/jenkins-jobs/pull/586) on [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) (6 days ago)
-- [Fix konflux_components existence check in when expression](https://github.com/theforeman/jenkins-jobs/pull/585) on [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) (1 week ago)
-- [Fix typo at for distribution_release attribute](https://github.com/theforeman/forklift/pull/1966) on [theforeman/forklift](https://github.com/theforeman/forklift) (1 week ago)
+- [Add EL10 repo definitions to repoclosure config](https://github.com/theforeman/pulpcore-packaging/pull/2877) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (closed)
+- [Support EL10 in beaker role](https://github.com/theforeman/forklift/pull/1976) on [theforeman/forklift](https://github.com/theforeman/forklift) (closed)
+- [Assert valkey service on EL10 in redis acceptance test](https://github.com/theforeman/puppet-pulpcore/pull/412) on [theforeman/puppet-pulpcore](https://github.com/theforeman/puppet-pulpcore) (closed)
+- [Relax python-galaxy-importer attrs bound for EL10](https://github.com/theforeman/pulpcore-packaging/pull/2876) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (closed)
+- [Allow attrs < 24](https://github.com/ansible/galaxy-importer/pull/438) on [ansible/galaxy-importer](https://github.com/ansible/galaxy-importer) (open)
+- [Fix EL10 gap: python-diff-match-patch](https://github.com/theforeman/pulpcore-packaging/pull/2875) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (closed)
+- [Add temporary CI job to test Pulpcore nightly on EL10](https://github.com/theforeman/puppet-pulpcore/pull/411) on [theforeman/puppet-pulpcore](https://github.com/theforeman/puppet-pulpcore) (open)
+- [Re-enable EL10 repoclosure in package_manifest.yaml](https://github.com/theforeman/pulpcore-packaging/pull/2874) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (closed)
+- [Add pyproject.toml and require Python 3.12 for local dev](https://github.com/theforeman/foremanctl/pull/717) on [theforeman/foremanctl](https://github.com/theforeman/foremanctl) (open)
+- [EL10 rebuild: ansible-core, ansible-runner](https://github.com/theforeman/foreman-packaging/pull/13883) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (closed)
 
 #### 📜 My recent blog posts
 
-- [Using Container Images to Run your Desktop](https://odilon.dev/2024/10/29/building-a-desktop-with-bootc/) (2 years ago)
-- [Running HomeAssistant with Podman](https://odilon.dev/2022/12/20/homeassistant-with-podman/) (3 years ago)
-- [Usando podman com Systemd](https://odilon.dev/2020/06/30/usando-podman-com-systemd/) (6 years ago)
-- [Montando ConfigMap como Script](https://odilon.dev/2020/03/08/montando-configmap-como-script/) (6 years ago)
-- [NTP no Rhel8 e Centos8](https://odilon.dev/2019/09/17/2019-09-17-ntp-rhel8-centos8/) (6 years ago)
+- [Using Container Images to Run your Desktop](https://odilon.dev/2024/10/29/building-a-desktop-with-bootc/) (1y ago)
+- [Running HomeAssistant with Podman](https://odilon.dev/2022/12/20/homeassistant-with-podman/) (3y ago)
+- [Usando podman com Systemd](https://odilon.dev/2020/06/30/usando-podman-com-systemd/) (6y ago)
+- [Montando ConfigMap como Script](https://odilon.dev/2020/03/08/montando-configmap-como-script/) (6y ago)
+- [NTP no Rhel8 e Centos8](https://odilon.dev/2019/09/17/2019-09-17-ntp-rhel8-centos8/) (6y ago)
 
 
 #### 📫 How to reach me
