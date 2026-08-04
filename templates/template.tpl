@@ -5,23 +5,28 @@
 I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a really cool project called [theforeman](https://theforeman.org/)
 
 #### 👷 Check out what I'm currently working on
-{{range recentContributions 8}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
+{{range .GitHub.Contributions}}
+- [{{.Repo}}](https://github.com/{{.Repo}}) — {{.Events}} events ([commits]({{.CommitsURL}}) · [activity]({{.ActivityURL}}))
+{{- end}}
+
+#### 🔥 Most active projects
+{{range .GitHub.TopProjects}}
+- [{{.Repo}}](https://github.com/{{.Repo}}) — {{.Commits}} commits, {{.PullRequests}} PRs, {{.Reviews}} reviews
 {{- end}}
 
 #### 🌱 My latest projects
-{{range recentRepos 5}}
-- [{{.Name}}]({{.URL}}) - {{.Description}}
+{{range .GitHub.Repos}}
+- [{{.Name}}]({{.URL}}){{if .Description}} - {{.Description}}{{end}}
 {{- end}}
 
 #### 🔨 My recent Pull Requests
-{{range recentPullRequests 5}}
-- [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
+{{range .GitHub.PullRequests}}
+- [{{.Title}}]({{.URL}}) on [{{.Repo}}](https://github.com/{{.Repo}}) ({{.State}})
 {{- end}}
 
 #### 📜 My recent blog posts
-{{range rss "https://odilon.dev/index.xml" 5}}
-- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
+{{range .Feeds.blog}}
+- [{{.Title}}]({{.URL}}) ({{humanize .Published}})
 {{- end}}
 
 
