@@ -6,22 +6,22 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
+- [theforeman/theforeman-rel-eng](https://github.com/theforeman/theforeman-rel-eng) — 9 events ([commits](https://github.com/theforeman/theforeman-rel-eng/commits?author=Odilhao) · [activity](https://github.com/theforeman/theforeman-rel-eng/issues?q=updated:>@today-30d+author:Odilhao))
+- [Odilhao/theforeman-rel-eng](https://github.com/Odilhao/theforeman-rel-eng) — 1 events ([commits](https://github.com/Odilhao/theforeman-rel-eng/commits?author=Odilhao) · [activity](https://github.com/Odilhao/theforeman-rel-eng/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 5 events ([commits](https://github.com/theforeman/foreman-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-packaging/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/forklift](https://github.com/theforeman/forklift) — 9 events ([commits](https://github.com/theforeman/forklift/commits?author=Odilhao) · [activity](https://github.com/theforeman/forklift/issues?q=updated:>@today-30d+author:Odilhao))
-- [theforeman/theforeman-rel-eng](https://github.com/theforeman/theforeman-rel-eng) — 6 events ([commits](https://github.com/theforeman/theforeman-rel-eng/commits?author=Odilhao) · [activity](https://github.com/theforeman/theforeman-rel-eng/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 10 events ([commits](https://github.com/theforeman/pulpcore-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/pulpcore-packaging/issues?q=updated:>@today-30d+author:Odilhao))
 - [Odilhao/forklift](https://github.com/Odilhao/forklift) — 3 events ([commits](https://github.com/Odilhao/forklift/commits?author=Odilhao) · [activity](https://github.com/Odilhao/forklift/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) — 1 events ([commits](https://github.com/theforeman/jenkins-jobs/commits?author=Odilhao) · [activity](https://github.com/theforeman/jenkins-jobs/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/obal](https://github.com/theforeman/obal) — 1 events ([commits](https://github.com/theforeman/obal/commits?author=Odilhao) · [activity](https://github.com/theforeman/obal/issues?q=updated:>@today-30d+author:Odilhao))
-- [theforeman/puppet-pulpcore](https://github.com/theforeman/puppet-pulpcore) — 3 events ([commits](https://github.com/theforeman/puppet-pulpcore/commits?author=Odilhao) · [activity](https://github.com/theforeman/puppet-pulpcore/issues?q=updated:>@today-30d+author:Odilhao))
 
 #### 🔥 Most active projects
 
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 88 commits, 53 PRs, 0 reviews
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 88 commits, 52 PRs, 0 reviews
 - [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 0 commits, 5 PRs, 3 reviews
 - [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) — 5 commits, 0 PRs, 1 reviews
 - [theforeman/forklift](https://github.com/theforeman/forklift) — 0 commits, 1 PRs, 4 reviews
-- [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) — 2 commits, 1 PRs, 0 reviews
+- [theforeman/theforeman-rel-eng](https://github.com/theforeman/theforeman-rel-eng) — 0 commits, 1 PRs, 3 reviews
 
 #### 🌱 My latest projects
 
@@ -33,6 +33,7 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
+- [Fix module creation on build_stage_repository](https://github.com/theforeman/theforeman-rel-eng/pull/601) on [theforeman/theforeman-rel-eng](https://github.com/theforeman/theforeman-rel-eng) (closed)
 - [Add EL10 repo definitions to repoclosure config](https://github.com/theforeman/pulpcore-packaging/pull/2877) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (closed)
 - [Support EL10 in beaker role](https://github.com/theforeman/forklift/pull/1976) on [theforeman/forklift](https://github.com/theforeman/forklift) (closed)
 - [Assert valkey service on EL10 in redis acceptance test](https://github.com/theforeman/puppet-pulpcore/pull/412) on [theforeman/puppet-pulpcore](https://github.com/theforeman/puppet-pulpcore) (closed)
@@ -42,7 +43,6 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 - [Add temporary CI job to test Pulpcore nightly on EL10](https://github.com/theforeman/puppet-pulpcore/pull/411) on [theforeman/puppet-pulpcore](https://github.com/theforeman/puppet-pulpcore) (open)
 - [Re-enable EL10 repoclosure in package_manifest.yaml](https://github.com/theforeman/pulpcore-packaging/pull/2874) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (closed)
 - [Add pyproject.toml and require Python 3.12 for local dev](https://github.com/theforeman/foremanctl/pull/717) on [theforeman/foremanctl](https://github.com/theforeman/foremanctl) (open)
-- [EL10 rebuild: ansible-core, ansible-runner](https://github.com/theforeman/foreman-packaging/pull/13883) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (closed)
 
 #### 📜 My recent blog posts
 
