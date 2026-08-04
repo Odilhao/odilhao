@@ -1,0 +1,54 @@
+name: Update README
+
+permissions: {}
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: "0 */1 * * *"
+  workflow_dispatch:
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          persist-credentials: false
+
+      - name: Render README
+        uses: Odilhao/readme-builder@a6735d726690ad045d62c0f82cb135f7e8bf552f # v1.0.2
+        with:
+          config: config.toml
+
+      - name: Upload rendered output
+        uses: actions/upload-artifact@v4
+        with:
+          name: rendered-readme
+          path: README.md
+
+  commit:
+    needs: render
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Download rendered output
+        uses: actions/download-artifact@v4
+        with:
+          name: rendered-readme
+
+      # GITHUB_TOKEN-authored pushes don't retrigger other workflow runs,
+      # so this push never re-fires the push:branches:[main] trigger above.
+      - name: Commit if changed
+        run: |
+          git config user.name "readme-builder"
+          git config user.email "actions@github.com"
+          git add README.md
+          git diff --cached --quiet || git commit -m "chore: update README"
+          git push

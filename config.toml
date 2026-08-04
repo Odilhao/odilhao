@@ -1,0 +1,26 @@
+username = "Odilhao"
+
+[github]
+exclude_repos = ["Odilhao/readme-builder", "Odilhao/odilhao"]
+
+[github.contributions]
+limit = 8
+time_window = "30d"
+
+[github.repos]
+limit = 5
+
+[github.pull_requests]
+limit = 10
+
+[github.topprojects]
+limit = 5
+time_window = "30d"
+
+[feeds.blog]
+url = "https://odilon.dev/index.xml"
+limit = 5
+
+[[render]]
+template = "templates/template.tpl"
+output = "README.md"
