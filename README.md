@@ -6,19 +6,19 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
-- [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 37 events ([commits](https://github.com/theforeman/foreman-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-packaging/issues?q=updated:>@today-30d+author:Odilhao))
+- [Odilhao/foreman-oci-images](https://github.com/Odilhao/foreman-oci-images) — 2 events ([commits](https://github.com/Odilhao/foreman-oci-images/commits?author=Odilhao) · [activity](https://github.com/Odilhao/foreman-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 44 events ([commits](https://github.com/theforeman/foreman-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-packaging/issues?q=updated:>@today-30d+author:Odilhao))
+- [Odilhao/foreman-packaging](https://github.com/Odilhao/foreman-packaging) — 9 events ([commits](https://github.com/Odilhao/foreman-packaging/commits?author=Odilhao) · [activity](https://github.com/Odilhao/foreman-packaging/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/el10_rebuild](https://github.com/theforeman/el10_rebuild) — 8 events ([commits](https://github.com/theforeman/el10_rebuild/commits?author=Odilhao) · [activity](https://github.com/theforeman/el10_rebuild/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 9 events ([commits](https://github.com/theforeman/pulpcore-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/pulpcore-packaging/issues?q=updated:>@today-30d+author:Odilhao))
-- [Odilhao/foreman-packaging](https://github.com/Odilhao/foreman-packaging) — 8 events ([commits](https://github.com/Odilhao/foreman-packaging/commits?author=Odilhao) · [activity](https://github.com/Odilhao/foreman-packaging/issues?q=updated:>@today-30d+author:Odilhao))
-- [theforeman/puppet-pulpcore](https://github.com/theforeman/puppet-pulpcore) — 5 events ([commits](https://github.com/theforeman/puppet-pulpcore/commits?author=Odilhao) · [activity](https://github.com/theforeman/puppet-pulpcore/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/puppet-pulpcore](https://github.com/theforeman/puppet-pulpcore) — 4 events ([commits](https://github.com/theforeman/puppet-pulpcore/commits?author=Odilhao) · [activity](https://github.com/theforeman/puppet-pulpcore/issues?q=updated:>@today-30d+author:Odilhao))
 - [OpenSCAP/ruby-openscap](https://github.com/OpenSCAP/ruby-openscap) — 2 events ([commits](https://github.com/OpenSCAP/ruby-openscap/commits?author=Odilhao) · [activity](https://github.com/OpenSCAP/ruby-openscap/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/foreman](https://github.com/theforeman/foreman) — 4 events ([commits](https://github.com/theforeman/foreman/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman/issues?q=updated:>@today-30d+author:Odilhao))
-- [Katello/katello](https://github.com/Katello/katello) — 1 events ([commits](https://github.com/Katello/katello/commits?author=Odilhao) · [activity](https://github.com/Katello/katello/issues?q=updated:>@today-30d+author:Odilhao))
 
 #### 🔥 Most active projects
 
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 277 commits, 39 PRs, 0 reviews
-- [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 0 commits, 6 PRs, 14 reviews
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 277 commits, 38 PRs, 0 reviews
+- [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 0 commits, 7 PRs, 16 reviews
 - [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) — 5 commits, 0 PRs, 8 reviews
 - [theforeman/forklift](https://github.com/theforeman/forklift) — 3 commits, 1 PRs, 4 reviews
 - [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) — 2 commits, 2 PRs, 0 reviews
@@ -33,6 +33,7 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
+- [Update ansible-core to 2.16.19](https://github.com/theforeman/foreman-packaging/pull/13943) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (closed)
 - [Update python-galaxy-importer to 0.4.41](https://github.com/theforeman/pulpcore-packaging/pull/2878) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (closed)
 - [Add El10 to packit](https://github.com/Katello/katello/pull/11818) on [Katello/katello](https://github.com/Katello/katello) (open)
 - [Add packit support for EL10](https://github.com/theforeman/foreman/pull/11130) on [theforeman/foreman](https://github.com/theforeman/foreman) (closed)
@@ -42,7 +43,6 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 - [Fix Candlepin TLS cipher list for the OpenSSL FFM connector](https://github.com/theforeman/foremanctl/pull/724) on [theforeman/foremanctl](https://github.com/theforeman/foremanctl) (open)
 - [Update candlepin version to 5.0.2](https://github.com/theforeman/candlepin-oci-images/pull/66) on [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) (open)
 - [Fix Tomcat SSL connector config for Tomcat 10.1+ (EL10)](https://github.com/theforeman/puppet-candlepin/pull/287) on [theforeman/puppet-candlepin](https://github.com/theforeman/puppet-candlepin) (closed)
-- [Add compos 5.0](https://github.com/theforeman/candlepin-packaging/pull/13) on [theforeman/candlepin-packaging](https://github.com/theforeman/candlepin-packaging) (closed)
 
 #### 📜 My recent blog posts
 
