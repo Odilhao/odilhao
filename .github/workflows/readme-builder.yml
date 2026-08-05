@@ -20,7 +20,7 @@ jobs:
           persist-credentials: false
 
       - name: Render README
-        uses: Odilhao/readme-builder@fed355dbb717db22b1fd60354a839556d642b0c6 # v1.0.3
+        uses: Odilhao/readme-builder@d9ded25560495891d313ec0faf5ac93625868306 # v1.0.4
         with:
           config: config.toml
 
