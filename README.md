@@ -6,9 +6,9 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
+- [theforeman/foremanctl](https://github.com/theforeman/foremanctl) — 6 events ([commits](https://github.com/theforeman/foremanctl/commits?author=Odilhao) · [activity](https://github.com/theforeman/foremanctl/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 46 events ([commits](https://github.com/theforeman/foreman-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-packaging/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/puppet-katello](https://github.com/theforeman/puppet-katello) — 3 events ([commits](https://github.com/theforeman/puppet-katello/commits?author=Odilhao) · [activity](https://github.com/theforeman/puppet-katello/issues?q=updated:>@today-30d+author:Odilhao))
-- [theforeman/foremanctl](https://github.com/theforeman/foremanctl) — 4 events ([commits](https://github.com/theforeman/foremanctl/commits?author=Odilhao) · [activity](https://github.com/theforeman/foremanctl/issues?q=updated:>@today-30d+author:Odilhao))
 - [Katello/katello](https://github.com/Katello/katello) — 3 events ([commits](https://github.com/Katello/katello/commits?author=Odilhao) · [activity](https://github.com/Katello/katello/issues?q=updated:>@today-30d+author:Odilhao))
 - [Odilhao/candlepin-oci-images](https://github.com/Odilhao/candlepin-oci-images) — 6 events ([commits](https://github.com/Odilhao/candlepin-oci-images/commits?author=Odilhao) · [activity](https://github.com/Odilhao/candlepin-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
 - [Odilhao/katello](https://github.com/Odilhao/katello) — 2 events ([commits](https://github.com/Odilhao/katello/commits?author=Odilhao) · [activity](https://github.com/Odilhao/katello/issues?q=updated:>@today-30d+author:Odilhao))
@@ -20,8 +20,8 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 - [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 277 commits, 38 PRs, 0 reviews
 - [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 0 commits, 7 PRs, 17 reviews
 - [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) — 3 commits, 0 PRs, 8 reviews
-- [theforeman/theforeman-rel-eng](https://github.com/theforeman/theforeman-rel-eng) — 1 commits, 1 PRs, 3 reviews
 - [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) — 2 commits, 2 PRs, 0 reviews
+- [theforeman/foremanctl](https://github.com/theforeman/foremanctl) — 0 commits, 2 PRs, 2 reviews
 
 #### 🌱 My latest projects
 
