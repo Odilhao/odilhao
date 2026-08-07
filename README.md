@@ -19,7 +19,7 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 - [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 277 commits, 38 PRs, 0 reviews
 - [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 0 commits, 7 PRs, 17 reviews
-- [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) — 5 commits, 0 PRs, 8 reviews
+- [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) — 3 commits, 0 PRs, 8 reviews
 - [theforeman/theforeman-rel-eng](https://github.com/theforeman/theforeman-rel-eng) — 1 commits, 1 PRs, 3 reviews
 - [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) — 2 commits, 2 PRs, 0 reviews
 
