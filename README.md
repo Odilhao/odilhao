@@ -6,9 +6,9 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
-- [Odilhao/git-manager](https://github.com/Odilhao/git-manager) — 5 events ([commits](https://github.com/Odilhao/git-manager/commits?author=Odilhao) · [activity](https://github.com/Odilhao/git-manager/issues?q=updated:>@today-30d+author:Odilhao))
+- [Odilhao/git-manager](https://github.com/Odilhao/git-manager) — 10 events ([commits](https://github.com/Odilhao/git-manager/commits?author=Odilhao) · [activity](https://github.com/Odilhao/git-manager/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/foremanctl](https://github.com/theforeman/foremanctl) — 6 events ([commits](https://github.com/theforeman/foremanctl/commits?author=Odilhao) · [activity](https://github.com/theforeman/foremanctl/issues?q=updated:>@today-30d+author:Odilhao))
-- [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 46 events ([commits](https://github.com/theforeman/foreman-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-packaging/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 45 events ([commits](https://github.com/theforeman/foreman-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-packaging/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/puppet-katello](https://github.com/theforeman/puppet-katello) — 3 events ([commits](https://github.com/theforeman/puppet-katello/commits?author=Odilhao) · [activity](https://github.com/theforeman/puppet-katello/issues?q=updated:>@today-30d+author:Odilhao))
 - [Katello/katello](https://github.com/Katello/katello) — 3 events ([commits](https://github.com/Katello/katello/commits?author=Odilhao) · [activity](https://github.com/Katello/katello/issues?q=updated:>@today-30d+author:Odilhao))
 - [Odilhao/candlepin-oci-images](https://github.com/Odilhao/candlepin-oci-images) — 6 events ([commits](https://github.com/Odilhao/candlepin-oci-images/commits?author=Odilhao) · [activity](https://github.com/Odilhao/candlepin-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
@@ -17,9 +17,9 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔥 Most active projects
 
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 277 commits, 31 PRs, 0 reviews
-- [Odilhao/git-manager](https://github.com/Odilhao/git-manager) — 20 commits, 7 PRs, 0 reviews
-- [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 0 commits, 7 PRs, 17 reviews
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 277 commits, 30 PRs, 0 reviews
+- [Odilhao/git-manager](https://github.com/Odilhao/git-manager) — 22 commits, 8 PRs, 0 reviews
+- [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 0 commits, 7 PRs, 16 reviews
 - [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) — 2 commits, 0 PRs, 8 reviews
 - [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) — 2 commits, 2 PRs, 0 reviews
 
@@ -33,6 +33,7 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
+- [feat(platform): add cross-platform config/state directory resolver](https://github.com/Odilhao/git-manager/pull/30) on [Odilhao/git-manager](https://github.com/Odilhao/git-manager) (closed)
 - [feat(sync): add sync command orchestrating clone, remotes, branches, identity](https://github.com/Odilhao/git-manager/pull/29) on [Odilhao/git-manager](https://github.com/Odilhao/git-manager) (closed)
 - [feat(sync): filter fetched branches per remote by glob or regex](https://github.com/Odilhao/git-manager/pull/28) on [Odilhao/git-manager](https://github.com/Odilhao/git-manager) (closed)
 - [feat(sync): clone-if-missing, remote reconciliation, identity/signing config](https://github.com/Odilhao/git-manager/pull/27) on [Odilhao/git-manager](https://github.com/Odilhao/git-manager) (closed)
@@ -42,7 +43,6 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 - [feat(config): add TOML config schema with three-level identity resolution](https://github.com/Odilhao/git-manager/pull/20) on [Odilhao/git-manager](https://github.com/Odilhao/git-manager) (closed)
 - [Update ansible-core to 2.16.19](https://github.com/theforeman/foreman-packaging/pull/13943) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (closed)
 - [Update python-galaxy-importer to 0.4.41](https://github.com/theforeman/pulpcore-packaging/pull/2878) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (closed)
-- [Add El10 to packit](https://github.com/Katello/katello/pull/11818) on [Katello/katello](https://github.com/Katello/katello) (closed)
 
 #### 📜 My recent blog posts
 
