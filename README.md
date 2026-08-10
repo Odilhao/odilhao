@@ -6,19 +6,19 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
-- [Odilhao/git-manager](https://github.com/Odilhao/git-manager) — 100 events ([commits](https://github.com/Odilhao/git-manager/commits?author=Odilhao) · [activity](https://github.com/Odilhao/git-manager/issues?q=updated:>@today-30d+author:Odilhao))
+- [Odilhao/git-manager](https://github.com/Odilhao/git-manager) — 116 events ([commits](https://github.com/Odilhao/git-manager/commits?author=Odilhao) · [activity](https://github.com/Odilhao/git-manager/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/foreman_rh_cloud](https://github.com/theforeman/foreman_rh_cloud) — 1 events ([commits](https://github.com/theforeman/foreman_rh_cloud/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman_rh_cloud/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/theforeman-rel-eng](https://github.com/theforeman/theforeman-rel-eng) — 1 events ([commits](https://github.com/theforeman/theforeman-rel-eng/commits?author=Odilhao) · [activity](https://github.com/theforeman/theforeman-rel-eng/issues?q=updated:>@today-30d+author:Odilhao))
 - [packit/notifications](https://github.com/packit/notifications) — 1 events ([commits](https://github.com/packit/notifications/commits?author=Odilhao) · [activity](https://github.com/packit/notifications/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/foremanctl](https://github.com/theforeman/foremanctl) — 6 events ([commits](https://github.com/theforeman/foremanctl/commits?author=Odilhao) · [activity](https://github.com/theforeman/foremanctl/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 41 events ([commits](https://github.com/theforeman/foreman-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-packaging/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/puppet-katello](https://github.com/theforeman/puppet-katello) — 3 events ([commits](https://github.com/theforeman/puppet-katello/commits?author=Odilhao) · [activity](https://github.com/theforeman/puppet-katello/issues?q=updated:>@today-30d+author:Odilhao))
 - [Katello/katello](https://github.com/Katello/katello) — 3 events ([commits](https://github.com/Katello/katello/commits?author=Odilhao) · [activity](https://github.com/Katello/katello/issues?q=updated:>@today-30d+author:Odilhao))
-- [Odilhao/candlepin-oci-images](https://github.com/Odilhao/candlepin-oci-images) — 6 events ([commits](https://github.com/Odilhao/candlepin-oci-images/commits?author=Odilhao) · [activity](https://github.com/Odilhao/candlepin-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
-- [Odilhao/katello](https://github.com/Odilhao/katello) — 2 events ([commits](https://github.com/Odilhao/katello/commits?author=Odilhao) · [activity](https://github.com/Odilhao/katello/issues?q=updated:>@today-30d+author:Odilhao))
 
 #### 🔥 Most active projects
 
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 277 commits, 16 PRs, 0 reviews
-- [Odilhao/git-manager](https://github.com/Odilhao/git-manager) — 53 commits, 22 PRs, 0 reviews
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 277 commits, 13 PRs, 0 reviews
+- [Odilhao/git-manager](https://github.com/Odilhao/git-manager) — 59 commits, 24 PRs, 0 reviews
 - [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 0 commits, 7 PRs, 14 reviews
 - [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) — 1 commits, 0 PRs, 7 reviews
 - [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) — 2 commits, 2 PRs, 0 reviews
@@ -33,6 +33,9 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
+- [Cherrypicks for 13.2.11](https://github.com/theforeman/foreman_rh_cloud/pull/1242) on [theforeman/foreman_rh_cloud](https://github.com/theforeman/foreman_rh_cloud) (open)
+- [feat(cli): add --help/-h/help usage output](https://github.com/Odilhao/git-manager/pull/54) on [Odilhao/git-manager](https://github.com/Odilhao/git-manager) (closed)
+- [docs: add README and installation/configuration/usage guides](https://github.com/Odilhao/git-manager/pull/49) on [Odilhao/git-manager](https://github.com/Odilhao/git-manager) (closed)
 - [build: enforce LF line endings via .gitattributes](https://github.com/Odilhao/git-manager/pull/48) on [Odilhao/git-manager](https://github.com/Odilhao/git-manager) (closed)
 - [Add copr/packit release config](https://github.com/Odilhao/git-manager/pull/47) on [Odilhao/git-manager](https://github.com/Odilhao/git-manager) (closed)
 - [fix(packit): point specfile_path at .rpm and align archive version](https://github.com/Odilhao/git-manager/pull/44) on [Odilhao/git-manager](https://github.com/Odilhao/git-manager) (closed)
@@ -40,9 +43,6 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 - [fix typo on .packit.yaml](https://github.com/Odilhao/git-manager/pull/40) on [Odilhao/git-manager](https://github.com/Odilhao/git-manager) (closed)
 - [(chore): Add packit configuration](https://github.com/Odilhao/git-manager/pull/39) on [Odilhao/git-manager](https://github.com/Odilhao/git-manager) (closed)
 - [feat(cli): add bash/zsh/fish shell completions](https://github.com/Odilhao/git-manager/pull/38) on [Odilhao/git-manager](https://github.com/Odilhao/git-manager) (closed)
-- [feat(sync): bound repo processing to a worker pool](https://github.com/Odilhao/git-manager/pull/37) on [Odilhao/git-manager](https://github.com/Odilhao/git-manager) (closed)
-- [feat(sync,status): add per-repo outcome and timing to run reports](https://github.com/Odilhao/git-manager/pull/36) on [Odilhao/git-manager](https://github.com/Odilhao/git-manager) (closed)
-- [feat(cli): add config-scaffolding add subcommand](https://github.com/Odilhao/git-manager/pull/35) on [Odilhao/git-manager](https://github.com/Odilhao/git-manager) (closed)
 
 #### 📜 My recent blog posts
 
