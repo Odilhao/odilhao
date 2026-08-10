@@ -6,20 +6,20 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
-- [Odilhao/git-manager](https://github.com/Odilhao/git-manager) — 50 events ([commits](https://github.com/Odilhao/git-manager/commits?author=Odilhao) · [activity](https://github.com/Odilhao/git-manager/issues?q=updated:>@today-30d+author:Odilhao))
+- [Odilhao/git-manager](https://github.com/Odilhao/git-manager) — 68 events ([commits](https://github.com/Odilhao/git-manager/commits?author=Odilhao) · [activity](https://github.com/Odilhao/git-manager/issues?q=updated:>@today-30d+author:Odilhao))
+- [packit/notifications](https://github.com/packit/notifications) — 1 events ([commits](https://github.com/packit/notifications/commits?author=Odilhao) · [activity](https://github.com/packit/notifications/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/foremanctl](https://github.com/theforeman/foremanctl) — 6 events ([commits](https://github.com/theforeman/foremanctl/commits?author=Odilhao) · [activity](https://github.com/theforeman/foremanctl/issues?q=updated:>@today-30d+author:Odilhao))
-- [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 45 events ([commits](https://github.com/theforeman/foreman-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-packaging/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 41 events ([commits](https://github.com/theforeman/foreman-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-packaging/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/puppet-katello](https://github.com/theforeman/puppet-katello) — 3 events ([commits](https://github.com/theforeman/puppet-katello/commits?author=Odilhao) · [activity](https://github.com/theforeman/puppet-katello/issues?q=updated:>@today-30d+author:Odilhao))
 - [Katello/katello](https://github.com/Katello/katello) — 3 events ([commits](https://github.com/Katello/katello/commits?author=Odilhao) · [activity](https://github.com/Katello/katello/issues?q=updated:>@today-30d+author:Odilhao))
 - [Odilhao/candlepin-oci-images](https://github.com/Odilhao/candlepin-oci-images) — 6 events ([commits](https://github.com/Odilhao/candlepin-oci-images/commits?author=Odilhao) · [activity](https://github.com/Odilhao/candlepin-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
 - [Odilhao/katello](https://github.com/Odilhao/katello) — 2 events ([commits](https://github.com/Odilhao/katello/commits?author=Odilhao) · [activity](https://github.com/Odilhao/katello/issues?q=updated:>@today-30d+author:Odilhao))
-- [theforeman/foreman-oci-images](https://github.com/theforeman/foreman-oci-images) — 3 events ([commits](https://github.com/theforeman/foreman-oci-images/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
 
 #### 🔥 Most active projects
 
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 277 commits, 22 PRs, 0 reviews
-- [Odilhao/git-manager](https://github.com/Odilhao/git-manager) — 39 commits, 16 PRs, 0 reviews
-- [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 0 commits, 7 PRs, 16 reviews
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 277 commits, 19 PRs, 0 reviews
+- [Odilhao/git-manager](https://github.com/Odilhao/git-manager) — 43 commits, 19 PRs, 0 reviews
+- [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 0 commits, 7 PRs, 14 reviews
 - [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) — 1 commits, 0 PRs, 7 reviews
 - [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) — 2 commits, 2 PRs, 0 reviews
 
@@ -33,6 +33,9 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
+- [ci: add cross-compiled release workflow with checksums](https://github.com/Odilhao/git-manager/pull/42) on [Odilhao/git-manager](https://github.com/Odilhao/git-manager) (open)
+- [fix typo on .packit.yaml](https://github.com/Odilhao/git-manager/pull/40) on [Odilhao/git-manager](https://github.com/Odilhao/git-manager) (closed)
+- [(chore): Add packit configuration](https://github.com/Odilhao/git-manager/pull/39) on [Odilhao/git-manager](https://github.com/Odilhao/git-manager) (closed)
 - [feat(cli): add bash/zsh/fish shell completions](https://github.com/Odilhao/git-manager/pull/38) on [Odilhao/git-manager](https://github.com/Odilhao/git-manager) (closed)
 - [feat(sync): bound repo processing to a worker pool](https://github.com/Odilhao/git-manager/pull/37) on [Odilhao/git-manager](https://github.com/Odilhao/git-manager) (closed)
 - [feat(sync,status): add per-repo outcome and timing to run reports](https://github.com/Odilhao/git-manager/pull/36) on [Odilhao/git-manager](https://github.com/Odilhao/git-manager) (closed)
@@ -40,9 +43,6 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 - [feat: add per-user install/uninstall subcommand](https://github.com/Odilhao/git-manager/pull/34) on [Odilhao/git-manager](https://github.com/Odilhao/git-manager) (closed)
 - [build(scheduling): add per-user systemd and launchd templates](https://github.com/Odilhao/git-manager/pull/33) on [Odilhao/git-manager](https://github.com/Odilhao/git-manager) (closed)
 - [test(sync): add golden dry-run fixture and full-flow integration test](https://github.com/Odilhao/git-manager/pull/32) on [Odilhao/git-manager](https://github.com/Odilhao/git-manager) (closed)
-- [feat(status): add read-only drift-report command](https://github.com/Odilhao/git-manager/pull/31) on [Odilhao/git-manager](https://github.com/Odilhao/git-manager) (closed)
-- [feat(platform): add cross-platform config/state directory resolver](https://github.com/Odilhao/git-manager/pull/30) on [Odilhao/git-manager](https://github.com/Odilhao/git-manager) (closed)
-- [feat(sync): add sync command orchestrating clone, remotes, branches, identity](https://github.com/Odilhao/git-manager/pull/29) on [Odilhao/git-manager](https://github.com/Odilhao/git-manager) (closed)
 
 #### 📜 My recent blog posts
 
