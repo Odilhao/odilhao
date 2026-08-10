@@ -6,22 +6,22 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
+- [theforeman/foremanctl](https://github.com/theforeman/foremanctl) — 7 events ([commits](https://github.com/theforeman/foremanctl/commits?author=Odilhao) · [activity](https://github.com/theforeman/foremanctl/issues?q=updated:>@today-30d+author:Odilhao))
+- [Odilhao/foreman-quadlet](https://github.com/Odilhao/foreman-quadlet) — 3 events ([commits](https://github.com/Odilhao/foreman-quadlet/commits?author=Odilhao) · [activity](https://github.com/Odilhao/foreman-quadlet/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 28 events ([commits](https://github.com/theforeman/foreman-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-packaging/issues?q=updated:>@today-30d+author:Odilhao))
 - [Odilhao/git-manager](https://github.com/Odilhao/git-manager) — 139 events ([commits](https://github.com/Odilhao/git-manager/commits?author=Odilhao) · [activity](https://github.com/Odilhao/git-manager/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 7 events ([commits](https://github.com/theforeman/pulpcore-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/pulpcore-packaging/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/foreman_rh_cloud](https://github.com/theforeman/foreman_rh_cloud) — 2 events ([commits](https://github.com/theforeman/foreman_rh_cloud/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman_rh_cloud/issues?q=updated:>@today-30d+author:Odilhao))
 - [Odilhao/foreman_rh_cloud](https://github.com/Odilhao/foreman_rh_cloud) — 4 events ([commits](https://github.com/Odilhao/foreman_rh_cloud/commits?author=Odilhao) · [activity](https://github.com/Odilhao/foreman_rh_cloud/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/actions](https://github.com/theforeman/actions) — 8 events ([commits](https://github.com/theforeman/actions/commits?author=Odilhao) · [activity](https://github.com/theforeman/actions/issues?q=updated:>@today-30d+author:Odilhao))
-- [Odilhao/actions](https://github.com/Odilhao/actions) — 2 events ([commits](https://github.com/Odilhao/actions/commits?author=Odilhao) · [activity](https://github.com/Odilhao/actions/issues?q=updated:>@today-30d+author:Odilhao))
-- [theforeman/theforeman-rel-eng](https://github.com/theforeman/theforeman-rel-eng) — 1 events ([commits](https://github.com/theforeman/theforeman-rel-eng/commits?author=Odilhao) · [activity](https://github.com/theforeman/theforeman-rel-eng/issues?q=updated:>@today-30d+author:Odilhao))
-- [packit/notifications](https://github.com/packit/notifications) — 1 events ([commits](https://github.com/packit/notifications/commits?author=Odilhao) · [activity](https://github.com/packit/notifications/issues?q=updated:>@today-30d+author:Odilhao))
 
 #### 🔥 Most active projects
 
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 277 commits, 8 PRs, 0 reviews
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 277 commits, 7 PRs, 0 reviews
 - [Odilhao/git-manager](https://github.com/Odilhao/git-manager) — 67 commits, 27 PRs, 0 reviews
 - [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 0 commits, 7 PRs, 9 reviews
+- [theforeman/foremanctl](https://github.com/theforeman/foremanctl) — 0 commits, 3 PRs, 2 reviews
 - [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) — 2 commits, 2 PRs, 0 reviews
-- [theforeman/foremanctl](https://github.com/theforeman/foremanctl) — 0 commits, 2 PRs, 2 reviews
 
 #### 🌱 My latest projects
 
@@ -33,6 +33,7 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
+- [Add rhel-10 builds to .packit](https://github.com/theforeman/foremanctl/pull/739) on [theforeman/foremanctl](https://github.com/theforeman/foremanctl) (open)
 - [ci: remove overlapping asset globs from release upload step](https://github.com/Odilhao/git-manager/pull/58) on [Odilhao/git-manager](https://github.com/Odilhao/git-manager) (closed)
 - [docs: correct installation verification for no-args behavior](https://github.com/Odilhao/git-manager/pull/56) on [Odilhao/git-manager](https://github.com/Odilhao/git-manager) (closed)
 - [build(rpm): install shell completions to standard system dirs](https://github.com/Odilhao/git-manager/pull/55) on [Odilhao/git-manager](https://github.com/Odilhao/git-manager) (closed)
@@ -42,7 +43,6 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 - [feat(cli): add --help/-h/help usage output](https://github.com/Odilhao/git-manager/pull/54) on [Odilhao/git-manager](https://github.com/Odilhao/git-manager) (closed)
 - [docs: add README and installation/configuration/usage guides](https://github.com/Odilhao/git-manager/pull/49) on [Odilhao/git-manager](https://github.com/Odilhao/git-manager) (closed)
 - [build: enforce LF line endings via .gitattributes](https://github.com/Odilhao/git-manager/pull/48) on [Odilhao/git-manager](https://github.com/Odilhao/git-manager) (closed)
-- [Add copr/packit release config](https://github.com/Odilhao/git-manager/pull/47) on [Odilhao/git-manager](https://github.com/Odilhao/git-manager) (closed)
 
 #### 📜 My recent blog posts
 
