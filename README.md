@@ -6,9 +6,9 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
-- [Odilhao/git-manager](https://github.com/Odilhao/git-manager) — 136 events ([commits](https://github.com/Odilhao/git-manager/commits?author=Odilhao) · [activity](https://github.com/Odilhao/git-manager/issues?q=updated:>@today-30d+author:Odilhao))
+- [Odilhao/git-manager](https://github.com/Odilhao/git-manager) — 138 events ([commits](https://github.com/Odilhao/git-manager/commits?author=Odilhao) · [activity](https://github.com/Odilhao/git-manager/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/foreman_rh_cloud](https://github.com/theforeman/foreman_rh_cloud) — 2 events ([commits](https://github.com/theforeman/foreman_rh_cloud/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman_rh_cloud/issues?q=updated:>@today-30d+author:Odilhao))
-- [Odilhao/foreman_rh_cloud](https://github.com/Odilhao/foreman_rh_cloud) — 3 events ([commits](https://github.com/Odilhao/foreman_rh_cloud/commits?author=Odilhao) · [activity](https://github.com/Odilhao/foreman_rh_cloud/issues?q=updated:>@today-30d+author:Odilhao))
+- [Odilhao/foreman_rh_cloud](https://github.com/Odilhao/foreman_rh_cloud) — 4 events ([commits](https://github.com/Odilhao/foreman_rh_cloud/commits?author=Odilhao) · [activity](https://github.com/Odilhao/foreman_rh_cloud/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/actions](https://github.com/theforeman/actions) — 8 events ([commits](https://github.com/theforeman/actions/commits?author=Odilhao) · [activity](https://github.com/theforeman/actions/issues?q=updated:>@today-30d+author:Odilhao))
 - [Odilhao/actions](https://github.com/Odilhao/actions) — 2 events ([commits](https://github.com/Odilhao/actions/commits?author=Odilhao) · [activity](https://github.com/Odilhao/actions/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/theforeman-rel-eng](https://github.com/theforeman/theforeman-rel-eng) — 1 events ([commits](https://github.com/theforeman/theforeman-rel-eng/commits?author=Odilhao) · [activity](https://github.com/theforeman/theforeman-rel-eng/issues?q=updated:>@today-30d+author:Odilhao))
