@@ -6,14 +6,14 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
+- [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 4 events ([commits](https://github.com/theforeman/foreman-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-packaging/issues?q=updated:>@today-30d+author:Odilhao))
+- [Odilhao/foreman-packaging](https://github.com/Odilhao/foreman-packaging) — 1 events ([commits](https://github.com/Odilhao/foreman-packaging/commits?author=Odilhao) · [activity](https://github.com/Odilhao/foreman-packaging/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) — 2 events ([commits](https://github.com/theforeman/candlepin-oci-images/commits?author=Odilhao) · [activity](https://github.com/theforeman/candlepin-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/theforeman-rel-eng](https://github.com/theforeman/theforeman-rel-eng) — 3 events ([commits](https://github.com/theforeman/theforeman-rel-eng/commits?author=Odilhao) · [activity](https://github.com/theforeman/theforeman-rel-eng/issues?q=updated:>@today-30d+author:Odilhao))
 - [Odilhao/theforeman-rel-eng](https://github.com/Odilhao/theforeman-rel-eng) — 2 events ([commits](https://github.com/Odilhao/theforeman-rel-eng/commits?author=Odilhao) · [activity](https://github.com/Odilhao/theforeman-rel-eng/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/foremanctl](https://github.com/theforeman/foremanctl) — 2 events ([commits](https://github.com/theforeman/foremanctl/commits?author=Odilhao) · [activity](https://github.com/theforeman/foremanctl/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/forklift](https://github.com/theforeman/forklift) — 2 events ([commits](https://github.com/theforeman/forklift/commits?author=Odilhao) · [activity](https://github.com/theforeman/forklift/issues?q=updated:>@today-30d+author:Odilhao))
 - [Odilhao/forklift](https://github.com/Odilhao/forklift) — 1 events ([commits](https://github.com/Odilhao/forklift/commits?author=Odilhao) · [activity](https://github.com/Odilhao/forklift/issues?q=updated:>@today-30d+author:Odilhao))
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 112 events ([commits](https://github.com/theforeman/pulpcore-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/pulpcore-packaging/issues?q=updated:>@today-30d+author:Odilhao))
-- [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 3 events ([commits](https://github.com/theforeman/foreman-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-packaging/issues?q=updated:>@today-30d+author:Odilhao))
 
 #### 🔥 Most active projects
 
@@ -33,6 +33,7 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
+- [Update rubygem-jwt to 2.10.3](https://github.com/theforeman/foreman-packaging/pull/13964) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (open)
 - [Add el10 to pulpcore 3.105 settings](https://github.com/theforeman/theforeman-rel-eng/pull/604) on [theforeman/theforeman-rel-eng](https://github.com/theforeman/theforeman-rel-eng) (closed)
 - [Add libcap-devel to devel boxes](https://github.com/theforeman/forklift/pull/1978) on [theforeman/forklift](https://github.com/theforeman/forklift) (closed)
 - [config: support .d/ drop-in fragments for large groups](https://github.com/Odilhao/git-manager/pull/60) on [Odilhao/git-manager](https://github.com/Odilhao/git-manager) (closed)
@@ -42,7 +43,6 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 - [build(rpm): install shell completions to standard system dirs](https://github.com/Odilhao/git-manager/pull/55) on [Odilhao/git-manager](https://github.com/Odilhao/git-manager) (closed)
 - [Add libcap-dev to apt-get install for cap2 gem support to JS plugins](https://github.com/theforeman/actions/pull/100) on [theforeman/actions](https://github.com/theforeman/actions) (closed)
 - [Add libcap-dev to apt-get install for cap2 gem support to JS plugins …](https://github.com/theforeman/actions/pull/99) on [theforeman/actions](https://github.com/theforeman/actions) (closed)
-- [Cherrypicks for 13.2.11](https://github.com/theforeman/foreman_rh_cloud/pull/1242) on [theforeman/foreman_rh_cloud](https://github.com/theforeman/foreman_rh_cloud) (closed)
 
 #### 📜 My recent blog posts
 
