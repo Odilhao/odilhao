@@ -6,20 +6,20 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
+- [Odilhao/git-manager](https://github.com/Odilhao/git-manager) — 146 events ([commits](https://github.com/Odilhao/git-manager/commits?author=Odilhao) · [activity](https://github.com/Odilhao/git-manager/issues?q=updated:>@today-30d+author:Odilhao))
+- [Katello/katello](https://github.com/Katello/katello) — 4 events ([commits](https://github.com/Katello/katello/commits?author=Odilhao) · [activity](https://github.com/Katello/katello/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/foremanctl](https://github.com/theforeman/foremanctl) — 7 events ([commits](https://github.com/theforeman/foremanctl/commits?author=Odilhao) · [activity](https://github.com/theforeman/foremanctl/issues?q=updated:>@today-30d+author:Odilhao))
-- [Odilhao/foreman-quadlet](https://github.com/Odilhao/foreman-quadlet) — 3 events ([commits](https://github.com/Odilhao/foreman-quadlet/commits?author=Odilhao) · [activity](https://github.com/Odilhao/foreman-quadlet/issues?q=updated:>@today-30d+author:Odilhao))
-- [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 28 events ([commits](https://github.com/theforeman/foreman-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-packaging/issues?q=updated:>@today-30d+author:Odilhao))
-- [Odilhao/git-manager](https://github.com/Odilhao/git-manager) — 139 events ([commits](https://github.com/Odilhao/git-manager/commits?author=Odilhao) · [activity](https://github.com/Odilhao/git-manager/issues?q=updated:>@today-30d+author:Odilhao))
+- [Odilhao/foreman-quadlet](https://github.com/Odilhao/foreman-quadlet) — 2 events ([commits](https://github.com/Odilhao/foreman-quadlet/commits?author=Odilhao) · [activity](https://github.com/Odilhao/foreman-quadlet/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 24 events ([commits](https://github.com/theforeman/foreman-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-packaging/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 7 events ([commits](https://github.com/theforeman/pulpcore-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/pulpcore-packaging/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/foreman_rh_cloud](https://github.com/theforeman/foreman_rh_cloud) — 2 events ([commits](https://github.com/theforeman/foreman_rh_cloud/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman_rh_cloud/issues?q=updated:>@today-30d+author:Odilhao))
 - [Odilhao/foreman_rh_cloud](https://github.com/Odilhao/foreman_rh_cloud) — 4 events ([commits](https://github.com/Odilhao/foreman_rh_cloud/commits?author=Odilhao) · [activity](https://github.com/Odilhao/foreman_rh_cloud/issues?q=updated:>@today-30d+author:Odilhao))
-- [theforeman/actions](https://github.com/theforeman/actions) — 8 events ([commits](https://github.com/theforeman/actions/commits?author=Odilhao) · [activity](https://github.com/theforeman/actions/issues?q=updated:>@today-30d+author:Odilhao))
 
 #### 🔥 Most active projects
 
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 277 commits, 7 PRs, 0 reviews
-- [Odilhao/git-manager](https://github.com/Odilhao/git-manager) — 67 commits, 27 PRs, 0 reviews
-- [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 0 commits, 7 PRs, 9 reviews
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 277 commits, 6 PRs, 0 reviews
+- [Odilhao/git-manager](https://github.com/Odilhao/git-manager) — 70 commits, 28 PRs, 0 reviews
+- [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 0 commits, 7 PRs, 8 reviews
 - [theforeman/foremanctl](https://github.com/theforeman/foremanctl) — 0 commits, 3 PRs, 2 reviews
 - [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) — 2 commits, 2 PRs, 0 reviews
 
@@ -33,6 +33,7 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
+- [config: support .d/ drop-in fragments for large groups](https://github.com/Odilhao/git-manager/pull/60) on [Odilhao/git-manager](https://github.com/Odilhao/git-manager) (closed)
 - [Add rhel-10 builds to .packit](https://github.com/theforeman/foremanctl/pull/739) on [theforeman/foremanctl](https://github.com/theforeman/foremanctl) (open)
 - [ci: remove overlapping asset globs from release upload step](https://github.com/Odilhao/git-manager/pull/58) on [Odilhao/git-manager](https://github.com/Odilhao/git-manager) (closed)
 - [docs: correct installation verification for no-args behavior](https://github.com/Odilhao/git-manager/pull/56) on [Odilhao/git-manager](https://github.com/Odilhao/git-manager) (closed)
@@ -42,7 +43,6 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 - [Cherrypicks for 13.2.11](https://github.com/theforeman/foreman_rh_cloud/pull/1242) on [theforeman/foreman_rh_cloud](https://github.com/theforeman/foreman_rh_cloud) (closed)
 - [feat(cli): add --help/-h/help usage output](https://github.com/Odilhao/git-manager/pull/54) on [Odilhao/git-manager](https://github.com/Odilhao/git-manager) (closed)
 - [docs: add README and installation/configuration/usage guides](https://github.com/Odilhao/git-manager/pull/49) on [Odilhao/git-manager](https://github.com/Odilhao/git-manager) (closed)
-- [build: enforce LF line endings via .gitattributes](https://github.com/Odilhao/git-manager/pull/48) on [Odilhao/git-manager](https://github.com/Odilhao/git-manager) (closed)
 
 #### 📜 My recent blog posts
 
@@ -50,7 +50,7 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 - [Running HomeAssistant with Podman](https://odilon.dev/2022/12/20/homeassistant-with-podman/) (3y ago)
 - [Usando podman com Systemd](https://odilon.dev/2020/06/30/usando-podman-com-systemd/) (6y ago)
 - [Montando ConfigMap como Script](https://odilon.dev/2020/03/08/montando-configmap-como-script/) (6y ago)
-- [NTP no Rhel8 e Centos8](https://odilon.dev/2019/09/17/2019-09-17-ntp-rhel8-centos8/) (6y ago)
+- [NTP no Rhel8 e Centos8](https://odilon.dev/2019/09/17/2019-09-17-ntp-rhel8-centos8/) (7y ago)
 
 
 #### 📫 How to reach me
