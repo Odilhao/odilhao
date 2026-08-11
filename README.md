@@ -6,9 +6,9 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
-- [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) — 1 events ([commits](https://github.com/theforeman/jenkins-jobs/commits?author=Odilhao) · [activity](https://github.com/theforeman/jenkins-jobs/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 118 events ([commits](https://github.com/theforeman/pulpcore-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/pulpcore-packaging/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) — 3 events ([commits](https://github.com/theforeman/jenkins-jobs/commits?author=Odilhao) · [activity](https://github.com/theforeman/jenkins-jobs/issues?q=updated:>@today-30d+author:Odilhao))
 - [Odilhao/jenkins-jobs](https://github.com/Odilhao/jenkins-jobs) — 2 events ([commits](https://github.com/Odilhao/jenkins-jobs/commits?author=Odilhao) · [activity](https://github.com/Odilhao/jenkins-jobs/issues?q=updated:>@today-30d+author:Odilhao))
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 113 events ([commits](https://github.com/theforeman/pulpcore-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/pulpcore-packaging/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 6 events ([commits](https://github.com/theforeman/foreman-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-packaging/issues?q=updated:>@today-30d+author:Odilhao))
 - [Odilhao/foreman-packaging](https://github.com/Odilhao/foreman-packaging) — 1 events ([commits](https://github.com/Odilhao/foreman-packaging/commits?author=Odilhao) · [activity](https://github.com/Odilhao/foreman-packaging/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) — 2 events ([commits](https://github.com/theforeman/candlepin-oci-images/commits?author=Odilhao) · [activity](https://github.com/theforeman/candlepin-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
@@ -17,11 +17,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔥 Most active projects
 
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 277 commits, 5 PRs, 1 reviews
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 277 commits, 6 PRs, 1 reviews
 - [Odilhao/git-manager](https://github.com/Odilhao/git-manager) — 70 commits, 28 PRs, 0 reviews
-- [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 0 commits, 7 PRs, 1 reviews
+- [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 0 commits, 6 PRs, 1 reviews
 - [theforeman/foremanctl](https://github.com/theforeman/foremanctl) — 1 commits, 3 PRs, 0 reviews
-- [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) — 2 commits, 1 PRs, 0 reviews
+- [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) — 2 commits, 1 PRs, 0 reviews
 
 #### 🌱 My latest projects
 
@@ -33,7 +33,8 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
-- [Add EL10 to pulpcore 3.105](https://github.com/theforeman/jenkins-jobs/pull/603) on [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) (open)
+- [Update repoclosure for el10 3.105](https://github.com/theforeman/pulpcore-packaging/pull/2929) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (closed)
+- [Add EL10 to pulpcore 3.105](https://github.com/theforeman/jenkins-jobs/pull/603) on [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) (closed)
 - [Update rubygem-jwt to 2.10.3](https://github.com/theforeman/foreman-packaging/pull/13964) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (closed)
 - [Add el10 to pulpcore 3.105 settings](https://github.com/theforeman/theforeman-rel-eng/pull/604) on [theforeman/theforeman-rel-eng](https://github.com/theforeman/theforeman-rel-eng) (closed)
 - [Add libcap-devel to devel boxes](https://github.com/theforeman/forklift/pull/1978) on [theforeman/forklift](https://github.com/theforeman/forklift) (closed)
@@ -42,7 +43,6 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 - [ci: remove overlapping asset globs from release upload step](https://github.com/Odilhao/git-manager/pull/58) on [Odilhao/git-manager](https://github.com/Odilhao/git-manager) (closed)
 - [docs: correct installation verification for no-args behavior](https://github.com/Odilhao/git-manager/pull/56) on [Odilhao/git-manager](https://github.com/Odilhao/git-manager) (closed)
 - [build(rpm): install shell completions to standard system dirs](https://github.com/Odilhao/git-manager/pull/55) on [Odilhao/git-manager](https://github.com/Odilhao/git-manager) (closed)
-- [Add libcap-dev to apt-get install for cap2 gem support to JS plugins](https://github.com/theforeman/actions/pull/100) on [theforeman/actions](https://github.com/theforeman/actions) (closed)
 
 #### 📜 My recent blog posts
 
