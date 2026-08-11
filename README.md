@@ -6,13 +6,13 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
+- [theforeman/foremanctl](https://github.com/theforeman/foremanctl) — 2 events ([commits](https://github.com/theforeman/foremanctl/commits?author=Odilhao) · [activity](https://github.com/theforeman/foremanctl/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/forklift](https://github.com/theforeman/forklift) — 2 events ([commits](https://github.com/theforeman/forklift/commits?author=Odilhao) · [activity](https://github.com/theforeman/forklift/issues?q=updated:>@today-30d+author:Odilhao))
 - [Odilhao/forklift](https://github.com/Odilhao/forklift) — 1 events ([commits](https://github.com/Odilhao/forklift/commits?author=Odilhao) · [activity](https://github.com/Odilhao/forklift/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 112 events ([commits](https://github.com/theforeman/pulpcore-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/pulpcore-packaging/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 3 events ([commits](https://github.com/theforeman/foreman-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-packaging/issues?q=updated:>@today-30d+author:Odilhao))
-- [Odilhao/git-manager](https://github.com/Odilhao/git-manager) — 93 events ([commits](https://github.com/Odilhao/git-manager/commits?author=Odilhao) · [activity](https://github.com/Odilhao/git-manager/issues?q=updated:>@today-30d+author:Odilhao))
+- [Odilhao/git-manager](https://github.com/Odilhao/git-manager) — 92 events ([commits](https://github.com/Odilhao/git-manager/commits?author=Odilhao) · [activity](https://github.com/Odilhao/git-manager/issues?q=updated:>@today-30d+author:Odilhao))
 - [Katello/katello](https://github.com/Katello/katello) — 1 events ([commits](https://github.com/Katello/katello/commits?author=Odilhao) · [activity](https://github.com/Katello/katello/issues?q=updated:>@today-30d+author:Odilhao))
-- [theforeman/foremanctl](https://github.com/theforeman/foremanctl) — 1 events ([commits](https://github.com/theforeman/foremanctl/commits?author=Odilhao) · [activity](https://github.com/theforeman/foremanctl/issues?q=updated:>@today-30d+author:Odilhao))
 - [Odilhao/foreman-quadlet](https://github.com/Odilhao/foreman-quadlet) — 1 events ([commits](https://github.com/Odilhao/foreman-quadlet/commits?author=Odilhao) · [activity](https://github.com/Odilhao/foreman-quadlet/issues?q=updated:>@today-30d+author:Odilhao))
 
 #### 🔥 Most active projects
@@ -21,7 +21,7 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 - [Odilhao/git-manager](https://github.com/Odilhao/git-manager) — 70 commits, 28 PRs, 0 reviews
 - [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 0 commits, 7 PRs, 1 reviews
 - [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) — 2 commits, 2 PRs, 0 reviews
-- [theforeman/actions](https://github.com/theforeman/actions) — 1 commits, 2 PRs, 0 reviews
+- [theforeman/foremanctl](https://github.com/theforeman/foremanctl) — 1 commits, 3 PRs, 0 reviews
 
 #### 🌱 My latest projects
 
@@ -35,7 +35,7 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 - [Add libcap-devel to devel boxes](https://github.com/theforeman/forklift/pull/1978) on [theforeman/forklift](https://github.com/theforeman/forklift) (closed)
 - [config: support .d/ drop-in fragments for large groups](https://github.com/Odilhao/git-manager/pull/60) on [Odilhao/git-manager](https://github.com/Odilhao/git-manager) (closed)
-- [Add rhel-10 builds to .packit](https://github.com/theforeman/foremanctl/pull/739) on [theforeman/foremanctl](https://github.com/theforeman/foremanctl) (open)
+- [Add rhel-10 builds to .packit](https://github.com/theforeman/foremanctl/pull/739) on [theforeman/foremanctl](https://github.com/theforeman/foremanctl) (closed)
 - [ci: remove overlapping asset globs from release upload step](https://github.com/Odilhao/git-manager/pull/58) on [Odilhao/git-manager](https://github.com/Odilhao/git-manager) (closed)
 - [docs: correct installation verification for no-args behavior](https://github.com/Odilhao/git-manager/pull/56) on [Odilhao/git-manager](https://github.com/Odilhao/git-manager) (closed)
 - [build(rpm): install shell completions to standard system dirs](https://github.com/Odilhao/git-manager/pull/55) on [Odilhao/git-manager](https://github.com/Odilhao/git-manager) (closed)
