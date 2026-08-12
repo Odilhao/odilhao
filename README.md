@@ -6,14 +6,14 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
-- [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 12 events ([commits](https://github.com/theforeman/foreman-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-packaging/issues?q=updated:>@today-30d+author:Odilhao))
+- [Katello/katello](https://github.com/Katello/katello) — 2 events ([commits](https://github.com/Katello/katello/commits?author=Odilhao) · [activity](https://github.com/Katello/katello/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 15 events ([commits](https://github.com/theforeman/foreman-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-packaging/issues?q=updated:>@today-30d+author:Odilhao))
 - [Odilhao/foreman-packaging](https://github.com/Odilhao/foreman-packaging) — 2 events ([commits](https://github.com/Odilhao/foreman-packaging/commits?author=Odilhao) · [activity](https://github.com/Odilhao/foreman-packaging/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) — 4 events ([commits](https://github.com/theforeman/candlepin-oci-images/commits?author=Odilhao) · [activity](https://github.com/theforeman/candlepin-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 122 events ([commits](https://github.com/theforeman/pulpcore-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/pulpcore-packaging/issues?q=updated:>@today-30d+author:Odilhao))
 - [Odilhao/pulpcore-packaging](https://github.com/Odilhao/pulpcore-packaging) — 2 events ([commits](https://github.com/Odilhao/pulpcore-packaging/commits?author=Odilhao) · [activity](https://github.com/Odilhao/pulpcore-packaging/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) — 1 events ([commits](https://github.com/theforeman/theforeman-rel-eng-konflux/commits?author=Odilhao) · [activity](https://github.com/theforeman/theforeman-rel-eng-konflux/issues?q=updated:>@today-30d+author:Odilhao))
 - [Odilhao/theforeman-rel-eng-konflux](https://github.com/Odilhao/theforeman-rel-eng-konflux) — 1 events ([commits](https://github.com/Odilhao/theforeman-rel-eng-konflux/commits?author=Odilhao) · [activity](https://github.com/Odilhao/theforeman-rel-eng-konflux/issues?q=updated:>@today-30d+author:Odilhao))
-- [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) — 3 events ([commits](https://github.com/theforeman/jenkins-jobs/commits?author=Odilhao) · [activity](https://github.com/theforeman/jenkins-jobs/issues?q=updated:>@today-30d+author:Odilhao))
 
 #### 🔥 Most active projects
 
@@ -33,7 +33,7 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
-- [Release rubygem-smart_proxy_container_gateway 4.0.1](https://github.com/theforeman/foreman-packaging/pull/13978) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (open)
+- [Release rubygem-smart_proxy_container_gateway 4.0.1](https://github.com/theforeman/foreman-packaging/pull/13978) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (closed)
 - [Fix stale/missing python3.11 Obsoletes blocking foreman-maintain updates](https://github.com/theforeman/pulpcore-packaging/pull/2932) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (closed)
 - [Release foreman 5.0 RC1](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/57) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (open)
 - [Update repoclosure for el10 3.105](https://github.com/theforeman/pulpcore-packaging/pull/2929) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (closed)
