@@ -21,7 +21,7 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 - [Odilhao/git-manager](https://github.com/Odilhao/git-manager) — 70 commits, 28 PRs, 0 reviews
 - [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 0 commits, 6 PRs, 1 reviews
 - [theforeman/foremanctl](https://github.com/theforeman/foremanctl) — 1 commits, 3 PRs, 0 reviews
-- [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) — 2 commits, 1 PRs, 0 reviews
+- [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) — 2 commits, 1 PRs, 0 reviews
 
 #### 🌱 My latest projects
 
