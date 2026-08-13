@@ -6,14 +6,14 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
+- [theforeman/forklift](https://github.com/theforeman/forklift) — 3 events ([commits](https://github.com/theforeman/forklift/commits?author=Odilhao) · [activity](https://github.com/theforeman/forklift/issues?q=updated:>@today-30d+author:Odilhao))
+- [Odilhao/forklift](https://github.com/Odilhao/forklift) — 2 events ([commits](https://github.com/Odilhao/forklift/commits?author=Odilhao) · [activity](https://github.com/Odilhao/forklift/issues?q=updated:>@today-30d+author:Odilhao))
 - [Katello/hammer-cli-katello](https://github.com/Katello/hammer-cli-katello) — 4 events ([commits](https://github.com/Katello/hammer-cli-katello/commits?author=Odilhao) · [activity](https://github.com/Katello/hammer-cli-katello/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 20 events ([commits](https://github.com/theforeman/foreman-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-packaging/issues?q=updated:>@today-30d+author:Odilhao))
 - [Odilhao/git-manager](https://github.com/Odilhao/git-manager) — 37 events ([commits](https://github.com/Odilhao/git-manager/commits?author=Odilhao) · [activity](https://github.com/Odilhao/git-manager/issues?q=updated:>@today-30d+author:Odilhao))
 - [Odilhao/hammer-cli-katello](https://github.com/Odilhao/hammer-cli-katello) — 1 events ([commits](https://github.com/Odilhao/hammer-cli-katello/commits?author=Odilhao) · [activity](https://github.com/Odilhao/hammer-cli-katello/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/foremanctl](https://github.com/theforeman/foremanctl) — 3 events ([commits](https://github.com/theforeman/foremanctl/commits?author=Odilhao) · [activity](https://github.com/theforeman/foremanctl/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) — 6 events ([commits](https://github.com/theforeman/candlepin-oci-images/commits?author=Odilhao) · [activity](https://github.com/theforeman/candlepin-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
-- [Odilhao/candlepin-oci-images](https://github.com/Odilhao/candlepin-oci-images) — 1 events ([commits](https://github.com/Odilhao/candlepin-oci-images/commits?author=Odilhao) · [activity](https://github.com/Odilhao/candlepin-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
-- [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) — 2 events ([commits](https://github.com/theforeman/pulp-oci-images/commits?author=Odilhao) · [activity](https://github.com/theforeman/pulp-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
 
 #### 🔥 Most active projects
 
@@ -33,6 +33,7 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
+- [Pin selinux-policy to 38.1.83-1 on CentOS Stream 9](https://github.com/theforeman/forklift/pull/1980) on [theforeman/forklift](https://github.com/theforeman/forklift) (open)
 - [feat(sync): report live progress by default, add quiet mode](https://github.com/Odilhao/git-manager/pull/62) on [Odilhao/git-manager](https://github.com/Odilhao/git-manager) (closed)
 - [Update the repo_owner from theforeman to Katello](https://github.com/Katello/hammer-cli-katello/pull/1035) on [Katello/hammer-cli-katello](https://github.com/Katello/hammer-cli-katello) (closed)
 - [Branch: foreman-5.0](https://github.com/theforeman/candlepin-oci-images/pull/69) on [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) (open)
@@ -42,7 +43,6 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 - [Release rubygem-smart_proxy_container_gateway 4.0.1](https://github.com/theforeman/foreman-packaging/pull/13978) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (closed)
 - [Fix stale/missing python3.11 Obsoletes blocking foreman-maintain updates](https://github.com/theforeman/pulpcore-packaging/pull/2932) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (closed)
 - [Release foreman 5.0 RC1](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/57) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (open)
-- [Update repoclosure for el10 3.105](https://github.com/theforeman/pulpcore-packaging/pull/2929) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (closed)
 
 #### 📜 My recent blog posts
 
