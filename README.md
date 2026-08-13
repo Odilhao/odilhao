@@ -6,9 +6,9 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
+- [Katello/hammer-cli-katello](https://github.com/Katello/hammer-cli-katello) — 4 events ([commits](https://github.com/Katello/hammer-cli-katello/commits?author=Odilhao) · [activity](https://github.com/Katello/hammer-cli-katello/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 20 events ([commits](https://github.com/theforeman/foreman-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-packaging/issues?q=updated:>@today-30d+author:Odilhao))
 - [Odilhao/git-manager](https://github.com/Odilhao/git-manager) — 37 events ([commits](https://github.com/Odilhao/git-manager/commits?author=Odilhao) · [activity](https://github.com/Odilhao/git-manager/issues?q=updated:>@today-30d+author:Odilhao))
-- [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 18 events ([commits](https://github.com/theforeman/foreman-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-packaging/issues?q=updated:>@today-30d+author:Odilhao))
-- [Katello/hammer-cli-katello](https://github.com/Katello/hammer-cli-katello) — 3 events ([commits](https://github.com/Katello/hammer-cli-katello/commits?author=Odilhao) · [activity](https://github.com/Katello/hammer-cli-katello/issues?q=updated:>@today-30d+author:Odilhao))
 - [Odilhao/hammer-cli-katello](https://github.com/Odilhao/hammer-cli-katello) — 1 events ([commits](https://github.com/Odilhao/hammer-cli-katello/commits?author=Odilhao) · [activity](https://github.com/Odilhao/hammer-cli-katello/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/foremanctl](https://github.com/theforeman/foremanctl) — 3 events ([commits](https://github.com/theforeman/foremanctl/commits?author=Odilhao) · [activity](https://github.com/theforeman/foremanctl/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) — 6 events ([commits](https://github.com/theforeman/candlepin-oci-images/commits?author=Odilhao) · [activity](https://github.com/theforeman/candlepin-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
@@ -19,9 +19,9 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 - [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 278 commits, 6 PRs, 1 reviews
 - [Odilhao/git-manager](https://github.com/Odilhao/git-manager) — 74 commits, 29 PRs, 0 reviews
-- [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 0 commits, 4 PRs, 5 reviews
+- [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 0 commits, 4 PRs, 7 reviews
 - [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) — 2 commits, 2 PRs, 0 reviews
-- [Katello/hammer-cli-katello](https://github.com/Katello/hammer-cli-katello) — 1 commits, 1 PRs, 1 reviews
+- [Katello/hammer-cli-katello](https://github.com/Katello/hammer-cli-katello) — 1 commits, 1 PRs, 2 reviews
 
 #### 🌱 My latest projects
 
