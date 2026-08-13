@@ -6,7 +6,7 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
-- [theforeman/forklift](https://github.com/theforeman/forklift) — 3 events ([commits](https://github.com/theforeman/forklift/commits?author=Odilhao) · [activity](https://github.com/theforeman/forklift/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/forklift](https://github.com/theforeman/forklift) — 6 events ([commits](https://github.com/theforeman/forklift/commits?author=Odilhao) · [activity](https://github.com/theforeman/forklift/issues?q=updated:>@today-30d+author:Odilhao))
 - [Odilhao/forklift](https://github.com/Odilhao/forklift) — 2 events ([commits](https://github.com/Odilhao/forklift/commits?author=Odilhao) · [activity](https://github.com/Odilhao/forklift/issues?q=updated:>@today-30d+author:Odilhao))
 - [Katello/hammer-cli-katello](https://github.com/Katello/hammer-cli-katello) — 4 events ([commits](https://github.com/Katello/hammer-cli-katello/commits?author=Odilhao) · [activity](https://github.com/Katello/hammer-cli-katello/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 20 events ([commits](https://github.com/theforeman/foreman-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-packaging/issues?q=updated:>@today-30d+author:Odilhao))
@@ -33,7 +33,7 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
-- [Pin selinux-policy to 38.1.83-1 on CentOS Stream 9](https://github.com/theforeman/forklift/pull/1980) on [theforeman/forklift](https://github.com/theforeman/forklift) (open)
+- [Pin selinux-policy to 38.1.83-1 on CentOS Stream 9](https://github.com/theforeman/forklift/pull/1980) on [theforeman/forklift](https://github.com/theforeman/forklift) (closed)
 - [feat(sync): report live progress by default, add quiet mode](https://github.com/Odilhao/git-manager/pull/62) on [Odilhao/git-manager](https://github.com/Odilhao/git-manager) (closed)
 - [Update the repo_owner from theforeman to Katello](https://github.com/Katello/hammer-cli-katello/pull/1035) on [Katello/hammer-cli-katello](https://github.com/Katello/hammer-cli-katello) (closed)
 - [Branch: foreman-5.0](https://github.com/theforeman/candlepin-oci-images/pull/69) on [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) (open)
