@@ -6,14 +6,14 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
+- [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) — 8 events ([commits](https://github.com/theforeman/candlepin-oci-images/commits?author=Odilhao) · [activity](https://github.com/theforeman/candlepin-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) — 4 events ([commits](https://github.com/theforeman/pulp-oci-images/commits?author=Odilhao) · [activity](https://github.com/theforeman/pulp-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/forklift](https://github.com/theforeman/forklift) — 6 events ([commits](https://github.com/theforeman/forklift/commits?author=Odilhao) · [activity](https://github.com/theforeman/forklift/issues?q=updated:>@today-30d+author:Odilhao))
 - [Odilhao/forklift](https://github.com/Odilhao/forklift) — 2 events ([commits](https://github.com/Odilhao/forklift/commits?author=Odilhao) · [activity](https://github.com/Odilhao/forklift/issues?q=updated:>@today-30d+author:Odilhao))
 - [Katello/hammer-cli-katello](https://github.com/Katello/hammer-cli-katello) — 4 events ([commits](https://github.com/Katello/hammer-cli-katello/commits?author=Odilhao) · [activity](https://github.com/Katello/hammer-cli-katello/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 20 events ([commits](https://github.com/theforeman/foreman-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-packaging/issues?q=updated:>@today-30d+author:Odilhao))
-- [Odilhao/git-manager](https://github.com/Odilhao/git-manager) — 37 events ([commits](https://github.com/Odilhao/git-manager/commits?author=Odilhao) · [activity](https://github.com/Odilhao/git-manager/issues?q=updated:>@today-30d+author:Odilhao))
+- [Odilhao/git-manager](https://github.com/Odilhao/git-manager) — 34 events ([commits](https://github.com/Odilhao/git-manager/commits?author=Odilhao) · [activity](https://github.com/Odilhao/git-manager/issues?q=updated:>@today-30d+author:Odilhao))
 - [Odilhao/hammer-cli-katello](https://github.com/Odilhao/hammer-cli-katello) — 1 events ([commits](https://github.com/Odilhao/hammer-cli-katello/commits?author=Odilhao) · [activity](https://github.com/Odilhao/hammer-cli-katello/issues?q=updated:>@today-30d+author:Odilhao))
-- [theforeman/foremanctl](https://github.com/theforeman/foremanctl) — 3 events ([commits](https://github.com/theforeman/foremanctl/commits?author=Odilhao) · [activity](https://github.com/theforeman/foremanctl/issues?q=updated:>@today-30d+author:Odilhao))
-- [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) — 6 events ([commits](https://github.com/theforeman/candlepin-oci-images/commits?author=Odilhao) · [activity](https://github.com/theforeman/candlepin-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
 
 #### 🔥 Most active projects
 
@@ -36,8 +36,8 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 - [Pin selinux-policy to 38.1.83-1 on CentOS Stream 9](https://github.com/theforeman/forklift/pull/1980) on [theforeman/forklift](https://github.com/theforeman/forklift) (closed)
 - [feat(sync): report live progress by default, add quiet mode](https://github.com/Odilhao/git-manager/pull/62) on [Odilhao/git-manager](https://github.com/Odilhao/git-manager) (closed)
 - [Update the repo_owner from theforeman to Katello](https://github.com/Katello/hammer-cli-katello/pull/1035) on [Katello/hammer-cli-katello](https://github.com/Katello/hammer-cli-katello) (closed)
-- [Branch: foreman-5.0](https://github.com/theforeman/candlepin-oci-images/pull/69) on [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) (open)
-- [Branch: foreman-5.0](https://github.com/theforeman/pulp-oci-images/pull/78) on [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) (open)
+- [Branch: foreman-5.0](https://github.com/theforeman/candlepin-oci-images/pull/69) on [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) (closed)
+- [Branch: foreman-5.0](https://github.com/theforeman/pulp-oci-images/pull/78) on [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) (closed)
 - [Branch: foreman-5.0](https://github.com/theforeman/foreman-oci-images/pull/83) on [theforeman/foreman-oci-images](https://github.com/theforeman/foreman-oci-images) (open)
 - [Cherrypick fixes for pulpcore-obsoletes](https://github.com/theforeman/pulpcore-packaging/pull/2933) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (closed)
 - [Release rubygem-smart_proxy_container_gateway 4.0.1](https://github.com/theforeman/foreman-packaging/pull/13978) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (closed)
