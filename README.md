@@ -6,6 +6,7 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
+- [Odilhao/git-manager](https://github.com/Odilhao/git-manager) — 20 events ([commits](https://github.com/Odilhao/git-manager/commits?author=Odilhao) · [activity](https://github.com/Odilhao/git-manager/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) — 4 events ([commits](https://github.com/theforeman/theforeman-rel-eng-konflux/commits?author=Odilhao) · [activity](https://github.com/theforeman/theforeman-rel-eng-konflux/issues?q=updated:>@today-30d+author:Odilhao))
 - [Odilhao/foreman-packaging](https://github.com/Odilhao/foreman-packaging) — 7 events ([commits](https://github.com/Odilhao/foreman-packaging/commits?author=Odilhao) · [activity](https://github.com/Odilhao/foreman-packaging/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) — 8 events ([commits](https://github.com/theforeman/pulp-oci-images/commits?author=Odilhao) · [activity](https://github.com/theforeman/pulp-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
@@ -13,12 +14,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 - [theforeman/foreman-oci-images](https://github.com/theforeman/foreman-oci-images) — 12 events ([commits](https://github.com/theforeman/foreman-oci-images/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) — 12 events ([commits](https://github.com/theforeman/candlepin-oci-images/commits?author=Odilhao) · [activity](https://github.com/theforeman/candlepin-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/forklift](https://github.com/theforeman/forklift) — 6 events ([commits](https://github.com/theforeman/forklift/commits?author=Odilhao) · [activity](https://github.com/theforeman/forklift/issues?q=updated:>@today-30d+author:Odilhao))
-- [Odilhao/forklift](https://github.com/Odilhao/forklift) — 2 events ([commits](https://github.com/Odilhao/forklift/commits?author=Odilhao) · [activity](https://github.com/Odilhao/forklift/issues?q=updated:>@today-30d+author:Odilhao))
 
 #### 🔥 Most active projects
 
 - [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 278 commits, 6 PRs, 1 reviews
-- [Odilhao/git-manager](https://github.com/Odilhao/git-manager) — 74 commits, 29 PRs, 0 reviews
+- [Odilhao/git-manager](https://github.com/Odilhao/git-manager) — 78 commits, 31 PRs, 0 reviews
 - [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 0 commits, 5 PRs, 7 reviews
 - [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) — 2 commits, 2 PRs, 0 reviews
 - [Katello/hammer-cli-katello](https://github.com/Katello/hammer-cli-katello) — 1 commits, 1 PRs, 2 reviews
@@ -33,6 +33,8 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
+- [ci: run go test verbosely in CI workflows](https://github.com/Odilhao/git-manager/pull/66) on [Odilhao/git-manager](https://github.com/Odilhao/git-manager) (closed)
+- [sync: report identifying config context on success and failure](https://github.com/Odilhao/git-manager/pull/64) on [Odilhao/git-manager](https://github.com/Odilhao/git-manager) (closed)
 - [Sync python-setuptools-rust with pulpcore-packaging (1.11.1)](https://github.com/theforeman/foreman-packaging/pull/13984) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (closed)
 - [Pin selinux-policy to 38.1.83-1 on CentOS Stream 9](https://github.com/theforeman/forklift/pull/1980) on [theforeman/forklift](https://github.com/theforeman/forklift) (closed)
 - [feat(sync): report live progress by default, add quiet mode](https://github.com/Odilhao/git-manager/pull/62) on [Odilhao/git-manager](https://github.com/Odilhao/git-manager) (closed)
@@ -41,8 +43,6 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 - [Branch: foreman-5.0](https://github.com/theforeman/pulp-oci-images/pull/78) on [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) (closed)
 - [Branch: foreman-5.0](https://github.com/theforeman/foreman-oci-images/pull/83) on [theforeman/foreman-oci-images](https://github.com/theforeman/foreman-oci-images) (closed)
 - [Cherrypick fixes for pulpcore-obsoletes](https://github.com/theforeman/pulpcore-packaging/pull/2933) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (closed)
-- [Release rubygem-smart_proxy_container_gateway 4.0.1](https://github.com/theforeman/foreman-packaging/pull/13978) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (closed)
-- [Fix stale/missing python3.11 Obsoletes blocking foreman-maintain updates](https://github.com/theforeman/pulpcore-packaging/pull/2932) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (closed)
 
 #### 📜 My recent blog posts
 
