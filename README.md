@@ -6,21 +6,21 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
+- [Odilhao/foreman-quadlet](https://github.com/Odilhao/foreman-quadlet) — 6 events ([commits](https://github.com/Odilhao/foreman-quadlet/commits?author=Odilhao) · [activity](https://github.com/Odilhao/foreman-quadlet/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/foremanctl](https://github.com/theforeman/foremanctl) — 7 events ([commits](https://github.com/theforeman/foremanctl/commits?author=Odilhao) · [activity](https://github.com/theforeman/foremanctl/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/forklift](https://github.com/theforeman/forklift) — 7 events ([commits](https://github.com/theforeman/forklift/commits?author=Odilhao) · [activity](https://github.com/theforeman/forklift/issues?q=updated:>@today-30d+author:Odilhao))
 - [Odilhao/forklift](https://github.com/Odilhao/forklift) — 7 events ([commits](https://github.com/Odilhao/forklift/commits?author=Odilhao) · [activity](https://github.com/Odilhao/forklift/issues?q=updated:>@today-30d+author:Odilhao))
 - [Odilhao/foreman-oci-images](https://github.com/Odilhao/foreman-oci-images) — 2 events ([commits](https://github.com/Odilhao/foreman-oci-images/commits?author=Odilhao) · [activity](https://github.com/Odilhao/foreman-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) — 4 events ([commits](https://github.com/theforeman/jenkins-jobs/commits?author=Odilhao) · [activity](https://github.com/theforeman/jenkins-jobs/issues?q=updated:>@today-30d+author:Odilhao))
-- [Odilhao/foreman-quadlet](https://github.com/Odilhao/foreman-quadlet) — 2 events ([commits](https://github.com/Odilhao/foreman-quadlet/commits?author=Odilhao) · [activity](https://github.com/Odilhao/foreman-quadlet/issues?q=updated:>@today-30d+author:Odilhao))
 - [Odilhao/candlepin-oci-images](https://github.com/Odilhao/candlepin-oci-images) — 2 events ([commits](https://github.com/Odilhao/candlepin-oci-images/commits?author=Odilhao) · [activity](https://github.com/Odilhao/candlepin-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
 - [Odilhao/theforeman-rel-eng](https://github.com/Odilhao/theforeman-rel-eng) — 3 events ([commits](https://github.com/Odilhao/theforeman-rel-eng/commits?author=Odilhao) · [activity](https://github.com/Odilhao/theforeman-rel-eng/issues?q=updated:>@today-30d+author:Odilhao))
-- [theforeman/foremanctl](https://github.com/theforeman/foremanctl) — 6 events ([commits](https://github.com/theforeman/foremanctl/commits?author=Odilhao) · [activity](https://github.com/theforeman/foremanctl/issues?q=updated:>@today-30d+author:Odilhao))
-- [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) — 10 events ([commits](https://github.com/theforeman/pulp-oci-images/commits?author=Odilhao) · [activity](https://github.com/theforeman/pulp-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
 
 #### 🔥 Most active projects
 
 - [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 278 commits, 6 PRs, 1 reviews
 - [Odilhao/git-manager](https://github.com/Odilhao/git-manager) — 78 commits, 31 PRs, 0 reviews
 - [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 0 commits, 5 PRs, 7 reviews
-- [theforeman/foremanctl](https://github.com/theforeman/foremanctl) — 1 commits, 2 PRs, 2 reviews
+- [theforeman/foremanctl](https://github.com/theforeman/foremanctl) — 1 commits, 3 PRs, 2 reviews
 - [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) — 2 commits, 2 PRs, 0 reviews
 
 #### 🌱 My latest projects
@@ -33,6 +33,8 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
+- [Add forge host-setup and macOS/Apple Silicon support](https://github.com/theforeman/foremanctl/pull/757) on [theforeman/foremanctl](https://github.com/theforeman/foremanctl) (open)
+- [Add macOS support to the vagrant role](https://github.com/theforeman/forklift/pull/1981) on [theforeman/forklift](https://github.com/theforeman/forklift) (open)
 - [ci: run go test verbosely in CI workflows](https://github.com/Odilhao/git-manager/pull/66) on [Odilhao/git-manager](https://github.com/Odilhao/git-manager) (closed)
 - [sync: report identifying config context on success and failure](https://github.com/Odilhao/git-manager/pull/64) on [Odilhao/git-manager](https://github.com/Odilhao/git-manager) (closed)
 - [Sync python-setuptools-rust with pulpcore-packaging (1.11.1)](https://github.com/theforeman/foreman-packaging/pull/13984) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (closed)
@@ -41,8 +43,6 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 - [Update the repo_owner from theforeman to Katello](https://github.com/Katello/hammer-cli-katello/pull/1035) on [Katello/hammer-cli-katello](https://github.com/Katello/hammer-cli-katello) (closed)
 - [Branch: foreman-5.0](https://github.com/theforeman/candlepin-oci-images/pull/69) on [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) (closed)
 - [Branch: foreman-5.0](https://github.com/theforeman/pulp-oci-images/pull/78) on [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) (closed)
-- [Branch: foreman-5.0](https://github.com/theforeman/foreman-oci-images/pull/83) on [theforeman/foreman-oci-images](https://github.com/theforeman/foreman-oci-images) (closed)
-- [Cherrypick fixes for pulpcore-obsoletes](https://github.com/theforeman/pulpcore-packaging/pull/2933) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (closed)
 
 #### 📜 My recent blog posts
 
