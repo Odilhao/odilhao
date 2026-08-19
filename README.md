@@ -6,13 +6,13 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
+- [theforeman/foreman-oci-images](https://github.com/theforeman/foreman-oci-images) — 14 events ([commits](https://github.com/theforeman/foreman-oci-images/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
+- [Odilhao/foreman-oci-images](https://github.com/Odilhao/foreman-oci-images) — 7 events ([commits](https://github.com/Odilhao/foreman-oci-images/commits?author=Odilhao) · [activity](https://github.com/Odilhao/foreman-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
 - [Katello/katello](https://github.com/Katello/katello) — 2 events ([commits](https://github.com/Katello/katello/commits?author=Odilhao) · [activity](https://github.com/Katello/katello/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/theforeman.org](https://github.com/theforeman/theforeman.org) — 1 events ([commits](https://github.com/theforeman/theforeman.org/commits?author=Odilhao) · [activity](https://github.com/theforeman/theforeman.org/issues?q=updated:>@today-30d+author:Odilhao))
 - [Odilhao/foreman-packaging](https://github.com/Odilhao/foreman-packaging) — 8 events ([commits](https://github.com/Odilhao/foreman-packaging/commits?author=Odilhao) · [activity](https://github.com/Odilhao/foreman-packaging/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) — 13 events ([commits](https://github.com/theforeman/candlepin-oci-images/commits?author=Odilhao) · [activity](https://github.com/theforeman/candlepin-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
-- [Odilhao/foreman-oci-images](https://github.com/Odilhao/foreman-oci-images) — 6 events ([commits](https://github.com/Odilhao/foreman-oci-images/commits?author=Odilhao) · [activity](https://github.com/Odilhao/foreman-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/foremanctl](https://github.com/theforeman/foremanctl) — 8 events ([commits](https://github.com/theforeman/foremanctl/commits?author=Odilhao) · [activity](https://github.com/theforeman/foremanctl/issues?q=updated:>@today-30d+author:Odilhao))
-- [theforeman/foreman-oci-images](https://github.com/theforeman/foreman-oci-images) — 13 events ([commits](https://github.com/theforeman/foreman-oci-images/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
 - [Odilhao/foreman-quadlet](https://github.com/Odilhao/foreman-quadlet) — 6 events ([commits](https://github.com/Odilhao/foreman-quadlet/commits?author=Odilhao) · [activity](https://github.com/Odilhao/foreman-quadlet/issues?q=updated:>@today-30d+author:Odilhao))
 
 #### 🔥 Most active projects
@@ -33,6 +33,7 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
+- [Fixes #39637 - workaround Candlepin OAuth product content issue](https://github.com/theforeman/foreman-oci-images/pull/90) on [theforeman/foreman-oci-images](https://github.com/theforeman/foreman-oci-images) (open)
 - [Add base container image](https://github.com/theforeman/foreman-oci-images/pull/89) on [theforeman/foreman-oci-images](https://github.com/theforeman/foreman-oci-images) (open)
 - [Add forge host-setup and macOS/Apple Silicon support](https://github.com/theforeman/foremanctl/pull/757) on [theforeman/foremanctl](https://github.com/theforeman/foremanctl) (open)
 - [Add macOS support to the vagrant role](https://github.com/theforeman/forklift/pull/1981) on [theforeman/forklift](https://github.com/theforeman/forklift) (open)
@@ -42,7 +43,6 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 - [Pin selinux-policy to 38.1.83-1 on CentOS Stream 9](https://github.com/theforeman/forklift/pull/1980) on [theforeman/forklift](https://github.com/theforeman/forklift) (closed)
 - [feat(sync): report live progress by default, add quiet mode](https://github.com/Odilhao/git-manager/pull/62) on [Odilhao/git-manager](https://github.com/Odilhao/git-manager) (closed)
 - [Update the repo_owner from theforeman to Katello](https://github.com/Katello/hammer-cli-katello/pull/1035) on [Katello/hammer-cli-katello](https://github.com/Katello/hammer-cli-katello) (closed)
-- [Branch: foreman-5.0](https://github.com/theforeman/candlepin-oci-images/pull/69) on [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) (closed)
 
 #### 📜 My recent blog posts
 
