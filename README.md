@@ -6,14 +6,14 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
-- [theforeman/foreman-oci-images](https://github.com/theforeman/foreman-oci-images) — 14 events ([commits](https://github.com/theforeman/foreman-oci-images/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
-- [Odilhao/foreman-oci-images](https://github.com/Odilhao/foreman-oci-images) — 7 events ([commits](https://github.com/Odilhao/foreman-oci-images/commits?author=Odilhao) · [activity](https://github.com/Odilhao/foreman-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
+- [Odilhao/foreman-oci-images](https://github.com/Odilhao/foreman-oci-images) — 12 events ([commits](https://github.com/Odilhao/foreman-oci-images/commits?author=Odilhao) · [activity](https://github.com/Odilhao/foreman-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/foreman-oci-images](https://github.com/theforeman/foreman-oci-images) — 15 events ([commits](https://github.com/theforeman/foreman-oci-images/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
+- [Odilhao/foreman-quadlet](https://github.com/Odilhao/foreman-quadlet) — 8 events ([commits](https://github.com/Odilhao/foreman-quadlet/commits?author=Odilhao) · [activity](https://github.com/Odilhao/foreman-quadlet/issues?q=updated:>@today-30d+author:Odilhao))
 - [Katello/katello](https://github.com/Katello/katello) — 2 events ([commits](https://github.com/Katello/katello/commits?author=Odilhao) · [activity](https://github.com/Katello/katello/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/theforeman.org](https://github.com/theforeman/theforeman.org) — 1 events ([commits](https://github.com/theforeman/theforeman.org/commits?author=Odilhao) · [activity](https://github.com/theforeman/theforeman.org/issues?q=updated:>@today-30d+author:Odilhao))
 - [Odilhao/foreman-packaging](https://github.com/Odilhao/foreman-packaging) — 8 events ([commits](https://github.com/Odilhao/foreman-packaging/commits?author=Odilhao) · [activity](https://github.com/Odilhao/foreman-packaging/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) — 13 events ([commits](https://github.com/theforeman/candlepin-oci-images/commits?author=Odilhao) · [activity](https://github.com/theforeman/candlepin-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/foremanctl](https://github.com/theforeman/foremanctl) — 8 events ([commits](https://github.com/theforeman/foremanctl/commits?author=Odilhao) · [activity](https://github.com/theforeman/foremanctl/issues?q=updated:>@today-30d+author:Odilhao))
-- [Odilhao/foreman-quadlet](https://github.com/Odilhao/foreman-quadlet) — 6 events ([commits](https://github.com/Odilhao/foreman-quadlet/commits?author=Odilhao) · [activity](https://github.com/Odilhao/foreman-quadlet/issues?q=updated:>@today-30d+author:Odilhao))
 
 #### 🔥 Most active projects
 
