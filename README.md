@@ -6,9 +6,9 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
-- [theforeman/foremanctl](https://github.com/theforeman/foremanctl) — 10 events ([commits](https://github.com/theforeman/foremanctl/commits?author=Odilhao) · [activity](https://github.com/theforeman/foremanctl/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/foreman-oci-images](https://github.com/theforeman/foreman-oci-images) — 20 events ([commits](https://github.com/theforeman/foreman-oci-images/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/foremanctl](https://github.com/theforeman/foremanctl) — 11 events ([commits](https://github.com/theforeman/foremanctl/commits?author=Odilhao) · [activity](https://github.com/theforeman/foremanctl/issues?q=updated:>@today-30d+author:Odilhao))
 - [Odilhao/foreman-quadlet](https://github.com/Odilhao/foreman-quadlet) — 10 events ([commits](https://github.com/Odilhao/foreman-quadlet/commits?author=Odilhao) · [activity](https://github.com/Odilhao/foreman-quadlet/issues?q=updated:>@today-30d+author:Odilhao))
-- [theforeman/foreman-oci-images](https://github.com/theforeman/foreman-oci-images) — 18 events ([commits](https://github.com/theforeman/foreman-oci-images/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
 - [Katello/katello](https://github.com/Katello/katello) — 3 events ([commits](https://github.com/Katello/katello/commits?author=Odilhao) · [activity](https://github.com/Katello/katello/issues?q=updated:>@today-30d+author:Odilhao))
 - [Odilhao/foreman-oci-images](https://github.com/Odilhao/foreman-oci-images) — 12 events ([commits](https://github.com/Odilhao/foreman-oci-images/commits?author=Odilhao) · [activity](https://github.com/Odilhao/foreman-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/theforeman.org](https://github.com/theforeman/theforeman.org) — 1 events ([commits](https://github.com/theforeman/theforeman.org/commits?author=Odilhao) · [activity](https://github.com/theforeman/theforeman.org/issues?q=updated:>@today-30d+author:Odilhao))
@@ -19,8 +19,8 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 - [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 278 commits, 6 PRs, 1 reviews
 - [Odilhao/git-manager](https://github.com/Odilhao/git-manager) — 78 commits, 31 PRs, 0 reviews
-- [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 0 commits, 5 PRs, 7 reviews
-- [theforeman/foremanctl](https://github.com/theforeman/foremanctl) — 2 commits, 4 PRs, 2 reviews
+- [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 0 commits, 5 PRs, 6 reviews
+- [theforeman/foremanctl](https://github.com/theforeman/foremanctl) — 3 commits, 4 PRs, 2 reviews
 - [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) — 3 commits, 2 PRs, 0 reviews
 
 #### 🌱 My latest projects
@@ -33,8 +33,8 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
-- [Fix: Support systemd property compatibility for CentOS Stream 10](https://github.com/theforeman/foremanctl/pull/762) on [theforeman/foremanctl](https://github.com/theforeman/foremanctl) (open)
-- [Fixes #39637 - workaround Candlepin OAuth product content issue](https://github.com/theforeman/foreman-oci-images/pull/90) on [theforeman/foreman-oci-images](https://github.com/theforeman/foreman-oci-images) (open)
+- [Fix: Support systemd property compatibility for CentOS Stream 10](https://github.com/theforeman/foremanctl/pull/762) on [theforeman/foremanctl](https://github.com/theforeman/foremanctl) (closed)
+- [Fixes #39637 - workaround Candlepin OAuth product content issue](https://github.com/theforeman/foreman-oci-images/pull/90) on [theforeman/foreman-oci-images](https://github.com/theforeman/foreman-oci-images) (closed)
 - [Add base container image](https://github.com/theforeman/foreman-oci-images/pull/89) on [theforeman/foreman-oci-images](https://github.com/theforeman/foreman-oci-images) (open)
 - [Add forge host-setup and macOS/Apple Silicon support](https://github.com/theforeman/foremanctl/pull/757) on [theforeman/foremanctl](https://github.com/theforeman/foremanctl) (open)
 - [Add macOS support to the vagrant role](https://github.com/theforeman/forklift/pull/1981) on [theforeman/forklift](https://github.com/theforeman/forklift) (open)
