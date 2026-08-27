@@ -6,22 +6,19 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 29 events ([commits](https://github.com/theforeman/pulpcore-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/pulpcore-packaging/issues?q=updated:>@today-30d+author:Odilhao))
-- [theforeman/foreman-oci-images](https://github.com/theforeman/foreman-oci-images) — 13 events ([commits](https://github.com/theforeman/foreman-oci-images/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
-- [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 3 events ([commits](https://github.com/theforeman/foreman-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-packaging/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 74 events ([commits](https://github.com/theforeman/pulpcore-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/pulpcore-packaging/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/foreman-oci-images](https://github.com/theforeman/foreman-oci-images) — 2 events ([commits](https://github.com/theforeman/foreman-oci-images/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 1 events ([commits](https://github.com/theforeman/foreman-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-packaging/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) — 5 events ([commits](https://github.com/theforeman/pulp-oci-images/commits?author=Odilhao) · [activity](https://github.com/theforeman/pulp-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
 - [SatelliteQE/robottelo](https://github.com/SatelliteQE/robottelo) — 1 events ([commits](https://github.com/SatelliteQE/robottelo/commits?author=Odilhao) · [activity](https://github.com/SatelliteQE/robottelo/issues?q=updated:>@today-30d+author:Odilhao))
-- [Odilhao/pulpcore-packaging](https://github.com/Odilhao/pulpcore-packaging) — 5 events ([commits](https://github.com/Odilhao/pulpcore-packaging/commits?author=Odilhao) · [activity](https://github.com/Odilhao/pulpcore-packaging/issues?q=updated:>@today-30d+author:Odilhao))
-- [Odilhao/foreman-packaging](https://github.com/Odilhao/foreman-packaging) — 2 events ([commits](https://github.com/Odilhao/foreman-packaging/commits?author=Odilhao) · [activity](https://github.com/Odilhao/foreman-packaging/issues?q=updated:>@today-30d+author:Odilhao))
-- [theforeman/foremanctl](https://github.com/theforeman/foremanctl) — 10 events ([commits](https://github.com/theforeman/foremanctl/commits?author=Odilhao) · [activity](https://github.com/theforeman/foremanctl/issues?q=updated:>@today-30d+author:Odilhao))
 
 #### 🔥 Most active projects
 
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 224 commits, 9 PRs, 5 reviews
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 224 commits, 9 PRs, 25 reviews
 - [Odilhao/git-manager](https://github.com/Odilhao/git-manager) — 78 commits, 31 PRs, 0 reviews
-- [theforeman/foremanctl](https://github.com/theforeman/foremanctl) — 3 commits, 4 PRs, 3 reviews
-- [theforeman/foreman-oci-images](https://github.com/theforeman/foreman-oci-images) — 1 commits, 4 PRs, 4 reviews
+- [theforeman/foremanctl](https://github.com/theforeman/foremanctl) — 3 commits, 4 PRs, 0 reviews
 - [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 1 commits, 6 PRs, 0 reviews
+- [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) — 1 commits, 2 PRs, 3 reviews
 
 #### 🌱 My latest projects
 
