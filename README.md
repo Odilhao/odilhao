@@ -6,19 +6,22 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 74 events ([commits](https://github.com/theforeman/pulpcore-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/pulpcore-packaging/issues?q=updated:>@today-30d+author:Odilhao))
-- [theforeman/foreman-oci-images](https://github.com/theforeman/foreman-oci-images) — 2 events ([commits](https://github.com/theforeman/foreman-oci-images/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
-- [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 1 events ([commits](https://github.com/theforeman/foreman-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-packaging/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 217 events ([commits](https://github.com/theforeman/pulpcore-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/pulpcore-packaging/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) — 2 events ([commits](https://github.com/theforeman/theforeman-rel-eng-konflux/commits?author=Odilhao) · [activity](https://github.com/theforeman/theforeman-rel-eng-konflux/issues?q=updated:>@today-30d+author:Odilhao))
+- [Odilhao/theforeman-rel-eng-konflux](https://github.com/Odilhao/theforeman-rel-eng-konflux) — 1 events ([commits](https://github.com/Odilhao/theforeman-rel-eng-konflux/commits?author=Odilhao) · [activity](https://github.com/Odilhao/theforeman-rel-eng-konflux/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) — 3 events ([commits](https://github.com/theforeman/candlepin-oci-images/commits?author=Odilhao) · [activity](https://github.com/theforeman/candlepin-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/foreman-oci-images](https://github.com/theforeman/foreman-oci-images) — 9 events ([commits](https://github.com/theforeman/foreman-oci-images/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
+- [Odilhao/candlepin-oci-images](https://github.com/Odilhao/candlepin-oci-images) — 1 events ([commits](https://github.com/Odilhao/candlepin-oci-images/commits?author=Odilhao) · [activity](https://github.com/Odilhao/candlepin-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) — 5 events ([commits](https://github.com/theforeman/pulp-oci-images/commits?author=Odilhao) · [activity](https://github.com/theforeman/pulp-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
-- [SatelliteQE/robottelo](https://github.com/SatelliteQE/robottelo) — 1 events ([commits](https://github.com/SatelliteQE/robottelo/commits?author=Odilhao) · [activity](https://github.com/SatelliteQE/robottelo/issues?q=updated:>@today-30d+author:Odilhao))
+- [Odilhao/foreman-oci-images](https://github.com/Odilhao/foreman-oci-images) — 1 events ([commits](https://github.com/Odilhao/foreman-oci-images/commits?author=Odilhao) · [activity](https://github.com/Odilhao/foreman-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
 
 #### 🔥 Most active projects
 
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 224 commits, 9 PRs, 25 reviews
-- [Odilhao/git-manager](https://github.com/Odilhao/git-manager) — 78 commits, 31 PRs, 0 reviews
-- [theforeman/foremanctl](https://github.com/theforeman/foremanctl) — 3 commits, 4 PRs, 0 reviews
-- [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 1 commits, 6 PRs, 0 reviews
-- [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) — 1 commits, 2 PRs, 3 reviews
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 36 commits, 31 PRs, 15 reviews
+- [Odilhao/git-manager](https://github.com/Odilhao/git-manager) — 45 commits, 4 PRs, 0 reviews
+- [theforeman/foreman-oci-images](https://github.com/theforeman/foreman-oci-images) — 0 commits, 4 PRs, 4 reviews
+- [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 1 commits, 5 PRs, 0 reviews
+- [theforeman/forklift](https://github.com/theforeman/forklift) — 2 commits, 3 PRs, 0 reviews
 
 #### 🌱 My latest projects
 
@@ -30,16 +33,16 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
-- [Update rpmdevtools links from pagure to codeberg](https://github.com/theforeman/pulpcore-packaging/pull/2952) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (closed)
-- [Update rpmdevtools links from pagure to codeberg](https://github.com/theforeman/foreman-packaging/pull/14018) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (closed)
-- [Add Obsoletes/Provides for python3-cryptography and python3-requests on RHEL 10 (3.105)](https://github.com/theforeman/pulpcore-packaging/pull/2951) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (closed)
-- [Add Obsoletes/Provides for python3-cryptography and python3-requests on RHEL 10](https://github.com/theforeman/pulpcore-packaging/pull/2950) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (closed)
-- [Fix: Support systemd property compatibility for CentOS Stream 10](https://github.com/theforeman/foremanctl/pull/762) on [theforeman/foremanctl](https://github.com/theforeman/foremanctl) (closed)
-- [Fixes #39637 - workaround Candlepin OAuth product content issue](https://github.com/theforeman/foreman-oci-images/pull/90) on [theforeman/foreman-oci-images](https://github.com/theforeman/foreman-oci-images) (closed)
-- [Add base container image](https://github.com/theforeman/foreman-oci-images/pull/89) on [theforeman/foreman-oci-images](https://github.com/theforeman/foreman-oci-images) (open)
-- [Add forge host-setup and macOS/Apple Silicon support](https://github.com/theforeman/foremanctl/pull/757) on [theforeman/foremanctl](https://github.com/theforeman/foremanctl) (open)
-- [Add macOS support to the vagrant role](https://github.com/theforeman/forklift/pull/1981) on [theforeman/forklift](https://github.com/theforeman/forklift) (open)
-- [ci: run go test verbosely in CI workflows](https://github.com/Odilhao/git-manager/pull/66) on [Odilhao/git-manager](https://github.com/Odilhao/git-manager) (closed)
+- [Sync platformdirs updates for 3.105](https://github.com/theforeman/pulpcore-packaging/pull/3059) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (closed)
+- [Fix googleapis-common-protos PEP 639 metadata](https://github.com/theforeman/pulpcore-packaging/pull/3058) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (closed)
+- [Release foreman 5.0 GA update](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/58) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (closed)
+- [Sync framework and database library updates for 3.105](https://github.com/theforeman/pulpcore-packaging/pull/3057) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (closed)
+- [Sync packaging and tooling library updates for 3.105](https://github.com/theforeman/pulpcore-packaging/pull/3056) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (closed)
+- [Sync cloud library updates for 3.105](https://github.com/theforeman/pulpcore-packaging/pull/3055) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (closed)
+- [Sync foundation library updates for 3.105](https://github.com/theforeman/pulpcore-packaging/pull/3054) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (closed)
+- [Sync Pulp package updates for 3.105](https://github.com/theforeman/pulpcore-packaging/pull/3053) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (closed)
+- [Branch: foreman-5.0](https://github.com/theforeman/candlepin-oci-images/pull/81) on [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) (closed)
+- [Branch: foreman-5.0](https://github.com/theforeman/pulp-oci-images/pull/89) on [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) (open)
 
 #### 📜 My recent blog posts
 
