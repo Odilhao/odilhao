@@ -6,18 +6,18 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
+- [Odilhao/pulpcore-packaging](https://github.com/Odilhao/pulpcore-packaging) — 4 events ([commits](https://github.com/Odilhao/pulpcore-packaging/commits?author=Odilhao) · [activity](https://github.com/Odilhao/pulpcore-packaging/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 184 events ([commits](https://github.com/theforeman/pulpcore-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/pulpcore-packaging/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) — 15 events ([commits](https://github.com/theforeman/jenkins-jobs/commits?author=Odilhao) · [activity](https://github.com/theforeman/jenkins-jobs/issues?q=updated:>@today-30d+author:Odilhao))
 - [Odilhao/jenkins-jobs](https://github.com/Odilhao/jenkins-jobs) — 3 events ([commits](https://github.com/Odilhao/jenkins-jobs/commits?author=Odilhao) · [activity](https://github.com/Odilhao/jenkins-jobs/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) — 6 events ([commits](https://github.com/theforeman/pulp-oci-images/commits?author=Odilhao) · [activity](https://github.com/theforeman/pulp-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 186 events ([commits](https://github.com/theforeman/pulpcore-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/pulpcore-packaging/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/theforeman-rel-eng](https://github.com/theforeman/theforeman-rel-eng) — 2 events ([commits](https://github.com/theforeman/theforeman-rel-eng/commits?author=Odilhao) · [activity](https://github.com/theforeman/theforeman-rel-eng/issues?q=updated:>@today-30d+author:Odilhao))
 - [Odilhao/theforeman-rel-eng](https://github.com/Odilhao/theforeman-rel-eng) — 1 events ([commits](https://github.com/Odilhao/theforeman-rel-eng/commits?author=Odilhao) · [activity](https://github.com/Odilhao/theforeman-rel-eng/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) — 3 events ([commits](https://github.com/theforeman/theforeman-rel-eng-konflux/commits?author=Odilhao) · [activity](https://github.com/theforeman/theforeman-rel-eng-konflux/issues?q=updated:>@today-30d+author:Odilhao))
-- [Odilhao/theforeman-rel-eng-konflux](https://github.com/Odilhao/theforeman-rel-eng-konflux) — 1 events ([commits](https://github.com/Odilhao/theforeman-rel-eng-konflux/commits?author=Odilhao) · [activity](https://github.com/Odilhao/theforeman-rel-eng-konflux/issues?q=updated:>@today-30d+author:Odilhao))
 
 #### 🔥 Most active projects
 
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 36 commits, 33 PRs, 15 reviews
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 36 commits, 34 PRs, 15 reviews
 - [Odilhao/git-manager](https://github.com/Odilhao/git-manager) — 8 commits, 3 PRs, 0 reviews
 - [theforeman/foreman-oci-images](https://github.com/theforeman/foreman-oci-images) — 0 commits, 3 PRs, 4 reviews
 - [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) — 0 commits, 0 PRs, 7 reviews
@@ -33,6 +33,7 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
+- [(chore): Branch pulpcore 3.117](https://github.com/theforeman/pulpcore-packaging/pull/3065) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (open)
 - [Relax sigstore cryptography constraint for 3.105](https://github.com/theforeman/pulpcore-packaging/pull/3064) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (closed)
 - [Sync discovery updates for 3.105](https://github.com/theforeman/pulpcore-packaging/pull/3063) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (closed)
 - [Add httpx2 for 3.105](https://github.com/theforeman/pulpcore-packaging/pull/3062) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (closed)
@@ -42,7 +43,6 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 - [Sync platformdirs updates for 3.105](https://github.com/theforeman/pulpcore-packaging/pull/3059) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (closed)
 - [Fix googleapis-common-protos PEP 639 metadata](https://github.com/theforeman/pulpcore-packaging/pull/3058) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (closed)
 - [Release foreman 5.0 GA update](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/58) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (closed)
-- [Sync framework and database library updates for 3.105](https://github.com/theforeman/pulpcore-packaging/pull/3057) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (closed)
 
 #### 📜 My recent blog posts
 
