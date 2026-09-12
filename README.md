@@ -7,7 +7,7 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 #### 👷 Check out what I'm currently working on
 
 - [Odilhao/pulpcore-packaging](https://github.com/Odilhao/pulpcore-packaging) — 4 events ([commits](https://github.com/Odilhao/pulpcore-packaging/commits?author=Odilhao) · [activity](https://github.com/Odilhao/pulpcore-packaging/issues?q=updated:>@today-30d+author:Odilhao))
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 183 events ([commits](https://github.com/theforeman/pulpcore-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/pulpcore-packaging/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 180 events ([commits](https://github.com/theforeman/pulpcore-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/pulpcore-packaging/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) — 15 events ([commits](https://github.com/theforeman/jenkins-jobs/commits?author=Odilhao) · [activity](https://github.com/theforeman/jenkins-jobs/issues?q=updated:>@today-30d+author:Odilhao))
 - [Odilhao/jenkins-jobs](https://github.com/Odilhao/jenkins-jobs) — 4 events ([commits](https://github.com/Odilhao/jenkins-jobs/commits?author=Odilhao) · [activity](https://github.com/Odilhao/jenkins-jobs/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) — 6 events ([commits](https://github.com/theforeman/pulp-oci-images/commits?author=Odilhao) · [activity](https://github.com/theforeman/pulp-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
