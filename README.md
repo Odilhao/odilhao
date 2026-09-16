@@ -6,14 +6,14 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
-- [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) — 6 events ([commits](https://github.com/theforeman/foreman-mcp-server/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-mcp-server/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) — 8 events ([commits](https://github.com/theforeman/foreman-mcp-server/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-mcp-server/issues?q=updated:>@today-30d+author:Odilhao))
+- [Odilhao/foreman-mcp-server](https://github.com/Odilhao/foreman-mcp-server) — 2 events ([commits](https://github.com/Odilhao/foreman-mcp-server/commits?author=Odilhao) · [activity](https://github.com/Odilhao/foreman-mcp-server/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/pulp_smart_proxy](https://github.com/theforeman/pulp_smart_proxy) — 4 events ([commits](https://github.com/theforeman/pulp_smart_proxy/commits?author=Odilhao) · [activity](https://github.com/theforeman/pulp_smart_proxy/issues?q=updated:>@today-30d+author:Odilhao))
-- [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) — 37 events ([commits](https://github.com/theforeman/pulp-oci-images/commits?author=Odilhao) · [activity](https://github.com/theforeman/pulp-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
-- [theforeman/foreman-oci-images](https://github.com/theforeman/foreman-oci-images) — 16 events ([commits](https://github.com/theforeman/foreman-oci-images/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) — 36 events ([commits](https://github.com/theforeman/pulp-oci-images/commits?author=Odilhao) · [activity](https://github.com/theforeman/pulp-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/foreman-oci-images](https://github.com/theforeman/foreman-oci-images) — 14 events ([commits](https://github.com/theforeman/foreman-oci-images/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) — 22 events ([commits](https://github.com/theforeman/theforeman-rel-eng-konflux/commits?author=Odilhao) · [activity](https://github.com/theforeman/theforeman-rel-eng-konflux/issues?q=updated:>@today-30d+author:Odilhao))
-- [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) — 9 events ([commits](https://github.com/theforeman/candlepin-oci-images/commits?author=Odilhao) · [activity](https://github.com/theforeman/candlepin-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) — 8 events ([commits](https://github.com/theforeman/candlepin-oci-images/commits?author=Odilhao) · [activity](https://github.com/theforeman/candlepin-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) — 17 events ([commits](https://github.com/theforeman/jenkins-jobs/commits?author=Odilhao) · [activity](https://github.com/theforeman/jenkins-jobs/issues?q=updated:>@today-30d+author:Odilhao))
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 100 events ([commits](https://github.com/theforeman/pulpcore-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/pulpcore-packaging/issues?q=updated:>@today-30d+author:Odilhao))
 
 #### 🔥 Most active projects
 
@@ -33,6 +33,7 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
+- [Support UBI 10 and automate Hermeto requirement exports](https://github.com/theforeman/foreman-mcp-server/pull/123) on [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) (open)
 - [Use shared Konflux Renovate preset](https://github.com/theforeman/pulp-oci-images/pull/99) on [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) (closed)
 - [Use shared Konflux Renovate preset](https://github.com/theforeman/foreman-oci-images/pull/101) on [theforeman/foreman-oci-images](https://github.com/theforeman/foreman-oci-images) (closed)
 - [Use shared Konflux Renovate preset](https://github.com/theforeman/candlepin-oci-images/pull/85) on [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) (closed)
@@ -42,7 +43,6 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 - [Exclude Git Annex metadata from source SBOM scans](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/59) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (closed)
 - [Use Foreman Tekton workflows for Pulp wheels](https://github.com/theforeman/pulp-oci-images/pull/96) on [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) (closed)
 - [Add pip-based Pulp wheels image variant](https://github.com/theforeman/pulp-oci-images/pull/93) on [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) (closed)
-- [Allow pulp 3.117 for next Katello](https://github.com/theforeman/pulp_smart_proxy/pull/72) on [theforeman/pulp_smart_proxy](https://github.com/theforeman/pulp_smart_proxy) (closed)
 
 #### 📜 My recent blog posts
 
