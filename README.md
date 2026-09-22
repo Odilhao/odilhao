@@ -6,9 +6,9 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 163 events ([commits](https://github.com/theforeman/pulpcore-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/pulpcore-packaging/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 162 events ([commits](https://github.com/theforeman/pulpcore-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/pulpcore-packaging/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) — 20 events ([commits](https://github.com/theforeman/foreman-mcp-server/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-mcp-server/issues?q=updated:>@today-30d+author:Odilhao))
-- [theforeman/foreman-oci-images](https://github.com/theforeman/foreman-oci-images) — 6 events ([commits](https://github.com/theforeman/foreman-oci-images/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/foreman-oci-images](https://github.com/theforeman/foreman-oci-images) — 4 events ([commits](https://github.com/theforeman/foreman-oci-images/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) — 10 events ([commits](https://github.com/theforeman/pulp-oci-images/commits?author=Odilhao) · [activity](https://github.com/theforeman/pulp-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
 - [Odilhao/foreman-mcp-server](https://github.com/Odilhao/foreman-mcp-server) — 4 events ([commits](https://github.com/Odilhao/foreman-mcp-server/commits?author=Odilhao) · [activity](https://github.com/Odilhao/foreman-mcp-server/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/pulp_smart_proxy](https://github.com/theforeman/pulp_smart_proxy) — 2 events ([commits](https://github.com/theforeman/pulp_smart_proxy/commits?author=Odilhao) · [activity](https://github.com/theforeman/pulp_smart_proxy/issues?q=updated:>@today-30d+author:Odilhao))
@@ -17,7 +17,7 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔥 Most active projects
 
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 42 commits, 41 PRs, 17 reviews
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 44 commits, 43 PRs, 17 reviews
 - [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) — 9 commits, 2 PRs, 4 reviews
 - [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) — 4 commits, 4 PRs, 0 reviews
 - [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) — 4 commits, 4 PRs, 0 reviews
@@ -33,6 +33,8 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
+- [Provide hyphenated OpenTelemetry API package name](https://github.com/theforeman/pulpcore-packaging/pull/3149) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (closed)
+- [Update createrepo_c to 1.2.3](https://github.com/theforeman/pulpcore-packaging/pull/3148) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (closed)
 - [Update python-pulp-rpm to 3.39.0](https://github.com/theforeman/pulpcore-packaging/pull/3147) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (closed)
 - [Add RPM metadata Python bindings](https://github.com/theforeman/pulpcore-packaging/pull/3144) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (closed)
 - [Fix CVE-2026-15307 in python-django](https://github.com/theforeman/pulpcore-packaging/pull/3143) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (open)
@@ -41,8 +43,6 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 - [Update Pulpcore packages to 3.118.0](https://github.com/theforeman/pulpcore-packaging/pull/3124) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (closed)
 - [fix: drop Django 4.2 pin](https://github.com/theforeman/pulpcore-packaging/pull/3084) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (closed)
 - [Support UBI 10 and automate Hermeto requirement exports](https://github.com/theforeman/foreman-mcp-server/pull/123) on [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) (closed)
-- [Use shared Konflux Renovate preset](https://github.com/theforeman/pulp-oci-images/pull/99) on [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) (closed)
-- [Use shared Konflux Renovate preset](https://github.com/theforeman/foreman-oci-images/pull/101) on [theforeman/foreman-oci-images](https://github.com/theforeman/foreman-oci-images) (closed)
 
 #### 📜 My recent blog posts
 
