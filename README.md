@@ -6,7 +6,7 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
-- [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) — 24 events ([commits](https://github.com/theforeman/foreman-mcp-server/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-mcp-server/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) — 27 events ([commits](https://github.com/theforeman/foreman-mcp-server/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-mcp-server/issues?q=updated:>@today-30d+author:Odilhao))
 - [Odilhao/foreman-mcp-server](https://github.com/Odilhao/foreman-mcp-server) — 3 events ([commits](https://github.com/Odilhao/foreman-mcp-server/commits?author=Odilhao) · [activity](https://github.com/Odilhao/foreman-mcp-server/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/puppet-pulpcore](https://github.com/theforeman/puppet-pulpcore) — 2 events ([commits](https://github.com/theforeman/puppet-pulpcore/commits?author=Odilhao) · [activity](https://github.com/theforeman/puppet-pulpcore/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/foreman_virt_who_configure](https://github.com/theforeman/foreman_virt_who_configure) — 1 events ([commits](https://github.com/theforeman/foreman_virt_who_configure/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman_virt_who_configure/issues?q=updated:>@today-30d+author:Odilhao))
