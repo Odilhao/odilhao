@@ -6,18 +6,18 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
+- [theforeman/forklift](https://github.com/theforeman/forklift) — 2 events ([commits](https://github.com/theforeman/forklift/commits?author=Odilhao) · [activity](https://github.com/theforeman/forklift/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) — 27 events ([commits](https://github.com/theforeman/foreman-mcp-server/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-mcp-server/issues?q=updated:>@today-30d+author:Odilhao))
 - [Odilhao/foreman-mcp-server](https://github.com/Odilhao/foreman-mcp-server) — 3 events ([commits](https://github.com/Odilhao/foreman-mcp-server/commits?author=Odilhao) · [activity](https://github.com/Odilhao/foreman-mcp-server/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/puppet-pulpcore](https://github.com/theforeman/puppet-pulpcore) — 2 events ([commits](https://github.com/theforeman/puppet-pulpcore/commits?author=Odilhao) · [activity](https://github.com/theforeman/puppet-pulpcore/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/foreman_virt_who_configure](https://github.com/theforeman/foreman_virt_who_configure) — 1 events ([commits](https://github.com/theforeman/foreman_virt_who_configure/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman_virt_who_configure/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) — 3 events ([commits](https://github.com/theforeman/jenkins-jobs/commits?author=Odilhao) · [activity](https://github.com/theforeman/jenkins-jobs/issues?q=updated:>@today-30d+author:Odilhao))
 - [Odilhao/puppet-pulpcore](https://github.com/Odilhao/puppet-pulpcore) — 2 events ([commits](https://github.com/Odilhao/puppet-pulpcore/commits?author=Odilhao) · [activity](https://github.com/Odilhao/puppet-pulpcore/issues?q=updated:>@today-30d+author:Odilhao))
-- [theforeman/forklift](https://github.com/theforeman/forklift) — 1 events ([commits](https://github.com/theforeman/forklift/commits?author=Odilhao) · [activity](https://github.com/theforeman/forklift/issues?q=updated:>@today-30d+author:Odilhao))
 - [Odilhao/forklift](https://github.com/Odilhao/forklift) — 2 events ([commits](https://github.com/Odilhao/forklift/commits?author=Odilhao) · [activity](https://github.com/Odilhao/forklift/issues?q=updated:>@today-30d+author:Odilhao))
 
 #### 🔥 Most active projects
 
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 45 commits, 41 PRs, 17 reviews
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 42 commits, 41 PRs, 17 reviews
 - [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) — 11 commits, 4 PRs, 4 reviews
 - [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) — 4 commits, 4 PRs, 0 reviews
 - [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) — 4 commits, 4 PRs, 0 reviews
@@ -35,7 +35,7 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 - [Pin uv-build to the UBI 10 Rust toolchain](https://github.com/theforeman/foreman-mcp-server/pull/136) on [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) (closed)
 - [Fix hermetic Python requirements for Konflux](https://github.com/theforeman/foreman-mcp-server/pull/135) on [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) (closed)
-- [Pin puppet-pulpcore for Pulp 3.118 branching](https://github.com/theforeman/forklift/pull/1987) on [theforeman/forklift](https://github.com/theforeman/forklift) (open)
+- [Pin puppet-pulpcore for Pulp 3.118 branching](https://github.com/theforeman/forklift/pull/1987) on [theforeman/forklift](https://github.com/theforeman/forklift) (closed)
 - [Add PostgreSQL 16 support for Pulp 3.118 branching](https://github.com/theforeman/puppet-pulpcore/pull/416) on [theforeman/puppet-pulpcore](https://github.com/theforeman/puppet-pulpcore) (closed)
 - [Fix pulpcore pygtrie conflict](https://github.com/theforeman/pulpcore-packaging/pull/3150) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (closed)
 - [Provide hyphenated OpenTelemetry API package name](https://github.com/theforeman/pulpcore-packaging/pull/3149) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (closed)
