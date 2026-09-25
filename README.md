@@ -6,13 +6,13 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 163 events ([commits](https://github.com/theforeman/pulpcore-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/pulpcore-packaging/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 164 events ([commits](https://github.com/theforeman/pulpcore-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/pulpcore-packaging/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) — 25 events ([commits](https://github.com/theforeman/foreman-mcp-server/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-mcp-server/issues?q=updated:>@today-30d+author:Odilhao))
-- [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 8 events ([commits](https://github.com/theforeman/foreman-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-packaging/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 9 events ([commits](https://github.com/theforeman/foreman-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-packaging/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/forklift](https://github.com/theforeman/forklift) — 4 events ([commits](https://github.com/theforeman/forklift/commits?author=Odilhao) · [activity](https://github.com/theforeman/forklift/issues?q=updated:>@today-30d+author:Odilhao))
 - [RedHatSatellite/foreman_theme_satellite](https://github.com/RedHatSatellite/foreman_theme_satellite) — 1 events ([commits](https://github.com/RedHatSatellite/foreman_theme_satellite/commits?author=Odilhao) · [activity](https://github.com/RedHatSatellite/foreman_theme_satellite/issues?q=updated:>@today-30d+author:Odilhao))
 - [Odilhao/forklift](https://github.com/Odilhao/forklift) — 4 events ([commits](https://github.com/Odilhao/forklift/commits?author=Odilhao) · [activity](https://github.com/Odilhao/forklift/issues?q=updated:>@today-30d+author:Odilhao))
-- [Odilhao/foreman-mcp-server](https://github.com/Odilhao/foreman-mcp-server) — 3 events ([commits](https://github.com/Odilhao/foreman-mcp-server/commits?author=Odilhao) · [activity](https://github.com/Odilhao/foreman-mcp-server/issues?q=updated:>@today-30d+author:Odilhao))
+- [Odilhao/foreman-mcp-server](https://github.com/Odilhao/foreman-mcp-server) — 2 events ([commits](https://github.com/Odilhao/foreman-mcp-server/commits?author=Odilhao) · [activity](https://github.com/Odilhao/foreman-mcp-server/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/puppet-pulpcore](https://github.com/theforeman/puppet-pulpcore) — 2 events ([commits](https://github.com/theforeman/puppet-pulpcore/commits?author=Odilhao) · [activity](https://github.com/theforeman/puppet-pulpcore/issues?q=updated:>@today-30d+author:Odilhao))
 
 #### 🔥 Most active projects
