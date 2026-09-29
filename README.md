@@ -6,18 +6,18 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
-- [Odilhao/foreman-installer](https://github.com/Odilhao/foreman-installer) — 1 events ([commits](https://github.com/Odilhao/foreman-installer/commits?author=Odilhao) · [activity](https://github.com/Odilhao/foreman-installer/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 165 events ([commits](https://github.com/theforeman/pulpcore-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/pulpcore-packaging/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/foreman-oci-images](https://github.com/theforeman/foreman-oci-images) — 4 events ([commits](https://github.com/theforeman/foreman-oci-images/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
+- [Odilhao/foreman-installer](https://github.com/Odilhao/foreman-installer) — 2 events ([commits](https://github.com/Odilhao/foreman-installer/commits?author=Odilhao) · [activity](https://github.com/Odilhao/foreman-installer/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/foreman-installer](https://github.com/theforeman/foreman-installer) — 1 events ([commits](https://github.com/theforeman/foreman-installer/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-installer/issues?q=updated:>@today-30d+author:Odilhao))
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 164 events ([commits](https://github.com/theforeman/pulpcore-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/pulpcore-packaging/issues?q=updated:>@today-30d+author:Odilhao))
-- [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) — 24 events ([commits](https://github.com/theforeman/foreman-mcp-server/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-mcp-server/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) — 22 events ([commits](https://github.com/theforeman/foreman-mcp-server/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-mcp-server/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 9 events ([commits](https://github.com/theforeman/foreman-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-packaging/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/forklift](https://github.com/theforeman/forklift) — 4 events ([commits](https://github.com/theforeman/forklift/commits?author=Odilhao) · [activity](https://github.com/theforeman/forklift/issues?q=updated:>@today-30d+author:Odilhao))
 - [RedHatSatellite/foreman_theme_satellite](https://github.com/RedHatSatellite/foreman_theme_satellite) — 1 events ([commits](https://github.com/RedHatSatellite/foreman_theme_satellite/commits?author=Odilhao) · [activity](https://github.com/RedHatSatellite/foreman_theme_satellite/issues?q=updated:>@today-30d+author:Odilhao))
-- [Odilhao/forklift](https://github.com/Odilhao/forklift) — 4 events ([commits](https://github.com/Odilhao/forklift/commits?author=Odilhao) · [activity](https://github.com/Odilhao/forklift/issues?q=updated:>@today-30d+author:Odilhao))
 
 #### 🔥 Most active projects
 
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 34 commits, 35 PRs, 18 reviews
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 35 commits, 36 PRs, 17 reviews
 - [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) — 11 commits, 4 PRs, 3 reviews
 - [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) — 4 commits, 4 PRs, 0 reviews
 - [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) — 4 commits, 4 PRs, 0 reviews
@@ -33,6 +33,7 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
+- [Use libpq-devel for psycopg_c builds](https://github.com/theforeman/pulpcore-packaging/pull/3180) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (closed)
 - [Support PostgreSQL 16 and Valkey on EL10](https://github.com/theforeman/foreman-installer/pull/1069) on [theforeman/foreman-installer](https://github.com/theforeman/foreman-installer) (open)
 - [Update pulpcore-release to 3.118](https://github.com/theforeman/pulpcore-packaging/pull/3162) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (closed)
 - [Use puppet-pulpcore HEAD for Pulp 3.105](https://github.com/theforeman/forklift/pull/1988) on [theforeman/forklift](https://github.com/theforeman/forklift) (closed)
@@ -42,7 +43,6 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 - [Add PostgreSQL 16 support for Pulp 3.118 branching](https://github.com/theforeman/puppet-pulpcore/pull/416) on [theforeman/puppet-pulpcore](https://github.com/theforeman/puppet-pulpcore) (closed)
 - [Fix pulpcore pygtrie conflict](https://github.com/theforeman/pulpcore-packaging/pull/3150) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (closed)
 - [Provide hyphenated OpenTelemetry API package name](https://github.com/theforeman/pulpcore-packaging/pull/3149) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (closed)
-- [Update createrepo_c to 1.2.3](https://github.com/theforeman/pulpcore-packaging/pull/3148) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (closed)
 
 #### 📜 My recent blog posts
 
