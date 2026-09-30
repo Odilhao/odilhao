@@ -6,14 +6,14 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
+- [Odilhao/obal](https://github.com/Odilhao/obal) — 4 events ([commits](https://github.com/Odilhao/obal/commits?author=Odilhao) · [activity](https://github.com/Odilhao/obal/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/obal](https://github.com/theforeman/obal) — 1 events ([commits](https://github.com/theforeman/obal/commits?author=Odilhao) · [activity](https://github.com/theforeman/obal/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) — 4 events ([commits](https://github.com/theforeman/pulp-oci-images/commits?author=Odilhao) · [activity](https://github.com/theforeman/pulp-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
 - [amazon-oss/android_kernel_amazon_mt76x8-wifi](https://github.com/amazon-oss/android_kernel_amazon_mt76x8-wifi) — 1 events ([commits](https://github.com/amazon-oss/android_kernel_amazon_mt76x8-wifi/commits?author=Odilhao) · [activity](https://github.com/amazon-oss/android_kernel_amazon_mt76x8-wifi/issues?q=updated:>@today-30d+author:Odilhao))
 - [Odilhao/android_kernel_amazon_mt76x8-wifi](https://github.com/Odilhao/android_kernel_amazon_mt76x8-wifi) — 1 events ([commits](https://github.com/Odilhao/android_kernel_amazon_mt76x8-wifi/commits?author=Odilhao) · [activity](https://github.com/Odilhao/android_kernel_amazon_mt76x8-wifi/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/foreman-installer](https://github.com/theforeman/foreman-installer) — 5 events ([commits](https://github.com/theforeman/foreman-installer/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-installer/issues?q=updated:>@today-30d+author:Odilhao))
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 151 events ([commits](https://github.com/theforeman/pulpcore-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/pulpcore-packaging/issues?q=updated:>@today-30d+author:Odilhao))
-- [Odilhao/pulpcore-packaging](https://github.com/Odilhao/pulpcore-packaging) — 1 events ([commits](https://github.com/Odilhao/pulpcore-packaging/commits?author=Odilhao) · [activity](https://github.com/Odilhao/pulpcore-packaging/issues?q=updated:>@today-30d+author:Odilhao))
-- [theforeman/foreman-oci-images](https://github.com/theforeman/foreman-oci-images) — 5 events ([commits](https://github.com/theforeman/foreman-oci-images/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
+- [Odilhao/foreman-installer](https://github.com/Odilhao/foreman-installer) — 3 events ([commits](https://github.com/Odilhao/foreman-installer/commits?author=Odilhao) · [activity](https://github.com/Odilhao/foreman-installer/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 148 events ([commits](https://github.com/theforeman/pulpcore-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/pulpcore-packaging/issues?q=updated:>@today-30d+author:Odilhao))
 
 #### 🔥 Most active projects
 
