@@ -6,18 +6,18 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
-- [Odilhao/obal](https://github.com/Odilhao/obal) — 4 events ([commits](https://github.com/Odilhao/obal/commits?author=Odilhao) · [activity](https://github.com/Odilhao/obal/issues?q=updated:>@today-30d+author:Odilhao))
-- [theforeman/obal](https://github.com/theforeman/obal) — 1 events ([commits](https://github.com/theforeman/obal/commits?author=Odilhao) · [activity](https://github.com/theforeman/obal/issues?q=updated:>@today-30d+author:Odilhao))
-- [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) — 4 events ([commits](https://github.com/theforeman/pulp-oci-images/commits?author=Odilhao) · [activity](https://github.com/theforeman/pulp-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
-- [amazon-oss/android_kernel_amazon_mt76x8-wifi](https://github.com/amazon-oss/android_kernel_amazon_mt76x8-wifi) — 1 events ([commits](https://github.com/amazon-oss/android_kernel_amazon_mt76x8-wifi/commits?author=Odilhao) · [activity](https://github.com/amazon-oss/android_kernel_amazon_mt76x8-wifi/issues?q=updated:>@today-30d+author:Odilhao))
-- [Odilhao/android_kernel_amazon_mt76x8-wifi](https://github.com/Odilhao/android_kernel_amazon_mt76x8-wifi) — 1 events ([commits](https://github.com/Odilhao/android_kernel_amazon_mt76x8-wifi/commits?author=Odilhao) · [activity](https://github.com/Odilhao/android_kernel_amazon_mt76x8-wifi/issues?q=updated:>@today-30d+author:Odilhao))
-- [theforeman/foreman-installer](https://github.com/theforeman/foreman-installer) — 5 events ([commits](https://github.com/theforeman/foreman-installer/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-installer/issues?q=updated:>@today-30d+author:Odilhao))
-- [Odilhao/foreman-installer](https://github.com/Odilhao/foreman-installer) — 3 events ([commits](https://github.com/Odilhao/foreman-installer/commits?author=Odilhao) · [activity](https://github.com/Odilhao/foreman-installer/issues?q=updated:>@today-30d+author:Odilhao))
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 148 events ([commits](https://github.com/theforeman/pulpcore-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/pulpcore-packaging/issues?q=updated:>@today-30d+author:Odilhao))
+- [Odilhao/katello](https://github.com/Odilhao/katello) — 8 events ([commits](https://github.com/Odilhao/katello/commits?author=Odilhao) · [activity](https://github.com/Odilhao/katello/issues?q=updated:>@today-30d+author:Odilhao))
+- [Odilhao/foreman_remote_execution](https://github.com/Odilhao/foreman_remote_execution) — 2 events ([commits](https://github.com/Odilhao/foreman_remote_execution/commits?author=Odilhao) · [activity](https://github.com/Odilhao/foreman_remote_execution/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/safemode](https://github.com/theforeman/safemode) — 5 events ([commits](https://github.com/theforeman/safemode/commits?author=Odilhao) · [activity](https://github.com/theforeman/safemode/issues?q=updated:>@today-30d+author:Odilhao))
+- [Odilhao/safemode](https://github.com/Odilhao/safemode) — 2 events ([commits](https://github.com/Odilhao/safemode/commits?author=Odilhao) · [activity](https://github.com/Odilhao/safemode/issues?q=updated:>@today-30d+author:Odilhao))
+- [Katello/katello](https://github.com/Katello/katello) — 3 events ([commits](https://github.com/Katello/katello/commits?author=Odilhao) · [activity](https://github.com/Katello/katello/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/foreman](https://github.com/theforeman/foreman) — 3 events ([commits](https://github.com/theforeman/foreman/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman/issues?q=updated:>@today-30d+author:Odilhao))
+- [Odilhao/foreman](https://github.com/Odilhao/foreman) — 3 events ([commits](https://github.com/Odilhao/foreman/commits?author=Odilhao) · [activity](https://github.com/Odilhao/foreman/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/foreman_remote_execution](https://github.com/theforeman/foreman_remote_execution) — 3 events ([commits](https://github.com/theforeman/foreman_remote_execution/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman_remote_execution/issues?q=updated:>@today-30d+author:Odilhao))
 
 #### 🔥 Most active projects
 
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 27 commits, 31 PRs, 10 reviews
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 28 commits, 32 PRs, 12 reviews
 - [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) — 11 commits, 4 PRs, 3 reviews
 - [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) — 4 commits, 4 PRs, 0 reviews
 - [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) — 4 commits, 4 PRs, 0 reviews
@@ -33,16 +33,16 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
-- [Replace Tito releases with rhpkg and automatic Koji tagging](https://github.com/theforeman/obal/pull/458) on [theforeman/obal](https://github.com/theforeman/obal) (open)
-- [mt76x8-wifi: Advertise FT AKM and carry the MDE in assoc](https://github.com/amazon-oss/android_kernel_amazon_mt76x8-wifi/pull/1) on [amazon-oss/android_kernel_amazon_mt76x8-wifi](https://github.com/amazon-oss/android_kernel_amazon_mt76x8-wifi) (open)
-- [Use libpq-devel for psycopg_c builds](https://github.com/theforeman/pulpcore-packaging/pull/3180) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (closed)
-- [Support PostgreSQL 16 and Valkey on EL10](https://github.com/theforeman/foreman-installer/pull/1069) on [theforeman/foreman-installer](https://github.com/theforeman/foreman-installer) (closed)
-- [Update pulpcore-release to 3.118](https://github.com/theforeman/pulpcore-packaging/pull/3162) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (closed)
-- [Use puppet-pulpcore HEAD for Pulp 3.105](https://github.com/theforeman/forklift/pull/1988) on [theforeman/forklift](https://github.com/theforeman/forklift) (closed)
-- [Pin uv-build to the UBI 10 Rust toolchain](https://github.com/theforeman/foreman-mcp-server/pull/136) on [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) (closed)
-- [Fix hermetic Python requirements for Konflux](https://github.com/theforeman/foreman-mcp-server/pull/135) on [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) (closed)
-- [Pin puppet-pulpcore for Pulp 3.118 branching](https://github.com/theforeman/forklift/pull/1987) on [theforeman/forklift](https://github.com/theforeman/forklift) (closed)
-- [Add PostgreSQL 16 support for Pulp 3.118 branching](https://github.com/theforeman/puppet-pulpcore/pull/416) on [theforeman/puppet-pulpcore](https://github.com/theforeman/puppet-pulpcore) (closed)
+- [Bump Safemode to 2.0.2](https://github.com/theforeman/safemode/pull/69) on [theforeman/safemode](https://github.com/theforeman/safemode) (closed)
+- [Prevent registry resource enumeration](https://github.com/Katello/katello/pull/11889) on [Katello/katello](https://github.com/Katello/katello) (open)
+- [Prevent registry resource enumeration](https://github.com/Katello/katello/pull/11888) on [Katello/katello](https://github.com/Katello/katello) (open)
+- [Prevent registry resource enumeration](https://github.com/Katello/katello/pull/11887) on [Katello/katello](https://github.com/Katello/katello) (open)
+- [Harden template access, shell commands, and provisioning](https://github.com/theforeman/foreman/pull/11308) on [theforeman/foreman](https://github.com/theforeman/foreman) (open)
+- [Harden template access, shell commands, and provisioning](https://github.com/theforeman/foreman/pull/11310) on [theforeman/foreman](https://github.com/theforeman/foreman) (open)
+- [Harden template access, shell commands, and provisioning](https://github.com/theforeman/foreman/pull/11309) on [theforeman/foreman](https://github.com/theforeman/foreman) (open)
+- [Shellescape the effective user and update test](https://github.com/theforeman/foreman_remote_execution/pull/1074) on [theforeman/foreman_remote_execution](https://github.com/theforeman/foreman_remote_execution) (open)
+- [Shellescape the effective user and update test](https://github.com/theforeman/foreman_remote_execution/pull/1073) on [theforeman/foreman_remote_execution](https://github.com/theforeman/foreman_remote_execution) (open)
+- [Pass EDITOR arguments as an array to system](https://github.com/theforeman/hammer-cli/pull/407) on [theforeman/hammer-cli](https://github.com/theforeman/hammer-cli) (open)
 
 #### 📜 My recent blog posts
 
