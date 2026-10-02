@@ -6,22 +6,22 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
-- [Odilhao/foreman-packaging](https://github.com/Odilhao/foreman-packaging) — 2 events ([commits](https://github.com/Odilhao/foreman-packaging/commits?author=Odilhao) · [activity](https://github.com/Odilhao/foreman-packaging/issues?q=updated:>@today-30d+author:Odilhao))
-- [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 11 events ([commits](https://github.com/theforeman/foreman-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-packaging/issues?q=updated:>@today-30d+author:Odilhao))
-- [theforeman/foreman-selinux](https://github.com/theforeman/foreman-selinux) — 1 events ([commits](https://github.com/theforeman/foreman-selinux/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-selinux/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 47 events ([commits](https://github.com/theforeman/foreman-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-packaging/issues?q=updated:>@today-30d+author:Odilhao))
+- [Odilhao/foreman-packaging](https://github.com/Odilhao/foreman-packaging) — 8 events ([commits](https://github.com/Odilhao/foreman-packaging/commits?author=Odilhao) · [activity](https://github.com/Odilhao/foreman-packaging/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/foreman-selinux](https://github.com/theforeman/foreman-selinux) — 2 events ([commits](https://github.com/theforeman/foreman-selinux/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-selinux/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/smart-proxy](https://github.com/theforeman/smart-proxy) — 2 events ([commits](https://github.com/theforeman/smart-proxy/commits?author=Odilhao) · [activity](https://github.com/theforeman/smart-proxy/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/foreman-installer](https://github.com/theforeman/foreman-installer) — 6 events ([commits](https://github.com/theforeman/foreman-installer/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-installer/issues?q=updated:>@today-30d+author:Odilhao))
-- [theforeman/smart-proxy](https://github.com/theforeman/smart-proxy) — 1 events ([commits](https://github.com/theforeman/smart-proxy/commits?author=Odilhao) · [activity](https://github.com/theforeman/smart-proxy/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/foreman](https://github.com/theforeman/foreman) — 10 events ([commits](https://github.com/theforeman/foreman/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman/issues?q=updated:>@today-30d+author:Odilhao))
 - [Odilhao/foreman](https://github.com/Odilhao/foreman) — 13 events ([commits](https://github.com/Odilhao/foreman/commits?author=Odilhao) · [activity](https://github.com/Odilhao/foreman/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/foreman_remote_execution](https://github.com/theforeman/foreman_remote_execution) — 7 events ([commits](https://github.com/theforeman/foreman_remote_execution/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman_remote_execution/issues?q=updated:>@today-30d+author:Odilhao))
 
 #### 🔥 Most active projects
 
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 28 commits, 33 PRs, 12 reviews
-- [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) — 11 commits, 4 PRs, 3 reviews
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 28 commits, 33 PRs, 7 reviews
+- [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 0 commits, 16 PRs, 4 reviews
+- [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) — 11 commits, 4 PRs, 2 reviews
 - [theforeman/foreman](https://github.com/theforeman/foreman) — 4 commits, 3 PRs, 1 reviews
 - [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) — 4 commits, 4 PRs, 0 reviews
-- [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) — 4 commits, 4 PRs, 0 reviews
 
 #### 🌱 My latest projects
 
@@ -33,16 +33,16 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
-- [DEB: Release Foreman 3.19.2](https://github.com/theforeman/foreman-packaging/pull/14181) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (open)
-- [RPM: Release Foreman 3.19.2](https://github.com/theforeman/foreman-packaging/pull/14180) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (open)
-- [Use stable pulpcore repository for 3.105](https://github.com/theforeman/pulpcore-packaging/pull/3188) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (closed)
-- [Bump Safemode to 2.0.2](https://github.com/theforeman/safemode/pull/69) on [theforeman/safemode](https://github.com/theforeman/safemode) (closed)
-- [Prevent registry resource enumeration](https://github.com/Katello/katello/pull/11889) on [Katello/katello](https://github.com/Katello/katello) (closed)
-- [Prevent registry resource enumeration](https://github.com/Katello/katello/pull/11888) on [Katello/katello](https://github.com/Katello/katello) (closed)
-- [Prevent registry resource enumeration](https://github.com/Katello/katello/pull/11887) on [Katello/katello](https://github.com/Katello/katello) (closed)
-- [Harden template access, shell commands, and provisioning](https://github.com/theforeman/foreman/pull/11310) on [theforeman/foreman](https://github.com/theforeman/foreman) (closed)
-- [Harden template access, shell commands, and provisioning](https://github.com/theforeman/foreman/pull/11308) on [theforeman/foreman](https://github.com/theforeman/foreman) (closed)
-- [Harden template access, shell commands, and provisioning](https://github.com/theforeman/foreman/pull/11309) on [theforeman/foreman](https://github.com/theforeman/foreman) (closed)
+- [DEB: Release Foreman 5.0.1](https://github.com/theforeman/foreman-packaging/pull/14202) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (open)
+- [RPM: Release Foreman 5.0.1](https://github.com/theforeman/foreman-packaging/pull/14201) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (closed)
+- [Add rubygem-prism to rpm/3.19](https://github.com/theforeman/foreman-packaging/pull/14200) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (closed)
+- [Update ruby-hammer-cli to 5.0.1 (deb/5.0)](https://github.com/theforeman/foreman-packaging/pull/14199) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (closed)
+- [Update ruby-hammer-cli to 3.19.1 (deb/3.19)](https://github.com/theforeman/foreman-packaging/pull/14198) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (closed)
+- [Update rubygem-hammer_cli to 5.0.1 (rpm/5.0)](https://github.com/theforeman/foreman-packaging/pull/14197) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (closed)
+- [Update rubygem-hammer_cli to 3.19.1 (rpm/3.19)](https://github.com/theforeman/foreman-packaging/pull/14196) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (closed)
+- [Update ruby-foreman-remote-execution to 17.2.2 (deb/5.0)](https://github.com/theforeman/foreman-packaging/pull/14195) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (closed)
+- [Update ruby-foreman-remote-execution to 16.6.6 (deb/3.19)](https://github.com/theforeman/foreman-packaging/pull/14194) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (closed)
+- [Update rubygem-foreman_remote_execution to 17.2.2 (rpm/5.0)](https://github.com/theforeman/foreman-packaging/pull/14193) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (closed)
 
 #### 📜 My recent blog posts
 
