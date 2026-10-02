@@ -6,13 +6,13 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
-- [Katello/katello](https://github.com/Katello/katello) — 8 events ([commits](https://github.com/Katello/katello/commits?author=Odilhao) · [activity](https://github.com/Katello/katello/issues?q=updated:>@today-30d+author:Odilhao))
+- [Katello/katello](https://github.com/Katello/katello) — 9 events ([commits](https://github.com/Katello/katello/commits?author=Odilhao) · [activity](https://github.com/Katello/katello/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/foreman_remote_execution](https://github.com/theforeman/foreman_remote_execution) — 5 events ([commits](https://github.com/theforeman/foreman_remote_execution/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman_remote_execution/issues?q=updated:>@today-30d+author:Odilhao))
 - [Odilhao/foreman](https://github.com/Odilhao/foreman) — 7 events ([commits](https://github.com/Odilhao/foreman/commits?author=Odilhao) · [activity](https://github.com/Odilhao/foreman/issues?q=updated:>@today-30d+author:Odilhao))
-- [Odilhao/katello](https://github.com/Odilhao/katello) — 12 events ([commits](https://github.com/Odilhao/katello/commits?author=Odilhao) · [activity](https://github.com/Odilhao/katello/issues?q=updated:>@today-30d+author:Odilhao))
+- [Odilhao/katello](https://github.com/Odilhao/katello) — 17 events ([commits](https://github.com/Odilhao/katello/commits?author=Odilhao) · [activity](https://github.com/Odilhao/katello/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/hammer-cli](https://github.com/theforeman/hammer-cli) — 7 events ([commits](https://github.com/theforeman/hammer-cli/commits?author=Odilhao) · [activity](https://github.com/theforeman/hammer-cli/issues?q=updated:>@today-30d+author:Odilhao))
-- [Odilhao/hammer-cli](https://github.com/Odilhao/hammer-cli) — 4 events ([commits](https://github.com/Odilhao/hammer-cli/commits?author=Odilhao) · [activity](https://github.com/Odilhao/hammer-cli/issues?q=updated:>@today-30d+author:Odilhao))
-- [Odilhao/foreman_remote_execution](https://github.com/Odilhao/foreman_remote_execution) — 4 events ([commits](https://github.com/Odilhao/foreman_remote_execution/commits?author=Odilhao) · [activity](https://github.com/Odilhao/foreman_remote_execution/issues?q=updated:>@today-30d+author:Odilhao))
-- [theforeman/foreman_remote_execution](https://github.com/theforeman/foreman_remote_execution) — 4 events ([commits](https://github.com/theforeman/foreman_remote_execution/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman_remote_execution/issues?q=updated:>@today-30d+author:Odilhao))
+- [Odilhao/hammer-cli](https://github.com/Odilhao/hammer-cli) — 5 events ([commits](https://github.com/Odilhao/hammer-cli/commits?author=Odilhao) · [activity](https://github.com/Odilhao/hammer-cli/issues?q=updated:>@today-30d+author:Odilhao))
+- [Odilhao/foreman_remote_execution](https://github.com/Odilhao/foreman_remote_execution) — 6 events ([commits](https://github.com/Odilhao/foreman_remote_execution/commits?author=Odilhao) · [activity](https://github.com/Odilhao/foreman_remote_execution/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/safemode](https://github.com/theforeman/safemode) — 5 events ([commits](https://github.com/theforeman/safemode/commits?author=Odilhao) · [activity](https://github.com/theforeman/safemode/issues?q=updated:>@today-30d+author:Odilhao))
 
 #### 🔥 Most active projects
@@ -35,11 +35,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 - [Bump Safemode to 2.0.2](https://github.com/theforeman/safemode/pull/69) on [theforeman/safemode](https://github.com/theforeman/safemode) (closed)
 - [Prevent registry resource enumeration](https://github.com/Katello/katello/pull/11889) on [Katello/katello](https://github.com/Katello/katello) (closed)
-- [Prevent registry resource enumeration](https://github.com/Katello/katello/pull/11888) on [Katello/katello](https://github.com/Katello/katello) (open)
+- [Prevent registry resource enumeration](https://github.com/Katello/katello/pull/11888) on [Katello/katello](https://github.com/Katello/katello) (closed)
 - [Prevent registry resource enumeration](https://github.com/Katello/katello/pull/11887) on [Katello/katello](https://github.com/Katello/katello) (closed)
+- [Harden template access, shell commands, and provisioning](https://github.com/theforeman/foreman/pull/11310) on [theforeman/foreman](https://github.com/theforeman/foreman) (open)
 - [Harden template access, shell commands, and provisioning](https://github.com/theforeman/foreman/pull/11308) on [theforeman/foreman](https://github.com/theforeman/foreman) (open)
 - [Harden template access, shell commands, and provisioning](https://github.com/theforeman/foreman/pull/11309) on [theforeman/foreman](https://github.com/theforeman/foreman) (open)
-- [Harden template access, shell commands, and provisioning](https://github.com/theforeman/foreman/pull/11310) on [theforeman/foreman](https://github.com/theforeman/foreman) (open)
 - [Shellescape the effective user and update test](https://github.com/theforeman/foreman_remote_execution/pull/1074) on [theforeman/foreman_remote_execution](https://github.com/theforeman/foreman_remote_execution) (open)
 - [Shellescape the effective user and update test](https://github.com/theforeman/foreman_remote_execution/pull/1073) on [theforeman/foreman_remote_execution](https://github.com/theforeman/foreman_remote_execution) (open)
 - [Pass EDITOR arguments as an array to system](https://github.com/theforeman/hammer-cli/pull/407) on [theforeman/hammer-cli](https://github.com/theforeman/hammer-cli) (closed)
