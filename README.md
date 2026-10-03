@@ -6,18 +6,18 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
-- [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 47 events ([commits](https://github.com/theforeman/foreman-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-packaging/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 48 events ([commits](https://github.com/theforeman/foreman-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-packaging/issues?q=updated:>@today-30d+author:Odilhao))
 - [Odilhao/foreman-packaging](https://github.com/Odilhao/foreman-packaging) — 8 events ([commits](https://github.com/Odilhao/foreman-packaging/commits?author=Odilhao) · [activity](https://github.com/Odilhao/foreman-packaging/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/foreman-selinux](https://github.com/theforeman/foreman-selinux) — 2 events ([commits](https://github.com/theforeman/foreman-selinux/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-selinux/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/smart-proxy](https://github.com/theforeman/smart-proxy) — 2 events ([commits](https://github.com/theforeman/smart-proxy/commits?author=Odilhao) · [activity](https://github.com/theforeman/smart-proxy/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/foreman-installer](https://github.com/theforeman/foreman-installer) — 6 events ([commits](https://github.com/theforeman/foreman-installer/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-installer/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/foreman](https://github.com/theforeman/foreman) — 10 events ([commits](https://github.com/theforeman/foreman/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman/issues?q=updated:>@today-30d+author:Odilhao))
-- [Odilhao/foreman](https://github.com/Odilhao/foreman) — 13 events ([commits](https://github.com/Odilhao/foreman/commits?author=Odilhao) · [activity](https://github.com/Odilhao/foreman/issues?q=updated:>@today-30d+author:Odilhao))
+- [Odilhao/foreman](https://github.com/Odilhao/foreman) — 14 events ([commits](https://github.com/Odilhao/foreman/commits?author=Odilhao) · [activity](https://github.com/Odilhao/foreman/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/foreman_remote_execution](https://github.com/theforeman/foreman_remote_execution) — 7 events ([commits](https://github.com/theforeman/foreman_remote_execution/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman_remote_execution/issues?q=updated:>@today-30d+author:Odilhao))
 
 #### 🔥 Most active projects
 
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 28 commits, 33 PRs, 7 reviews
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 23 commits, 30 PRs, 7 reviews
 - [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 0 commits, 16 PRs, 4 reviews
 - [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) — 11 commits, 4 PRs, 2 reviews
 - [theforeman/foreman](https://github.com/theforeman/foreman) — 4 commits, 3 PRs, 1 reviews
@@ -33,7 +33,7 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
-- [DEB: Release Foreman 5.0.1](https://github.com/theforeman/foreman-packaging/pull/14202) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (open)
+- [DEB: Release Foreman 5.0.1](https://github.com/theforeman/foreman-packaging/pull/14202) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (closed)
 - [RPM: Release Foreman 5.0.1](https://github.com/theforeman/foreman-packaging/pull/14201) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (closed)
 - [Add rubygem-prism to rpm/3.19](https://github.com/theforeman/foreman-packaging/pull/14200) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (closed)
 - [Update ruby-hammer-cli to 5.0.1 (deb/5.0)](https://github.com/theforeman/foreman-packaging/pull/14199) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (closed)
