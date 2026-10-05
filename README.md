@@ -6,22 +6,22 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
-- [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 56 events ([commits](https://github.com/theforeman/foreman-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-packaging/issues?q=updated:>@today-30d+author:Odilhao))
-- [Odilhao/foreman-packaging](https://github.com/Odilhao/foreman-packaging) — 25 events ([commits](https://github.com/Odilhao/foreman-packaging/commits?author=Odilhao) · [activity](https://github.com/Odilhao/foreman-packaging/issues?q=updated:>@today-30d+author:Odilhao))
-- [theforeman/foreman-selinux](https://github.com/theforeman/foreman-selinux) — 2 events ([commits](https://github.com/theforeman/foreman-selinux/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-selinux/issues?q=updated:>@today-30d+author:Odilhao))
-- [theforeman/foreman-installer](https://github.com/theforeman/foreman-installer) — 7 events ([commits](https://github.com/theforeman/foreman-installer/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-installer/issues?q=updated:>@today-30d+author:Odilhao))
-- [theforeman/smart-proxy](https://github.com/theforeman/smart-proxy) — 2 events ([commits](https://github.com/theforeman/smart-proxy/commits?author=Odilhao) · [activity](https://github.com/theforeman/smart-proxy/issues?q=updated:>@today-30d+author:Odilhao))
-- [theforeman/foreman](https://github.com/theforeman/foreman) — 11 events ([commits](https://github.com/theforeman/foreman/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman/issues?q=updated:>@today-30d+author:Odilhao))
-- [Odilhao/foreman](https://github.com/Odilhao/foreman) — 15 events ([commits](https://github.com/Odilhao/foreman/commits?author=Odilhao) · [activity](https://github.com/Odilhao/foreman/issues?q=updated:>@today-30d+author:Odilhao))
-- [theforeman/foreman_remote_execution](https://github.com/theforeman/foreman_remote_execution) — 7 events ([commits](https://github.com/theforeman/foreman_remote_execution/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman_remote_execution/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) — 8 events ([commits](https://github.com/theforeman/candlepin-oci-images/commits?author=Odilhao) · [activity](https://github.com/theforeman/candlepin-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) — 2 events ([commits](https://github.com/theforeman/theforeman-rel-eng-konflux/commits?author=Odilhao) · [activity](https://github.com/theforeman/theforeman-rel-eng-konflux/issues?q=updated:>@today-30d+author:Odilhao))
+- [Odilhao/candlepin-oci-images](https://github.com/Odilhao/candlepin-oci-images) — 2 events ([commits](https://github.com/Odilhao/candlepin-oci-images/commits?author=Odilhao) · [activity](https://github.com/Odilhao/candlepin-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) — 11 events ([commits](https://github.com/theforeman/pulp-oci-images/commits?author=Odilhao) · [activity](https://github.com/theforeman/pulp-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/foreman-oci-images](https://github.com/theforeman/foreman-oci-images) — 6 events ([commits](https://github.com/theforeman/foreman-oci-images/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
+- [Odilhao/foreman-oci-images](https://github.com/Odilhao/foreman-oci-images) — 1 events ([commits](https://github.com/Odilhao/foreman-oci-images/commits?author=Odilhao) · [activity](https://github.com/Odilhao/foreman-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
+- [Odilhao/jenkins-jobs](https://github.com/Odilhao/jenkins-jobs) — 2 events ([commits](https://github.com/Odilhao/jenkins-jobs/commits?author=Odilhao) · [activity](https://github.com/Odilhao/jenkins-jobs/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) — 8 events ([commits](https://github.com/theforeman/jenkins-jobs/commits?author=Odilhao) · [activity](https://github.com/theforeman/jenkins-jobs/issues?q=updated:>@today-30d+author:Odilhao))
 
 #### 🔥 Most active projects
 
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 15 commits, 27 PRs, 7 reviews
-- [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 0 commits, 16 PRs, 4 reviews
-- [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) — 11 commits, 4 PRs, 2 reviews
-- [theforeman/foreman](https://github.com/theforeman/foreman) — 4 commits, 3 PRs, 1 reviews
-- [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) — 4 commits, 4 PRs, 0 reviews
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 16 commits, 29 PRs, 2 reviews
+- [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 0 commits, 16 PRs, 2 reviews
+- [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) — 11 commits, 4 PRs, 0 reviews
+- [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) — 4 commits, 7 PRs, 0 reviews
+- [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) — 4 commits, 5 PRs, 0 reviews
 
 #### 🌱 My latest projects
 
@@ -33,16 +33,16 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
-- [DEB: Release Foreman 5.0.1](https://github.com/theforeman/foreman-packaging/pull/14202) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (closed)
-- [RPM: Release Foreman 5.0.1](https://github.com/theforeman/foreman-packaging/pull/14201) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (closed)
-- [Add rubygem-prism to rpm/3.19](https://github.com/theforeman/foreman-packaging/pull/14200) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (closed)
-- [Update ruby-hammer-cli to 5.0.1 (deb/5.0)](https://github.com/theforeman/foreman-packaging/pull/14199) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (closed)
-- [Update ruby-hammer-cli to 3.19.1 (deb/3.19)](https://github.com/theforeman/foreman-packaging/pull/14198) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (closed)
-- [Update rubygem-hammer_cli to 5.0.1 (rpm/5.0)](https://github.com/theforeman/foreman-packaging/pull/14197) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (closed)
-- [Update rubygem-hammer_cli to 3.19.1 (rpm/3.19)](https://github.com/theforeman/foreman-packaging/pull/14196) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (closed)
-- [Update ruby-foreman-remote-execution to 17.2.2 (deb/5.0)](https://github.com/theforeman/foreman-packaging/pull/14195) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (closed)
-- [Update ruby-foreman-remote-execution to 16.6.6 (deb/3.19)](https://github.com/theforeman/foreman-packaging/pull/14194) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (closed)
-- [Update rubygem-foreman_remote_execution to 17.2.2 (rpm/5.0)](https://github.com/theforeman/foreman-packaging/pull/14193) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (closed)
+- [Update candlepin to 5.0 rpm](https://github.com/theforeman/candlepin-oci-images/pull/96) on [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) (open)
+- [Release 3.19.2 and 5.0.1](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/63) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (open)
+- [Branch: foreman-5.0](https://github.com/theforeman/candlepin-oci-images/pull/95) on [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) (closed)
+- [Branch: foreman-5.0](https://github.com/theforeman/pulp-oci-images/pull/125) on [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) (open)
+- [Branch: foreman-5.0](https://github.com/theforeman/foreman-oci-images/pull/110) on [theforeman/foreman-oci-images](https://github.com/theforeman/foreman-oci-images) (open)
+- [Branch: foreman-3.19](https://github.com/theforeman/candlepin-oci-images/pull/94) on [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) (closed)
+- [Branch: foreman-3.19](https://github.com/theforeman/pulp-oci-images/pull/124) on [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) (closed)
+- [Branch: foreman-3.19](https://github.com/theforeman/foreman-oci-images/pull/109) on [theforeman/foreman-oci-images](https://github.com/theforeman/foreman-oci-images) (closed)
+- [Branch: foreman-3.19](https://github.com/theforeman/candlepin-oci-images/pull/93) on [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) (closed)
+- [Branch: foreman-3.19](https://github.com/theforeman/pulp-oci-images/pull/123) on [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) (closed)
 
 #### 📜 My recent blog posts
 
