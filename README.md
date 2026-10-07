@@ -6,10 +6,10 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
-- [theforeman/foremanctl](https://github.com/theforeman/foremanctl) — 2 events ([commits](https://github.com/theforeman/foremanctl/commits?author=Odilhao) · [activity](https://github.com/theforeman/foremanctl/issues?q=updated:>@today-30d+author:Odilhao))
-- [Odilhao/foreman-quadlet](https://github.com/Odilhao/foreman-quadlet) — 1 events ([commits](https://github.com/Odilhao/foreman-quadlet/commits?author=Odilhao) · [activity](https://github.com/Odilhao/foreman-quadlet/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/foremanctl](https://github.com/theforeman/foremanctl) — 3 events ([commits](https://github.com/theforeman/foremanctl/commits?author=Odilhao) · [activity](https://github.com/theforeman/foremanctl/issues?q=updated:>@today-30d+author:Odilhao))
+- [Odilhao/foreman-quadlet](https://github.com/Odilhao/foreman-quadlet) — 2 events ([commits](https://github.com/Odilhao/foreman-quadlet/commits?author=Odilhao) · [activity](https://github.com/Odilhao/foreman-quadlet/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) — 11 events ([commits](https://github.com/theforeman/pulp-oci-images/commits?author=Odilhao) · [activity](https://github.com/theforeman/pulp-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
-- [Odilhao/jenkins-jobs](https://github.com/Odilhao/jenkins-jobs) — 3 events ([commits](https://github.com/Odilhao/jenkins-jobs/commits?author=Odilhao) · [activity](https://github.com/Odilhao/jenkins-jobs/issues?q=updated:>@today-30d+author:Odilhao))
+- [Odilhao/jenkins-jobs](https://github.com/Odilhao/jenkins-jobs) — 4 events ([commits](https://github.com/Odilhao/jenkins-jobs/commits?author=Odilhao) · [activity](https://github.com/Odilhao/jenkins-jobs/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/puppet-puppet](https://github.com/theforeman/puppet-puppet) — 1 events ([commits](https://github.com/theforeman/puppet-puppet/commits?author=Odilhao) · [activity](https://github.com/theforeman/puppet-puppet/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) — 14 events ([commits](https://github.com/theforeman/jenkins-jobs/commits?author=Odilhao) · [activity](https://github.com/theforeman/jenkins-jobs/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/theforeman.org](https://github.com/theforeman/theforeman.org) — 3 events ([commits](https://github.com/theforeman/theforeman.org/commits?author=Odilhao) · [activity](https://github.com/theforeman/theforeman.org/issues?q=updated:>@today-30d+author:Odilhao))
@@ -33,6 +33,7 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
+- [Use Foreman 3.19 repos on 2.y stable](https://github.com/theforeman/foremanctl/pull/922) on [theforeman/foremanctl](https://github.com/theforeman/foremanctl) (open)
 - [Use Foreman 5.0 RPM repos on 3.3 stable](https://github.com/theforeman/foremanctl/pull/921) on [theforeman/foremanctl](https://github.com/theforeman/foremanctl) (open)
 - [Enable hermetic RPM builds for Pulp](https://github.com/theforeman/pulp-oci-images/pull/127) on [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) (open)
 - [Update candlepin to 5.0 rpm](https://github.com/theforeman/candlepin-oci-images/pull/96) on [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) (closed)
@@ -42,7 +43,6 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 - [Branch: foreman-5.0](https://github.com/theforeman/foreman-oci-images/pull/110) on [theforeman/foreman-oci-images](https://github.com/theforeman/foreman-oci-images) (open)
 - [Branch: foreman-3.19](https://github.com/theforeman/candlepin-oci-images/pull/94) on [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) (closed)
 - [Branch: foreman-3.19](https://github.com/theforeman/pulp-oci-images/pull/124) on [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) (closed)
-- [Branch: foreman-3.19](https://github.com/theforeman/foreman-oci-images/pull/109) on [theforeman/foreman-oci-images](https://github.com/theforeman/foreman-oci-images) (closed)
 
 #### 📜 My recent blog posts
 
