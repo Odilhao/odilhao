@@ -6,11 +6,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
-- [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) — 42 events ([commits](https://github.com/theforeman/pulp-oci-images/commits?author=Odilhao) · [activity](https://github.com/theforeman/pulp-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
-- [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) — 2 events ([commits](https://github.com/theforeman/foreman-mcp-server/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-mcp-server/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) — 44 events ([commits](https://github.com/theforeman/pulp-oci-images/commits?author=Odilhao) · [activity](https://github.com/theforeman/pulp-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) — 4 events ([commits](https://github.com/theforeman/foreman-mcp-server/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-mcp-server/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) — 9 events ([commits](https://github.com/theforeman/theforeman-rel-eng-konflux/commits?author=Odilhao) · [activity](https://github.com/theforeman/theforeman-rel-eng-konflux/issues?q=updated:>@today-30d+author:Odilhao))
-- [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) — 26 events ([commits](https://github.com/theforeman/candlepin-oci-images/commits?author=Odilhao) · [activity](https://github.com/theforeman/candlepin-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
-- [theforeman/foreman-oci-images](https://github.com/theforeman/foreman-oci-images) — 28 events ([commits](https://github.com/theforeman/foreman-oci-images/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) — 28 events ([commits](https://github.com/theforeman/candlepin-oci-images/commits?author=Odilhao) · [activity](https://github.com/theforeman/candlepin-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/foreman-oci-images](https://github.com/theforeman/foreman-oci-images) — 29 events ([commits](https://github.com/theforeman/foreman-oci-images/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
 - [Odilhao/candlepin-oci-images](https://github.com/Odilhao/candlepin-oci-images) — 7 events ([commits](https://github.com/Odilhao/candlepin-oci-images/commits?author=Odilhao) · [activity](https://github.com/Odilhao/candlepin-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
 - [Odilhao/foreman-oci-images](https://github.com/Odilhao/foreman-oci-images) — 9 events ([commits](https://github.com/Odilhao/foreman-oci-images/commits?author=Odilhao) · [activity](https://github.com/Odilhao/foreman-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/theforeman-rel-eng](https://github.com/theforeman/theforeman-rel-eng) — 1 events ([commits](https://github.com/theforeman/theforeman-rel-eng/commits?author=Odilhao) · [activity](https://github.com/theforeman/theforeman-rel-eng/issues?q=updated:>@today-30d+author:Odilhao))
@@ -18,7 +18,7 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 #### 🔥 Most active projects
 
 - [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 16 commits, 22 PRs, 0 reviews
-- [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 0 commits, 15 PRs, 3 reviews
+- [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 0 commits, 15 PRs, 2 reviews
 - [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) — 11 commits, 4 PRs, 1 reviews
 - [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) — 5 commits, 10 PRs, 1 reviews
 - [theforeman/foreman-oci-images](https://github.com/theforeman/foreman-oci-images) — 2 commits, 8 PRs, 4 reviews
