@@ -34,12 +34,12 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 #### 🔨 My recent Pull Requests
 
 - [Document hermetic RPM builds for Foreman OCI images](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/64) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (closed)
-- [Add Candlepin RPM lockfile refresh target](https://github.com/theforeman/candlepin-oci-images/pull/101) on [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) (closed)
 - [Add Foreman RPM lockfile refresh targets](https://github.com/theforeman/foreman-oci-images/pull/114) on [theforeman/foreman-oci-images](https://github.com/theforeman/foreman-oci-images) (closed)
-- [Add Pulp RPM lockfile refresh target](https://github.com/theforeman/pulp-oci-images/pull/130) on [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) (closed)
+- [Add Candlepin RPM lockfile refresh target](https://github.com/theforeman/candlepin-oci-images/pull/101) on [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) (closed)
 - [Document hermetic RPM image builds](https://github.com/theforeman/pulp-oci-images/pull/129) on [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) (closed)
-- [Document hermetic RPM image builds](https://github.com/theforeman/candlepin-oci-images/pull/100) on [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) (closed)
+- [Add Pulp RPM lockfile refresh target](https://github.com/theforeman/pulp-oci-images/pull/130) on [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) (closed)
 - [Document hermetic RPM image builds](https://github.com/theforeman/foreman-oci-images/pull/113) on [theforeman/foreman-oci-images](https://github.com/theforeman/foreman-oci-images) (closed)
+- [Document hermetic RPM image builds](https://github.com/theforeman/candlepin-oci-images/pull/100) on [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) (closed)
 - [Fix post-merge Foreman image build triggers](https://github.com/theforeman/foreman-oci-images/pull/112) on [theforeman/foreman-oci-images](https://github.com/theforeman/foreman-oci-images) (closed)
 - [Fix post-merge Candlepin build trigger](https://github.com/theforeman/candlepin-oci-images/pull/99) on [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) (closed)
 - [Enable hermetic RPM builds for Candlepin 5.0](https://github.com/theforeman/candlepin-oci-images/pull/98) on [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) (closed)
