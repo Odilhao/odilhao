@@ -6,7 +6,7 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 66 events ([commits](https://github.com/theforeman/pulpcore-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/pulpcore-packaging/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 67 events ([commits](https://github.com/theforeman/pulpcore-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/pulpcore-packaging/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 11 events ([commits](https://github.com/theforeman/foreman-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-packaging/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/theforeman-rel-eng](https://github.com/theforeman/theforeman-rel-eng) — 2 events ([commits](https://github.com/theforeman/theforeman-rel-eng/commits?author=Odilhao) · [activity](https://github.com/theforeman/theforeman-rel-eng/issues?q=updated:>@today-30d+author:Odilhao))
 - [wiktor-k/pysequoia](https://github.com/wiktor-k/pysequoia) — 1 events ([commits](https://github.com/wiktor-k/pysequoia/commits?author=Odilhao) · [activity](https://github.com/wiktor-k/pysequoia/issues?q=updated:>@today-30d+author:Odilhao))
@@ -17,7 +17,7 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔥 Most active projects
 
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 16 commits, 20 PRs, 51 reviews
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 17 commits, 18 PRs, 51 reviews
 - [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 0 commits, 16 PRs, 5 reviews
 - [theforeman/foreman-oci-images](https://github.com/theforeman/foreman-oci-images) — 1 commits, 7 PRs, 4 reviews
 - [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) — 1 commits, 8 PRs, 0 reviews
@@ -33,16 +33,16 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
-- [Fix pulp-rpm productmd version lower bound](https://github.com/theforeman/pulpcore-packaging/pull/3226) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (open)
+- [Update rpm-rs to 0.30.2](https://github.com/theforeman/pulpcore-packaging/pull/3227) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (open)
+- [Fix pulp-rpm productmd version lower bound](https://github.com/theforeman/pulpcore-packaging/pull/3226) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (closed)
 - [Update python-rpmrepo-metadata to 0.8.3](https://github.com/theforeman/pulpcore-packaging/pull/3225) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (closed)
 - [Update python-uv-build to 0.9.21](https://github.com/theforeman/pulpcore-packaging/pull/3224) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (closed)
 - [Update python-uv to 0.9.21](https://github.com/theforeman/pulpcore-packaging/pull/3223) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (closed)
 - [Update rubygem-hammer_cli_katello to 5.0.3](https://github.com/theforeman/foreman-packaging/pull/14299) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (closed)
 - [Document hermetic RPM builds for Foreman OCI images](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/64) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (closed)
-- [Add Candlepin RPM lockfile refresh target](https://github.com/theforeman/candlepin-oci-images/pull/101) on [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) (closed)
 - [Add Foreman RPM lockfile refresh targets](https://github.com/theforeman/foreman-oci-images/pull/114) on [theforeman/foreman-oci-images](https://github.com/theforeman/foreman-oci-images) (closed)
+- [Add Candlepin RPM lockfile refresh target](https://github.com/theforeman/candlepin-oci-images/pull/101) on [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) (closed)
 - [Add Pulp RPM lockfile refresh target](https://github.com/theforeman/pulp-oci-images/pull/130) on [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) (closed)
-- [Document hermetic RPM image builds](https://github.com/theforeman/pulp-oci-images/pull/129) on [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) (closed)
 
 #### 📜 My recent blog posts
 
