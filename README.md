@@ -6,9 +6,9 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 136 events ([commits](https://github.com/theforeman/pulpcore-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/pulpcore-packaging/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 139 events ([commits](https://github.com/theforeman/pulpcore-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/pulpcore-packaging/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 9 events ([commits](https://github.com/theforeman/foreman-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-packaging/issues?q=updated:>@today-30d+author:Odilhao))
-- [theforeman/foreman-oci-images](https://github.com/theforeman/foreman-oci-images) — 21 events ([commits](https://github.com/theforeman/foreman-oci-images/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/foreman-oci-images](https://github.com/theforeman/foreman-oci-images) — 17 events ([commits](https://github.com/theforeman/foreman-oci-images/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) — 25 events ([commits](https://github.com/theforeman/pulp-oci-images/commits?author=Odilhao) · [activity](https://github.com/theforeman/pulp-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/theforeman-rel-eng](https://github.com/theforeman/theforeman-rel-eng) — 2 events ([commits](https://github.com/theforeman/theforeman-rel-eng/commits?author=Odilhao) · [activity](https://github.com/theforeman/theforeman-rel-eng/issues?q=updated:>@today-30d+author:Odilhao))
 - [wiktor-k/pysequoia](https://github.com/wiktor-k/pysequoia) — 1 events ([commits](https://github.com/wiktor-k/pysequoia/commits?author=Odilhao) · [activity](https://github.com/wiktor-k/pysequoia/issues?q=updated:>@today-30d+author:Odilhao))
@@ -17,7 +17,7 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔥 Most active projects
 
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 18 commits, 18 PRs, 51 reviews
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 16 commits, 17 PRs, 51 reviews
 - [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 0 commits, 16 PRs, 3 reviews
 - [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) — 1 commits, 8 PRs, 0 reviews
 - [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) — 1 commits, 7 PRs, 0 reviews
@@ -42,7 +42,7 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 - [Document hermetic RPM builds for Foreman OCI images](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/64) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (closed)
 - [Add Candlepin RPM lockfile refresh target](https://github.com/theforeman/candlepin-oci-images/pull/101) on [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) (closed)
 - [Add Foreman RPM lockfile refresh targets](https://github.com/theforeman/foreman-oci-images/pull/114) on [theforeman/foreman-oci-images](https://github.com/theforeman/foreman-oci-images) (closed)
-- [Document hermetic RPM image builds](https://github.com/theforeman/pulp-oci-images/pull/129) on [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) (closed)
+- [Add Pulp RPM lockfile refresh target](https://github.com/theforeman/pulp-oci-images/pull/130) on [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) (closed)
 
 #### 📜 My recent blog posts
 
