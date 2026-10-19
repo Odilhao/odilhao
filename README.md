@@ -25,11 +25,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🌱 My latest projects
 
+- [lineageos-echo-show-ha](https://github.com/Odilhao/lineageos-echo-show-ha)
 - [git-manager](https://github.com/Odilhao/git-manager)
 - [packaging-skills](https://github.com/Odilhao/packaging-skills)
 - [pulpcon-2025](https://github.com/Odilhao/pulpcon-2025)
 - [bootc-server](https://github.com/Odilhao/bootc-server)
-- [pulpcon-2024](https://github.com/Odilhao/pulpcon-2024)
 
 #### 🔨 My recent Pull Requests
 
@@ -46,7 +46,7 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 📜 My recent blog posts
 
-- [Using Container Images to Run your Desktop](https://odilon.dev/2024/10/29/building-a-desktop-with-bootc/) (1y ago)
+- [Using Container Images to Run your Desktop](https://odilon.dev/2024/10/29/building-a-desktop-with-bootc/) (2y ago)
 - [Running HomeAssistant with Podman](https://odilon.dev/2022/12/20/homeassistant-with-podman/) (3y ago)
 - [Usando podman com Systemd](https://odilon.dev/2020/06/30/usando-podman-com-systemd/) (6y ago)
 - [Montando ConfigMap como Script](https://odilon.dev/2020/03/08/montando-configmap-como-script/) (6y ago)
