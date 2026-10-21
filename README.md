@@ -6,20 +6,20 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
+- [theforeman/foreman_ygg_worker](https://github.com/theforeman/foreman_ygg_worker) — 1 events ([commits](https://github.com/theforeman/foreman_ygg_worker/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman_ygg_worker/issues?q=updated:>@today-30d+author:Odilhao))
+- [adamruzicka/go-cross-build](https://github.com/adamruzicka/go-cross-build) — 1 events ([commits](https://github.com/adamruzicka/go-cross-build/commits?author=Odilhao) · [activity](https://github.com/adamruzicka/go-cross-build/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 199 events ([commits](https://github.com/theforeman/pulpcore-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/pulpcore-packaging/issues?q=updated:>@today-30d+author:Odilhao))
+- [Katello/katello](https://github.com/Katello/katello) — 1 events ([commits](https://github.com/Katello/katello/commits?author=Odilhao) · [activity](https://github.com/Katello/katello/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/foreman](https://github.com/theforeman/foreman) — 4 events ([commits](https://github.com/theforeman/foreman/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/hammer-cli-foreman](https://github.com/theforeman/hammer-cli-foreman) — 1 events ([commits](https://github.com/theforeman/hammer-cli-foreman/commits?author=Odilhao) · [activity](https://github.com/theforeman/hammer-cli-foreman/issues?q=updated:>@today-30d+author:Odilhao))
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 189 events ([commits](https://github.com/theforeman/pulpcore-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/pulpcore-packaging/issues?q=updated:>@today-30d+author:Odilhao))
-- [theforeman/foreman](https://github.com/theforeman/foreman) — 3 events ([commits](https://github.com/theforeman/foreman/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman/issues?q=updated:>@today-30d+author:Odilhao))
 - [Odilhao/lineageos-echo-show-ha](https://github.com/Odilhao/lineageos-echo-show-ha) — 1 events ([commits](https://github.com/Odilhao/lineageos-echo-show-ha/commits?author=Odilhao) · [activity](https://github.com/Odilhao/lineageos-echo-show-ha/issues?q=updated:>@today-30d+author:Odilhao))
-- [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 10 events ([commits](https://github.com/theforeman/foreman-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-packaging/issues?q=updated:>@today-30d+author:Odilhao))
-- [theforeman/foreman-oci-images](https://github.com/theforeman/foreman-oci-images) — 4 events ([commits](https://github.com/theforeman/foreman-oci-images/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
-- [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) — 1 events ([commits](https://github.com/theforeman/pulp-oci-images/commits?author=Odilhao) · [activity](https://github.com/theforeman/pulp-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
-- [theforeman/theforeman-rel-eng](https://github.com/theforeman/theforeman-rel-eng) — 2 events ([commits](https://github.com/theforeman/theforeman-rel-eng/commits?author=Odilhao) · [activity](https://github.com/theforeman/theforeman-rel-eng/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 6 events ([commits](https://github.com/theforeman/foreman-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-packaging/issues?q=updated:>@today-30d+author:Odilhao))
 
 #### 🔥 Most active projects
 
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 17 commits, 16 PRs, 69 reviews
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 19 commits, 19 PRs, 71 reviews
 - [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 0 commits, 16 PRs, 3 reviews
-- [theforeman/foreman](https://github.com/theforeman/foreman) — 4 commits, 3 PRs, 3 reviews
+- [theforeman/foreman](https://github.com/theforeman/foreman) — 4 commits, 3 PRs, 4 reviews
 - [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) — 1 commits, 8 PRs, 0 reviews
 - [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) — 1 commits, 7 PRs, 0 reviews
 
@@ -33,16 +33,16 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
+- [Use Go 1.26 and update grpc-go](https://github.com/theforeman/foreman_ygg_worker/pull/30) on [theforeman/foreman_ygg_worker](https://github.com/theforeman/foreman_ygg_worker) (open)
+- [Update Containerfile to golang-1.26](https://github.com/adamruzicka/go-cross-build/pull/4) on [adamruzicka/go-cross-build](https://github.com/adamruzicka/go-cross-build) (open)
+- [Collect createrepo_c RPM updates from pip freeze](https://github.com/theforeman/pulpcore-packaging/pull/3264) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (open)
+- [Fix pulp-rpm productmd lower bound for 3.39.2](https://github.com/theforeman/pulpcore-packaging/pull/3263) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (closed)
+- [Update createrepo_c to 1.2.5](https://github.com/theforeman/pulpcore-packaging/pull/3262) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (closed)
 - [Extract displayMessage from validation errors](https://github.com/theforeman/hammer-cli-foreman/pull/666) on [theforeman/hammer-cli-foreman](https://github.com/theforeman/hammer-cli-foreman) (open)
 - [Restore psycopg_c runtime requirement for pulpcore](https://github.com/theforeman/pulpcore-packaging/pull/3244) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (closed)
 - [Update rpm-rs to 0.30.2](https://github.com/theforeman/pulpcore-packaging/pull/3227) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (closed)
 - [Fix pulp-rpm productmd version lower bound](https://github.com/theforeman/pulpcore-packaging/pull/3226) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (closed)
 - [Update python-rpmrepo-metadata to 0.8.3](https://github.com/theforeman/pulpcore-packaging/pull/3225) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (closed)
-- [Update python-uv-build to 0.9.21](https://github.com/theforeman/pulpcore-packaging/pull/3224) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (closed)
-- [Update python-uv to 0.9.21](https://github.com/theforeman/pulpcore-packaging/pull/3223) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (closed)
-- [Update rubygem-hammer_cli_katello to 5.0.3](https://github.com/theforeman/foreman-packaging/pull/14299) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (closed)
-- [Document hermetic RPM builds for Foreman OCI images](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/64) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (closed)
-- [Add Foreman RPM lockfile refresh targets](https://github.com/theforeman/foreman-oci-images/pull/114) on [theforeman/foreman-oci-images](https://github.com/theforeman/foreman-oci-images) (closed)
 
 #### 📜 My recent blog posts
 
