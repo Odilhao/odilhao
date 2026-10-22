@@ -6,10 +6,10 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
+- [adamruzicka/go-cross-build](https://github.com/adamruzicka/go-cross-build) — 2 events ([commits](https://github.com/adamruzicka/go-cross-build/commits?author=Odilhao) · [activity](https://github.com/adamruzicka/go-cross-build/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 10 events ([commits](https://github.com/theforeman/foreman-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-packaging/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/foreman_ygg_worker](https://github.com/theforeman/foreman_ygg_worker) — 1 events ([commits](https://github.com/theforeman/foreman_ygg_worker/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman_ygg_worker/issues?q=updated:>@today-30d+author:Odilhao))
-- [adamruzicka/go-cross-build](https://github.com/adamruzicka/go-cross-build) — 1 events ([commits](https://github.com/adamruzicka/go-cross-build/commits?author=Odilhao) · [activity](https://github.com/adamruzicka/go-cross-build/issues?q=updated:>@today-30d+author:Odilhao))
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 199 events ([commits](https://github.com/theforeman/pulpcore-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/pulpcore-packaging/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 198 events ([commits](https://github.com/theforeman/pulpcore-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/pulpcore-packaging/issues?q=updated:>@today-30d+author:Odilhao))
 - [Katello/katello](https://github.com/Katello/katello) — 1 events ([commits](https://github.com/Katello/katello/commits?author=Odilhao) · [activity](https://github.com/Katello/katello/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/foreman](https://github.com/theforeman/foreman) — 4 events ([commits](https://github.com/theforeman/foreman/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/hammer-cli-foreman](https://github.com/theforeman/hammer-cli-foreman) — 1 events ([commits](https://github.com/theforeman/hammer-cli-foreman/commits?author=Odilhao) · [activity](https://github.com/theforeman/hammer-cli-foreman/issues?q=updated:>@today-30d+author:Odilhao))
@@ -17,7 +17,7 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔥 Most active projects
 
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 18 commits, 15 PRs, 70 reviews
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 18 commits, 15 PRs, 69 reviews
 - [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 0 commits, 16 PRs, 7 reviews
 - [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) — 1 commits, 8 PRs, 0 reviews
 - [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) — 1 commits, 7 PRs, 0 reviews
@@ -33,8 +33,8 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
-- [Use Go 1.26 and update grpc-go](https://github.com/theforeman/foreman_ygg_worker/pull/30) on [theforeman/foreman_ygg_worker](https://github.com/theforeman/foreman_ygg_worker) (open)
-- [Update Containerfile to golang-1.26](https://github.com/adamruzicka/go-cross-build/pull/4) on [adamruzicka/go-cross-build](https://github.com/adamruzicka/go-cross-build) (open)
+- [Use Go 1.26 and update grpc-go](https://github.com/theforeman/foreman_ygg_worker/pull/30) on [theforeman/foreman_ygg_worker](https://github.com/theforeman/foreman_ygg_worker) (closed)
+- [Update Containerfile to golang-1.26](https://github.com/adamruzicka/go-cross-build/pull/4) on [adamruzicka/go-cross-build](https://github.com/adamruzicka/go-cross-build) (closed)
 - [Collect createrepo_c RPM updates from pip freeze](https://github.com/theforeman/pulpcore-packaging/pull/3264) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (open)
 - [Fix pulp-rpm productmd lower bound for 3.39.2](https://github.com/theforeman/pulpcore-packaging/pull/3263) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (closed)
 - [Update createrepo_c to 1.2.5](https://github.com/theforeman/pulpcore-packaging/pull/3262) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (closed)
