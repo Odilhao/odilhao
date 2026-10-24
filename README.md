@@ -6,7 +6,7 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 163 events ([commits](https://github.com/theforeman/pulpcore-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/pulpcore-packaging/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 162 events ([commits](https://github.com/theforeman/pulpcore-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/pulpcore-packaging/issues?q=updated:>@today-30d+author:Odilhao))
 - [RedHatSatellite/foreman_theme_satellite](https://github.com/RedHatSatellite/foreman_theme_satellite) — 3 events ([commits](https://github.com/RedHatSatellite/foreman_theme_satellite/commits?author=Odilhao) · [activity](https://github.com/RedHatSatellite/foreman_theme_satellite/issues?q=updated:>@today-30d+author:Odilhao))
 - [Odilhao/foreman_theme_satellite](https://github.com/Odilhao/foreman_theme_satellite) — 3 events ([commits](https://github.com/Odilhao/foreman_theme_satellite/commits?author=Odilhao) · [activity](https://github.com/Odilhao/foreman_theme_satellite/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/hammer-cli-foreman](https://github.com/theforeman/hammer-cli-foreman) — 7 events ([commits](https://github.com/theforeman/hammer-cli-foreman/commits?author=Odilhao) · [activity](https://github.com/theforeman/hammer-cli-foreman/issues?q=updated:>@today-30d+author:Odilhao))
