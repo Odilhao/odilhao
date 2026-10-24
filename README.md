@@ -6,14 +6,14 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 160 events ([commits](https://github.com/theforeman/pulpcore-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/pulpcore-packaging/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) — 5 events ([commits](https://github.com/theforeman/foreman-mcp-server/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-mcp-server/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 158 events ([commits](https://github.com/theforeman/pulpcore-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/pulpcore-packaging/issues?q=updated:>@today-30d+author:Odilhao))
 - [RedHatSatellite/foreman_theme_satellite](https://github.com/RedHatSatellite/foreman_theme_satellite) — 4 events ([commits](https://github.com/RedHatSatellite/foreman_theme_satellite/commits?author=Odilhao) · [activity](https://github.com/RedHatSatellite/foreman_theme_satellite/issues?q=updated:>@today-30d+author:Odilhao))
 - [Odilhao/foreman_theme_satellite](https://github.com/Odilhao/foreman_theme_satellite) — 5 events ([commits](https://github.com/Odilhao/foreman_theme_satellite/commits?author=Odilhao) · [activity](https://github.com/Odilhao/foreman_theme_satellite/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/hammer-cli-foreman](https://github.com/theforeman/hammer-cli-foreman) — 7 events ([commits](https://github.com/theforeman/hammer-cli-foreman/commits?author=Odilhao) · [activity](https://github.com/theforeman/hammer-cli-foreman/issues?q=updated:>@today-30d+author:Odilhao))
 - [Odilhao/hammer-cli-foreman](https://github.com/Odilhao/hammer-cli-foreman) — 2 events ([commits](https://github.com/Odilhao/hammer-cli-foreman/commits?author=Odilhao) · [activity](https://github.com/Odilhao/hammer-cli-foreman/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 9 events ([commits](https://github.com/theforeman/foreman-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-packaging/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/yggdrasil-worker-forwarder](https://github.com/theforeman/yggdrasil-worker-forwarder) — 3 events ([commits](https://github.com/theforeman/yggdrasil-worker-forwarder/commits?author=Odilhao) · [activity](https://github.com/theforeman/yggdrasil-worker-forwarder/issues?q=updated:>@today-30d+author:Odilhao))
-- [Odilhao/foreman-packaging](https://github.com/Odilhao/foreman-packaging) — 3 events ([commits](https://github.com/Odilhao/foreman-packaging/commits?author=Odilhao) · [activity](https://github.com/Odilhao/foreman-packaging/issues?q=updated:>@today-30d+author:Odilhao))
 
 #### 🔥 Most active projects
 
@@ -33,6 +33,8 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
+- [Use a RHEL versioned UBI 10 Python base image](https://github.com/theforeman/foreman-mcp-server/pull/151) on [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) (closed)
+- [Fix requirements refresh cache initialization](https://github.com/theforeman/foreman-mcp-server/pull/150) on [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) (closed)
 - [Map Inventory Upload docs from Managing_Hosts as well](https://github.com/RedHatSatellite/foreman_theme_satellite/pull/342) on [RedHatSatellite/foreman_theme_satellite](https://github.com/RedHatSatellite/foreman_theme_satellite) (closed)
 - [Fix release tag pattern and drop redundant manual gem push](https://github.com/theforeman/hammer-cli-foreman/pull/667) on [theforeman/hammer-cli-foreman](https://github.com/theforeman/hammer-cli-foreman) (closed)
 - [Fix pulpcore GitPython conflict](https://github.com/theforeman/pulpcore-packaging/pull/3285) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (closed)
@@ -41,8 +43,6 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 - [🤖 Written by agentic-pulpcore-packaging: Disable cooldown for automation requirements](https://github.com/theforeman/pulpcore-packaging/pull/3265) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (closed)
 - [Use Go 1.26 and update grpc-go](https://github.com/theforeman/foreman_ygg_worker/pull/30) on [theforeman/foreman_ygg_worker](https://github.com/theforeman/foreman_ygg_worker) (closed)
 - [Update Containerfile to golang-1.26](https://github.com/adamruzicka/go-cross-build/pull/4) on [adamruzicka/go-cross-build](https://github.com/adamruzicka/go-cross-build) (closed)
-- [Collect createrepo_c RPM updates from pip freeze](https://github.com/theforeman/pulpcore-packaging/pull/3264) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (open)
-- [Fix pulp-rpm productmd lower bound for 3.39.2](https://github.com/theforeman/pulpcore-packaging/pull/3263) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (closed)
 
 #### 📜 My recent blog posts
 
