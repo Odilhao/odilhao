@@ -7,13 +7,13 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 #### 👷 Check out what I'm currently working on
 
 - [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) — 10 events ([commits](https://github.com/theforeman/foreman-mcp-server/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-mcp-server/issues?q=updated:>@today-30d+author:Odilhao))
+- [Odilhao/foreman-mcp-server](https://github.com/Odilhao/foreman-mcp-server) — 2 events ([commits](https://github.com/Odilhao/foreman-mcp-server/commits?author=Odilhao) · [activity](https://github.com/Odilhao/foreman-mcp-server/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 157 events ([commits](https://github.com/theforeman/pulpcore-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/pulpcore-packaging/issues?q=updated:>@today-30d+author:Odilhao))
 - [RedHatSatellite/foreman_theme_satellite](https://github.com/RedHatSatellite/foreman_theme_satellite) — 4 events ([commits](https://github.com/RedHatSatellite/foreman_theme_satellite/commits?author=Odilhao) · [activity](https://github.com/RedHatSatellite/foreman_theme_satellite/issues?q=updated:>@today-30d+author:Odilhao))
 - [Odilhao/foreman_theme_satellite](https://github.com/Odilhao/foreman_theme_satellite) — 5 events ([commits](https://github.com/Odilhao/foreman_theme_satellite/commits?author=Odilhao) · [activity](https://github.com/Odilhao/foreman_theme_satellite/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/hammer-cli-foreman](https://github.com/theforeman/hammer-cli-foreman) — 7 events ([commits](https://github.com/theforeman/hammer-cli-foreman/commits?author=Odilhao) · [activity](https://github.com/theforeman/hammer-cli-foreman/issues?q=updated:>@today-30d+author:Odilhao))
 - [Odilhao/hammer-cli-foreman](https://github.com/Odilhao/hammer-cli-foreman) — 2 events ([commits](https://github.com/Odilhao/hammer-cli-foreman/commits?author=Odilhao) · [activity](https://github.com/Odilhao/hammer-cli-foreman/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 9 events ([commits](https://github.com/theforeman/foreman-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-packaging/issues?q=updated:>@today-30d+author:Odilhao))
-- [theforeman/yggdrasil-worker-forwarder](https://github.com/theforeman/yggdrasil-worker-forwarder) — 3 events ([commits](https://github.com/theforeman/yggdrasil-worker-forwarder/commits?author=Odilhao) · [activity](https://github.com/theforeman/yggdrasil-worker-forwarder/issues?q=updated:>@today-30d+author:Odilhao))
 
 #### 🔥 Most active projects
 
