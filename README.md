@@ -6,22 +6,22 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
-- [theforeman/foreman-oci-images](https://github.com/theforeman/foreman-oci-images) — 3 events ([commits](https://github.com/theforeman/foreman-oci-images/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
-- [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) — 33 events ([commits](https://github.com/theforeman/jenkins-jobs/commits?author=Odilhao) · [activity](https://github.com/theforeman/jenkins-jobs/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) — 3 events ([commits](https://github.com/theforeman/pulp-oci-images/commits?author=Odilhao) · [activity](https://github.com/theforeman/pulp-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/foreman-oci-images](https://github.com/theforeman/foreman-oci-images) — 6 events ([commits](https://github.com/theforeman/foreman-oci-images/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) — 4 events ([commits](https://github.com/theforeman/candlepin-oci-images/commits?author=Odilhao) · [activity](https://github.com/theforeman/candlepin-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) — 2 events ([commits](https://github.com/theforeman/theforeman-rel-eng-konflux/commits?author=Odilhao) · [activity](https://github.com/theforeman/theforeman-rel-eng-konflux/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) — 34 events ([commits](https://github.com/theforeman/jenkins-jobs/commits?author=Odilhao) · [activity](https://github.com/theforeman/jenkins-jobs/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 14 events ([commits](https://github.com/theforeman/foreman-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-packaging/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/foremanctl](https://github.com/theforeman/foremanctl) — 2 events ([commits](https://github.com/theforeman/foremanctl/commits?author=Odilhao) · [activity](https://github.com/theforeman/foremanctl/issues?q=updated:>@today-30d+author:Odilhao))
-- [Odilhao/jenkins-jobs](https://github.com/Odilhao/jenkins-jobs) — 8 events ([commits](https://github.com/Odilhao/jenkins-jobs/commits?author=Odilhao) · [activity](https://github.com/Odilhao/jenkins-jobs/issues?q=updated:>@today-30d+author:Odilhao))
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 125 events ([commits](https://github.com/theforeman/pulpcore-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/pulpcore-packaging/issues?q=updated:>@today-30d+author:Odilhao))
-- [Odilhao/pulpcore-packaging](https://github.com/Odilhao/pulpcore-packaging) — 2 events ([commits](https://github.com/Odilhao/pulpcore-packaging/commits?author=Odilhao) · [activity](https://github.com/Odilhao/pulpcore-packaging/issues?q=updated:>@today-30d+author:Odilhao))
-- [Odilhao/foreman-oci-images](https://github.com/Odilhao/foreman-oci-images) — 1 events ([commits](https://github.com/Odilhao/foreman-oci-images/commits?author=Odilhao) · [activity](https://github.com/Odilhao/foreman-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
+- [Odilhao/foreman-quadlet](https://github.com/Odilhao/foreman-quadlet) — 1 events ([commits](https://github.com/Odilhao/foreman-quadlet/commits?author=Odilhao) · [activity](https://github.com/Odilhao/foreman-quadlet/issues?q=updated:>@today-30d+author:Odilhao))
 
 #### 🔥 Most active projects
 
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 15 commits, 18 PRs, 24 reviews
-- [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) — 18 commits, 11 PRs, 3 reviews
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 15 commits, 16 PRs, 24 reviews
+- [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) — 18 commits, 12 PRs, 3 reviews
 - [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 0 commits, 20 PRs, 4 reviews
-- [theforeman/foreman-oci-images](https://github.com/theforeman/foreman-oci-images) — 1 commits, 7 PRs, 2 reviews
-- [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) — 1 commits, 8 PRs, 0 reviews
+- [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) — 1 commits, 9 PRs, 2 reviews
+- [theforeman/foreman-oci-images](https://github.com/theforeman/foreman-oci-images) — 1 commits, 8 PRs, 3 reviews
 
 #### 🌱 My latest projects
 
@@ -33,16 +33,16 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
+- [Use shared Renovate preset for Foreman 5.0](https://github.com/theforeman/foreman-oci-images/pull/125) on [theforeman/foreman-oci-images](https://github.com/theforeman/foreman-oci-images) (closed)
+- [Use shared Renovate preset for Candlepin 5.0](https://github.com/theforeman/candlepin-oci-images/pull/107) on [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) (closed)
+- [Use shared Renovate preset for Pulp 5.0](https://github.com/theforeman/pulp-oci-images/pull/140) on [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) (closed)
+- [Allow immediate updates and RPM lockfile refreshes](https://github.com/theforeman/theforeman-rel-eng-konflux/pull/65) on [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) (closed)
+- [Use published images when stable Konflux snapshots are missing](https://github.com/theforeman/jenkins-jobs/pull/632) on [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) (open)
 - [Require Duffy 3.4 in shared CentOS pipeline jobs](https://github.com/theforeman/jenkins-jobs/pull/631) on [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) (closed)
 - [Match the Konflux Duffy client to the updated collection](https://github.com/theforeman/jenkins-jobs/pull/630) on [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) (closed)
 - [Use Python 3.12 for the Konflux gate's Foremanctl environment](https://github.com/theforeman/jenkins-jobs/pull/629) on [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) (closed)
 - [Backport ansible-core CVE fixes to rpm/3.19](https://github.com/theforeman/foreman-packaging/pull/14414) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (closed)
 - [Backport ansible-core CVE fixes to rpm/5.0](https://github.com/theforeman/foreman-packaging/pull/14413) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (closed)
-- [Backport ansible-core CVE fixes to 2.16.19](https://github.com/theforeman/foreman-packaging/pull/14412) on [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) (closed)
-- [Allow Forge VM runs to disable the default synced folder](https://github.com/theforeman/foremanctl/pull/963) on [theforeman/foremanctl](https://github.com/theforeman/foremanctl) (open)
-- [Isolate Konflux setup and disable its unused Vagrant share](https://github.com/theforeman/jenkins-jobs/pull/627) on [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) (closed)
-- [Run the Konflux gate as a Forklift pipeline user](https://github.com/theforeman/jenkins-jobs/pull/626) on [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) (closed)
-- [Avoid sandbox-rejected sorting in Konflux gate validation](https://github.com/theforeman/jenkins-jobs/pull/625) on [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) (closed)
 
 #### 📜 My recent blog posts
 
