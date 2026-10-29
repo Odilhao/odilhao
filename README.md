@@ -6,18 +6,18 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 114 events ([commits](https://github.com/theforeman/pulpcore-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/pulpcore-packaging/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) — 3 events ([commits](https://github.com/theforeman/pulp-oci-images/commits?author=Odilhao) · [activity](https://github.com/theforeman/pulp-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/foreman-oci-images](https://github.com/theforeman/foreman-oci-images) — 6 events ([commits](https://github.com/theforeman/foreman-oci-images/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) — 4 events ([commits](https://github.com/theforeman/candlepin-oci-images/commits?author=Odilhao) · [activity](https://github.com/theforeman/candlepin-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) — 2 events ([commits](https://github.com/theforeman/theforeman-rel-eng-konflux/commits?author=Odilhao) · [activity](https://github.com/theforeman/theforeman-rel-eng-konflux/issues?q=updated:>@today-30d+author:Odilhao))
-- [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) — 35 events ([commits](https://github.com/theforeman/jenkins-jobs/commits?author=Odilhao) · [activity](https://github.com/theforeman/jenkins-jobs/issues?q=updated:>@today-30d+author:Odilhao))
-- [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 14 events ([commits](https://github.com/theforeman/foreman-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-packaging/issues?q=updated:>@today-30d+author:Odilhao))
-- [Odilhao/foreman-packaging](https://github.com/Odilhao/foreman-packaging) — 4 events ([commits](https://github.com/Odilhao/foreman-packaging/commits?author=Odilhao) · [activity](https://github.com/Odilhao/foreman-packaging/issues?q=updated:>@today-30d+author:Odilhao))
-- [theforeman/foremanctl](https://github.com/theforeman/foremanctl) — 2 events ([commits](https://github.com/theforeman/foremanctl/commits?author=Odilhao) · [activity](https://github.com/theforeman/foremanctl/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) — 36 events ([commits](https://github.com/theforeman/jenkins-jobs/commits?author=Odilhao) · [activity](https://github.com/theforeman/jenkins-jobs/issues?q=updated:>@today-30d+author:Odilhao))
+- [Odilhao/jenkins-jobs](https://github.com/Odilhao/jenkins-jobs) — 15 events ([commits](https://github.com/Odilhao/jenkins-jobs/commits?author=Odilhao) · [activity](https://github.com/Odilhao/jenkins-jobs/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 16 events ([commits](https://github.com/theforeman/foreman-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-packaging/issues?q=updated:>@today-30d+author:Odilhao))
 
 #### 🔥 Most active projects
 
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 15 commits, 16 PRs, 24 reviews
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 15 commits, 16 PRs, 41 reviews
 - [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) — 18 commits, 12 PRs, 3 reviews
 - [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 0 commits, 20 PRs, 4 reviews
 - [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) — 1 commits, 9 PRs, 2 reviews
