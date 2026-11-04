@@ -6,18 +6,18 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 122 events ([commits](https://github.com/theforeman/pulpcore-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/pulpcore-packaging/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 11 events ([commits](https://github.com/theforeman/foreman-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-packaging/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 125 events ([commits](https://github.com/theforeman/pulpcore-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/pulpcore-packaging/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) — 13 events ([commits](https://github.com/theforeman/pulp-oci-images/commits?author=Odilhao) · [activity](https://github.com/theforeman/pulp-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/foreman-oci-images](https://github.com/theforeman/foreman-oci-images) — 13 events ([commits](https://github.com/theforeman/foreman-oci-images/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) — 10 events ([commits](https://github.com/theforeman/candlepin-oci-images/commits?author=Odilhao) · [activity](https://github.com/theforeman/candlepin-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
 - [Odilhao/foreman-oci-images](https://github.com/Odilhao/foreman-oci-images) — 2 events ([commits](https://github.com/Odilhao/foreman-oci-images/commits?author=Odilhao) · [activity](https://github.com/Odilhao/foreman-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
 - [Odilhao/candlepin-oci-images](https://github.com/Odilhao/candlepin-oci-images) — 1 events ([commits](https://github.com/Odilhao/candlepin-oci-images/commits?author=Odilhao) · [activity](https://github.com/Odilhao/candlepin-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/theforeman-rel-eng-konflux](https://github.com/theforeman/theforeman-rel-eng-konflux) — 3 events ([commits](https://github.com/theforeman/theforeman-rel-eng-konflux/commits?author=Odilhao) · [activity](https://github.com/theforeman/theforeman-rel-eng-konflux/issues?q=updated:>@today-30d+author:Odilhao))
-- [Odilhao/pulp-oci-images](https://github.com/Odilhao/pulp-oci-images) — 1 events ([commits](https://github.com/Odilhao/pulp-oci-images/commits?author=Odilhao) · [activity](https://github.com/Odilhao/pulp-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
 
 #### 🔥 Most active projects
 
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 20 commits, 23 PRs, 17 reviews
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 22 commits, 25 PRs, 17 reviews
 - [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) — 18 commits, 12 PRs, 0 reviews
 - [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) — 1 commits, 5 PRs, 2 reviews
 - [theforeman/foreman-oci-images](https://github.com/theforeman/foreman-oci-images) — 1 commits, 5 PRs, 2 reviews
@@ -33,6 +33,8 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
+- [Backport aiohttp 3.14.4 update to rpm/3.105](https://github.com/theforeman/pulpcore-packaging/pull/3355) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (closed)
+- [Update aiohttp to 3.14.4](https://github.com/theforeman/pulpcore-packaging/pull/3354) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (closed)
 - [Fix productmd RPM package version provide](https://github.com/theforeman/pulpcore-packaging/pull/3338) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (closed)
 - [Update opentelemetry_exporter_otlp_proto_http to 1.45.2](https://github.com/theforeman/pulpcore-packaging/pull/3337) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (closed)
 - [Update python-socks to 3.2.0](https://github.com/theforeman/pulpcore-packaging/pull/3336) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (closed)
@@ -41,8 +43,6 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 - [Update python-hatch_vcs to 0.5.0](https://github.com/theforeman/pulpcore-packaging/pull/3333) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (open)
 - [Update python-setuptools-scm to 9.2.2](https://github.com/theforeman/pulpcore-packaging/pull/3332) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (open)
 - [Fix PyPI project-name resolution for package updates](https://github.com/theforeman/pulpcore-packaging/pull/3331) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (open)
-- [Add python-opentelemetry_exporter_otlp_common 0.66b2](https://github.com/theforeman/pulpcore-packaging/pull/3330) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (closed)
-- [Add python-opentelemetry_exporter_http_transport 0.66b2](https://github.com/theforeman/pulpcore-packaging/pull/3329) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (closed)
 
 #### 📜 My recent blog posts
 
