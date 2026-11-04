@@ -17,11 +17,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔥 Most active projects
 
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 20 commits, 25 PRs, 17 reviews
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 20 commits, 23 PRs, 17 reviews
 - [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) — 18 commits, 12 PRs, 0 reviews
-- [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) — 1 commits, 9 PRs, 2 reviews
-- [theforeman/foreman-oci-images](https://github.com/theforeman/foreman-oci-images) — 1 commits, 8 PRs, 2 reviews
-- [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) — 1 commits, 8 PRs, 1 reviews
+- [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) — 1 commits, 5 PRs, 2 reviews
+- [theforeman/foreman-oci-images](https://github.com/theforeman/foreman-oci-images) — 1 commits, 5 PRs, 2 reviews
+- [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) — 1 commits, 5 PRs, 1 reviews
 
 #### 🌱 My latest projects
 
