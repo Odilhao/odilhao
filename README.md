@@ -9,11 +9,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 - [theforeman/foreman_rh_cloud](https://github.com/theforeman/foreman_rh_cloud) — 2 events ([commits](https://github.com/theforeman/foreman_rh_cloud/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman_rh_cloud/issues?q=updated:>@today-30d+author:Odilhao))
 - [Odilhao/foreman_rh_cloud](https://github.com/Odilhao/foreman_rh_cloud) — 2 events ([commits](https://github.com/Odilhao/foreman_rh_cloud/commits?author=Odilhao) · [activity](https://github.com/Odilhao/foreman_rh_cloud/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) — 2 events ([commits](https://github.com/theforeman/foreman-mcp-server/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-mcp-server/issues?q=updated:>@today-30d+author:Odilhao))
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 135 events ([commits](https://github.com/theforeman/pulpcore-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/pulpcore-packaging/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 138 events ([commits](https://github.com/theforeman/pulpcore-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/pulpcore-packaging/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 7 events ([commits](https://github.com/theforeman/foreman-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-packaging/issues?q=updated:>@today-30d+author:Odilhao))
-- [theforeman/foreman-oci-images](https://github.com/theforeman/foreman-oci-images) — 12 events ([commits](https://github.com/theforeman/foreman-oci-images/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/foreman-oci-images](https://github.com/theforeman/foreman-oci-images) — 10 events ([commits](https://github.com/theforeman/foreman-oci-images/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) — 11 events ([commits](https://github.com/theforeman/pulp-oci-images/commits?author=Odilhao) · [activity](https://github.com/theforeman/pulp-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
-- [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) — 8 events ([commits](https://github.com/theforeman/candlepin-oci-images/commits?author=Odilhao) · [activity](https://github.com/theforeman/candlepin-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) — 6 events ([commits](https://github.com/theforeman/candlepin-oci-images/commits?author=Odilhao) · [activity](https://github.com/theforeman/candlepin-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
 
 #### 🔥 Most active projects
 
@@ -46,11 +46,11 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 📜 My recent blog posts
 
+- [Desmontando uma TV Box Comprometida](https://odilon.dev/2026/11/07/desmontando-uma-tv-box-comprometida/) (now)
+- [Taking Apart a Compromised TV Box](https://odilon.dev/2026/11/07/tv-box-forensics-what-i-found/) (now)
+- [O Que um App de IPTV "Grátis" Faz na Sua Rede](https://odilon.dev/2026/11/06/o-que-um-app-de-iptv-gratis-faz-na-sua-rede/) (1d ago)
+- [What a "Free IPTV" App Does to Your Home Network](https://odilon.dev/2026/11/06/what-a-free-iptv-app-does-to-your-home-network/) (1d ago)
 - [Using Container Images to Run your Desktop](https://odilon.dev/2024/10/29/building-a-desktop-with-bootc/) (2y ago)
-- [Running HomeAssistant with Podman](https://odilon.dev/2022/12/20/homeassistant-with-podman/) (3y ago)
-- [Usando podman com Systemd](https://odilon.dev/2020/06/30/usando-podman-com-systemd/) (6y ago)
-- [Montando ConfigMap como Script](https://odilon.dev/2020/03/08/montando-configmap-como-script/) (6y ago)
-- [NTP no Rhel8 e Centos8](https://odilon.dev/2019/09/17/2019-09-17-ntp-rhel8-centos8/) (7y ago)
 
 
 #### 📫 How to reach me
