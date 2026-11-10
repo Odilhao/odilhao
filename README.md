@@ -6,7 +6,7 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 146 events ([commits](https://github.com/theforeman/pulpcore-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/pulpcore-packaging/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 140 events ([commits](https://github.com/theforeman/pulpcore-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/pulpcore-packaging/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/foreman_rh_cloud](https://github.com/theforeman/foreman_rh_cloud) — 2 events ([commits](https://github.com/theforeman/foreman_rh_cloud/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman_rh_cloud/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) — 3 events ([commits](https://github.com/theforeman/foreman-mcp-server/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-mcp-server/issues?q=updated:>@today-30d+author:Odilhao))
 - [Odilhao/foreman_rh_cloud](https://github.com/Odilhao/foreman_rh_cloud) — 2 events ([commits](https://github.com/Odilhao/foreman_rh_cloud/commits?author=Odilhao) · [activity](https://github.com/Odilhao/foreman_rh_cloud/issues?q=updated:>@today-30d+author:Odilhao))
@@ -17,7 +17,7 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔥 Most active projects
 
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 21 commits, 25 PRs, 22 reviews
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 21 commits, 25 PRs, 11 reviews
 - [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) — 18 commits, 12 PRs, 0 reviews
 - [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 0 commits, 5 PRs, 3 reviews
 - [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) — 2 commits, 2 PRs, 0 reviews
@@ -46,10 +46,10 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 📜 My recent blog posts
 
-- [Desmontando uma TV Box Comprometida](https://odilon.dev/2026/11/07/desmontando-uma-tv-box-comprometida/) (2d ago)
-- [Taking Apart a Compromised TV Box](https://odilon.dev/2026/11/07/tv-box-forensics-what-i-found/) (2d ago)
-- [O Que um App de IPTV "Grátis" Faz na Sua Rede](https://odilon.dev/2026/11/06/o-que-um-app-de-iptv-gratis-faz-na-sua-rede/) (3d ago)
-- [What a "Free IPTV" App Does to Your Home Network](https://odilon.dev/2026/11/06/what-a-free-iptv-app-does-to-your-home-network/) (3d ago)
+- [Desmontando uma TV Box Comprometida](https://odilon.dev/2026/11/07/desmontando-uma-tv-box-comprometida/) (3d ago)
+- [Taking Apart a Compromised TV Box](https://odilon.dev/2026/11/07/tv-box-forensics-what-i-found/) (3d ago)
+- [O Que um App de IPTV "Grátis" Faz na Sua Rede](https://odilon.dev/2026/11/06/o-que-um-app-de-iptv-gratis-faz-na-sua-rede/) (4d ago)
+- [What a "Free IPTV" App Does to Your Home Network](https://odilon.dev/2026/11/06/what-a-free-iptv-app-does-to-your-home-network/) (4d ago)
 - [Using Container Images to Run your Desktop](https://odilon.dev/2024/10/29/building-a-desktop-with-bootc/) (2y ago)
 
 
