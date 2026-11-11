@@ -46,10 +46,10 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 📜 My recent blog posts
 
-- [Desmontando uma TV Box Comprometida](https://odilon.dev/2026/11/07/desmontando-uma-tv-box-comprometida/) (3d ago)
-- [Taking Apart a Compromised TV Box](https://odilon.dev/2026/11/07/tv-box-forensics-what-i-found/) (3d ago)
-- [O Que um App de IPTV "Grátis" Faz na Sua Rede](https://odilon.dev/2026/11/06/o-que-um-app-de-iptv-gratis-faz-na-sua-rede/) (4d ago)
-- [What a "Free IPTV" App Does to Your Home Network](https://odilon.dev/2026/11/06/what-a-free-iptv-app-does-to-your-home-network/) (4d ago)
+- [Desmontando uma TV Box Comprometida](https://odilon.dev/2026/11/07/desmontando-uma-tv-box-comprometida/) (4d ago)
+- [Taking Apart a Compromised TV Box](https://odilon.dev/2026/11/07/tv-box-forensics-what-i-found/) (4d ago)
+- [O Que um App de IPTV "Grátis" Faz na Sua Rede](https://odilon.dev/2026/11/06/o-que-um-app-de-iptv-gratis-faz-na-sua-rede/) (5d ago)
+- [What a "Free IPTV" App Does to Your Home Network](https://odilon.dev/2026/11/06/what-a-free-iptv-app-does-to-your-home-network/) (5d ago)
 - [Using Container Images to Run your Desktop](https://odilon.dev/2024/10/29/building-a-desktop-with-bootc/) (2y ago)
 
 
