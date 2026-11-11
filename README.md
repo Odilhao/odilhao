@@ -7,13 +7,13 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 #### 👷 Check out what I'm currently working on
 
 - [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 8 events ([commits](https://github.com/theforeman/foreman-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-packaging/issues?q=updated:>@today-30d+author:Odilhao))
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 154 events ([commits](https://github.com/theforeman/pulpcore-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/pulpcore-packaging/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 159 events ([commits](https://github.com/theforeman/pulpcore-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/pulpcore-packaging/issues?q=updated:>@today-30d+author:Odilhao))
+- [Odilhao/pulpcon-2026](https://github.com/Odilhao/pulpcon-2026) — 1 events ([commits](https://github.com/Odilhao/pulpcon-2026/commits?author=Odilhao) · [activity](https://github.com/Odilhao/pulpcon-2026/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/foreman_rh_cloud](https://github.com/theforeman/foreman_rh_cloud) — 2 events ([commits](https://github.com/theforeman/foreman_rh_cloud/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman_rh_cloud/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) — 3 events ([commits](https://github.com/theforeman/foreman-mcp-server/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-mcp-server/issues?q=updated:>@today-30d+author:Odilhao))
 - [Odilhao/foreman_rh_cloud](https://github.com/Odilhao/foreman_rh_cloud) — 2 events ([commits](https://github.com/Odilhao/foreman_rh_cloud/commits?author=Odilhao) · [activity](https://github.com/Odilhao/foreman_rh_cloud/issues?q=updated:>@today-30d+author:Odilhao))
-- [theforeman/foreman-oci-images](https://github.com/theforeman/foreman-oci-images) — 7 events ([commits](https://github.com/theforeman/foreman-oci-images/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
-- [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) — 9 events ([commits](https://github.com/theforeman/pulp-oci-images/commits?author=Odilhao) · [activity](https://github.com/theforeman/pulp-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
-- [theforeman/candlepin-oci-images](https://github.com/theforeman/candlepin-oci-images) — 4 events ([commits](https://github.com/theforeman/candlepin-oci-images/commits?author=Odilhao) · [activity](https://github.com/theforeman/candlepin-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/foreman-oci-images](https://github.com/theforeman/foreman-oci-images) — 6 events ([commits](https://github.com/theforeman/foreman-oci-images/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) — 7 events ([commits](https://github.com/theforeman/pulp-oci-images/commits?author=Odilhao) · [activity](https://github.com/theforeman/pulp-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
 
 #### 🔥 Most active projects
 
