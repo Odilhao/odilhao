@@ -6,18 +6,18 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 172 events ([commits](https://github.com/theforeman/pulpcore-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/pulpcore-packaging/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 8 events ([commits](https://github.com/theforeman/foreman-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-packaging/issues?q=updated:>@today-30d+author:Odilhao))
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 159 events ([commits](https://github.com/theforeman/pulpcore-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/pulpcore-packaging/issues?q=updated:>@today-30d+author:Odilhao))
+- [Odilhao/foreman](https://github.com/Odilhao/foreman) — 1 events ([commits](https://github.com/Odilhao/foreman/commits?author=Odilhao) · [activity](https://github.com/Odilhao/foreman/issues?q=updated:>@today-30d+author:Odilhao))
 - [Odilhao/pulpcon-2026](https://github.com/Odilhao/pulpcon-2026) — 1 events ([commits](https://github.com/Odilhao/pulpcon-2026/commits?author=Odilhao) · [activity](https://github.com/Odilhao/pulpcon-2026/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/foreman_rh_cloud](https://github.com/theforeman/foreman_rh_cloud) — 2 events ([commits](https://github.com/theforeman/foreman_rh_cloud/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman_rh_cloud/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) — 3 events ([commits](https://github.com/theforeman/foreman-mcp-server/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-mcp-server/issues?q=updated:>@today-30d+author:Odilhao))
 - [Odilhao/foreman_rh_cloud](https://github.com/Odilhao/foreman_rh_cloud) — 2 events ([commits](https://github.com/Odilhao/foreman_rh_cloud/commits?author=Odilhao) · [activity](https://github.com/Odilhao/foreman_rh_cloud/issues?q=updated:>@today-30d+author:Odilhao))
-- [theforeman/foreman-oci-images](https://github.com/theforeman/foreman-oci-images) — 6 events ([commits](https://github.com/theforeman/foreman-oci-images/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
-- [theforeman/pulp-oci-images](https://github.com/theforeman/pulp-oci-images) — 7 events ([commits](https://github.com/theforeman/pulp-oci-images/commits?author=Odilhao) · [activity](https://github.com/theforeman/pulp-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/foreman-oci-images](https://github.com/theforeman/foreman-oci-images) — 3 events ([commits](https://github.com/theforeman/foreman-oci-images/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
 
 #### 🔥 Most active projects
 
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 21 commits, 29 PRs, 11 reviews
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 28 commits, 32 PRs, 12 reviews
 - [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) — 18 commits, 12 PRs, 0 reviews
 - [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 0 commits, 5 PRs, 5 reviews
 - [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) — 2 commits, 2 PRs, 0 reviews
@@ -33,16 +33,16 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
-- [Add python-sbom 0.3.1](https://github.com/theforeman/pulpcore-packaging/pull/3388) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (open)
-- [Add python-zipremove 0.10.0](https://github.com/theforeman/pulpcore-packaging/pull/3387) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (open)
-- [Add python-packageurl-python 0.17.6](https://github.com/theforeman/pulpcore-packaging/pull/3386) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (open)
-- [Update python-packaging to 26.3](https://github.com/theforeman/pulpcore-packaging/pull/3385) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (open)
+- [Allow pulp-glue 0.41 in Pulpcore RPM](https://github.com/theforeman/pulpcore-packaging/pull/3394) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (open)
+- [Allow Pulp CLI and glue 0.41 in Debian plugins](https://github.com/theforeman/pulpcore-packaging/pull/3393) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (open)
+- [Update pulp-glue and pulp-cli to 0.41.1](https://github.com/theforeman/pulpcore-packaging/pull/3392) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (open)
+- [Add python-sbom 0.3.1](https://github.com/theforeman/pulpcore-packaging/pull/3388) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (closed)
+- [Add python-zipremove 0.10.0](https://github.com/theforeman/pulpcore-packaging/pull/3387) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (closed)
+- [Add python-packageurl-python 0.17.6](https://github.com/theforeman/pulpcore-packaging/pull/3386) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (closed)
+- [Update python-packaging to 26.3](https://github.com/theforeman/pulpcore-packaging/pull/3385) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (closed)
 - [[cp] 3.18 cherry-picks](https://github.com/theforeman/foreman_rh_cloud/pull/1290) on [theforeman/foreman_rh_cloud](https://github.com/theforeman/foreman_rh_cloud) (closed)
 - [Backport aiohttp 3.14.4 update to rpm/3.105](https://github.com/theforeman/pulpcore-packaging/pull/3355) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (closed)
 - [Update aiohttp to 3.14.4](https://github.com/theforeman/pulpcore-packaging/pull/3354) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (closed)
-- [Fix productmd RPM package version provide](https://github.com/theforeman/pulpcore-packaging/pull/3338) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (closed)
-- [Update opentelemetry_exporter_otlp_proto_http to 1.45.2](https://github.com/theforeman/pulpcore-packaging/pull/3337) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (closed)
-- [Update python-socks to 3.2.0](https://github.com/theforeman/pulpcore-packaging/pull/3336) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (closed)
 
 #### 📜 My recent blog posts
 
