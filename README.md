@@ -6,22 +6,22 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 176 events ([commits](https://github.com/theforeman/pulpcore-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/pulpcore-packaging/issues?q=updated:>@today-30d+author:Odilhao))
-- [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 8 events ([commits](https://github.com/theforeman/foreman-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-packaging/issues?q=updated:>@today-30d+author:Odilhao))
-- [Odilhao/foreman](https://github.com/Odilhao/foreman) — 1 events ([commits](https://github.com/Odilhao/foreman/commits?author=Odilhao) · [activity](https://github.com/Odilhao/foreman/issues?q=updated:>@today-30d+author:Odilhao))
-- [Odilhao/pulpcon-2026](https://github.com/Odilhao/pulpcon-2026) — 1 events ([commits](https://github.com/Odilhao/pulpcon-2026/commits?author=Odilhao) · [activity](https://github.com/Odilhao/pulpcon-2026/issues?q=updated:>@today-30d+author:Odilhao))
-- [theforeman/foreman_rh_cloud](https://github.com/theforeman/foreman_rh_cloud) — 2 events ([commits](https://github.com/theforeman/foreman_rh_cloud/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman_rh_cloud/issues?q=updated:>@today-30d+author:Odilhao))
-- [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) — 3 events ([commits](https://github.com/theforeman/foreman-mcp-server/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-mcp-server/issues?q=updated:>@today-30d+author:Odilhao))
-- [Odilhao/foreman_rh_cloud](https://github.com/Odilhao/foreman_rh_cloud) — 2 events ([commits](https://github.com/Odilhao/foreman_rh_cloud/commits?author=Odilhao) · [activity](https://github.com/Odilhao/foreman_rh_cloud/issues?q=updated:>@today-30d+author:Odilhao))
-- [theforeman/foreman-oci-images](https://github.com/theforeman/foreman-oci-images) — 3 events ([commits](https://github.com/theforeman/foreman-oci-images/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-oci-images/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/smart_proxy_dynflow](https://github.com/theforeman/smart_proxy_dynflow) — 3 events ([commits](https://github.com/theforeman/smart_proxy_dynflow/commits?author=Odilhao) · [activity](https://github.com/theforeman/smart_proxy_dynflow/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/foreman_remote_execution](https://github.com/theforeman/foreman_remote_execution) — 3 events ([commits](https://github.com/theforeman/foreman_remote_execution/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman_remote_execution/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/foreman](https://github.com/theforeman/foreman) — 6 events ([commits](https://github.com/theforeman/foreman/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/foreman_ansible](https://github.com/theforeman/foreman_ansible) — 2 events ([commits](https://github.com/theforeman/foreman_ansible/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman_ansible/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/safemode](https://github.com/theforeman/safemode) — 2 events ([commits](https://github.com/theforeman/safemode/commits?author=Odilhao) · [activity](https://github.com/theforeman/safemode/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 173 events ([commits](https://github.com/theforeman/pulpcore-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/pulpcore-packaging/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 10 events ([commits](https://github.com/theforeman/foreman-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-packaging/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) — 2 events ([commits](https://github.com/theforeman/jenkins-jobs/commits?author=Odilhao) · [activity](https://github.com/theforeman/jenkins-jobs/issues?q=updated:>@today-30d+author:Odilhao))
 
 #### 🔥 Most active projects
 
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 34 commits, 34 PRs, 12 reviews
-- [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) — 18 commits, 12 PRs, 0 reviews
-- [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 0 commits, 5 PRs, 5 reviews
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 34 commits, 36 PRs, 12 reviews
+- [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) — 19 commits, 13 PRs, 0 reviews
+- [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 0 commits, 5 PRs, 6 reviews
 - [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) — 2 commits, 2 PRs, 0 reviews
-- [theforeman/foreman_ygg_worker](https://github.com/theforeman/foreman_ygg_worker) — 1 commits, 1 PRs, 0 reviews
+- [theforeman/foreman](https://github.com/theforeman/foreman) — 0 commits, 4 PRs, 0 reviews
 
 #### 🌱 My latest projects
 
@@ -33,16 +33,16 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
-- [Update python-pulpcore-client to 3.118.7](https://github.com/theforeman/pulpcore-packaging/pull/3396) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (closed)
-- [Update python-pulpcore to 3.118.7](https://github.com/theforeman/pulpcore-packaging/pull/3395) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (closed)
-- [Allow pulp-glue 0.41 in Pulpcore RPM](https://github.com/theforeman/pulpcore-packaging/pull/3394) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (closed)
-- [Allow Pulp CLI and glue 0.41 in Debian plugins](https://github.com/theforeman/pulpcore-packaging/pull/3393) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (closed)
-- [Update pulp-glue and pulp-cli to 0.41.1](https://github.com/theforeman/pulpcore-packaging/pull/3392) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (closed)
-- [Add python-sbom 0.3.1](https://github.com/theforeman/pulpcore-packaging/pull/3388) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (closed)
-- [Add python-zipremove 0.10.0](https://github.com/theforeman/pulpcore-packaging/pull/3387) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (closed)
-- [Add python-packageurl-python 0.17.6](https://github.com/theforeman/pulpcore-packaging/pull/3386) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (closed)
-- [Update python-packaging to 26.3](https://github.com/theforeman/pulpcore-packaging/pull/3385) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (closed)
-- [[cp] 3.18 cherry-picks](https://github.com/theforeman/foreman_rh_cloud/pull/1290) on [theforeman/foreman_rh_cloud](https://github.com/theforeman/foreman_rh_cloud) (closed)
+- [Fixes #39990 - Backport invocation authorization to 16.6-stable](https://github.com/theforeman/foreman_remote_execution/pull/1085) on [theforeman/foreman_remote_execution](https://github.com/theforeman/foreman_remote_execution) (open)
+- [Fixes #40032 - Backport API authorization to 3.19-stable](https://github.com/theforeman/foreman/pull/11386) on [theforeman/foreman](https://github.com/theforeman/foreman) (open)
+- [Fixes #39990 - Backport invocation authorization to 17.2-stable](https://github.com/theforeman/foreman_remote_execution/pull/1084) on [theforeman/foreman_remote_execution](https://github.com/theforeman/foreman_remote_execution) (open)
+- [Fixes #40032 - Backport API authorization to 5.0-stable](https://github.com/theforeman/foreman/pull/11385) on [theforeman/foreman](https://github.com/theforeman/foreman) (open)
+- [Fixes #39991 - Backport inventory authorization to 18.0-stable](https://github.com/theforeman/foreman_ansible/pull/817) on [theforeman/foreman_ansible](https://github.com/theforeman/foreman_ansible) (open)
+- [Fixes #40032 - Backport API authorization to 5.1-stable](https://github.com/theforeman/foreman/pull/11384) on [theforeman/foreman](https://github.com/theforeman/foreman) (open)
+- [Fixes #40032 - Enforce API authorization](https://github.com/theforeman/foreman/pull/11383) on [theforeman/foreman](https://github.com/theforeman/foreman) (open)
+- [Fixes #40028 - Restrict Dynflow console access](https://github.com/theforeman/smart_proxy_dynflow/pull/144) on [theforeman/smart_proxy_dynflow](https://github.com/theforeman/smart_proxy_dynflow) (closed)
+- [Fixes #40029 - Reject unsafe compound assignments](https://github.com/theforeman/safemode/pull/75) on [theforeman/safemode](https://github.com/theforeman/safemode) (open)
+- [Configure stable Pulpcore 3.118 release repository](https://github.com/theforeman/pulpcore-packaging/pull/3400) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (closed)
 
 #### 📜 My recent blog posts
 
