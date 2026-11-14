@@ -6,14 +6,14 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
-- [theforeman/foreman_remote_execution](https://github.com/theforeman/foreman_remote_execution) — 5 events ([commits](https://github.com/theforeman/foreman_remote_execution/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman_remote_execution/issues?q=updated:>@today-30d+author:Odilhao))
-- [theforeman/puppet-pulpcore](https://github.com/theforeman/puppet-pulpcore) — 1 events ([commits](https://github.com/theforeman/puppet-pulpcore/commits?author=Odilhao) · [activity](https://github.com/theforeman/puppet-pulpcore/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/foreman_ansible](https://github.com/theforeman/foreman_ansible) — 3 events ([commits](https://github.com/theforeman/foreman_ansible/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman_ansible/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/foreman_remote_execution](https://github.com/theforeman/foreman_remote_execution) — 7 events ([commits](https://github.com/theforeman/foreman_remote_execution/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman_remote_execution/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/puppet-pulpcore](https://github.com/theforeman/puppet-pulpcore) — 3 events ([commits](https://github.com/theforeman/puppet-pulpcore/commits?author=Odilhao) · [activity](https://github.com/theforeman/puppet-pulpcore/issues?q=updated:>@today-30d+author:Odilhao))
+- [Odilhao/foreman_remote_execution](https://github.com/Odilhao/foreman_remote_execution) — 1 events ([commits](https://github.com/Odilhao/foreman_remote_execution/commits?author=Odilhao) · [activity](https://github.com/Odilhao/foreman_remote_execution/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/smart_proxy_dynflow](https://github.com/theforeman/smart_proxy_dynflow) — 3 events ([commits](https://github.com/theforeman/smart_proxy_dynflow/commits?author=Odilhao) · [activity](https://github.com/theforeman/smart_proxy_dynflow/issues?q=updated:>@today-30d+author:Odilhao))
+- [Odilhao/safemode](https://github.com/Odilhao/safemode) — 1 events ([commits](https://github.com/Odilhao/safemode/commits?author=Odilhao) · [activity](https://github.com/Odilhao/safemode/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/foreman](https://github.com/theforeman/foreman) — 6 events ([commits](https://github.com/theforeman/foreman/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman/issues?q=updated:>@today-30d+author:Odilhao))
-- [theforeman/foreman_ansible](https://github.com/theforeman/foreman_ansible) — 2 events ([commits](https://github.com/theforeman/foreman_ansible/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman_ansible/issues?q=updated:>@today-30d+author:Odilhao))
-- [theforeman/safemode](https://github.com/theforeman/safemode) — 2 events ([commits](https://github.com/theforeman/safemode/commits?author=Odilhao) · [activity](https://github.com/theforeman/safemode/issues?q=updated:>@today-30d+author:Odilhao))
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 170 events ([commits](https://github.com/theforeman/pulpcore-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/pulpcore-packaging/issues?q=updated:>@today-30d+author:Odilhao))
-- [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 10 events ([commits](https://github.com/theforeman/foreman-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-packaging/issues?q=updated:>@today-30d+author:Odilhao))
+- [Odilhao/foreman](https://github.com/Odilhao/foreman) — 2 events ([commits](https://github.com/Odilhao/foreman/commits?author=Odilhao) · [activity](https://github.com/Odilhao/foreman/issues?q=updated:>@today-30d+author:Odilhao))
 
 #### 🔥 Most active projects
 
@@ -33,12 +33,12 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
-- [Use PostgreSQL 16 for Pulpcore 3.118 EL9 acceptance tests](https://github.com/theforeman/puppet-pulpcore/pull/424) on [theforeman/puppet-pulpcore](https://github.com/theforeman/puppet-pulpcore) (open)
-- [Fixes #39990 - Backport invocation authorization to 16.6-stable](https://github.com/theforeman/foreman_remote_execution/pull/1085) on [theforeman/foreman_remote_execution](https://github.com/theforeman/foreman_remote_execution) (open)
+- [Use PostgreSQL 16 for Pulpcore 3.118 EL9 acceptance tests](https://github.com/theforeman/puppet-pulpcore/pull/424) on [theforeman/puppet-pulpcore](https://github.com/theforeman/puppet-pulpcore) (closed)
+- [Fixes #39990 - Backport invocation authorization to 16.6-stable](https://github.com/theforeman/foreman_remote_execution/pull/1085) on [theforeman/foreman_remote_execution](https://github.com/theforeman/foreman_remote_execution) (closed)
 - [Fixes #40032 - Backport API authorization to 3.19-stable](https://github.com/theforeman/foreman/pull/11386) on [theforeman/foreman](https://github.com/theforeman/foreman) (open)
-- [Fixes #39990 - Backport invocation authorization to 17.2-stable](https://github.com/theforeman/foreman_remote_execution/pull/1084) on [theforeman/foreman_remote_execution](https://github.com/theforeman/foreman_remote_execution) (open)
+- [Fixes #39990 - Backport invocation authorization to 17.2-stable](https://github.com/theforeman/foreman_remote_execution/pull/1084) on [theforeman/foreman_remote_execution](https://github.com/theforeman/foreman_remote_execution) (closed)
 - [Fixes #40032 - Backport API authorization to 5.0-stable](https://github.com/theforeman/foreman/pull/11385) on [theforeman/foreman](https://github.com/theforeman/foreman) (open)
-- [Fixes #39991 - Backport inventory authorization to 18.0-stable](https://github.com/theforeman/foreman_ansible/pull/817) on [theforeman/foreman_ansible](https://github.com/theforeman/foreman_ansible) (open)
+- [Fixes #39991 - Backport inventory authorization to 18.0-stable](https://github.com/theforeman/foreman_ansible/pull/817) on [theforeman/foreman_ansible](https://github.com/theforeman/foreman_ansible) (closed)
 - [Fixes #40032 - Backport API authorization to 5.1-stable](https://github.com/theforeman/foreman/pull/11384) on [theforeman/foreman](https://github.com/theforeman/foreman) (open)
 - [Fixes #40032 - Enforce API authorization](https://github.com/theforeman/foreman/pull/11383) on [theforeman/foreman](https://github.com/theforeman/foreman) (open)
 - [Fixes #40028 - Restrict Dynflow console access](https://github.com/theforeman/smart_proxy_dynflow/pull/144) on [theforeman/smart_proxy_dynflow](https://github.com/theforeman/smart_proxy_dynflow) (closed)
