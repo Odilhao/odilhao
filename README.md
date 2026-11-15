@@ -10,14 +10,14 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 - [theforeman/foreman_ansible](https://github.com/theforeman/foreman_ansible) — 3 events ([commits](https://github.com/theforeman/foreman_ansible/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman_ansible/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/foreman_remote_execution](https://github.com/theforeman/foreman_remote_execution) — 7 events ([commits](https://github.com/theforeman/foreman_remote_execution/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman_remote_execution/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/puppet-pulpcore](https://github.com/theforeman/puppet-pulpcore) — 3 events ([commits](https://github.com/theforeman/puppet-pulpcore/commits?author=Odilhao) · [activity](https://github.com/theforeman/puppet-pulpcore/issues?q=updated:>@today-30d+author:Odilhao))
-- [Odilhao/foreman_remote_execution](https://github.com/Odilhao/foreman_remote_execution) — 2 events ([commits](https://github.com/Odilhao/foreman_remote_execution/commits?author=Odilhao) · [activity](https://github.com/Odilhao/foreman_remote_execution/issues?q=updated:>@today-30d+author:Odilhao))
+- [Odilhao/foreman_remote_execution](https://github.com/Odilhao/foreman_remote_execution) — 3 events ([commits](https://github.com/Odilhao/foreman_remote_execution/commits?author=Odilhao) · [activity](https://github.com/Odilhao/foreman_remote_execution/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/smart_proxy_dynflow](https://github.com/theforeman/smart_proxy_dynflow) — 3 events ([commits](https://github.com/theforeman/smart_proxy_dynflow/commits?author=Odilhao) · [activity](https://github.com/theforeman/smart_proxy_dynflow/issues?q=updated:>@today-30d+author:Odilhao))
 - [Odilhao/smart_proxy_dynflow](https://github.com/Odilhao/smart_proxy_dynflow) — 2 events ([commits](https://github.com/Odilhao/smart_proxy_dynflow/commits?author=Odilhao) · [activity](https://github.com/Odilhao/smart_proxy_dynflow/issues?q=updated:>@today-30d+author:Odilhao))
 - [Odilhao/safemode](https://github.com/Odilhao/safemode) — 1 events ([commits](https://github.com/Odilhao/safemode/commits?author=Odilhao) · [activity](https://github.com/Odilhao/safemode/issues?q=updated:>@today-30d+author:Odilhao))
 
 #### 🔥 Most active projects
 
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 34 commits, 36 PRs, 12 reviews
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 34 commits, 32 PRs, 12 reviews
 - [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) — 19 commits, 13 PRs, 0 reviews
 - [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 0 commits, 4 PRs, 6 reviews
 - [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) — 2 commits, 2 PRs, 0 reviews
