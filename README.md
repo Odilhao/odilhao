@@ -6,22 +6,22 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
-- [Odilhao/devopsdaysbsb2026](https://github.com/Odilhao/devopsdaysbsb2026) — 2 events ([commits](https://github.com/Odilhao/devopsdaysbsb2026/commits?author=Odilhao) · [activity](https://github.com/Odilhao/devopsdaysbsb2026/issues?q=updated:>@today-30d+author:Odilhao))
-- [theforeman/foreman_ansible](https://github.com/theforeman/foreman_ansible) — 3 events ([commits](https://github.com/theforeman/foreman_ansible/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman_ansible/issues?q=updated:>@today-30d+author:Odilhao))
-- [theforeman/foreman_remote_execution](https://github.com/theforeman/foreman_remote_execution) — 7 events ([commits](https://github.com/theforeman/foreman_remote_execution/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman_remote_execution/issues?q=updated:>@today-30d+author:Odilhao))
-- [theforeman/puppet-pulpcore](https://github.com/theforeman/puppet-pulpcore) — 3 events ([commits](https://github.com/theforeman/puppet-pulpcore/commits?author=Odilhao) · [activity](https://github.com/theforeman/puppet-pulpcore/issues?q=updated:>@today-30d+author:Odilhao))
-- [Odilhao/foreman_remote_execution](https://github.com/Odilhao/foreman_remote_execution) — 4 events ([commits](https://github.com/Odilhao/foreman_remote_execution/commits?author=Odilhao) · [activity](https://github.com/Odilhao/foreman_remote_execution/issues?q=updated:>@today-30d+author:Odilhao))
-- [Odilhao/puppet-pulpcore](https://github.com/Odilhao/puppet-pulpcore) — 1 events ([commits](https://github.com/Odilhao/puppet-pulpcore/commits?author=Odilhao) · [activity](https://github.com/Odilhao/puppet-pulpcore/issues?q=updated:>@today-30d+author:Odilhao))
-- [theforeman/smart_proxy_dynflow](https://github.com/theforeman/smart_proxy_dynflow) — 3 events ([commits](https://github.com/theforeman/smart_proxy_dynflow/commits?author=Odilhao) · [activity](https://github.com/theforeman/smart_proxy_dynflow/issues?q=updated:>@today-30d+author:Odilhao))
-- [Odilhao/smart_proxy_dynflow](https://github.com/Odilhao/smart_proxy_dynflow) — 2 events ([commits](https://github.com/Odilhao/smart_proxy_dynflow/commits?author=Odilhao) · [activity](https://github.com/Odilhao/smart_proxy_dynflow/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 136 events ([commits](https://github.com/theforeman/pulpcore-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/pulpcore-packaging/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/foreman](https://github.com/theforeman/foreman) — 42 events ([commits](https://github.com/theforeman/foreman/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/tool_belt](https://github.com/theforeman/tool_belt) — 2 events ([commits](https://github.com/theforeman/tool_belt/commits?author=Odilhao) · [activity](https://github.com/theforeman/tool_belt/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 13 events ([commits](https://github.com/theforeman/foreman-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-packaging/issues?q=updated:>@today-30d+author:Odilhao))
+- [Odilhao/foreman](https://github.com/Odilhao/foreman) — 5 events ([commits](https://github.com/Odilhao/foreman/commits?author=Odilhao) · [activity](https://github.com/Odilhao/foreman/issues?q=updated:>@today-30d+author:Odilhao))
+- [Katello/hammer-cli-katello](https://github.com/Katello/hammer-cli-katello) — 1 events ([commits](https://github.com/Katello/hammer-cli-katello/commits?author=Odilhao) · [activity](https://github.com/Katello/hammer-cli-katello/issues?q=updated:>@today-30d+author:Odilhao))
+- [Katello/katello](https://github.com/Katello/katello) — 1 events ([commits](https://github.com/Katello/katello/commits?author=Odilhao) · [activity](https://github.com/Katello/katello/issues?q=updated:>@today-30d+author:Odilhao))
+- [Odilhao/devopsdaysbsb2026](https://github.com/Odilhao/devopsdaysbsb2026) — 3 events ([commits](https://github.com/Odilhao/devopsdaysbsb2026/commits?author=Odilhao) · [activity](https://github.com/Odilhao/devopsdaysbsb2026/issues?q=updated:>@today-30d+author:Odilhao))
 
 #### 🔥 Most active projects
 
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 31 commits, 31 PRs, 12 reviews
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 31 commits, 32 PRs, 14 reviews
 - [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) — 19 commits, 13 PRs, 0 reviews
-- [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 0 commits, 4 PRs, 6 reviews
+- [theforeman/foreman](https://github.com/theforeman/foreman) — 0 commits, 16 PRs, 0 reviews
+- [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 0 commits, 4 PRs, 8 reviews
 - [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) — 2 commits, 2 PRs, 0 reviews
-- [theforeman/foreman](https://github.com/theforeman/foreman) — 0 commits, 4 PRs, 0 reviews
 
 #### 🌱 My latest projects
 
@@ -33,16 +33,16 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
-- [Use PostgreSQL 16 for Pulpcore 3.118 EL9 acceptance tests](https://github.com/theforeman/puppet-pulpcore/pull/424) on [theforeman/puppet-pulpcore](https://github.com/theforeman/puppet-pulpcore) (closed)
-- [Fixes #39990 - Backport invocation authorization to 16.6-stable](https://github.com/theforeman/foreman_remote_execution/pull/1085) on [theforeman/foreman_remote_execution](https://github.com/theforeman/foreman_remote_execution) (closed)
-- [Fixes #40032 - Backport API authorization to 3.19-stable](https://github.com/theforeman/foreman/pull/11386) on [theforeman/foreman](https://github.com/theforeman/foreman) (open)
-- [Fixes #39990 - Backport invocation authorization to 17.2-stable](https://github.com/theforeman/foreman_remote_execution/pull/1084) on [theforeman/foreman_remote_execution](https://github.com/theforeman/foreman_remote_execution) (closed)
-- [Fixes #40032 - Backport API authorization to 5.0-stable](https://github.com/theforeman/foreman/pull/11385) on [theforeman/foreman](https://github.com/theforeman/foreman) (open)
-- [Fixes #39991 - Backport inventory authorization to 18.0-stable](https://github.com/theforeman/foreman_ansible/pull/817) on [theforeman/foreman_ansible](https://github.com/theforeman/foreman_ansible) (closed)
-- [Fixes #40032 - Backport API authorization to 5.1-stable](https://github.com/theforeman/foreman/pull/11384) on [theforeman/foreman](https://github.com/theforeman/foreman) (open)
-- [Fixes #40032 - Enforce API authorization](https://github.com/theforeman/foreman/pull/11383) on [theforeman/foreman](https://github.com/theforeman/foreman) (open)
-- [Fixes #40028 - Restrict Dynflow console access](https://github.com/theforeman/smart_proxy_dynflow/pull/144) on [theforeman/smart_proxy_dynflow](https://github.com/theforeman/smart_proxy_dynflow) (closed)
-- [Fixes #40029 - Reject unsafe compound assignments](https://github.com/theforeman/safemode/pull/75) on [theforeman/safemode](https://github.com/theforeman/safemode) (open)
+- [Fix python3-cffi compatibility on EL10](https://github.com/theforeman/pulpcore-packaging/pull/3413) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (open)
+- [[CP] Fixes #40033 - Mail notification authorization (5.0-stable)](https://github.com/theforeman/foreman/pull/11403) on [theforeman/foreman](https://github.com/theforeman/foreman) (open)
+- [[CP] Fixes #40034 - SSH key authorization (5.0-stable)](https://github.com/theforeman/foreman/pull/11402) on [theforeman/foreman](https://github.com/theforeman/foreman) (open)
+- [[CP] Fixes #40030 - Host-template permissions (5.0-stable)](https://github.com/theforeman/foreman/pull/11401) on [theforeman/foreman](https://github.com/theforeman/foreman) (open)
+- [[CP] Fixes #40032 - PAT authorization (5.0-stable)](https://github.com/theforeman/foreman/pull/11400) on [theforeman/foreman](https://github.com/theforeman/foreman) (open)
+- [[CP] Fixes #40033 - Mail notification authorization (5.1-stable)](https://github.com/theforeman/foreman/pull/11399) on [theforeman/foreman](https://github.com/theforeman/foreman) (open)
+- [[CP] Fixes #40034 - SSH key authorization (5.1-stable)](https://github.com/theforeman/foreman/pull/11398) on [theforeman/foreman](https://github.com/theforeman/foreman) (open)
+- [[CP] Fixes #40030 - Host-template permissions (5.1-stable)](https://github.com/theforeman/foreman/pull/11397) on [theforeman/foreman](https://github.com/theforeman/foreman) (open)
+- [[CP] Fixes #40032 - PAT authorization (5.1-stable)](https://github.com/theforeman/foreman/pull/11396) on [theforeman/foreman](https://github.com/theforeman/foreman) (open)
+- [Fixes #40033 - Enforce mail notification authorization](https://github.com/theforeman/foreman/pull/11395) on [theforeman/foreman](https://github.com/theforeman/foreman) (closed)
 
 #### 📜 My recent blog posts
 
