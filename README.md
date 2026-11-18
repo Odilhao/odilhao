@@ -6,10 +6,10 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 👷 Check out what I'm currently working on
 
-- [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 15 events ([commits](https://github.com/theforeman/foreman-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-packaging/issues?q=updated:>@today-30d+author:Odilhao))
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 126 events ([commits](https://github.com/theforeman/pulpcore-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/pulpcore-packaging/issues?q=updated:>@today-30d+author:Odilhao))
-- [theforeman/foreman](https://github.com/theforeman/foreman) — 45 events ([commits](https://github.com/theforeman/foreman/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman/issues?q=updated:>@today-30d+author:Odilhao))
-- [Odilhao/foreman](https://github.com/Odilhao/foreman) — 14 events ([commits](https://github.com/Odilhao/foreman/commits?author=Odilhao) · [activity](https://github.com/Odilhao/foreman/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/foreman](https://github.com/theforeman/foreman) — 70 events ([commits](https://github.com/theforeman/foreman/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 124 events ([commits](https://github.com/theforeman/pulpcore-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/pulpcore-packaging/issues?q=updated:>@today-30d+author:Odilhao))
+- [Odilhao/foreman](https://github.com/Odilhao/foreman) — 17 events ([commits](https://github.com/Odilhao/foreman/commits?author=Odilhao) · [activity](https://github.com/Odilhao/foreman/issues?q=updated:>@today-30d+author:Odilhao))
+- [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 12 events ([commits](https://github.com/theforeman/foreman-packaging/commits?author=Odilhao) · [activity](https://github.com/theforeman/foreman-packaging/issues?q=updated:>@today-30d+author:Odilhao))
 - [theforeman/tool_belt](https://github.com/theforeman/tool_belt) — 3 events ([commits](https://github.com/theforeman/tool_belt/commits?author=Odilhao) · [activity](https://github.com/theforeman/tool_belt/issues?q=updated:>@today-30d+author:Odilhao))
 - [Katello/hammer-cli-katello](https://github.com/Katello/hammer-cli-katello) — 1 events ([commits](https://github.com/Katello/hammer-cli-katello/commits?author=Odilhao) · [activity](https://github.com/Katello/hammer-cli-katello/issues?q=updated:>@today-30d+author:Odilhao))
 - [Katello/katello](https://github.com/Katello/katello) — 1 events ([commits](https://github.com/Katello/katello/commits?author=Odilhao) · [activity](https://github.com/Katello/katello/issues?q=updated:>@today-30d+author:Odilhao))
@@ -17,10 +17,10 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔥 Most active projects
 
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 29 commits, 32 PRs, 14 reviews
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 30 commits, 33 PRs, 14 reviews
 - [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) — 19 commits, 13 PRs, 0 reviews
-- [theforeman/foreman](https://github.com/theforeman/foreman) — 0 commits, 16 PRs, 0 reviews
-- [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 0 commits, 4 PRs, 8 reviews
+- [theforeman/foreman](https://github.com/theforeman/foreman) — 0 commits, 21 PRs, 0 reviews
+- [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 0 commits, 4 PRs, 6 reviews
 - [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) — 2 commits, 2 PRs, 0 reviews
 
 #### 🌱 My latest projects
@@ -33,16 +33,16 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔨 My recent Pull Requests
 
-- [Fix python3-cffi compatibility on EL10](https://github.com/theforeman/pulpcore-packaging/pull/3413) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (open)
-- [[CP] Fixes #40033 - Mail notification authorization (5.0-stable)](https://github.com/theforeman/foreman/pull/11403) on [theforeman/foreman](https://github.com/theforeman/foreman) (open)
-- [[CP] Fixes #40034 - SSH key authorization (5.0-stable)](https://github.com/theforeman/foreman/pull/11402) on [theforeman/foreman](https://github.com/theforeman/foreman) (open)
-- [[CP] Fixes #40030 - Host-template permissions (5.0-stable)](https://github.com/theforeman/foreman/pull/11401) on [theforeman/foreman](https://github.com/theforeman/foreman) (open)
-- [[CP] Fixes #40032 - PAT authorization (5.0-stable)](https://github.com/theforeman/foreman/pull/11400) on [theforeman/foreman](https://github.com/theforeman/foreman) (open)
-- [[CP] Fixes #40033 - Mail notification authorization (5.1-stable)](https://github.com/theforeman/foreman/pull/11399) on [theforeman/foreman](https://github.com/theforeman/foreman) (open)
-- [[CP] Fixes #40034 - SSH key authorization (5.1-stable)](https://github.com/theforeman/foreman/pull/11398) on [theforeman/foreman](https://github.com/theforeman/foreman) (open)
-- [[CP] Fixes #40030 - Host-template permissions (5.1-stable)](https://github.com/theforeman/foreman/pull/11397) on [theforeman/foreman](https://github.com/theforeman/foreman) (open)
-- [[CP] Fixes #40032 - PAT authorization (5.1-stable)](https://github.com/theforeman/foreman/pull/11396) on [theforeman/foreman](https://github.com/theforeman/foreman) (open)
-- [Fixes #40033 - Enforce mail notification authorization](https://github.com/theforeman/foreman/pull/11395) on [theforeman/foreman](https://github.com/theforeman/foreman) (closed)
+- [[CP] Fixes #40033 - Mail notification authorization (3.19-stable)](https://github.com/theforeman/foreman/pull/11408) on [theforeman/foreman](https://github.com/theforeman/foreman) (closed)
+- [[CP] Fixes #40034 - SSH key authorization (3.19-stable)](https://github.com/theforeman/foreman/pull/11407) on [theforeman/foreman](https://github.com/theforeman/foreman) (closed)
+- [[CP] Fixes #40030 - Host-template permissions (3.19-stable)](https://github.com/theforeman/foreman/pull/11406) on [theforeman/foreman](https://github.com/theforeman/foreman) (closed)
+- [[CP] Fixes #40032 - PAT authorization (3.19-stable)](https://github.com/theforeman/foreman/pull/11405) on [theforeman/foreman](https://github.com/theforeman/foreman) (closed)
+- [[CP] CI prerequisites for 3.19-stable](https://github.com/theforeman/foreman/pull/11404) on [theforeman/foreman](https://github.com/theforeman/foreman) (closed)
+- [Update pulpcore and client to 3.105.28](https://github.com/theforeman/pulpcore-packaging/pull/3415) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (closed)
+- [Update python-pysequoia to 0.1.36](https://github.com/theforeman/pulpcore-packaging/pull/3414) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (closed)
+- [Fix python3-cffi compatibility on EL10](https://github.com/theforeman/pulpcore-packaging/pull/3413) on [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) (closed)
+- [[CP] Fixes #40033 - Mail notification authorization (5.0-stable)](https://github.com/theforeman/foreman/pull/11403) on [theforeman/foreman](https://github.com/theforeman/foreman) (closed)
+- [[CP] Fixes #40034 - SSH key authorization (5.0-stable)](https://github.com/theforeman/foreman/pull/11402) on [theforeman/foreman](https://github.com/theforeman/foreman) (closed)
 
 #### 📜 My recent blog posts
 
