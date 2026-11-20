@@ -17,7 +17,7 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 #### 🔥 Most active projects
 
-- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 29 commits, 33 PRs, 3 reviews
+- [theforeman/pulpcore-packaging](https://github.com/theforeman/pulpcore-packaging) — 29 commits, 30 PRs, 3 reviews
 - [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) — 19 commits, 13 PRs, 0 reviews
 - [theforeman/foreman](https://github.com/theforeman/foreman) — 0 commits, 21 PRs, 0 reviews
 - [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 0 commits, 4 PRs, 6 reviews
@@ -48,8 +48,8 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 
 - [Desmontando uma TV Box Comprometida](https://odilon.dev/2026/11/07/desmontando-uma-tv-box-comprometida/) (1w ago)
 - [Taking Apart a Compromised TV Box](https://odilon.dev/2026/11/07/tv-box-forensics-what-i-found/) (1w ago)
-- [O Que um App de IPTV "Grátis" Faz na Sua Rede](https://odilon.dev/2026/11/06/o-que-um-app-de-iptv-gratis-faz-na-sua-rede/) (1w ago)
-- [What a "Free IPTV" App Does to Your Home Network](https://odilon.dev/2026/11/06/what-a-free-iptv-app-does-to-your-home-network/) (1w ago)
+- [O Que um App de IPTV "Grátis" Faz na Sua Rede](https://odilon.dev/2026/11/06/o-que-um-app-de-iptv-gratis-faz-na-sua-rede/) (2w ago)
+- [What a "Free IPTV" App Does to Your Home Network](https://odilon.dev/2026/11/06/what-a-free-iptv-app-does-to-your-home-network/) (2w ago)
 - [Using Container Images to Run your Desktop](https://odilon.dev/2024/10/29/building-a-desktop-with-bootc/) (2y ago)
 
 
