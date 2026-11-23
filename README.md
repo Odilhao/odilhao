@@ -21,7 +21,7 @@ I'm Odilon, a sysadmin that works as Software Engineer at Red Hat working in a r
 - [theforeman/jenkins-jobs](https://github.com/theforeman/jenkins-jobs) — 19 commits, 13 PRs, 0 reviews
 - [theforeman/foreman](https://github.com/theforeman/foreman) — 0 commits, 21 PRs, 0 reviews
 - [theforeman/foreman-packaging](https://github.com/theforeman/foreman-packaging) — 0 commits, 3 PRs, 6 reviews
-- [theforeman/foreman-mcp-server](https://github.com/theforeman/foreman-mcp-server) — 2 commits, 2 PRs, 0 reviews
+- [theforeman/smart_proxy_dynflow](https://github.com/theforeman/smart_proxy_dynflow) — 1 commits, 1 PRs, 0 reviews
 
 #### 🌱 My latest projects
 
